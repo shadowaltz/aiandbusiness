@@ -1,16 +1,18 @@
 # Microsoft AutoGen
 
-Microsoft AutoGen是一个由Microsoft开发的开源框架，允许开发者通过多个可对话的智能代理来构建复杂的大语言模型应用，这些代理能够相互协作以完成任务。
+Microsoft AutoGen is an open-source framework developed by Microsoft that enables developers to create complex large language model applications using multiple conversational intelligent agents. These agents can work together to accomplish tasks.
 
 [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 
+{% embed url="https://microsoft.github.io/autogen/assets/images/autogen_agentchat-250ca64b77b87e70d34766a080bf6ba8.png" %}
 
-
-可以本地安装，可以使用比如LLama的开源大模型，因此属于0成本，且隐私保护较好，有不错的商业前景。
-
-
-
+It can be installed locally and supports open-source large models like LLama, making it zero-cost and providing strong privacy protection. This gives it promising commercial potential.
 
 
 
+{% embed url="https://microsoft.github.io/autogen/assets/images/app-c414cd164ef912e5e8b40f61042143ad.png" %}
+
+install guide:
+
+[https://microsoft.github.io/autogen/docs/installation/](https://microsoft.github.io/autogen/docs/installation/)
 

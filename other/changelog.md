@@ -66,5 +66,9 @@ _6/19/2024 Updated <mark style="color:orange;">Runway Gen-3 Alpha</mark>_
 
 _6/20/2024 Updated <mark style="color:orange;">Claude sonnet 3.5</mark>_
 
+_6/21/2024 Added <mark style="color:orange;">Make.com, Microsoft Autogen</mark>_
 
+_6/25/2024 updated <mark style="color:orange;">Synthesia V2.0</mark>_
+
+_6/26/2024 Added some learning resources_
 
