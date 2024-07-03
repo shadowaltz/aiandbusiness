@@ -2,6 +2,8 @@
 
 Microsoft AutoGen is an open-source framework developed by Microsoft that enables developers to create complex large language model applications using multiple conversational intelligent agents. These agents can work together to accomplish tasks.
 
+{% embed url="https://youtu.be/KuX_dkqr7UY" %}
+
 [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 
 {% embed url="https://microsoft.github.io/autogen/assets/images/autogen_agentchat-250ca64b77b87e70d34766a080bf6ba8.png" %}

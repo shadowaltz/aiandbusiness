@@ -82,5 +82,9 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _6/20/2024 Updated <mark style="color:orange;">Claude sonnet 3.5</mark>_
 * _6/21/2024 Added <mark style="color:orange;">Make.com, Microsoft Autogen</mark>_
 * _6/25/2024 updated <mark style="color:orange;">Synthesia V2.0</mark>_
-* _6/26/2024 Added some learning resources_
+* _6/26/2024 Added some learning resources, synced with Github._
+* _6/27/2024 Added <mark style="color:orange;">Nvidia Broadcast</mark>_
+* _6/28/2024 Restructured some contents_
+* _7/1/2024 Added <mark style="color:orange;">Runway Gen-3 Alpha</mark>_
+* _7/2/2024 Added <mark style="color:orange;">Meta 3D Gen</mark>_
 

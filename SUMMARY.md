@@ -95,7 +95,8 @@
 
 * [🎥 Film Making](video-and-films/film-making/README.md)
   * [ASML Ad: Midjourney+Stable Diffusion+Runway](video-and-films/film-making/asml-ad-midjourney+stable-diffusion+runway.md)
-  * [Runway](video-and-films/film-making/runway.md)
+  * [Runway](video-and-films/film-making/runway/README.md)
+    * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
 * [🎛️ Video Editing](video-and-films/video-editing/README.md)
   * [AI VIDEO CLIPPING](video-and-films/video-editing/ai-video-clipping.md)
 

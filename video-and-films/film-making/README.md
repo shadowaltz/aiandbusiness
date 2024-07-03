@@ -52,13 +52,15 @@ At the 2024 Google IO conference, Google introduced a range of new AI technologi
 
 [https://runwayml.com/](https://runwayml.com/)
 
-Runway, an innovative artificial intelligence startup, is at the forefront of developing generative AI video tools. Their flagship products, Gen-2, is reshaping the landscape of video content creation.&#x20;
+Runway, an innovative artificial intelligence startup, is at the forefront of developing generative AI video tools. Their flagship product, Gen-2, is reshaping the landscape of video content creation.&#x20;
 
 **Update:**&#x20;
 
-They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>. Runway's Gen-3 Alpha, a cutting-edge AI video generator trained on both videos and images, offers improved control, faster creation times, and higher fidelity compared to its predecessor, Gen-2, supporting tools like Text-to-video, Image-to-video, and Text-to-image
+They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>. Runway's Gen-3 Alpha, a cutting-edge AI video generator trained on both videos and images, offers improved control, faster creation times, and higher fidelity compared to its predecessor, Gen-2, supporting tools like Text-to-video, Image-to-video, and Text-to-image.
 
-{% embed url="https://youtu.be/BpoOVEEDiFA?si=M6-66MUDcfPnpdOH" %}
+{% embed url="https://youtu.be/nByslCkykj8" %}
+
+
 
 ### <mark style="color:orange;">Pika</mark>
 

@@ -51,3 +51,15 @@ Neo, a new tool from Adobe, simplifies the creation of icons, drawings, and dime
 
 {% embed url="https://labs.adobe.com/projects/project-neo/" %}
 
+### <mark style="color:orange;">Meta 3D Gen</mark>
+
+{% embed url="https://ai.meta.com/research/publications/meta-3d-gen/?utm_source=threads&utm_medium=organic_social&utm_content=carousel&utm_campaign=research" %}
+
+Meta 3D Gen is a state-of-the-art AI system developed by Meta that generates high-quality 3D assets with textures from text prompts in under a minute, outperforming alternatives by being 3 to 60 times faster and producing results preferred by professional artists.
+
+{% embed url="https://x.com/AIatMeta/status/1808157832497488201" %}
+
+
+
+
+

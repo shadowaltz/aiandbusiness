@@ -48,9 +48,17 @@ Podcastle is an AI-powered podcasting software that simplifies the **creation, e
 
 {% embed url="https://podcastle.ai/" %}
 
+***
 
+### <mark style="color:orange;">NVIDIA Broadcast</mark>
 
+[https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/)
 
+NVIDIA Broadcast is an AI-powered application that transforms any room into a home studio for live streams, voice chats, and video conference calls. It offers features like background removal/replacement, noise cancellation, eyesight correction, and auto-framing to enhance audio and video quality. It uses NVIDIA's RTX GPU technology to provide professional-grade effects for content creators and remote workers.
+
+{% hint style="warning" %}
+This app requires an Nvidia graphics card, so it cannot be used on platforms like Mac at the moment.
+{% endhint %}
 
 
 
