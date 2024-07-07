@@ -29,6 +29,12 @@ LLM Ranking
 Scale Leaderboards
 {% endembed %}
 
+### <mark style="color:purple;">Artificial Analysis</mark>
+
+Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
+
+[https://artificialanalysis.ai](https://artificialanalysis.ai)
+
 ***
 
 ## Large Language Models

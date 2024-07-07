@@ -6,21 +6,19 @@ Meta Llama 3, available in 8B and 70B parameter versions, is the latest state-of
 
 
 
-### OLLama
-
-[https://ollama.com/](https://ollama.com/)
-
-Ollama is a tool designed to enable users to run open-source large language models (LLMs) locally on their machines.
-
-
-
 ### Install LLama locally
 
 Meta's LLama Official Document, how to install and use:
 
 {% embed url="https://llama.meta.com/docs/llama-everywhere" %}
 
-UI Install
+Install Ollama
+
+Ollama is a tool designed to enable users to run open-source large language models (LLMs) locally on their machines.
+
+[https://ollama.com/](https://ollama.com/)
+
+UI install:
 
 Install Docker
 
@@ -48,7 +46,7 @@ Perplexity’s paid version offers a Playground feature, which lets users choose
 
 
 
-or you could use AI aggregator like POE.
+or you could use an AI aggregator like POE.
 
 
 

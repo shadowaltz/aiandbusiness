@@ -10,13 +10,9 @@ If you want better translation results, you can use more specialized prompts to 
 
 If you need more accurate and reliable translation results, we can use more advanced techniques, such as training a Translation Agent. For instance, Andrew Ng's translation agent, link is as follows:
 
+[https://github.com/andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
 
 
-I built a GPT using the same principles, and everyone is welcome to try it out for translation between&#x20;
-
-English to Japanese&#x20;
-
-English to German
 
 
 

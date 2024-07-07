@@ -68,7 +68,7 @@
 * [🚚 Supply Chain](industries-and-cases/supply-chain/README.md)
   * [Warehousing & Logistics](industries-and-cases/supply-chain/warehousing-and-logistics.md)
 * [👂 Translation](industries-and-cases/translation.md)
-* [Finance](industries-and-cases/finance.md)
+* [💸 Finance](industries-and-cases/finance.md)
 
 ## AI Agent
 

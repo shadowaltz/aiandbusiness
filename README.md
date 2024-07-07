@@ -87,4 +87,7 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _6/28/2024 Restructured some contents_
 * _7/1/2024 Added <mark style="color:orange;">Runway Gen-3 Alpha</mark>_
 * _7/2/2024 Added <mark style="color:orange;">Meta 3D Gen</mark>_
+* _7/3/2024_&#x20;
+* _7/4/2024 Added <mark style="color:orange;">Emergent Mind</mark>_
+* _7/5/2024 Added <mark style="color:orange;">Artificial Analysis</mark>_
 

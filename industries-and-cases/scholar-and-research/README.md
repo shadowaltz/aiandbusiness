@@ -84,13 +84,21 @@ Live Demo here: [https://storm.genie.stanford.edu/](https://storm.genie.stanford
 
 ***
 
+## <mark style="color:purple;">AI Research Tools</mark>
 
-
-### Afforai
+### <mark style="color:orange;">Afforai</mark>
 
 [https://afforai.com/](https://afforai.com/)
 
-Research Tool
+
 
 {% embed url="https://afforai.com/img/landing_page/main-image.png" %}
+
+### <mark style="color:orange;">Emergent Mind</mark>
+
+[https://www.emergentmind.com](https://www.emergentmind.com)
+
+Emergent Mind is a website that serves as a computer science research explorer, showcasing trending papers in the field.&#x20;
+
+
 
