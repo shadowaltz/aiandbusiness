@@ -21,7 +21,7 @@ In February 2024, OpenAI introduced <mark style="color:orange;">**Sora**</mark>*
 {% embed url="https://youtu.be/HK6y8DAPN_0?si=r1SaWSFkoiS2HR-y" %}
 
 {% hint style="success" %}
-Alongside contributions from [**ElevenLabs**](../../sound-and-music/voice-generation-tools/#elevenlabs) for voiceovers, Pika for crafting sound effects, and [**Suno**](../../sound-and-music/music-generation.md#suno) for music creation, this suite of technologies heralds a new era in the holistic production of film and TV content.&#x20;
+Alongside contributions from [**ElevenLabs**](../../sound-and-music/voice-generation-tools/#elevenlabs) for voiceovers, Pika for crafting sound effects, and [**Suno**](../../sound-and-music/music-generation/#suno) for music creation, this suite of technologies heralds a new era in the holistic production of film and TV content.&#x20;
 {% endhint %}
 
 As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.

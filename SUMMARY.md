@@ -11,9 +11,11 @@
   * [ChatGPT](into-ai/large-language-models-llms/chatgpt/README.md)
     * [GPTs](into-ai/large-language-models-llms/chatgpt/gpts.md)
     * [Create your own GPTs](into-ai/large-language-models-llms/chatgpt/create-your-own-gpts.md)
-  * [LLama](into-ai/large-language-models-llms/llama.md)
+  * [How to use an opensource LLM?](into-ai/large-language-models-llms/how-to-use-an-opensource-llm.md)
   * [Prompt](into-ai/large-language-models-llms/prompt.md)
   * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
+* [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
+* [AI aggregators](into-ai/ai-aggregators.md)
 * [AI Ethics](into-ai/ai-ethics.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
 
@@ -88,17 +90,20 @@
 
 * [🎤 Voice Generation Tools](sound-and-music/voice-generation-tools/README.md)
   * [ElevenLabs Tutorial](sound-and-music/voice-generation-tools/elevenlabs-tutorial.md)
-* [🎼 Music Generation](sound-and-music/music-generation.md)
+* [🎼 Music Generation](sound-and-music/music-generation/README.md)
+  * [Suno Guide](sound-and-music/music-generation/suno-guide.md)
 * [🪇 Sound Effect](sound-and-music/sound-effect.md)
 
 ## Video & Films
 
 * [🎥 Film Making](video-and-films/film-making/README.md)
   * [ASML Ad: Midjourney+Stable Diffusion+Runway](video-and-films/film-making/asml-ad-midjourney+stable-diffusion+runway.md)
+  * [Sora](video-and-films/film-making/sora/README.md)
+    * [ToysRus New AI Commercial](video-and-films/film-making/sora/toysrus-new-ai-commercial.md)
   * [Runway](video-and-films/film-making/runway/README.md)
     * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
-* [🎛️ Video Editing](video-and-films/video-editing/README.md)
-  * [AI VIDEO CLIPPING](video-and-films/video-editing/ai-video-clipping.md)
+* [🎛️ AI Video Editing](video-and-films/ai-video-editing/README.md)
+  * [AI VIDEO CLIPPING](video-and-films/ai-video-editing/ai-video-clipping.md)
 
 ## AI Hardware
 

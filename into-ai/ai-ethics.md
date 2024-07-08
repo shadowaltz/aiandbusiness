@@ -13,5 +13,9 @@ coverY: 0
 
 {% embed url="https://openai.com/index/openai-board-forms-safety-and-security-committee/" %}
 
+{% embed url="https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true" %}
+
+
+
 
 

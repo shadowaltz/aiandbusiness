@@ -42,9 +42,11 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ### <mark style="color:orange;">Hot Topics:</mark>
 
-| [Film Making](video-and-films/film-making/) | [Text to Image](image/text-to-image-image-editing/)             | [Podcasting](industries-and-cases/podcasting/)          | [Writing](industries-and-cases/writing/)                         |
-| ------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
-| [AI Agent](ai-agent/ai-agent/)              | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation.md) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
+| [Film Making](video-and-films/film-making/) | [Text to Image](image/text-to-image-image-editing/)             | [Podcasting](industries-and-cases/podcasting/)        | [Writing](industries-and-cases/writing/)                         |
+| ------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+| [AI Agent](ai-agent/ai-agent/)              | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation/) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
+
+***
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
@@ -90,4 +92,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/3/2024_&#x20;
 * _7/4/2024 Added <mark style="color:orange;">Emergent Mind</mark>_
 * _7/5/2024 Added <mark style="color:orange;">Artificial Analysis</mark>_
+* _7/8/2024 Added some Learning materials, Added <mark style="color:orange;">ToysRus AI commercial, Suno Guide</mark>_
 

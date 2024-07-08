@@ -6,7 +6,7 @@ coverY: 0
 
 {% hint style="success" %}
 * [ChatGPT Tutorial](chatgpt/)
-* [LLama](llama.md)
+* [LLama](how-to-use-an-opensource-llm.md)
 * [Prompt Tutorial](prompt.md)
 * [Hallucination Problem](hallucination-problem.md)
 {% endhint %}
