@@ -93,5 +93,19 @@ If you're looking to create AI illustrations, ilus is a specialized AI generatio
 
 
 
+### Krea AI
 
+[https://www.krea.ai/home](https://www.krea.ai/home)
+
+{% embed url="https://x.com/krea_ai/status/1809154957440163879" %}
+
+upscale
+
+[https://magnific.ai/](https://magnific.ai/)
+
+
+
+Relight
+
+[https://magnificai.org/magnific-relight/](https://magnificai.org/magnific-relight/)
 

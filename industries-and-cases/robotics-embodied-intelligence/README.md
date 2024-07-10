@@ -9,7 +9,7 @@ coverY: 137.1375464684015
 #### Navigation:
 
 {% hint style="info" %}
-* [Humanoid Robots](humanoid-robots.md)
+* [Humanoid Robots](humanoid-robots/)
 * [Industrial Robots](industrial-robot.md)
 * [Service Robots](service-robots.md)
 * [Field Robots](field-robots.md)

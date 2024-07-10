@@ -4,9 +4,9 @@ In the recent surge of AI applications, the image generation field has risen in 
 
 
 
-This article provides a comprehensive overview of AI animation technologies, exploring various tools and techniques used in creating animated content with artificial intelligence:
+### Learning Resources:
 
-{% embed url="https://diffusionpilot.blogspot.com/2023/09/overview-ai-animation.html" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>OverView of generative AI animation techniques</td><td><a href="https://diffusionpilot.blogspot.com/2023/09/overview-ai-animation.html">https://diffusionpilot.blogspot.com/2023/09/overview-ai-animation.html</a></td><td></td></tr><tr><td>How Stable Diffusion Works from Chris McCormick</td><td><a href="https://mccormickml.com/2022/12/21/how-stable-diffusion-works/">https://mccormickml.com/2022/12/21/how-stable-diffusion-works/</a></td><td></td></tr><tr><td>How Diffusion Models Work from DeepLearning</td><td><a href="https://www.deeplearning.ai/short-courses/how-diffusion-models-work/">https://www.deeplearning.ai/short-courses/how-diffusion-models-work/</a></td><td></td></tr><tr><td>Niji Academy</td><td><a href="https://www.niji.academy/work/lecture">https://www.niji.academy/work/lecture</a></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 

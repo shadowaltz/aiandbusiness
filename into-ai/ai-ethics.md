@@ -15,7 +15,7 @@ coverY: 0
 
 {% embed url="https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true" %}
 
-
+{% embed url="https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/" %}
 
 
 

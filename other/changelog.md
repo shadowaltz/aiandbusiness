@@ -82,3 +82,15 @@ _7/1/2024 Added <mark style="color:orange;">Runway Gen-3 Alpha</mark>_
 
 _7/2/2024 Added <mark style="color:orange;">Meta 3D Gen</mark>_
 
+_7/3/2024 Restructured some contents_
+
+_7/4/2024 Added <mark style="color:orange;">Emergent Mind</mark>_
+
+_7/5/2024 Added <mark style="color:orange;">Artificial Analysis</mark>_
+
+_7/8/2024 Added some Learning materials, Added <mark style="color:orange;">ToysRus AI commercial, Suno Guide</mark>_
+
+_7/9/2024 Added <mark style="color:orange;">Solos Glasses</mark> in_ _<mark style="color:purple;">AI Gadgets</mark><mark style="color:orange;">, Krea AI</mark> in_ _<mark style="color:purple;">Image</mark>_
+
+_7/10/2024 Added some learning resources, AI Ethics contents, Policy and Regulation_
+

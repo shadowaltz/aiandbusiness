@@ -7,7 +7,7 @@ coverY: 0
 {% hint style="success" %}
 * [ChatGPT Tutorial](chatgpt/)
 * [LLama](how-to-use-an-opensource-llm.md)
-* [Prompt Tutorial](prompt.md)
+* [Prompt Tutorial](prompt-engineering.md)
 * [Hallucination Problem](hallucination-problem.md)
 {% endhint %}
 
@@ -15,25 +15,33 @@ coverY: 0
 
 ## Large Language Models (LLMs) Ranking
 
-
-
-### 🏆 LMSYS Chatbot Arena Leaderboard
-
-{% embed url="https://chat.lmsys.org/?leaderboard" %}
-LLM Ranking
-{% endembed %}
-
-### Scale Leaderboards
-
-{% embed url="https://scale.com/leaderboard?utm_source=www.theaivalley.com&utm_medium=newsletter&utm_campaign=2-new-shocking-details-about-sam-altman-s-firing" %}
-Scale Leaderboards
-{% endembed %}
-
+{% tabs %}
+{% tab title="Artificial Analysis" %}
 ### <mark style="color:purple;">Artificial Analysis</mark>
 
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
-[https://artificialanalysis.ai](https://artificialanalysis.ai)
+{% embed url="https://artificialanalysis.ai" %}
+{% endtab %}
+
+{% tab title="Scale Leaderboards" %}
+{% embed url="https://scale.com/leaderboard?utm_source=www.theaivalley.com&utm_medium=newsletter&utm_campaign=2-new-shocking-details-about-sam-altman-s-firing" %}
+Scale Leaderboards
+{% endembed %}
+
+
+{% endtab %}
+
+{% tab title="🏆 LMSYS Chatbot Arena Leaderboard" %}
+{% embed url="https://chat.lmsys.org/?leaderboard" %}
+LLM Ranking
+{% endembed %}
+
+
+{% endtab %}
+{% endtabs %}
+
+
 
 ***
 

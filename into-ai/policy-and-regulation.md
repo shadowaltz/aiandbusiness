@@ -13,13 +13,22 @@ coverY: 0
 
 
 
-**UK:**
+### United States:
+
+Executive Order 14110 on "Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" (October 2023)\
+This executive order focuses on ensuring AI safety and security through robust evaluations, policies, and mechanisms to test and mitigate risks.
+
+{% embed url="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" %}
+
+
+
+### **UK:**
 
 UK government's announcement of £8.5 million in research grants aimed at improving society's resilience to the risks arising from the development of new AI technologies.
 
 {% embed url="https://www.gov.uk/government/news/tech-secretary-unveils-85-million-research-funding-set-to-break-new-grounds-in-ai-safety-testing" %}
 
-**Europe:**
+### **Europe:**
 
 The European Parliament has passed the Artificial Intelligence Act, marking the world's first legally binding AI legislation. This act is designed to ensure safety and adherence to fundamental rights while fostering innovation. Key components include:
 

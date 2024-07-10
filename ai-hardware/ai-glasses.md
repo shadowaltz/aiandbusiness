@@ -24,3 +24,17 @@ OpenGlass is an open-source project that uses a small attached device to turn an
 
 {% embed url="https://camo.githubusercontent.com/5c0426be10647d028a01d2e7ccbf1f600b5b1b69c1bffc100f554cfff343dab0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f44734d5f2d6332653165772f302e6a7067" %}
 
+
+
+### Solos Glasses
+
+[https://solosglasses.com/](https://solosglasses.com/)
+
+Audio Smartglasses using ChatGPT
+
+
+
+
+
+
+
