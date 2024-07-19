@@ -38,19 +38,9 @@ As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming 
 
 
 
-
-
-### <mark style="color:orange;">Google Veo</mark>
-
-{% embed url="https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/#veo" %}
-
-At the 2024 Google IO conference, Google introduced a range of new AI technologies and products, including Veo for video generation. You can now sign up for the waitlist.
-
-
-
 ### <mark style="color:orange;">Runway</mark>
 
-[https://runwayml.com/](https://runwayml.com/)
+Official Link:[https://runwayml.com/](https://runwayml.com/)
 
 Runway, an innovative artificial intelligence startup, is at the forefront of developing generative AI video tools. Their flagship product, Gen-2, is reshaping the landscape of video content creation.&#x20;
 
@@ -60,21 +50,41 @@ They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>.
 
 {% embed url="https://youtu.be/nByslCkykj8" %}
 
+### Others:
 
+{% tabs %}
+{% tab title="Invideo AI" %}
 
-### <mark style="color:orange;">Pika</mark>
-
-[https://pika.art/](https://pika.art/)
-
-{% embed url="https://youtu.be/6b10jGNNbXQ" %}
-
-### <mark style="color:orange;">Invideo AI</mark>
 
 [https://invideo.io/ai/](https://invideo.io/ai/)
 
 Invideo is a comprehensive video creation platform that offers an AI-powered solution for creating engaging videos quickly and easily.&#x20;
 
 It has now introduced a GPT feature, enabling the creation of video content right within ChatGPT. Users can write scripts and then directly connect to Invideo to bring their creations to life.
+{% endtab %}
+
+{% tab title="Pika" %}
+### <mark style="color:orange;">Pika</mark>
+
+[https://pika.art/](https://pika.art/)
+
+{% embed url="https://youtu.be/6b10jGNNbXQ" %}
+{% endtab %}
+
+{% tab title="Haiper" %}
+
+
+[https://haiper.ai/onboarding](https://haiper.ai/onboarding)
+{% endtab %}
+
+{% tab title="Google Veo" %}
+At the 2024 Google IO conference, Google introduced a range of new AI technologies and products, including Veo for video generation. You can now sign up for the waitlist.
+
+{% embed url="https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/#veo" %}
+{% endtab %}
+{% endtabs %}
+
+
 
 ***
 

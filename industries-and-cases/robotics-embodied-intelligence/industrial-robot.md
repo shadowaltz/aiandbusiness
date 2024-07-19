@@ -24,7 +24,7 @@ Industrial Robot includes a diverse array of industrial robotic arms that are in
 
 
 
-
+{% embed url="https://x.com/ChefRobotics/status/1814017333456703693" %}
 
 
 

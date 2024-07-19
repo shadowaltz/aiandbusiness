@@ -39,6 +39,14 @@ Like Perplexity, this AI search engine offers rapid response times and is specif
 
 {% embed url="https://www.phind.com/search?home=true" %}
 
+### <mark style="color:orange;">Exa.ai</mark>
+
+[https://exa.ai/search](https://exa.ai/search)
+
+Exa.ai is a knowledge API that utilizes advanced AI language processing to convert internet information into organized knowledge, designed specifically for large language models and developers.
+
+
+
 ### <mark style="color:orange;">**llm-answer-engine**</mark>
 
 {% embed url="https://github.com/developersdigest/llm-answer-engine" %}

@@ -95,4 +95,6 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/8/2024 Added some Learning materials, Added <mark style="color:orange;">ToysRus AI commercial, Suno Guide</mark>_
 * _7/9/2024 Added <mark style="color:orange;">Solos Glasses</mark> in_ _<mark style="color:purple;">AI Gadgets</mark><mark style="color:orange;">, Krea AI</mark> in_ _<mark style="color:purple;">Image</mark>_
 * _7/10/2024 Added some learning resources, AI Ethics contents, Policy and Regulation_
+* _7/15/2024 Added <mark style="color:orange;">Rendernet.ai</mark>_
+* _7/19/2024 Updated <mark style="color:orange;">Stamford Storm 2.0, Exa.ai</mark>_
 

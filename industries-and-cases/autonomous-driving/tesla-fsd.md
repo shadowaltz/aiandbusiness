@@ -8,7 +8,7 @@ Tesla recently announced a month-long free trial of FSD for every Tesla vehicle 
 
 {% embed url="https://x.com/elonmusk/status/1772444422971494838" %}
 
-On April 5th, Musk announced that Tesla is set to unveil its latest Robotaxi model on August 8th, marking a significant advance towards the dawn of autonomous driving.
+On April 5th, Musk announced that Tesla is set to unveil its latest Robotaxi model on August 8th(<mark style="color:red;">Delayed</mark>), marking a significant advance towards the dawn of autonomous driving.
 
 {% embed url="https://x.com/elonmusk/status/1776351450542768368" %}
 

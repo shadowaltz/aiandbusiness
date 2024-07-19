@@ -48,7 +48,7 @@ Virtual Small Town
 * **Enhanced Evaluation Tools**: AutoGen introduces sophisticated evaluation tools to benchmark and optimize agent performance, a step beyond the basic benchmarking in AutoGPT.
 * **Interface and Usability**: AutoGen's interface improvements, such as AutoGen Studio, make it easier for developers to experiment with and deploy multi-agent systems.
 
-### Microsoft Copilot+
+### <mark style="color:orange;">Microsoft Copilot+</mark>
 
 {% embed url="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/" %}
 
@@ -66,7 +66,7 @@ Virtual Small Town
 
 
 
-#### Google Vertex AI Agent Builder
+### <mark style="color:orange;">Google Vertex AI Agent Builder</mark>
 
 [https://cloud.google.com/blog/products/ai-machine-learning/build-generative-ai-experiences-with-vertex-ai-agent-builder](https://cloud.google.com/blog/products/ai-machine-learning/build-generative-ai-experiences-with-vertex-ai-agent-builder)
 
@@ -84,6 +84,23 @@ Virtual Small Town
 
 
 
-Phi Data
+### <mark style="color:orange;">UpStage.ai</mark>
 
+[https://www.upstage.ai](https://www.upstage.ai)
+
+
+
+#### Resources to build AI Agents:
+
+{% tabs %}
+{% tab title="Phi Data" %}
 [https://www.phidata.com](https://www.phidata.com)
+
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+

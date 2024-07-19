@@ -66,25 +66,25 @@ Elicit is a tool that automates time-consuming research tasks like **summarizing
 
 
 
-***
-
-### STORM from Stanford
-
-#### STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking
-
-[https://github.com/stanford-oval/storm?tab=readme-ov-file](https://github.com/stanford-oval/storm?tab=readme-ov-file)
-
-> STORM is a LLM system that writes Wikipedia-like articles from scratch based on Internet search.
->
-> While the system cannot produce publication-ready articles that often require a significant number of edits, experienced Wikipedia editors have found it helpful in their pre-writing stage.
-
-Live Demo here: [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/)
-
 
 
 ***
 
 ## <mark style="color:purple;">AI Research Tools</mark>
+
+### <mark style="color:orange;">STORM from Stanford</mark>
+
+#### STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking
+
+[storm-project.stanford.edu](https://storm-project.stanford.edu/)
+
+> STORM is a LLM system that writes Wikipedia-like articles from scratch based on Internet search.
+>
+> While the system cannot produce publication-ready articles that often require a significant number of edits, experienced Wikipedia editors have found it helpful in their pre-writing stage.
+
+GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https://github.com/stanford-oval/storm?tab=readme-ov-file)
+
+
 
 ### <mark style="color:orange;">Afforai</mark>
 
@@ -101,4 +101,16 @@ Live Demo here: [https://storm.genie.stanford.edu/](https://storm.genie.stanford
 Emergent Mind is a website that serves as a computer science research explorer, showcasing trending papers in the field.&#x20;
 
 
+
+### <mark style="color:orange;">Otio.ai</mark>
+
+[https://otio.ai](https://otio.ai)
+
+An AI-native workspace, custom built for research.
+
+**1.** Summarise and chat with your documents.&#x20;
+
+**2.** Write and edit in an AI text-editor.
+
+{% embed url="https://framerusercontent.com/assets/huhcpuBn1QoPpYkiUwuYMUNMbcI.mp4" %}
 
