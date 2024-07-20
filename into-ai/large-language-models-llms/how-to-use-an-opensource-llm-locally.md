@@ -1,4 +1,4 @@
-# How to use an opensource LLM?
+# How to use an opensource LLM locally?
 
 
 
@@ -42,6 +42,8 @@ You will have a ChatGPT like UI:
 
 
 
+***
+
 ### <mark style="color:purple;">Use Online Version</mark>
 
 The installation process described above can be cumbersome. If you prefer a more straightforward way to experience LLama, you can use the online resources listed below.
@@ -52,9 +54,7 @@ DuckDuckGo, the well-known search engine, has launched an AI Chat feature that p
 
 <figure><img src="../../.gitbook/assets/duck chat ai tiny.webp" alt=""><figcaption></figcaption></figure>
 
-#### Perplexity Playground
-
-Perplexity’s paid version offers a Playground feature, which lets users choose from various large models for chatting.
+####
 
 
 

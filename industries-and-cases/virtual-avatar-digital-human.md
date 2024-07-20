@@ -72,9 +72,7 @@ D-ID is a company that provides innovative AI video and avatar generation servic
 
 [https://rendernet.ai](https://rendernet.ai)
 
-Create character-driven images and videos. Captivate and connect with your audience.
-
-
+RenderNet AI introduces a video face-swapping feature that allows you to easily change the faces of characters in videos using photos.
 
 
 

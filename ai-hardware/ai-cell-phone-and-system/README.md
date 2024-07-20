@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 * [Apple Intelligence](apple-intelligence.md)
+* Samsung OneUI
+* Android
 {% endhint %}
 
 ## Apple
