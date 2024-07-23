@@ -97,4 +97,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/10/2024 Added some learning resources, AI Ethics contents, Policy and Regulation_
 * _7/15/2024 Added <mark style="color:orange;">Rendernet.ai</mark>_
 * _7/19/2024 Updated <mark style="color:orange;">Stamford Storm 2.0, Exa.ai</mark>_
+* _7/23/2024 Updated <mark style="color:orange;">Llama 3.1</mark>, added <mark style="color:orange;">Vacuum-cleaner Equipped Robot</mark>_
 

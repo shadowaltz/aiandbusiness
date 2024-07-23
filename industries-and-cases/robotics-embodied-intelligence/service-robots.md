@@ -4,7 +4,13 @@ Included among them are service robots, which serve a variety of uses such as cl
 
 {% embed url="https://x.com/NVIDIAAIDev/status/1770249056000029164" %}
 
+### Vacuum-cleaner Equipped Robot
 
+A vacuum-footed robot dog developed by the Italian Institute of Technology was designed to clean up the beach.
+
+{% embed url="https://spectrum.ieee.org/robot-dog-vacuum" %}
+
+{% embed url="https://youtu.be/O8BqvAe-moI" %}
 
 
 

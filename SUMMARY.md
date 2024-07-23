@@ -32,6 +32,7 @@
 * [🖱️ AI Search Engine](industries-and-cases/ai-search-engine.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
   * [Prompts](industries-and-cases/scholar-and-research/prompts.md)
+  * [Research & Scholar GPTs](industries-and-cases/scholar-and-research/research-and-scholar-gpts.md)
   * [Research Examples using Perplexity](industries-and-cases/scholar-and-research/research-examples-using-perplexity.md)
   * [(-)Stanford Storm 2.0 Tutorial](industries-and-cases/scholar-and-research/stanford-storm-2.0-tutorial.md)
 * [✍️ Writing](industries-and-cases/writing/README.md)

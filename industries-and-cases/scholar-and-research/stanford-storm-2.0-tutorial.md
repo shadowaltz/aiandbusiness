@@ -1,6 +1,6 @@
 # (-)Stanford Storm 2.0 Tutorial
 
-Standford Strom updated to version 2.0, and its now a very useful tool for scholar and research.
+Standford Strom updated to version 2.0, and it's now a handy tool for scholars and research.
 
 Tool Link:
 
