@@ -21,6 +21,8 @@ coverY: 0
 
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
+<figure><img src="../../.gitbook/assets/compare tiny.webp" alt=""><figcaption><p>Source: Artificial Analysis</p></figcaption></figure>
+
 {% embed url="https://artificialanalysis.ai" %}
 {% endtab %}
 
@@ -93,7 +95,13 @@ LLama is a family of state-of-the-art large language models developed by Meta, d
 {% endtab %}
 
 {% tab title="Mistral" %}
-Mistral AI offers a range of large language models (LLMs), both open source and commercial, designed for various tasks such as text generation, code generation, and multilingual reasoning, with models like Mistral 7B, Mixtral 8x22B, and Mistral Large being notable for their performance and efficiency
+Mistral AI offers a range of large language models (LLMs), both open source and commercial, designed for various tasks such as text generation, code generation, and multilingual reasoning.
+
+[https://mistral.ai/](https://mistral.ai/)
+
+**Mistral Large 2**
+
+Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) that boasts state-of-the-art reasoning, knowledge, and coding capabilities, with a 128k context window and support for dozens of languages, including French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, and Korean, along with 80+ coding languages.
 {% endtab %}
 {% endtabs %}
 

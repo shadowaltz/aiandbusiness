@@ -43,5 +43,11 @@ Cognition has recently unveiled its inaugural AI software engineer named Devin. 
 
 {% embed url="https://x.com/cognition_labs/status/1767548763134964000?s=20" %}
 
+## OpenDevin:&#x20;
+
+An Open Platform for AI Software Developers as Generalist Agents
+
+[https://huggingface.co/papers/2407.16741](https://huggingface.co/papers/2407.16741)
+
 
 
