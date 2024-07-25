@@ -89,7 +89,7 @@ LLama is a family of state-of-the-art large language models developed by Meta, d
 
 7/23/2024, Meta unveiled Llama 3.1, its largest and most advanced open-source AI model to date, featuring a 405 billion parameter version that reportedly rivals or surpasses leading closed-source models from companies like OpenAI and Anthropic in various performance benchmarks.
 
-<figure><img src="../../.gitbook/assets/llama 3.1 tiny.webp" alt=""><figcaption><p>Llama 3.1 details</p></figcaption></figure>
+{% embed url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/451735590_1030734788570365_1093008500142144333_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=S3n_sIpF1AEQ7kNvgGrdxtS&_nc_ht=scontent-sjc3-1.xx&oh=00_AYDLJ3ncnF3HNdnTSntSteoMLEC0-FZs0UhGRnLALlvuSA&oe=66BCFA3E" %}
 
 [https://llama.meta.com/llama3/](https://llama.meta.com/llama3/)
 {% endtab %}

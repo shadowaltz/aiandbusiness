@@ -9,13 +9,11 @@ coverY: 0
 
 # AI Ethics
 
-5/28/2024
-
 {% embed url="https://openai.com/index/openai-board-forms-safety-and-security-committee/" %}
 
 {% embed url="https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true" %}
 
 {% embed url="https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/" %}
 
-
+{% embed url="https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/" %}
 

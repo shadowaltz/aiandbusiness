@@ -1,6 +1,6 @@
 # 🫂 AI Companion
 
-Currently, aside from AI chatbots like ChatGPT, the application with the highest traffic is AI Companion.
+Aside from AI chatbots like ChatGPT, the application with the highest traffic is AI Companion.
 
 
 
