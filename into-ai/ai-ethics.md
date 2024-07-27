@@ -17,3 +17,11 @@ coverY: 0
 
 {% embed url="https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/" %}
 
+{% embed url="https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/" %}
+
+{% embed url="https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report" %}
+
+
+
+
+

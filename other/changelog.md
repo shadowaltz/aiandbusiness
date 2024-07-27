@@ -94,3 +94,15 @@ _7/9/2024 Added <mark style="color:orange;">Solos Glasses</mark> in_ _<mark styl
 
 _7/10/2024 Added some learning resources, AI Ethics contents, Policy and Regulation_
 
+_7/15/2024 Added <mark style="color:orange;">Rendernet.ai</mark>_
+
+_7/19/2024 Updated <mark style="color:orange;">Stamford Storm 2.0, Exa.ai</mark>_
+
+_7/23/2024 Updated <mark style="color:orange;">Llama 3.1</mark>, added <mark style="color:orange;">Vacuum-cleaner Equipped Robot</mark>_
+
+_7/24/2024 Updated <mark style="color:orange;">Mistral Large 2</mark>_
+
+_7/25/2024 Added <mark style="color:orange;">OpenDevin</mark>_
+
+_7/26/2024 Updated <mark style="color:orange;">AI basics</mark>_
+

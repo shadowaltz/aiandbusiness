@@ -104,3 +104,13 @@ Virtual Small Town
 {% endtab %}
 {% endtabs %}
 
+
+
+***
+
+#### Worth Reading:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>What are AI agents? </h2></td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+

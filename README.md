@@ -100,4 +100,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/23/2024 Updated <mark style="color:orange;">Llama 3.1</mark>, added <mark style="color:orange;">Vacuum-cleaner Equipped Robot</mark>_
 * _7/24/2024 Updated <mark style="color:orange;">Mistral Large 2</mark>_
 * _7/25/2024 Added <mark style="color:orange;">OpenDevin</mark>_
+* _7/26/2024 Updated <mark style="color:orange;">AI basics</mark>_
 

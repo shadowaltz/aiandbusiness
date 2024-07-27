@@ -7,7 +7,23 @@ coverY: 0
 
 # 💽 Software Development
 
+## LLM
+
+Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
+
+[https://claude.ai](https://claude.ai)
+
+
+
 ## Software Development Assistants
+
+### Codeium
+
+[https://codeium.com/](https://codeium.com/)
+
+Codeium is a coding toolkit that offers intelligent autocomplete, search, and chat capabilities, supporting over 70 programming languages and integrating with 40+ IDEs, designed to enhance developer productivity and efficiency.
+
+
 
 ### Github Copilot
 

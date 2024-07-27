@@ -54,8 +54,6 @@ DuckDuckGo, the well-known search engine, has launched an AI Chat feature that p
 
 <figure><img src="../../.gitbook/assets/duck chat ai tiny.webp" alt=""><figcaption></figcaption></figure>
 
-####
-
 
 
 or you could use an AI aggregator like [**Poe**](../ai-aggregators.md#poe).

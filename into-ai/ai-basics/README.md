@@ -8,13 +8,43 @@ coverY: 171
 
 ## <mark style="color:purple;">**What is Artificial Intelligence?**</mark>
 
-Artificial Intelligence refers to the simulation of human intelligence in machines designed to think and act like humans. These machines can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.&#x20;
+Regarding the definition of AI, the following are quotes from authoritative organizations or prestigious universities:
 
-<figure><img src="../../.gitbook/assets/whatisai-ex2.png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:orange;">IBM:</mark>
 
-For more detailed information, you can read this article from McKinsey:
+> **Artificial intelligence, or AI, is technology that enables computers and machines to simulate human intelligence and problem-solving capabilities.**
+
+**Source:** [https://www.ibm.com/topics/artificial-intelligence](https://www.ibm.com/topics/artificial-intelligence)
+
+### <mark style="color:orange;">Stanford HAI (2020):</mark>
+
+> **Artificial Intelligence (AI), a term coined by emeritus Stanford Professor John McCarthy in 1955, was defined by him as “the science and engineering of making intelligent machines”. Much research has humans program machines to behave in a clever way, like playing chess, but, today, we emphasize machines that can learn, at least somewhat like human beings do.**&#x20;
+
+**Source:** [https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf](https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf)
+
+### <mark style="color:orange;">MIT Technology Review:</mark>&#x20;
+
+> **AI is a catchall term for a set of technologies that make computers do things that are thought to require intelligence when done by people. Think of recognizing faces, understanding speech, driving cars, writing sentences, answering questions, creating pictures.**&#x20;
+
+**Source:** Will Douglas Heaven from MIT Technology Review published on July 10, 2024
+
+[https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/](https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/)
+
+### <mark style="color:orange;">Google:</mark>
+
+> **Artificial intelligence is a field of science concerned with building computers and machines that can reason, learn, and act in such a way that would normally require human intelligence or that involves data whose scale exceeds what humans can analyze.**
+
+**Source:**  [https://cloud.google.com/learn/what-is-artificial-intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence)
+
+### <mark style="color:orange;">McKinsey & Company</mark>
+
+> **Artificial intelligence is a machine’s ability to perform some cognitive functions we usually associate with human minds.**&#x20;
+
+**Source:**
 
 {% embed url="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-ai" %}
+
+<figure><img src="../../.gitbook/assets/whatisai-ex2.png" alt=""><figcaption><p>McKinsey: What is AI?</p></figcaption></figure>
 
 ## <mark style="color:purple;">**Key Concepts in AI**</mark>
 
