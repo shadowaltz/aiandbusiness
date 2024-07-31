@@ -7,6 +7,12 @@ coverY: 0
 
 # 📱 Social Media
 
+{% hint style="info" %}
+* [Social Media Prompts](social-media-prompts.md)
+{% endhint %}
+
+
+
 ### GPT
 
 #### Social Butterfly-AI 2.0
