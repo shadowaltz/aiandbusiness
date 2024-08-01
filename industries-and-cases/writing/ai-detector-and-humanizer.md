@@ -42,7 +42,11 @@ The **Humanizer**, designed to make AI-generated writing <mark style="color:red;
 
 
 
+## News & Updates:
 
+#### “Copyright traps” could tell writers if an AI has scraped their work
+
+[https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/](https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/)
 
 
 

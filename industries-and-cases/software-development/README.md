@@ -31,6 +31,14 @@ GitHub Copilot is an AI-powered coding assistant that provides contextualized he
 
 {% embed url="https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4" %}
 
+### GitHub Models
+
+{% embed url="https://youtu.be/6JuwNLuqV4c" %}
+
+
+
+
+
 ***
 
 ## AI Software Saas

@@ -22,8 +22,6 @@
 
 ## Industries & Cases
 
-* [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
-  * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
 * [🤖 Robotics/Embodied Intelligence](industries-and-cases/robotics-embodied-intelligence/README.md)
   * [Humanoid Robots](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/README.md)
     * [Figure AI + BMW](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai-+-bmw.md)
@@ -31,6 +29,8 @@
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
   * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)
 * [🖱️ AI Search Engine](industries-and-cases/ai-search-engine.md)
+* [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
+  * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
   * [Prompts](industries-and-cases/scholar-and-research/prompts.md)
   * [Research & Scholar GPTs](industries-and-cases/scholar-and-research/research-and-scholar-gpts.md)

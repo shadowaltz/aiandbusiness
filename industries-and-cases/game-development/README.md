@@ -12,6 +12,7 @@ coverY: 0
 {% hint style="info" %}
 * Inword AI
 * Nvidia ACE
+* Bitpart.ai
 {% endhint %}
 
 ***

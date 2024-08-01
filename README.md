@@ -45,6 +45,7 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 | [Film Making](video-and-films/film-making/) | [Text to Image](image/text-to-image-image-editing/)             | [Podcasting](industries-and-cases/podcasting/)        | [Writing](industries-and-cases/writing/)                         |
 | ------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
 | [AI Agent](ai-agent/ai-agent/)              | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation/) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
+|                                             |                                                                 |                                                       |                                                                  |
 
 ***
 
@@ -102,4 +103,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/25/2024 Added <mark style="color:orange;">OpenDevin</mark>_
 * _7/26/2024 Updated <mark style="color:orange;">AI basics</mark>_
 * _7/30/2024 Added Prompt Learning Resources, added Social Media Marketing Resources, Added <mark style="color:orange;">Jena.ai</mark>,_ _restructured AI Agents content_
+* _8/1/2024 Added Github Models, Restructured some contents_
 

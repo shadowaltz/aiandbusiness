@@ -20,3 +20,11 @@ Nvidia CEO Jensen Huang announced the general availability of NVIDIA ACE generat
 
 {% embed url="https://nvidianews.nvidia.com/news/digital-humans-ace-generative-ai-microservices" %}
 
+### Bitpart.ai
+
+[https://www.bitpart.ai/](https://www.bitpart.ai/)
+
+The engine for powering the next evolution of **AI Characters.**
+
+
+
