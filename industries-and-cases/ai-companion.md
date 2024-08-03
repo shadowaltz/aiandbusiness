@@ -2,7 +2,9 @@
 
 Aside from AI chatbots like ChatGPT, the application with the highest traffic is AI Companion.
 
-
+{% hint style="info" %}
+Google acquired character AI for $2.5 billion; its CEO and researchers joined DeepMind.
+{% endhint %}
 
 ### <mark style="color:orange;">Character AI</mark>
 

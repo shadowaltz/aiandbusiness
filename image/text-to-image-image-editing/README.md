@@ -55,6 +55,16 @@ Due to the recent mass departure of the executives and core team at Stable Diffu
 
 
 
+### <mark style="color:orange;">Flux 1</mark>
+
+[https://blackforestlabs.ai/](https://blackforestlabs.ai/)
+
+Flux 1 is a new text-to-image model suite developed by Black Forest Labs, a startup founded by the original creators of Stable Diffusion, who have secured $31 million in seed funding to advance their mission of making powerful generative AI technology widely accessible.
+
+{% embed url="https://github.com/black-forest-labs/flux/raw/main/assets/grid.jpg" %}
+
+
+
 ### <mark style="color:orange;">Canva</mark>
 
 [https://www.canva.com/](https://www.canva.com/)
