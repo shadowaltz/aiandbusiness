@@ -45,6 +45,18 @@ Emergent Mind is a website that serves as a computer science research explorer, 
 
 
 
+### <mark style="color:orange;">Genei.ai</mark>
+
+[https://www.genei.io/](https://www.genei.io/)
+
+Automatically summarise background reading and produce blogs, articles, and reports faster.
+
+{% embed url="https://assets-global.website-files.com/5fbbb0e57743e457bcfe097b/633481cbcadd8d83dffb7ea1_Hero%20Image%201.0.png" %}
+Genei.ai
+{% endembed %}
+
+
+
 ### <mark style="color:orange;">Otio.ai</mark>
 
 [https://otio.ai](https://otio.ai)
