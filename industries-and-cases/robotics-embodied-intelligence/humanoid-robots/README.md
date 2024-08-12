@@ -16,14 +16,9 @@
 
 ### <mark style="color:orange;">Figure AI</mark>
 
-Figure 01, developed by the American humanoid robot startup Figure AI, has recently integrated OpenAI's large language model, showcasing impressive capabilities:
+Figure AI has unveiled Figure 02, its second-generation humanoid robot, which features a sleeker form factor, improved cabling, and a 50% greater battery capacity than its predecessor, enabling it to work longer in real-world deployments. The new robot is equipped with advanced AI capabilities, including speech-to-speech conversation, onboard vision language models, and enhanced hand-eye coordination, making it capable of performing various tasks across commercial applications.
 
-1. It engages in conversations with humans, understands, and executes their instructions and tasks.
-2. It features visual recognition capabilities, able to identify and describe items on a desk.
-3. It effortlessly performs tasks such as desk cleaning and dish rack organizing.
-4. Conversational and operational speed and fluency have seen considerable enhancements.
-
-In February 2024, Figure AI secured around $675 million in funding, achieving a valuation of $26 billion. Notable investors include Silicon Valley heavyweights like Amazon's Jeff Bezos, Nvidia, Microsoft, and OpenAI. As part of the deal, Figure will work alongside OpenAI on developing AI models for future humanoid robots.
+{% embed url="https://www.youtube.com/watch?v=0SRVJaOg9Co" %}
 
 [https://www.figure.ai/](https://www.figure.ai/)
 

@@ -105,4 +105,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _7/30/2024 Added Prompt Learning Resources, added Social Media Marketing Resources, Added <mark style="color:orange;">Jena.ai</mark>,_ _restructured AI Agents content_
 * _8/1/2024 Added Github Models, Restructured some contents_
 * _8/3/2024 Added <mark style="color:orange;">Flux 1</mark>_
+* _8/11/2024 Added <mark style="color:orange;">Figure 02</mark>, LLM learning resources, <mark style="color:orange;">Mistral AI AI Agent Builder</mark>, <mark style="color:orange;">Cursor</mark>_
 

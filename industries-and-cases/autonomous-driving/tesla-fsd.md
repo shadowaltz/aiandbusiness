@@ -12,9 +12,11 @@ On April 5th, Musk announced that Tesla is set to unveil its latest Robotaxi mod
 
 {% embed url="https://x.com/elonmusk/status/1776351450542768368" %}
 
+#### Tesla FSD SafetyReport:
 
+**Miles Driven Per One Accident**
 
-
+{% embed url="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/safety-report-Q2-2024-accident-desktop.jpg" %}
 
 
 

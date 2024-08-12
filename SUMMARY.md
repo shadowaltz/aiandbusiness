@@ -97,6 +97,7 @@
   * [Midjourney Cases](image/text-to-image-image-editing/midjourney-cases.md)
   * [DallE](image/text-to-image-image-editing/dalle.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
+* [🌆 AI Image Detector](image/ai-image-detector.md)
 
 ## Sound & Music
 

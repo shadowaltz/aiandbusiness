@@ -17,7 +17,17 @@ Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of
 
 ## Software Development Assistants
 
-### Codeium
+### <mark style="color:orange;">Cursor</mark>
+
+[https://www.cursor.com/](https://www.cursor.com/)
+
+Cursor is an innovative AI-powered code editor that combines the functionality of traditional IDEs with advanced machine learning capabilities to enhance developers' productivity and coding experience.
+
+{% embed url="https://www.cursor.com/videos/cmdkloop2.mp4" %}
+
+
+
+### <mark style="color:orange;">Codeium</mark>
 
 [https://codeium.com/](https://codeium.com/)
 
@@ -25,7 +35,7 @@ Codeium is a coding toolkit that offers intelligent autocomplete, search, and ch
 
 
 
-### Github Copilot
+### <mark style="color:orange;">Github Copilot</mark>
 
 GitHub Copilot is an AI-powered coding assistant that provides contextualized help throughout the software development process. It offers code completions, chat assistance, code explanations, and answers to docs. Copilot integrates with popular IDEs and is natively built into GitHub. It enables developers to focus more on problem-solving and collaboration, leading to increased productivity and job satisfaction. Copilot is trained on public code repositories and generates suggestions using probabilistic determination, not copy/pasting. It supports various languages, with the quality of suggestions depending on the training data available for each language.
 

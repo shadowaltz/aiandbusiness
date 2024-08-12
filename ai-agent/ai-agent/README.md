@@ -70,6 +70,14 @@ Virtual Small Town
 
 
 
+### <mark style="color:orange;">La Plateforme agent builder</mark> <a href="#la-plateforme-agent-builder" id="la-plateforme-agent-builder"></a>
+
+[https://docs.mistral.ai/capabilities/agents/](https://docs.mistral.ai/capabilities/agents/)
+
+{% embed url="https://docs.mistral.ai/img/agent.png" %}
+
+
+
 #### Resources to build AI Agents:
 
 {% tabs %}
