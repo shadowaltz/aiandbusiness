@@ -37,6 +37,16 @@ GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https:/
 
 {% embed url="https://afforai.com/img/landing_page/main-image.png" %}
 
+### <mark style="color:orange;">AI Scientist</mark>
+
+[https://github.com/SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
+
+Towards Fully Automated Open-Ended Scientific Discovery
+
+{% embed url="https://github.com/SakanaAI/AI-Scientist/raw/main/docs/anim-ai-scientist.gif" %}
+
+
+
 ### <mark style="color:orange;">Emergent Mind</mark>
 
 [https://www.emergentmind.com](https://www.emergentmind.com)

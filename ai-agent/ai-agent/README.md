@@ -92,26 +92,6 @@ Virtual Small Town
 {% endtab %}
 {% endtabs %}
 
-#### Resources to build AI Applications:
-
-{% tabs %}
-{% tab title="Dify.ai" %}
-Dify.ai is a powerful platform that enables users to easily build and deploy AI applications by orchestrating components through a graphical interface, without requiring extensive coding knowledge.
-
-[https://dify.ai/](https://dify.ai/)
-
-
-{% endtab %}
-
-{% tab title="Langchain" %}
-LangChain is an open-source Python library that simplifies the process of building applications with large language models by providing tools and abstractions for integrating LLMs, creating chains and agents, and managing memory and storage.
-
-[https://www.langchain.com/](https://www.langchain.com/)
-
-
-{% endtab %}
-{% endtabs %}
-
 
 
 

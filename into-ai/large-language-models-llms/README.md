@@ -5,7 +5,8 @@ coverY: 0
 # Large Language Models (LLMs)
 
 {% hint style="success" %}
-* [ChatGPT Tutorial](chatgpt/)
+[ChatGPT Tutorial](chatgpt/)
+
 * [LLama](how-to-use-an-opensource-llm-locally.md)
 * [Prompt Tutorial](prompt-engineering.md)
 * [Hallucination Problem](hallucination-problem.md)
@@ -21,7 +22,7 @@ coverY: 0
 
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
-<figure><img src="../../.gitbook/assets/compare tiny.webp" alt=""><figcaption><p>Source: Artificial Analysis</p></figcaption></figure>
+{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/c2a2d678-104c-408b-fabd-d7bfd1849000/public" %}
 
 {% embed url="https://artificialanalysis.ai" %}
 {% endtab %}

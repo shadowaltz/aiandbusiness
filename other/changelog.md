@@ -1,5 +1,9 @@
 # 🗒️ Changelog
 
+### _**Unreleased:**_
+
+_Japanese/日本語 Version_
+
 ### _**Apr:**_
 
 _4/15/2024 Added <mark style="color:orange;">Adobe Premiere Pro</mark> in <mark style="color:purple;">Video Editing</mark>_
@@ -105,4 +109,20 @@ _7/24/2024 Updated <mark style="color:orange;">Mistral Large 2</mark>_
 _7/25/2024 Added <mark style="color:orange;">OpenDevin</mark>_
 
 _7/26/2024 Updated <mark style="color:orange;">AI basics</mark>_
+
+_7/30/2024 Added Prompt Learning Resources, added Social Media Marketing Resources, Added <mark style="color:orange;">Jena.ai</mark>,_ _restructured AI Agents content_
+
+### _August:_
+
+_8/1/2024 Added Github Models, Restructured some contents_
+
+_8/3/2024 Added <mark style="color:orange;">Flux 1</mark>_
+
+_8/11/2024 Added <mark style="color:orange;">Figure 02</mark>, LLM learning resources, <mark style="color:orange;">Mistral AI AI Agent Builder</mark>, <mark style="color:orange;">Cursor</mark>_
+
+_8/12/2024 Added <mark style="color:orange;">Bark,</mark> LLM learning resources, <mark style="color:orange;">Pagepilot AI,</mark> and E-commerce section_
+
+_8/13/2024 <mark style="color:red;">Changed image embedding to Clouldflare</mark>, Added AI App Development Tool Section, Added AI Scientist_
+
+
 
