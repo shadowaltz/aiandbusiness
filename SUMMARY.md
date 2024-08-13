@@ -57,10 +57,11 @@
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
 * [🎮 Gaming Assistant](industries-and-cases/gaming-assistant/README.md)
   * [Case: OpenAI Five](industries-and-cases/gaming-assistant/case-openai-five.md)
-* [🖋️ Smart Office](industries-and-cases/smart-office/README.md)
-  * [PDF](industries-and-cases/smart-office/pdf.md)
-  * [Excel](industries-and-cases/smart-office/excel.md)
-  * [Slides](industries-and-cases/smart-office/slides.md)
+* [🖋️ Smart Working](industries-and-cases/smart-working/README.md)
+  * [PDF](industries-and-cases/smart-working/pdf.md)
+  * [Excel](industries-and-cases/smart-working/excel.md)
+  * [Slides](industries-and-cases/smart-working/slides.md)
+  * [Mindmap](industries-and-cases/smart-working/mindmap.md)
 * [🎙️ Podcasting](industries-and-cases/podcasting/README.md)
   * [Podcast Summaries](industries-and-cases/podcasting/podcast-summaries.md)
   * [AI-Generated News Podcasting Cases](industries-and-cases/podcasting/ai-generated-news-podcasting-cases.md)
@@ -82,6 +83,7 @@
   * [Warehousing & Logistics](industries-and-cases/supply-chain/warehousing-and-logistics.md)
 * [👂 Translation](industries-and-cases/translation.md)
 * [💸 Finance](industries-and-cases/finance.md)
+* [E-commerce](industries-and-cases/e-commerce.md)
 
 ## AI Agent
 
@@ -95,6 +97,7 @@
 * [🪄 Text to Image / Image Editing](image/text-to-image-image-editing/README.md)
   * [Midjourney Guide](image/text-to-image-image-editing/midjourney-guide.md)
   * [Midjourney Cases](image/text-to-image-image-editing/midjourney-cases.md)
+  * [Comfy UI](image/text-to-image-image-editing/comfy-ui.md)
   * [DallE](image/text-to-image-image-editing/dalle.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [🌆 AI Image Detector](image/ai-image-detector.md)

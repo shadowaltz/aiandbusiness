@@ -18,7 +18,19 @@ The entire song is remarkably natural and melodious, making it difficult to disc
 
 {% embed url="https://soundcloud.com/rs-539916550/soul-of-the-machine?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Frs-539916550%252Fsoul-of-the-machine" %}
 
+Bark
 
+{% hint style="info" %}
+Bark is Suno's open-source text-to-speech+ model.
+{% endhint %}
+
+{% embed url="https://github.com/suno-ai/bark" %}
+
+{% embed url="https://user-images.githubusercontent.com/5068315/235310676-a4b3b511-90ec-4edf-8153-7ccf14905d73.png" %}
+
+
+
+***
 
 ### <mark style="color:orange;">Udio</mark>
 

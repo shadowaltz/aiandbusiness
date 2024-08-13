@@ -106,4 +106,5 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _8/1/2024 Added Github Models, Restructured some contents_
 * _8/3/2024 Added <mark style="color:orange;">Flux 1</mark>_
 * _8/11/2024 Added <mark style="color:orange;">Figure 02</mark>, LLM learning resources, <mark style="color:orange;">Mistral AI AI Agent Builder</mark>, <mark style="color:orange;">Cursor</mark>_
+* _8/12/2024 Added <mark style="color:orange;">Bark,</mark> LLM learning resources, <mark style="color:orange;">Pagepilot AI,</mark> and E-commerce section_
 

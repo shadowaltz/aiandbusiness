@@ -1,8 +1,8 @@
 # How to use an opensource LLM locally?
 
+### <mark style="color:orange;">Ollama</mark>
 
-
-### <mark style="color:purple;">Install LLama locally using Ollama</mark>
+#### <mark style="color:purple;">Install LLama locally using Ollama</mark>
 
 Meta's LLama Official Document, how to install and use:
 
@@ -40,11 +40,17 @@ You will have a ChatGPT like UI:
 
 <figure><img src="../../.gitbook/assets/llama1 tiny.webp" alt=""><figcaption><p>LLama</p></figcaption></figure>
 
+***
 
+### <mark style="color:orange;">LM Studio</mark>
+
+[https://lmstudio.ai](https://lmstudio.ai)
+
+{% embed url="https://lmstudio.ai/static/media/demo2.9df5a0e5a9f1d72715e0.gif" %}
 
 ***
 
-### <mark style="color:purple;">Use Online Version</mark>
+### <mark style="color:purple;">Online Versions</mark>
 
 The installation process described above can be cumbersome. If you prefer a more straightforward way to experience LLama, you can use the online resources listed below.
 

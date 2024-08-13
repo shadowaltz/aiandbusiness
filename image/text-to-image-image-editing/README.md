@@ -23,6 +23,8 @@ layout:
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
+
+
 ### <mark style="color:orange;">Stable Diffusion</mark>
 
 [https://stability.ai/](https://stability.ai/)
@@ -46,6 +48,12 @@ LayerDiffuse
 LayerDiffuse is an open-source library enabling Stable Diffusion to create images with completely transparent backgrounds, greatly enhancing their utility in professional graphic design.
 
 [https://github.com/layerdiffusion/sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse)
+{% endtab %}
+
+{% tab title="Comfy UI" %}
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+[https://www.comfy.org/](https://www.comfy.org/)
 {% endtab %}
 {% endtabs %}
 

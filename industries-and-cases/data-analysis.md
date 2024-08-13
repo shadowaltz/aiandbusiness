@@ -61,9 +61,11 @@ For analyzing large-scale data, it's still advised to use specialized data analy
 
 
 
+***
 
+Learning Resources:
 
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Open AI</strong></td><td><strong>Enabling a Data-Driven Workforce</strong></td><td>"In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights." <a href="https://openai.com/business/enabling-a-data-driven-workforce-webinar/">https://openai.com/business/enabling-a-data-driven-workforce-webinar/</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
