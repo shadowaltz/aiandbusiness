@@ -5,8 +5,7 @@ coverY: 0
 # Large Language Models (LLMs)
 
 {% hint style="success" %}
-[ChatGPT Tutorial](chatgpt/)
-
+* [ChatGPT Tutorial](chatgpt/)
 * [LLama](how-to-use-an-opensource-llm-locally.md)
 * [Prompt Tutorial](prompt-engineering.md)
 * [Hallucination Problem](hallucination-problem.md)
@@ -54,9 +53,17 @@ LLM Ranking
 
 {% tabs %}
 {% tab title="GPT-4o" %}
-OpenAI's most powerful LLM
+<mark style="color:orange;">GPT-4o-2024-08-06</mark>, OpenAI's most powerful LLM.
 
-<mark style="color:green;">5/29/2024 ChatGPT with Gpt-4o will be free for everyone</mark>
+<mark style="color:green;">5/29/2024 ChatGPT with Gpt-4o is free for everyone</mark>
+{% endtab %}
+
+{% tab title="Grok-2" %}
+Grok is an AI built by xAI, unique in its inspiration from the Hitchhiker's Guide to the Galaxy and JARVIS, offering an outside perspective on humanity and not shying away from answering the most intriguing questions.
+
+[https://x.ai/grok](https://x.ai/grok)
+
+<figure><img src="../../.gitbook/assets/grok 2.webp" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Claude" %}
@@ -66,7 +73,7 @@ Claude is a family of large language models developed by Anthropic, designed to 
 * **Claude 3 Sonnet**: Balances intelligence and speed, ideal for enterprise workloads requiring rapid responses.
 * **Claude 3 Haiku**: The fastest and most compact model, providing near-instant responses for simple queries and requests.
 
-Anthropic just revealed their new **Claude Sonnet 3.5**, the best LLM according to their data.
+Anthropic just revealed their new <mark style="color:orange;">**Claude Sonnet 3.5**</mark>, the best LLM according to their data.
 
 {% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2Fcf2c754458e9102b7334731fb18a965bfeb7ad08-2200x1894.png&w=3840&q=75" %}
 
