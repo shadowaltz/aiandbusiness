@@ -1,3 +1,7 @@
+---
+icon: dumpster
+---
+
 # E-commerce
 
 ### <mark style="color:orange;">PagePilot</mark>

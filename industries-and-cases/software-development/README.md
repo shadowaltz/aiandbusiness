@@ -73,6 +73,8 @@ The Fastest Way To Build AI-Powered Apps Create no-code AI workflows that automa
 
 ## AI Agent Software Engineer
 
+### <mark style="color:orange;">Devin</mark>
+
 Cognition has recently unveiled its inaugural AI software engineer named Devin. This AI functions as an autonomous agent with the capability to independently navigate and resolve engineering dilemmas, employing its shell, code editor, and web browser for tasks. Devin has impressively aced real engineering interviews at renowned AI corporations and has executed tangible projects on Upwork, showcasing its practical skills and reliability in the field.
 
 {% embed url="https://x.com/cognition_labs/status/1767548763134964000?s=20" %}
@@ -82,6 +84,16 @@ Cognition has recently unveiled its inaugural AI software engineer named Devin. 
 An Open Platform for AI Software Developers as Generalist Agents
 
 [https://huggingface.co/papers/2407.16741](https://huggingface.co/papers/2407.16741)
+
+
+
+### <mark style="color:orange;">Cosine Genie</mark>
+
+[https://cosine.sh/](https://cosine.sh/)
+
+{% embed url="https://youtu.be/7XrTkhaI4zs" %}
+
+
 
 
 

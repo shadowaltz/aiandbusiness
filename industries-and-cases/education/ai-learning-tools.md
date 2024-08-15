@@ -10,6 +10,14 @@ Utilize information decomposition to rapidly begin research, employing the Albas
 
 
 
+### <mark style="color:orange;">LLama Tutor</mark>
+
+Enter a topic you want to learn about along with the education level you want to be taught at and generate a personalized tutor tailored to you!
+
+[https://llamatutor.together.ai/](https://llamatutor.together.ai/)
+
+{% embed url="https://github.com/Nutlope/llamatutor/raw/main/public/og-image.png" %}
+
 ### <mark style="color:orange;">Globe.engineer</mark>
 
 [https://globe.engineer/](https://globe.engineer/)
@@ -20,7 +28,7 @@ Explorer is a search discovery engine. It creates a table of contents on the top
 
 <figure><img src="../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
 
-
+1
 
 
 

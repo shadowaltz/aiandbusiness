@@ -62,6 +62,7 @@
   * [Excel](industries-and-cases/smart-working/excel.md)
   * [Slides](industries-and-cases/smart-working/slides.md)
   * [Mindmap](industries-and-cases/smart-working/mindmap.md)
+  * [Note-taking](industries-and-cases/smart-working/note-taking.md)
 * [🎙️ Podcasting](industries-and-cases/podcasting/README.md)
   * [Podcast Summaries](industries-and-cases/podcasting/podcast-summaries.md)
   * [AI-Generated News Podcasting Cases](industries-and-cases/podcasting/ai-generated-news-podcasting-cases.md)
@@ -84,6 +85,7 @@
 * [👂 Translation](industries-and-cases/translation.md)
 * [💸 Finance](industries-and-cases/finance.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
+* [Product Development](industries-and-cases/product-development.md)
 
 ## AI Agent
 
@@ -130,7 +132,7 @@
 * [📱 AI Cell Phone & System](ai-hardware/ai-cell-phone-and-system/README.md)
   * [Apple Intelligence](ai-hardware/ai-cell-phone-and-system/apple-intelligence.md)
   * [Samsung OneUI](ai-hardware/ai-cell-phone-and-system/samsung-oneui.md)
-  * [Google Android](ai-hardware/ai-cell-phone-and-system/google-android.md)
+  * [Google Gemini/Android](ai-hardware/ai-cell-phone-and-system/google-gemini-android.md)
 
 ## Other
 

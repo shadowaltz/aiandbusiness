@@ -108,4 +108,6 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _8/11/2024 Added <mark style="color:orange;">Figure 02</mark>, LLM learning resources, <mark style="color:orange;">Mistral AI AI Agent Builder</mark>, <mark style="color:orange;">Cursor</mark>_
 * _8/12/2024 Added <mark style="color:orange;">Bark,</mark> LLM learning resources, <mark style="color:orange;">Pagepilot AI,</mark> and E-commerce section_
 * _8/13/2024 <mark style="color:red;">Changed image embedding to Clouldflare</mark>, Added AI App Development Tool Section, Added AI Scientist, added <mark style="color:orange;">Grok-2</mark>_
+* _8/14/2024 Added <mark style="color:orange;">LLama Tutor</mark>, Some AI cases, Google <mark style="color:orange;">Gemini Live, Cosine Genie</mark>_
+* _8/15/2024 Added <mark style="color:orange;">Sierra.ai, Cresta</mark>, Note-taking section with <mark style="color:orange;">notion</mark>_
 

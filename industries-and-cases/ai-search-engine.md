@@ -45,6 +45,16 @@ Like Perplexity, this AI search engine offers rapid response times and is specif
 
 Exa.ai is a knowledge API that utilizes advanced AI language processing to convert internet information into organized knowledge, designed specifically for large language models and developers.
 
+### <mark style="color:orange;">Globe.engineer</mark>
+
+[https://globe.engineer/](https://globe.engineer/)
+
+> #### _Globe's mission is to optimally represent information for human comprehension._
+
+Explorer is a search discovery engine. It creates a table of contents on the topic, and then visualizes each section and concept with an optimal image or diagram so you can quickly find what you need, or discover what you didn't know you needed.
+
+<figure><img src="../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
+
 
 
 ### <mark style="color:orange;">**llm-answer-engine**</mark>
