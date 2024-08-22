@@ -7,10 +7,13 @@ coverY: 0
 
 # 🔍 Scholar & Research
 
+**Navigation:**
+
 {% hint style="info" %}
 * Related Prompts
+* Research & Scholar GPTs
 * Research Examples using Perplexity
-* Stanford storm 2.0 Tutorial
+* Stanford Storm 2.0 Tutorial
 {% endhint %}
 
 ## <mark style="color:purple;">AI Research Tools</mark>
@@ -41,7 +44,11 @@ GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https:/
 
 [https://github.com/SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
-Towards Fully Automated Open-Ended Scientific Discovery
+> Towards Fully Automated Open-Ended Scientific Discovery
+
+The AI Scientist project is designed to automate the entire scientific research process. It is equipped to handle a variety of tasks, from generating research ideas and reviewing literature to planning, executing experiments, and writing research papers. By leveraging this system, AI can manage iterative experimental workflows, create visual data representations, and produce scientific reports that resemble those presented at typical machine learning conferences.
+
+The AI Scientist is composed of four key stages: brainstorming research ideas, conducting experiments to gather data, drafting research papers using LaTeX, and performing peer reviews through an automated system. This system incorporates cutting-edge large language model (LLM) technology to effectively replicate the scientific activities typically performed by humans.
 
 {% embed url="https://github.com/SakanaAI/AI-Scientist/raw/main/docs/anim-ai-scientist.gif" %}
 

@@ -10,5 +10,9 @@ Please check the video tutorial: [storm-project.stanford.edu](https://storm-proj
 
 
 
+Prompt:
+
+In the past two years, AIGC tools represented by ChatGPT and Midjourney have become incredibly popular. I need to study how similar AI tools are transforming the field of marketing and explore potential future trends.
+
 
 

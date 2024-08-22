@@ -36,6 +36,8 @@ As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming 
 
 [https://lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)
 
+Dream Machine 1.5 is here. Now with higher-quality text-to-video.
+
 
 
 ### <mark style="color:orange;">Runway</mark>

@@ -1,8 +1,12 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0ZWNofGVufDB8fHx8MTcyNDEwNDIwNnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
 # Large Language Models (LLMs)
+
+
 
 {% hint style="success" %}
 * [ChatGPT Tutorial](chatgpt/)
@@ -61,7 +65,7 @@ LLM Ranking
 {% tab title="Grok-2" %}
 Grok is an AI built by xAI, unique in its inspiration from the Hitchhiker's Guide to the Galaxy and JARVIS, offering an outside perspective on humanity and not shying away from answering the most intriguing questions.
 
-[https://x.ai/grok](https://x.ai/grok)
+https://x.ai/grok
 
 <figure><img src="../../.gitbook/assets/grok 2.webp" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -115,9 +119,49 @@ Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) t
 
 ***
 
+## RAG
+
+Retrieval Augmented Generation (RAG) is a technique that enhances Large Language Models (LLMs) by retrieving relevant information from external knowledge sources to provide more accurate, up-to-date, and contextually appropriate responses
+
+{% tabs %}
+{% tab title="anything-llm" %}
+The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+
+{% embed url="https://private-user-images.githubusercontent.com/16845892/294273127-cfc5f47c-bd91-4067-986c-f3f49621a859.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxMDM2MjUsIm5iZiI6MTcyNDEwMzMyNSwicGF0aCI6Ii8xNjg0NTg5Mi8yOTQyNzMxMjctY2ZjNWY0N2MtYmQ5MS00MDY3LTk4NmMtZjNmNDk2MjFhODU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDIxMzUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NmM2OTRmNzI0YjFhYWUyNWYwMGZmM2QzZTUyMzFkNTUxMjU5OGFhNmVlOTUwM2EwNjc0MWQzNjgxY2Q4NmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BzGTjbhJpmoMvdnxKZFUgizhtcwU-PbU84EpA0xEkvk" %}
+
+[https://github.com/Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+{% endtab %}
+
+{% tab title="RAGFlow" %}
+RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+
+[https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+{% endtab %}
+
+{% tab title="Quivr" %}
+Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework.
+
+[https://www.quivr.com](https://www.quivr.com)
+
+{% embed url="https://cdn.prod.website-files.com/65bae8c84334d8deee06c34b/65d2dee40422e51ac6bfef16_Homepage-p-2600.png" %}
+{% endtab %}
+
+{% tab title="Verba" %}
+Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+
+{% embed url="https://github.com/weaviate/Verba/raw/1.0.0/img/verba.gif" %}
+
+[https://github.com/weaviate/Verba](https://github.com/weaviate/Verba)
+{% endtab %}
+{% endtabs %}
+
+
+
+***
+
 ## Learning Resources:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5</td><td><a href="https://daleonai.com/transformers-explained">https://daleonai.com/transformers-explained</a></td><td></td></tr><tr><td>What Is ChatGPT Doing … and Why Does It Work?</td><td><a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/">https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</a></td><td></td></tr><tr><td>ChatGPT Prompt Engineering for Developers</td><td></td><td><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/</a></td></tr><tr><td>LLM101n: Let's build a Storyteller</td><td><a href="https://github.com/karpathy/LLM101n">https://github.com/karpathy/LLM101n</a></td><td></td></tr><tr><td>How GPT works</td><td></td><td><a href="https://bbycroft.net/llm">https://bbycroft.net/llm</a></td></tr><tr><td>How I Use "AI" by Nicholas Carlini</td><td><a href="https://nicholas.carlini.com/writing/2024/how-i-use-ai.html">https://nicholas.carlini.com/writing/2024/how-i-use-ai.html</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5</td><td><a href="https://daleonai.com/transformers-explained">https://daleonai.com/transformers-explained</a></td><td></td></tr><tr><td>What Is ChatGPT Doing … and Why Does It Work?</td><td><a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/">https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</a></td><td></td></tr><tr><td>ChatGPT Prompt Engineering for Developers</td><td></td><td><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/</a></td></tr><tr><td>LLM101n: Let's build a Storyteller</td><td><a href="https://github.com/karpathy/LLM101n">https://github.com/karpathy/LLM101n</a></td><td></td></tr><tr><td>How GPT works</td><td></td><td><a href="https://bbycroft.net/llm">https://bbycroft.net/llm</a></td></tr><tr><td>How I Use "AI" by Nicholas Carlini</td><td><a href="https://nicholas.carlini.com/writing/2024/how-i-use-ai.html">https://nicholas.carlini.com/writing/2024/how-i-use-ai.html</a></td><td></td></tr><tr><td>Transformer Explainer</td><td><a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></td><td></td></tr><tr><td>Generative AI Handbook: A Roadmap for Learning Resources</td><td><a href="https://genai-handbook.github.io">https://genai-handbook.github.io</a></td><td></td></tr></tbody></table>
 
 
 

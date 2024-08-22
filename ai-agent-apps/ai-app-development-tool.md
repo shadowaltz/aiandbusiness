@@ -14,7 +14,9 @@ Dify.ai is a powerful platform that enables users to easily build and deploy AI 
 
 [https://dify.ai/](https://dify.ai/)
 
+{% embed url="https://youtu.be/A0w9JAUZwbk?si=45IazW9aQhNbAheW" %}
 
+Dify's Offical tutorial YouTube channel: [https://www.youtube.com/@dify\_ai](https://www.youtube.com/@dify\_ai)
 {% endtab %}
 
 {% tab title="Langchain" %}

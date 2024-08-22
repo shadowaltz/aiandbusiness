@@ -71,7 +71,13 @@ Flux 1 is a new text-to-image model suite developed by Black Forest Labs, a star
 
 {% embed url="https://github.com/black-forest-labs/flux/raw/main/assets/grid.jpg" %}
 
+### <mark style="color:orange;">Leonardo AI</mark>
 
+[https://leonardo.ai/](https://leonardo.ai/)
+
+Leonardo AI is an advanced AI-powered image generation platform that allows users to create high-quality, customizable artwork and visual assets through text prompts, offering features like fine-tuned models, AI canvas editing, and 3D texture generation.
+
+{% embed url="https://leonardo-cdn.b-cdn.net/wp-content/uploads/2024/06/big-img-hero-o.jpg" %}
 
 ### <mark style="color:orange;">Canva</mark>
 
@@ -82,6 +88,14 @@ Canva, a leading name in the image processing sector, has always been at the for
 {% embed url="https://youtu.be/bVCRcNlY1yw?si=vcJ3kjIrUyw1AbB1" %}
 
 
+
+### <mark style="color:orange;">Ideogram</mark>
+
+[https://ideogram.ai/login](https://ideogram.ai/login)
+
+Ideogram is a free-to-use AI-powered text-to-image generation platform that allows users to create images especially logos directly in their web browser without downloading additional software. Ideogram 2.0, the platform's latest update, introduces five different models (General, Realistic, Design, Anime, and 3D), improved text rendering, and a new color palette feature, significantly enhancing the quality and customization options for generated images.
+
+{% embed url="https://storage.googleapis.com/ideogram-static/Ideogram2.0_16x9.mp4" %}
 
 ### <mark style="color:orange;">Adobe Firefly</mark>
 

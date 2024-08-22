@@ -20,6 +20,12 @@ This executive order focuses on ensuring AI safety and security through robust e
 
 {% embed url="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/" %}
 
+#### California SB 1047
+
+SB 1047 is a proposed California bill that aims to regulate the development and deployment of large AI models by requiring safety protocols, testing procedures, and oversight to prevent potential harms.
+
+{% embed url="https://sd11.senate.ca.gov/news/senator-wieners-groundbreaking-artificial-intelligence-bill-advances-assembly-floor-amendments" %}
+
 
 
 ### **UK:**

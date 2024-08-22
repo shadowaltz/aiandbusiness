@@ -44,7 +44,7 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 | [Film Making](video-and-films/film-making/) | [Text to Image](image/text-to-image-image-editing/)             | [Podcasting](industries-and-cases/podcasting/)        | [Writing](industries-and-cases/writing/)                         |
 | ------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
-| [AI Agent](ai-agent/ai-agent/)              | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation/) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
+| [AI Agent](ai-agent-apps/ai-agents/)        | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation/) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
 |                                             |                                                                 |                                                       |                                                                  |
 
 ***
@@ -110,4 +110,8 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 * _8/13/2024 <mark style="color:red;">Changed image embedding to Clouldflare</mark>, Added AI App Development Tool Section, Added AI Scientist, added <mark style="color:orange;">Grok-2</mark>_
 * _8/14/2024 Added <mark style="color:orange;">LLama Tutor</mark>, Some AI cases, Google <mark style="color:orange;">Gemini Live, Cosine Genie</mark>_
 * _8/15/2024 Added <mark style="color:orange;">Sierra.ai, Cresta</mark>, Note-taking section with <mark style="color:orange;">notion</mark>_
+* _8/16/2024 Restructured some contents_
+* _8/19/2024 Restructured some contents_
+* _8/20/2024 Restructured some contents_
+* _8/21/2024 Added AI Photography section, Added LLM learning resources_
 

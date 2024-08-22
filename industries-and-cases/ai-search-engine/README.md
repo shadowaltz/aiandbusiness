@@ -7,7 +7,7 @@ coverY: 0
 
 # 🖱️ AI Search Engine
 
-### <img src="../.gitbook/assets/NB3G6tx3_400x400.jpg" alt="" data-size="line"><mark style="color:orange;">Perplexity</mark>
+### <img src="../../.gitbook/assets/NB3G6tx3_400x400.jpg" alt="" data-size="line"><mark style="color:orange;">Perplexity</mark>
 
 At a time when ChatGPT was not able to access the internet, after all, and could be very inaccurate, in came Perplexity—an AI search engine application that primarily uses internet connectivity to source for whatever information it is. It guarantees sourcing for all the responses, thus leading to very high search speeds and a great user experience. With recent features like Copilot, it has become a serious competitor to Google and is now the default search engine for upcoming browsers like Arc.
 
@@ -19,9 +19,9 @@ Becoming more and more popular in the market, Perplexity has already formed alli
 AI search engines, exemplified by Perplexity, currently have an issue where the information sources they search are consistent with the language you use when asking the question. In simple terms, if you ask a question in English, it will default to searching for information in English on the internet; if you use German, it will search for German information; and if you ask in Chinese, it will search for Chinese information. Due to the significant differences in the richness of information among different languages and the possibility of varying perspectives on the same issue across different cultures, AI search engines might even arrive at opposite conclusions for the same question based on the language of the information. Please be aware of this.
 {% endhint %}
 
-[https://www.perplexity.ai/](https://www.perplexity.ai/)
+Referral link:
 
-<mark style="color:green;">**Pricing:**</mark> <mark style="color:green;"></mark><mark style="color:green;">The free version offers full access to the search function, delivering an already impressive experience. For $20 per month, upgrading to GPT-4/Claude Opus includes features like Copilot and the expansive model Playground, significantly enhancing the overall performance.</mark>
+[https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral\_code=LF6KJLGJ)
 
 ### <mark style="color:orange;">Bing</mark>
 
@@ -45,6 +45,8 @@ Like Perplexity, this AI search engine offers rapid response times and is specif
 
 Exa.ai is a knowledge API that utilizes advanced AI language processing to convert internet information into organized knowledge, designed specifically for large language models and developers.
 
+{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/999c2e68-578e-42e8-ceb0-afad0316ac00/public" %}
+
 ### <mark style="color:orange;">Globe.engineer</mark>
 
 [https://globe.engineer/](https://globe.engineer/)
@@ -53,7 +55,7 @@ Exa.ai is a knowledge API that utilizes advanced AI language processing to conve
 
 Explorer is a search discovery engine. It creates a table of contents on the topic, and then visualizes each section and concept with an optimal image or diagram so you can quickly find what you need, or discover what you didn't know you needed.
 
-<figure><img src="../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
 
 
 

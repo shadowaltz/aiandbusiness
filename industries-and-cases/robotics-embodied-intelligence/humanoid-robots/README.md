@@ -48,5 +48,15 @@ Sanctuary AI, headquartered in Canada, specializes in the development of general
 
 {% embed url="https://x.com/TheSanctuaryAI/status/1783541588846608519" %}
 
+***
+
+### <mark style="color:orange;">Unitree</mark>
+
+Unitree Robotics is a Chinese startup that develops and manufactures high-performance quadruped and humanoid robots, including popular models like the Go1 robotic dog and the recently unveiled G1 humanoid robot.
+
+[https://www.unitree.com](https://www.unitree.com)
+
+{% embed url="https://x.com/UnitreeRobotics/status/1825435336736120880" %}
+
 
 

@@ -10,7 +10,5 @@ New image editing features have recently been introduced, offering AI-powered im
 
 > The DALL·E editor interface enables you to edit images by selecting an area of the image to edit and describing your changes in chat. You can also provide a prompt with your desired edit in the conversation panel, without using the selection tool.
 
-<mark style="background-color:green;">Pricing: Access to this feature is encompassed within the ChatGPT subscription, priced at $20 per month.</mark>
-
 
 

@@ -28,7 +28,8 @@
   * [Industrial Robot](industries-and-cases/robotics-embodied-intelligence/industrial-robot.md)
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
   * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)
-* [🖱️ AI Search Engine](industries-and-cases/ai-search-engine.md)
+* [🖱️ AI Search Engine](industries-and-cases/ai-search-engine/README.md)
+  * [Perplexity](industries-and-cases/ai-search-engine/perplexity.md)
 * [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
   * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
@@ -49,10 +50,12 @@
 * [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🚗 Autonomous Driving](industries-and-cases/autonomous-driving/README.md)
   * [Tesla FSD](industries-and-cases/autonomous-driving/tesla-fsd.md)
+  * [Waymo](industries-and-cases/autonomous-driving/waymo.md)
   * [Autonomous Trucks](industries-and-cases/autonomous-driving/autonomous-trucks.md)
   * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
-* [💽 Software Development](industries-and-cases/software-development/README.md)
-  * [Prompts](industries-and-cases/software-development/prompts.md)
+* [💽 Software Development Tools/Assistants/Agents](industries-and-cases/software-development-tools-assistants-agents/README.md)
+  * [Web Development](industries-and-cases/software-development-tools-assistants-agents/web-development.md)
+  * [Prompts](industries-and-cases/software-development-tools-assistants-agents/prompts.md)
 * [🕹️ Game Development](industries-and-cases/game-development/README.md)
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
 * [🎮 Gaming Assistant](industries-and-cases/gaming-assistant/README.md)
@@ -87,18 +90,20 @@
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Product Development](industries-and-cases/product-development.md)
 
-## AI Agent
+## AI Agent/Apps
 
-* [🪪 What Are AI Agents?](ai-agent/what-are-ai-agents.md)
-* [👾 AI Agent](ai-agent/ai-agent/README.md)
-  * [Microsoft AutoGen](ai-agent/ai-agent/microsoft-autogen.md)
-  * [Make.com](ai-agent/ai-agent/make.com.md)
-* [AI App Development Tool](ai-agent/ai-app-development-tool.md)
+* [🪪 What Are AI Agents?](ai-agent-apps/what-are-ai-agents.md)
+* [👾 AI Agents](ai-agent-apps/ai-agents/README.md)
+  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
+  * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
+  * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
+* [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image
 
 * [🪄 Text to Image / Image Editing](image/text-to-image-image-editing/README.md)
   * [Midjourney Guide](image/text-to-image-image-editing/midjourney-guide.md)
+  * [Grok 2 w/ Flux](image/text-to-image-image-editing/grok-2-w-flux.md)
   * [Midjourney Cases](image/text-to-image-image-editing/midjourney-cases.md)
   * [Comfy UI](image/text-to-image-image-editing/comfy-ui.md)
   * [DallE](image/text-to-image-image-editing/dalle.md)
@@ -117,6 +122,7 @@
 
 * [🎥 Film Making](video-and-films/film-making/README.md)
   * [ASML Ad: Midjourney+Stable Diffusion+Runway](video-and-films/film-making/asml-ad-midjourney+stable-diffusion+runway.md)
+  * [McDonald JP Ad](video-and-films/film-making/mcdonald-jp-ad.md)
   * [Sora](video-and-films/film-making/sora/README.md)
     * [ToysRus New AI Commercial](video-and-films/film-making/sora/toysrus-new-ai-commercial.md)
   * [(-)Luma Dream Machine Tutorial](video-and-films/film-making/luma-dream-machine-tutorial.md)
