@@ -4,13 +4,11 @@ Included among them are service robots, which serve a variety of uses such as cl
 
 {% embed url="https://x.com/NVIDIAAIDev/status/1770249056000029164" %}
 
-### Vacuum-cleaner Equipped Robot
+### Moley Cooking Robotics
 
-A vacuum-footed robot dog developed by the Italian Institute of Technology was designed to clean up the beach.
+[https://www.moley.com/](https://www.moley.com/)
 
-{% embed url="https://spectrum.ieee.org/robot-dog-vacuum" %}
-
-{% embed url="https://youtu.be/O8BqvAe-moI" %}
+{% embed url="https://youtu.be/BOIAbVodM_c?si=uTijp63n7ZiYrw-m" %}
 
 
 

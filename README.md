@@ -51,6 +51,14 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
+### <mark style="color:orange;">**Important News & Updates:**</mark>
+
+a16z released their 3rd Top 100 Gen AI Consumer Apps:
+
+{% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
+
+
+
 #### <mark style="color:red;">**Changelog**</mark>:
 
 * _4/15/2024 Added <mark style="color:orange;">Adobe Premiere Pro</mark> in <mark style="color:purple;">Video Editing</mark>_
