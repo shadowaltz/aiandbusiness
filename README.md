@@ -122,4 +122,5 @@ a16z released their 3rd Top 100 Gen AI Consumer Apps:
 * _8/19/2024 Restructured some contents_
 * _8/20/2024 Restructured some contents_
 * _8/21/2024 Added AI Photography section, Added LLM learning resources_
+* _8/26/2024 Restructured and Added some AI Education contents_
 

@@ -10,9 +10,9 @@ coverY: 0
 ## Navigation: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
 {% hint style="success" %}
-* [Education Prompts](education-prompts.md)
-* [Education Related GPTs](ai-education-gpts.md)
-* [AI Learning Tools](ai-learning-tools.md)
+* [Education Prompts](education-prompt-examples.md)
+* Education Related GPTs
+* [AI E](ai-education-tools/)ducation Tools
 {% endhint %}
 
 

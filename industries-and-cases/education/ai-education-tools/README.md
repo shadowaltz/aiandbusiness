@@ -1,6 +1,17 @@
-# AI Learning Tools
+# AI Education Tools
+
+## Navigation:
+
+{% hint style="info" %}
+* AI STEAM Learning Tools
+* AI Language Learning Tools
+{% endhint %}
 
 
+
+***
+
+## <mark style="color:purple;">Other Excellent Tools</mark>
 
 ### <mark style="color:orange;">AI Bus</mark>
 
@@ -26,11 +37,27 @@ Enter a topic you want to learn about along with the education level you want to
 
 Explorer is a search discovery engine. It creates a table of contents on the topic, and then visualizes each section and concept with an optimal image or diagram so you can quickly find what you need, or discover what you didn't know you needed.
 
-<figure><img src="../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
-
-1
+<figure><img src="../../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
 
 
 
+### <mark style="color:orange;">Magic School AI</mark>
 
+[https://www.magicschool.ai/](https://www.magicschool.ai/)
+
+
+
+### Diffit
+
+An AI tool that adapts texts and content to different reading levels for differentiated instruction.
+
+[https://app.diffit.me/](https://app.diffit.me/)
+
+
+
+### Quizizz
+
+An AI-enhanced quiz creation tool that can adjust question difficulty and generate questions.
+
+[https://quizizz.com/home-v1](https://quizizz.com/home-v1)
 

@@ -23,7 +23,9 @@ layout:
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
-
+{% hint style="success" %}
+Editor’s note: <mark style="color:orange;">Flux. 1 which was created by the</mark> original Stable Diffusion members, 已经全面超过Stable Diffusion的效果<mark style="color:orange;">，而且完全兼容现在的如Comfy UI等主流UI，成为最强大的开源文生图模型，能力甚至对于当前的Midjourney略有超越。使得各种基于Stable Diffusion的Saas业务能力大为增强。</mark>
+{% endhint %}
 
 ### <mark style="color:orange;">Stable Diffusion</mark>
 
@@ -63,7 +65,7 @@ Due to the recent mass departure of the executives and core team at Stable Diffu
 
 
 
-### <mark style="color:orange;">Flux 1</mark>
+### <mark style="color:orange;">Flux. 1</mark>
 
 [https://blackforestlabs.ai/](https://blackforestlabs.ai/)
 

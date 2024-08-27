@@ -20,7 +20,7 @@ Character AI is an artificial intelligence platform that allows users to create 
 
 [https://replika.com/](https://replika.com/)
 
-
+Replika is an AI companion app that offers users a personalized virtual friend to chat with, share experiences, and receive empathetic support through sophisticated machine learning algorithms.
 
 
 

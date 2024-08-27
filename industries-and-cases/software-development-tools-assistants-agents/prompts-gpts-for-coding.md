@@ -1,4 +1,4 @@
-# Prompts
+# Prompts/GPTs for Coding
 
 ## Generate Code
 
@@ -10,7 +10,7 @@ Using LLMs and prompts to generate code directly, Claude Opus currently offers t
 
 
 
-### GPTs
+### Coding GPTs
 
 #### <mark style="background-color:purple;">Code Copilot</mark>
 
