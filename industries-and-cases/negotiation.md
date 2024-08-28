@@ -7,6 +7,20 @@ coverY: 0
 
 # 🤝 Negotiation
 
+## Tools:
+
+Humantic AI
+
+[https://humantic.ai/](https://humantic.ai/)
+
+
+
+Pactum
+
+[https://pactum.com/](https://pactum.com/)
+
+
+
 ## Prompt：
 
 Negotiation Simulator - GPT4
@@ -28,4 +42,12 @@ Opting for GPT models offers a streamlined approach, with ChatGPT's official tea
 [https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator)
 
 
+
+
+
+***
+
+## Reading:
+
+{% embed url="https://www.forbes.com/sites/rogerdooley/2024/01/04/ai-in-negotiations-a-game-changer-for-dealmakers/" %}
 

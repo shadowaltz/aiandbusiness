@@ -7,8 +7,10 @@ coverY: 0
 
 # ℹ️ News/Info Gathering
 
-There are a host of AI-powered tools that journalists and creators can take advantage of to keep up with emerging trends and make the news that they break real-time and are always effective. Real-time updates are further personalized with the relevance of recommendations made according to personal tastes and past activities. This ensures that impactful topics are always brought to your attention, so you're always on point with regards to what's going to resonate with your audience.
+There are a host of AI-powered tools that journalists and creators can take advantage of to keep up with emerging trends and make the news that they break in real-time and are always effective. Real-time updates are further personalized with the relevance of recommendations made according to personal tastes and past activities. This ensures that impactful topics are always brought to your attention, so you're always on point with regard to what's going to resonate with your audience.
 
+{% tabs %}
+{% tab title="Perplexity" %}
 ### <mark style="color:orange;">Perplexity -- Discover tab</mark>
 
 In Perplexity, the Discover page presents you with the most stirring news from top stories, thoroughly drawn from various media. Using smart filtering, sorting, and categorizing through advanced AI algorithms, articles are arranged to make sure that users can navigate through the most relevant and thought-provoking articles on a wide range of topics easily and effectively.
@@ -26,10 +28,10 @@ Recently, in a collaborative effort, <mark style="color:orange;">Perplexity</mar
 {% embed url="https://open.spotify.com/show/2GaoJrcOUlwmmm3C8gu2uy" %}
 Perplexity Discover Daily News Channel
 {% endembed %}
+{% endtab %}
 
-***
+{% tab title="News Minimalist" %}
 
-### <mark style="color:orange;">News Minimalist</mark>
 
 {% embed url="https://www.newsminimalist.com/" %}
 
@@ -45,16 +47,20 @@ A lesser-known yet valuable web-based app. News Minimalist uses AI (ChatGPT-4) t
 > * **credibility**: how credible is the source.
 
 <mark style="background-color:green;">A free version is available for users. The Premium version, priced at $10 monthly or $100 annually, offers access to summaries of over 1000 articles, along with the capabilities to create personal subscription feeds and custom RSS feeds.</mark>
+{% endtab %}
 
-***
-
-### <mark style="color:orange;">X(Twitter)--Grok</mark>
-
+{% tab title="Grok" %}
 Grok is an AI system created by xAI, drawing inspiration from "The Hitchhiker's Guide to the Galaxy" and "Iron Man's" JARVIS. Grok's primary role is to answer a wide array of questions, always aiming to be maximally helpful. Unlike other AI systems, Grok boasts a unique advantage: accessing up-to-the-minute information via the X platform (formerly Twitter), in tune with the world's latest happenings.&#x20;
 
 {% embed url="https://twitter.com/i/grok" %}
 
 <figure><img src="../../.gitbook/assets/grok.png" alt=""><figcaption><p>Grok News summary</p></figcaption></figure>
+
+
+{% endtab %}
+{% endtabs %}
+
+
 
 
 

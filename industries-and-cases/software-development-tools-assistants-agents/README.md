@@ -7,17 +7,19 @@ coverY: 0
 
 # 💽 Software Development Tools/Assistants/Agents
 
-## LLM for Coding
+## <mark style="color:purple;">LLM for Coding</mark>
+
+### Claude Artifact
 
 Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
 
 [https://claude.ai](https://claude.ai)
 
-
+{% embed url="https://claude.ai/_next/image?url=%2Fimages%2Ffeature-preview%2Fartifacts.png&w=1920&q=75" %}
 
 ***
 
-## Software Development Assistants
+## <mark style="color:purple;">Software Development Assistants</mark>
 
 {% tabs %}
 {% tab title="Cursor" %}
@@ -45,15 +47,9 @@ GitHub Copilot is an AI-powered coding assistant that provides contextualized he
 
 
 
-### GitHub Models
-
-{% embed url="https://youtu.be/6JuwNLuqV4c" %}
-
-
-
 ***
 
-## AI Software Saas
+## <mark style="color:purple;">AI Software Saas</mark>
 
 {% tabs %}
 {% tab title="Imagica" %}
@@ -62,8 +58,6 @@ GitHub Copilot is an AI-powered coding assistant that provides contextualized he
 Imagica is a no-code AI app builder that allows users to create functional apps without coding.&#x20;
 
 {% embed url="https://youtu.be/xcpka6pC3Lk" %}
-1
-{% endembed %}
 {% endtab %}
 
 {% tab title="MindStudio" %}
@@ -75,7 +69,7 @@ The Fastest Way To Build AI-Powered Apps Create no-code AI workflows that automa
 
 ***
 
-## AI Agent Software Engineer
+## <mark style="color:purple;">AI Agent Software Engineer</mark>
 
 {% tabs %}
 {% tab title="Devin" %}

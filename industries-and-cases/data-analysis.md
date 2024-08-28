@@ -53,6 +53,18 @@ ChatGPT has recently upgraded its data analysis capabilities, enabling it to eff
 Link
 {% endembed %}
 
+
+
+## Tools:
+
+### <mark style="color:orange;">Julius AI</mark>&#x20;
+
+[https://julius.ai](https://julius.ai)
+
+Julius AI is a versatile AI-powered data analysis platform that offers features such as creating data visualizations, answering questions about data, performing predictive forecasting, solving math and science problems, and generating polished analyses and summaries.
+
+***
+
 ## Large-scale datasets
 
 For analyzing large-scale data, it's still advised to use specialized data analysis software, with many established giants in data analysis incorporating AI functionalities into their products. For instance, the industry leader Tableau has enhanced its software with an AI system, making it more user-friendly and intelligent.

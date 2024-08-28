@@ -1,12 +1,4 @@
-# Prompts/GPTs for Coding
-
-## Generate Code
-
-### Direct Outputs from Large Language Models
-
-Using LLMs and prompts to generate code directly, Claude Opus currently offers the best performance, enabling the achievement of superior results.
-
-
+# GPTs for Coding
 
 
 

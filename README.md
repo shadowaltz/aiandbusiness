@@ -40,12 +40,9 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 <figure><img src=".gitbook/assets/ai search.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">Hot Topics:</mark>
+### <mark style="color:orange;">Trending Topics:</mark>
 
-| [Film Making](video-and-films/film-making/) | [Text to Image](image/text-to-image-image-editing/)             | [Podcasting](industries-and-cases/podcasting/)        | [Writing](industries-and-cases/writing/)                         |
-| ------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
-| [AI Agent](ai-agent-apps/ai-agents/)        | [Scholar\&Research](industries-and-cases/scholar-and-research/) | [Music Generation](sound-and-music/music-generation/) | [Robotics](industries-and-cases/robotics-embodied-intelligence/) |
-|                                             |                                                                 |                                                       |                                                                  |
+<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="video-and-films/film-making/"><strong>Film Making</strong></a></td><td><a href="image/text-to-image-image-editing/"><strong>Text to Image</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="ai-agent-apps/ai-agents/"><strong>AI Agent</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td></td></tr></tbody></table>
 
 ***
 

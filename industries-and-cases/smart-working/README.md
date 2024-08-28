@@ -5,13 +5,19 @@ cover: >-
 coverY: 0
 ---
 
-# 🖋️ Smart Office
+# 🖋️ Smart Working
+
+## Navigation:
 
 {% hint style="success" %}
 * [**PDF**](pdf.md)
 * [**Excel**](excel.md)
 * [**Slides**](slides.md)
+* [**Mindmap**](mindmap.md)
+* **Note-taking**
 {% endhint %}
+
+***
 
 ## All-in-one Office Suite
 

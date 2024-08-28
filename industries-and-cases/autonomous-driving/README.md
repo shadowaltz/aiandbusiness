@@ -11,9 +11,9 @@ coverY: 0
 <mark style="color:orange;">Tesla</mark> and <mark style="color:orange;">Waymo</mark> stand out as leading figures in autonomous vehicles, each adopting distinctly different approaches in developing and implementing their technology.
 
 {% hint style="info" %}
-* [Tesla FSD](tesla-fsd.md)
-* [Waymo](waymo.md)
-* Baidu Apollo Go Case
+* [**Tesla FSD**](tesla-fsd.md)
+* [**Waymo**](waymo.md)
+* **Baidu Apollo Go Case**
 {% endhint %}
 
 ### Other **Autonomous driving Companies**

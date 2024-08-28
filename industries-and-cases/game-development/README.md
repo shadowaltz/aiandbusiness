@@ -7,12 +7,10 @@ coverY: 0
 
 # 🕹️ Game Development
 
-## AI NPC
+## Navigation:
 
 {% hint style="info" %}
-* Inword AI
-* Nvidia ACE
-* Bitpart.ai
+* AI NPC
 {% endhint %}
 
 ***

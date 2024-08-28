@@ -5,7 +5,7 @@ coverY: 0
 
 # 🚚 Supply Chain
 
-## Production & Inventory Control
+## <mark style="color:purple;">Production & Inventory Control</mark>
 
 ### Nvidia NIM
 
@@ -21,7 +21,7 @@ Predictive analytics powered by AI utilize historical sales data, market trends,
 
 
 
-## Logistics & Transportation & Distribution
+## <mark style="color:purple;">Logistics & Transportation & Distribution</mark>
 
 #### UPS To Enhance ORION With Continuous Delivery Route Optimization
 

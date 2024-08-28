@@ -22,7 +22,9 @@ Industrial Robot includes a diverse array of industrial robotic arms that are in
 
 
 
+***
 
+### <mark style="color:orange;">Chef Robotics</mark>
 
 {% embed url="https://x.com/ChefRobotics/status/1814017333456703693" %}
 
