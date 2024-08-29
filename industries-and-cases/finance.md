@@ -46,9 +46,19 @@ The following article discusses the impact of artificial intelligence (AI) on th
 
 {% embed url="https://www.jpmorgan.com/insights/payments/payments-optimization/ai-payments-efficiency-fraud-reduction" %}
 
+## Tools:
+
+### Intellectia AI
+
+[https://intellectia.ai/](https://intellectia.ai/)
+
+Intellectia.AI is a pioneering fintech startup that leverages artificial intelligence to provide comprehensive financial market intelligence and investment research tools for global investors.
 
 
 
+### Alpha Sense
 
+[https://www.alpha-sense.com/](https://www.alpha-sense.com/)
 
+AlphaSense is a market intelligence and search platform that uses AI technology to help companies and financial institutions make data-driven decisions by providing insights from a vast array of public and private content, including company filings, event transcripts, news, trade journals, and equity research.
 

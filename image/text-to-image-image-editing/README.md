@@ -24,7 +24,7 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 {% endhint %}
 
 {% hint style="success" %}
-Editor’s note: <mark style="color:orange;">Flux. 1 which was created by the</mark> original Stable Diffusion members, 已经全面超过Stable Diffusion的效果<mark style="color:orange;">，而且完全兼容现在的如Comfy UI等主流UI，成为最强大的开源文生图模型，能力甚至对于当前的Midjourney略有超越。使得各种基于Stable Diffusion的Saas业务能力大为增强。</mark>
+Editor’s note: **Flux 1**, created by the original members of Stable Diffusion, has now fully surpassed the performance of Stable Diffusion. It is fully compatible with mainstream UIs like Comfy UI and has become the most powerful open-source text-to-image model, even slightly surpassing Midjourney in some aspects. This has significantly enhanced the capabilities of various SaaS businesses based on Stable Diffusion.
 {% endhint %}
 
 ### <mark style="color:orange;">Stable Diffusion</mark>

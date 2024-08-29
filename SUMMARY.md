@@ -55,7 +55,7 @@
 * [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [💽 Software Development Tools/Assistants/Agents](industries-and-cases/software-development-tools-assistants-agents/README.md)
   * [Cursor](industries-and-cases/software-development-tools-assistants-agents/cursor.md)
-  * [Web Development](industries-and-cases/software-development-tools-assistants-agents/web-development.md)
+  * [Front End Development](industries-and-cases/software-development-tools-assistants-agents/front-end-development.md)
   * [GPTs for Coding](industries-and-cases/software-development-tools-assistants-agents/gpts-for-coding.md)
 * [🕹️ Game Development](industries-and-cases/game-development/README.md)
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)

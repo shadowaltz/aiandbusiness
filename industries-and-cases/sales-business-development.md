@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1521790797524-b2497295b8a0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxidXllcnxlbnwwfHx8fDE3MjQ5Njc5MDB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -6,7 +8,7 @@ coverY: 0
 
 ### 11X AI
 
-**An AI-Powered Sales Development Representative.**
+An AI-Powered Sales Development Representative.
 
 [https://www.11x.ai/](https://www.11x.ai/)
 
@@ -14,7 +16,11 @@ coverY: 0
 
 
 
+### Humantic AI
 
+[https://humantic.ai/](https://humantic.ai/)
+
+Humantic AI is a Buyer Intelligence platform that uses Personality AI to provide sales teams with deep insights into potential customers, enabling personalized communication and improved sales performance across the entire funnel.
 
 
 

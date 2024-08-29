@@ -4,11 +4,31 @@ Included among them are service robots, which serve a variety of uses such as cl
 
 {% embed url="https://x.com/NVIDIAAIDev/status/1770249056000029164" %}
 
+
+
+## Kitchen
+
 ### Moley Cooking Robotics
 
 [https://www.moley.com/](https://www.moley.com/)
 
 {% embed url="https://youtu.be/BOIAbVodM_c?si=uTijp63n7ZiYrw-m" %}
+
+
+
+## construction
+
+### Okibo
+
+Painting Robot
+
+[https://okibo.com/](https://okibo.com/)
+
+{% embed url="https://www.youtube.com/shorts/dWIRhRYQRqM" %}
+
+
+
+
 
 
 
