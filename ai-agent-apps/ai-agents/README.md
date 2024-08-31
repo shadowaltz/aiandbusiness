@@ -1,7 +1,7 @@
 # 👾 AI Agents
 
 {% hint style="info" %}
-Editor’s note: AI Agents are still in their early stages, and building one requires some basic programming knowledge. The simpler the installation and setup, and the less programming knowledge needed, the more expensive the AI Agent service tends to be.AIエージェントはまだ初期段階にあり、構築するには基本的なプログラミング知識が必要です。インストールとセットアップが簡単で、プログラミングの知識が少なくて済むほど、AIエージェントのサービスは高価になる傾向があります。
+Editor’s note: AI Agents are still in their early stages, and building one requires some basic programming knowledge. The simpler the installation and setup, and the less programming knowledge needed, the more expensive the AI Agent service tends to be.
 {% endhint %}
 
 ## No code AI Agent
@@ -97,6 +97,14 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 ### AI Software Engineer Agent
 
 {% tabs %}
+{% tab title="Cosine Genie" %}
+Cosine Genie is an advanced AI-powered software engineering model that has achieved the highest score on the SWE-Bench test, demonstrating its ability to autonomously perform complex coding tasks like debugging, feature development, and code refactoring.
+
+[https://cosine.sh/](https://cosine.sh/)
+
+
+{% endtab %}
+
 {% tab title="Devin" %}
 
 
@@ -104,13 +112,7 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
-
-
 
 
 
@@ -136,4 +138,3 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 {% endtab %}
 {% endtabs %}
 
-1
