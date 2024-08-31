@@ -10,8 +10,8 @@ coverY: 0
 **Navigation:**
 
 {% hint style="info" %}
-* Related Prompts
-* Research & Scholar GPTs
+* [Scholar & Research Prompts](scholar-and-research-prompts.md)
+* [Research & Scholar GPTs](research-and-scholar-gpts.md)
 * Research Examples using Perplexity
 * Stanford Storm 2.0 Tutorial
 {% endhint %}
@@ -36,7 +36,7 @@ GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https:/
 
 [https://afforai.com/](https://afforai.com/)
 
-
+Afforai is a powerful AI research assistant and chatbot designed to enhance productivity and streamline information processing.
 
 {% embed url="https://afforai.com/img/landing_page/main-image.png" %}
 

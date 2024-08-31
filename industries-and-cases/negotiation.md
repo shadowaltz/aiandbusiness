@@ -9,15 +9,19 @@ coverY: 0
 
 ## Tools:
 
-Humantic AI
+{% tabs %}
+{% tab title="Pactum" %}
 
-[https://humantic.ai/](https://humantic.ai/)
-
-
-
-Pactum
 
 [https://pactum.com/](https://pactum.com/)
+{% endtab %}
+
+{% tab title="Humantic AI" %}
+
+
+[https://humantic.ai/](https://humantic.ai/)
+{% endtab %}
+{% endtabs %}
 
 
 

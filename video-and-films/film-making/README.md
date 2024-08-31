@@ -4,15 +4,33 @@ description: AI & Film Making
 
 # 🎥 Film Making
 
-Compared to generating images, creating videos with AI involves a greater level of complexity, encompassing a wide array of approaches and styles. Broadly speaking, the video generation techniques available today fall into three categories:&#x20;
 
-* **Text-to-Video**
-* **Video-to-Video**
-* **Image-to-Video**
 
-## Text-to-Video Solution
+## Top-tier AI video generation application
 
-### <img src="../../.gitbook/assets/openai-logomark.png" alt="" data-size="line"><mark style="color:orange;">Sora</mark>
+{% tabs %}
+{% tab title="Runway" %}
+Official Link:[https://runwayml.com/](https://runwayml.com/)
+
+Runway, an innovative artificial intelligence startup, is at the forefront of developing generative AI video tools. Their flagship product, Gen-2, is reshaping the landscape of video content creation.&#x20;
+
+**Update:**&#x20;
+
+They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>. Runway's Gen-3 Alpha, a cutting-edge AI video generator trained on both videos and images, offers improved control, faster creation times, and higher fidelity compared to its predecessor, Gen-2, supporting tools like Text-to-video, Image-to-video, and Text-to-image.
+
+{% embed url="https://youtu.be/nByslCkykj8" %}
+{% endtab %}
+
+{% tab title="Luma Dream Machine" %}
+
+
+[https://lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)
+
+Dream Machine 1.5 is here. Now with higher-quality text-to-video
+{% endtab %}
+
+{% tab title="Sora" %}
+
 
 {% embed url="https://openai.com/sora" %}
 
@@ -29,28 +47,10 @@ As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming 
 {% hint style="info" %}
 <mark style="background-color:green;">As of now, OpenAI has not launched a public beta for Sora, making it exclusively available to a select group of directors and professionals in the industry, with no access to the general public.</mark>
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
 
-
-### <mark style="color:orange;">Luma Dream Machine</mark>
-
-[https://lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)
-
-Dream Machine 1.5 is here. Now with higher-quality text-to-video.
-
-
-
-### <mark style="color:orange;">Runway</mark>
-
-Official Link:[https://runwayml.com/](https://runwayml.com/)
-
-Runway, an innovative artificial intelligence startup, is at the forefront of developing generative AI video tools. Their flagship product, Gen-2, is reshaping the landscape of video content creation.&#x20;
-
-**Update:**&#x20;
-
-They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>. Runway's Gen-3 Alpha, a cutting-edge AI video generator trained on both videos and images, offers improved control, faster creation times, and higher fidelity compared to its predecessor, Gen-2, supporting tools like Text-to-video, Image-to-video, and Text-to-image.
-
-{% embed url="https://youtu.be/nByslCkykj8" %}
 
 ### Others:
 
@@ -123,6 +123,4 @@ Video-to-video editing tools are great at changing how characters look and alter
 {% embed url="https://vimeo.com/915647923" %}
 
 
-
-Advanced tools can even replace characters at a quality similar to Hollywood films.
 

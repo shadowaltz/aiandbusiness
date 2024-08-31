@@ -19,35 +19,53 @@ Applications (like [https://www.observe.ai/](https://www.observe.ai/)) to discer
 
 ## Customer Service ChatBot
 
-### <mark style="color:orange;">ADA</mark>
-
+{% tabs %}
+{% tab title="ADA" %}
 [https://www.ada.cx/](https://www.ada.cx/)
 
 Ada is an AI-powered customer service platform that helps businesses save time and resources. It uses an AI Agent to resolve customer inquiries accurately and consistently across multiple channels, including voice.&#x20;
 
 {% embed url="https://www.ada.cx/_astro/home-voice.x0-Wxnu4_Z1yDq6W.webp" %}
 
-### <mark style="color:orange;">Cresta</mark>
 
+{% endtab %}
+
+{% tab title="Cresta" %}
 [https://cresta.com/](https://cresta.com/)
 
 Cresta is an enterprise-grade generative AI platform designed to revolutionize contact centers by enhancing agent performance, automating processes, and providing real-time insights to drive business success.
 
 {% embed url="https://youtu.be/L9xmuLm-hCI" %}
 
-### <mark style="color:orange;">Sierra.ai</mark>
+
+{% endtab %}
+
+{% tab title="Sierra.ai" %}
+
 
 [https://sierra.ai/](https://sierra.ai/)
 
 Sierra is an AI-powered platform that aims to transform customer experiences by providing conversational AI agents capable of engaging customers, solving complex issues, and continuously improving based on analytics and feedback.
 
 {% embed url="https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2F2222457f72ad17f79441045ef7f13999d3ef6249-1920x1920.jpg&width=1920&quality=90" %}
+{% endtab %}
 
-### <mark style="color:orange;">WonderChat</mark>
+{% tab title="Bland AI" %}
+###
+
+[https://www.bland.ai/?referrer=www.bland.ai](https://www.bland.ai/?referrer=www.bland.ai)
+
+Bland AI is a developer-first platform that enables enterprises to automate inbound and outbound phone calls using hyper-realistic AI agents capable of understanding human emotion, speaking any language, and representing brands like top employees.
+{% endtab %}
+
+{% tab title="WonderChat" %}
+
 
 [https://wonderchat.io/](https://wonderchat.io/)
 
 Wonderchat, an AI-powered tool, has significantly improved the user experience with FileWave's Knowledge Base by simplifying the search process. It enables users to find information more efficiently and identifies gaps or areas for improvement in the Knowledge Base. This enhancement has made navigating the complexities of the KB much more manageable, providing users with a more convenient and clearer search experience.
+{% endtab %}
+{% endtabs %}
 
 ***
 

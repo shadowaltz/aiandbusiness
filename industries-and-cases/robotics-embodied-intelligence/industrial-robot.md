@@ -4,21 +4,31 @@ Industrial Robot includes a diverse array of industrial robotic arms that are in
 
 
 
-### <mark style="color:orange;">ABB</mark>
+{% tabs %}
+{% tab title="ABB" %}
+
 
 {% embed url="https://youtu.be/y90yld25160" %}
+{% endtab %}
 
-### <mark style="color:orange;">Kawasaki</mark>
+{% tab title="Kawasaki" %}
+
 
 {% embed url="https://youtu.be/3-kEXlfA2Ww" %}
+{% endtab %}
 
-### <mark style="color:orange;">Mitsubishi Electric</mark>
+{% tab title="Mitsubishi Electric" %}
+
 
 {% embed url="https://youtu.be/zs78LISKjiU" %}
+{% endtab %}
 
-### <mark style="color:orange;">Omron</mark>
+{% tab title="Omron" %}
+
 
 {% embed url="https://youtu.be/xRQIftQ0Tvw" %}
+{% endtab %}
+{% endtabs %}
 
 
 

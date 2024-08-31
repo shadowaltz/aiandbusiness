@@ -6,7 +6,7 @@ coverY: 137.1375464684015
 
 # 🤖 Robotics/Embodied Intelligence
 
-#### Navigation:
+## Navigation:
 
 {% hint style="info" %}
 * [Humanoid Robots](humanoid-robots/)

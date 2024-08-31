@@ -13,7 +13,7 @@ coverY: 0
 {% hint style="info" %}
 * [**Tesla FSD**](tesla-fsd.md)
 * [**Waymo**](waymo.md)
-* **Baidu Apollo Go Case**
+* [**Baidu Apollo Go Case**](case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 {% endhint %}
 
 ### Other **Autonomous driving Companies**

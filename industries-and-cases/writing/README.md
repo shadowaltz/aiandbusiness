@@ -7,6 +7,15 @@ coverY: 0
 
 # ✍️ Writing
 
+## Navigation:
+
+{% hint style="info" %}
+* [AI Detector & Humanizer](ai-detector-and-humanizer.md)
+* [Novel Writing](novel-writing.md)
+{% endhint %}
+
+***
+
 {% hint style="success" %}
 For writing, the recommendation is to opt for larger, more comprehensively capable models. Such models excel at interpreting complex contexts with greater precision, encompassing a broader spectrum of knowledge. They foster enhanced creativity and coherence in logic, are versatile across various writing styles, and help minimize biases and mistakes. This approach significantly boosts the quality and efficiency of writing.
 {% endhint %}

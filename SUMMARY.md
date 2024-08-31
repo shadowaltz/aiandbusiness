@@ -33,7 +33,7 @@
 * [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
   * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
-  * [Prompts](industries-and-cases/scholar-and-research/prompts.md)
+  * [Scholar & Research Prompts](industries-and-cases/scholar-and-research/scholar-and-research-prompts.md)
   * [Research & Scholar GPTs](industries-and-cases/scholar-and-research/research-and-scholar-gpts.md)
   * [Research Examples using Perplexity](industries-and-cases/scholar-and-research/research-examples-using-perplexity.md)
   * [(-)Stanford Storm 2.0 Tutorial](industries-and-cases/scholar-and-research/stanford-storm-2.0-tutorial.md)
@@ -42,17 +42,16 @@
   * [Novel Writing](industries-and-cases/writing/novel-writing.md)
 * [👩‍💻 Data Analysis](industries-and-cases/data-analysis.md)
 * [🤩 Branding](industries-and-cases/branding.md)
-* [📈 Marketing](industries-and-cases/marketing/README.md)
-  * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)
-    * [Social Media Prompts](industries-and-cases/marketing/social-media/social-media-prompts.md)
 * [🚗 Autonomous Driving](industries-and-cases/autonomous-driving/README.md)
   * [Tesla FSD](industries-and-cases/autonomous-driving/tesla-fsd.md)
   * [Waymo](industries-and-cases/autonomous-driving/waymo.md)
   * [Autonomous Trucks](industries-and-cases/autonomous-driving/autonomous-trucks.md)
   * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
+* [📈 Marketing](industries-and-cases/marketing/README.md)
+  * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)
+    * [Social Media Prompts](industries-and-cases/marketing/social-media/social-media-prompts.md)
 * [📎 Customer Service](industries-and-cases/customer-service/README.md)
   * [Customer Service Prompts](industries-and-cases/customer-service/customer-service-prompts.md)
-* [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [💽 Software Development Tools/Assistants/Agents](industries-and-cases/software-development-tools-assistants-agents/README.md)
   * [Cursor](industries-and-cases/software-development-tools-assistants-agents/cursor.md)
   * [Front End Development](industries-and-cases/software-development-tools-assistants-agents/front-end-development.md)
@@ -73,6 +72,7 @@
 * [👥 Virtual Avatar / Digital Human](industries-and-cases/virtual-avatar-digital-human.md)
 * [✨ Spatial Computing/3D](industries-and-cases/spatial-computing-3d.md)
 * [📐 Industrial drafting and modeling](industries-and-cases/industrial-drafting-and-modeling.md)
+* [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🏛️ Corporate Management](industries-and-cases/corporate-management/README.md)
   * [Management Prompts](industries-and-cases/corporate-management/management-prompts.md)
 * [🎓 Education](industries-and-cases/education/README.md)
@@ -85,7 +85,7 @@
 * [🚚 Supply Chain](industries-and-cases/supply-chain/README.md)
   * [Warehousing & Logistics](industries-and-cases/supply-chain/warehousing-and-logistics.md)
 * [👂 Translation](industries-and-cases/translation.md)
-* [💸 Finance](industries-and-cases/finance.md)
+* [💸 AI + Finance](industries-and-cases/ai-+-finance.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Product Development](industries-and-cases/product-development.md)
 
@@ -109,14 +109,6 @@
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [🌆 AI Image Detector](image/ai-image-detector.md)
 
-## Sound & Music
-
-* [🎤 Voice Generation Tools](sound-and-music/voice-generation-tools/README.md)
-  * [ElevenLabs Tutorial](sound-and-music/voice-generation-tools/elevenlabs-tutorial.md)
-* [🎼 Music Generation](sound-and-music/music-generation/README.md)
-  * [Suno Guide](sound-and-music/music-generation/suno-guide.md)
-* [🪇 Sound Effect](sound-and-music/sound-effect.md)
-
 ## Video & Films
 
 * [🎥 Film Making](video-and-films/film-making/README.md)
@@ -129,6 +121,14 @@
     * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
 * [🎛️ AI Video Editing](video-and-films/ai-video-editing/README.md)
   * [AI VIDEO CLIPPING](video-and-films/ai-video-editing/ai-video-clipping.md)
+
+## Sound & Music
+
+* [🎤 Voice Generation Tools](sound-and-music/voice-generation-tools/README.md)
+  * [ElevenLabs Tutorial](sound-and-music/voice-generation-tools/elevenlabs-tutorial.md)
+* [🎼 Music Generation](sound-and-music/music-generation/README.md)
+  * [Suno Guide](sound-and-music/music-generation/suno-guide.md)
+* [🪇 Sound Effect](sound-and-music/sound-effect.md)
 
 ## AI Hardware
 

@@ -9,6 +9,8 @@ coverY: 0
 
 There are a host of AI-powered tools that journalists and creators can take advantage of to keep up with emerging trends and make the news that they break in real-time and are always effective. Real-time updates are further personalized with the relevance of recommendations made according to personal tastes and past activities. This ensures that impactful topics are always brought to your attention, so you're always on point with regard to what's going to resonate with your audience.
 
+## Tools:
+
 {% tabs %}
 {% tab title="Perplexity" %}
 ### <mark style="color:orange;">Perplexity -- Discover tab</mark>
@@ -62,5 +64,9 @@ Grok is an AI system created by xAI, drawing inspiration from "The Hitchhiker's 
 
 
 
+## Info Gathering AI Agents:
 
+AI agents can be used to build more advanced and customized AI information-gathering tools. For example, using Make, you can connect to RSS feed applications to collect information, then use LLMs to organize and summarize the data, and finally output it in your desired format. This allows you to efficiently complete various information-gathering tasks.
+
+For detailed information, please refer to the <mark style="color:purple;">**AI Agents**</mark> section.
 

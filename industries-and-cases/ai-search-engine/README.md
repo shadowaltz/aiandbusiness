@@ -31,7 +31,7 @@ Thanks to its partnership with OpenAI, Bing became the pioneering search engine 
 
 [https://www.bing.com/](https://www.bing.com/)
 
-<mark style="background-color:green;">Pricing: At $20 per month, this offers a compelling alternative to ChatGPT for users who prioritize search capabilities, presenting it as a valuable choice for those looking to enhance their search experience.</mark>
+
 
 ### <mark style="color:orange;">Phind</mark>
 
