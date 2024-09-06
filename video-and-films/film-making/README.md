@@ -27,6 +27,8 @@ They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>.
 [https://lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)
 
 Dream Machine 1.5 is here. Now with higher-quality text-to-video
+
+{% embed url="https://youtu.be/xcyZe-kiRB8?si=zsBEOHGdo72M2kue" %}
 {% endtab %}
 
 {% tab title="Sora" %}
@@ -121,6 +123,4 @@ Video-to-video editing tools are great at changing how characters look and alter
 [https://domoai.app/](https://domoai.app/)
 
 {% embed url="https://vimeo.com/915647923" %}
-
-
 
