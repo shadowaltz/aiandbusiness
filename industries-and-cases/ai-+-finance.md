@@ -1,4 +1,8 @@
-# 💸 AI + Finance
+---
+icon: hand-holding-circle-dollar
+---
+
+# AI + Finance
 
 ## Financial Analysis and Research:&#x20;
 

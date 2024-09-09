@@ -4,7 +4,7 @@
 Editor’s note: AI Agents are still in their early stages, and building one requires some basic programming knowledge. The simpler the installation and setup, and the less programming knowledge needed, the more expensive the AI Agent service tends to be.
 {% endhint %}
 
-## No code AI Agent
+## No code AI Agent/Automatio
 
 {% tabs %}
 {% tab title="Make.com" %}
@@ -16,11 +16,11 @@ Make.com is a versatile online platform that allows users to create custom workf
 {% endtab %}
 
 {% tab title="Zapier" %}
-
+## Zapier
 
 [https://zapier.com/ai](https://zapier.com/ai)
 
-
+Zapier is a flagship application in the automation field, and after integrating LLM functionality, its use cases and capabilities have been greatly enhanced.
 {% endtab %}
 
 {% tab title="Wordware" %}

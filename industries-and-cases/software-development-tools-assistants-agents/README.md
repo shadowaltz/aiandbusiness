@@ -19,7 +19,7 @@ Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of
 
 ***
 
-## <mark style="color:purple;">Software Development Assistants</mark>
+## <mark style="color:purple;">AI Software Development Assistants</mark>
 
 {% tabs %}
 {% tab title="Cursor" %}
@@ -43,29 +43,17 @@ GitHub Copilot is an AI-powered coding assistant that provides contextualized he
 
 {% embed url="https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4" %}
 {% endtab %}
-{% endtabs %}
 
+{% tab title="Replit" %}
+Replit
 
+[https://replit.com/](https://replit.com/)
 
-***
-
-## <mark style="color:purple;">AI Software Saas</mark>
-
-{% tabs %}
-{% tab title="Imagica" %}
-[https://www.imagica.ai/](https://www.imagica.ai/)
-
-Imagica is a no-code AI app builder that allows users to create functional apps without coding.&#x20;
-
-{% embed url="https://youtu.be/xcpka6pC3Lk" %}
-{% endtab %}
-
-{% tab title="MindStudio" %}
-[https://youai.ai/](https://youai.ai/)
-
-The Fastest Way To Build AI-Powered Apps Create no-code AI workflows that automate and optimize all parts of your business.
+An online AI-powered IDE
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 
@@ -77,7 +65,9 @@ Cognition has recently unveiled its inaugural AI software engineer named Devin. 
 
 {% embed url="https://x.com/cognition_labs/status/1767548763134964000?s=20" %}
 
-
+{% hint style="info" %}
+Microsoft and Cognition Labs have announced a partnership to bring Devin, Cognition's autonomous AI software engineer, to Microsoft's developer ecosystem.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Cosine Genie" %}
@@ -96,6 +86,8 @@ An Open Platform for AI Software Developers as Generalist Agents
 [https://huggingface.co/papers/2407.16741](https://huggingface.co/papers/2407.16741)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 

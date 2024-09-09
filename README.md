@@ -54,6 +54,10 @@ a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
 {% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
 
+### <mark style="color:purple;">Trending Product:</mark>
+
+#### <mark style="color:orange;">Replit AI Agent</mark>
+
 
 
 #### <mark style="color:red;">**Changelog**</mark>:
@@ -123,4 +127,6 @@ a16z released their 3rd Top 100 Gen AI Consumer Apps:
 * _8/28/2024 Restructured some contents_
 * _8/29/2024 Added Humantic AI_
 * _8/30/2024 Added Bland AI_
+* _9/5/2024 Restructured some contents_
+* _9/6/2024 Added Replit_
 

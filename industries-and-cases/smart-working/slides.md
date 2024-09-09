@@ -6,7 +6,7 @@
 
 [https://gamma.app](https://gamma.app/?lng=en)
 
-Gamma is an AI-powered tool that quickly generates polished presentations and documents. It offers flexible templates, one-click restyling, and the ability to embed various media types. Gamma's present mode, nested cards, and publishing features enable effective communication and collaboration. It provides built-in analytics, quick reactions, and cross-device compatibility. Users appreciate Gamma's time-saving capabilities and fresh alternative to traditional slide decks.
+Gamma is an AI-powered tool that quickly generates polished presentations and documents. It offers flexible templates, one-click restyling, and the ability to embed various media types. Gamma's present mode, nested cards, and publishing features enable effective communication and collaboration. It provides built-in analytics, quick reactions, and cross-device compatibility.
 
 {% embed url="https://youtu.be/r9VOYJM6nZc" %}
 Gamma

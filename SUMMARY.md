@@ -87,7 +87,7 @@
 * [Spatial Computing/3D](industries-and-cases/spatial-computing-3d.md)
 * [Metaverse & Digital Twin](industries-and-cases/metaverse-and-digital-twin.md)
 * [👂 Translation](industries-and-cases/translation.md)
-* [💸 AI + Finance](industries-and-cases/ai-+-finance.md)
+* [AI + Finance](industries-and-cases/ai-+-finance.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Product Development](industries-and-cases/product-development.md)
 
