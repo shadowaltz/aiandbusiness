@@ -54,11 +54,17 @@ a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
 {% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
 
+{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/08/Top-Gen-AI-Web-Top-50-List-Inline-3.png" %}
+Source: a16z, Top 50 Gen AI Web Products&#x20;
+{% endembed %}
+
 ### <mark style="color:purple;">Trending Product:</mark>
 
 #### <mark style="color:orange;">Replit AI Agent</mark>
 
+Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Agent. This tool can build deployable applications from natural language prompts, managing everything from code generation to database setup and deployment.
 
+{% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
 
 #### <mark style="color:red;">**Changelog**</mark>:
 
@@ -125,8 +131,9 @@ a16z released their 3rd Top 100 Gen AI Consumer Apps:
 * _8/21/2024 Added AI Photography section, Added LLM learning resources_
 * _8/26/2024 Restructured and Added some AI Education contents_
 * _8/28/2024 Restructured some contents_
-* _8/29/2024 Added Humantic AI_
-* _8/30/2024 Added Bland AI_
+* _8/29/2024 Added <mark style="color:orange;">Humantic AI</mark>_
+* _8/30/2024 Added <mark style="color:orange;">Bland AI</mark>_
 * _9/5/2024 Restructured some contents_
-* _9/6/2024 Added Replit_
+* _9/6/2024 Added <mark style="color:orange;">Replit</mark>_
+* _9/9/2024 Added <mark style="color:orange;">Altera Project Sid</mark>_
 

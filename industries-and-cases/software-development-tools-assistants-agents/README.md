@@ -23,7 +23,7 @@ Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of
 
 {% tabs %}
 {% tab title="Cursor" %}
-
+**Cursor**
 
 [https://www.cursor.com/](https://www.cursor.com/)
 
@@ -44,12 +44,14 @@ GitHub Copilot is an AI-powered coding assistant that provides contextualized he
 {% embed url="https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4" %}
 {% endtab %}
 
-{% tab title="Replit" %}
+{% tab title="Replit Agent" %}
 Replit
 
 [https://replit.com/](https://replit.com/)
 
-An online AI-powered IDE
+Replit Agent is an AI-powered tool that can build entire deployable applications from natural language prompts, handling everything from code generation to database setup and deployment.&#x20;
+
+{% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
 {% endtab %}
 {% endtabs %}
 

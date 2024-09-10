@@ -155,6 +155,12 @@ Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 {% endtab %}
 {% endtabs %}
 
+***
+
+## Fine Turning
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Meta Fine Turning Guide</td><td><a href="https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/">https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
 
 
 ***

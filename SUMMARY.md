@@ -53,10 +53,11 @@
     * [Case: Meta Advantage+](industries-and-cases/marketing/social-media/case-meta-advantage+.md)
 * [📎 Customer Service](industries-and-cases/customer-service/README.md)
   * [Customer Service Prompts](industries-and-cases/customer-service/customer-service-prompts.md)
+* [Legal](industries-and-cases/legal.md)
 * [💽 Software Development Tools/Assistants/Agents](industries-and-cases/software-development-tools-assistants-agents/README.md)
-  * [Cursor](industries-and-cases/software-development-tools-assistants-agents/cursor.md)
   * [Front End Development](industries-and-cases/software-development-tools-assistants-agents/front-end-development.md)
   * [GPTs for Coding](industries-and-cases/software-development-tools-assistants-agents/gpts-for-coding.md)
+  * [Cursor Resources & Cases](industries-and-cases/software-development-tools-assistants-agents/cursor-resources-and-cases.md)
 * [🕹️ Game Development](industries-and-cases/game-development/README.md)
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
   * [🎮 Gaming Assistant](industries-and-cases/game-development/gaming-assistant/README.md)
@@ -93,9 +94,10 @@
 
 ## AI Agent/Apps
 
-* [🪪 What Are AI Agents?](ai-agent-apps/what-are-ai-agents.md)
+* [🪪 What Are AI Agents?](ai-agent-apps/what-are-ai-agents/README.md)
+  * [Case: Altera Project Sid](ai-agent-apps/what-are-ai-agents/case-altera-project-sid.md)
+  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/what-are-ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
 * [👾 AI Agents](ai-agent-apps/ai-agents/README.md)
-  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
 * [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
