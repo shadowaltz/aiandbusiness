@@ -38,6 +38,7 @@
   * [Research Examples using Perplexity](industries-and-cases/scholar-and-research/research-examples-using-perplexity.md)
   * [(-)Stanford Storm 2.0 Tutorial](industries-and-cases/scholar-and-research/stanford-storm-2.0-tutorial.md)
 * [✍️ Writing](industries-and-cases/writing/README.md)
+  * [Writing Prompts](industries-and-cases/writing/writing-prompts.md)
   * [AI Detector & Humanizer](industries-and-cases/writing/ai-detector-and-humanizer.md)
   * [Novel Writing](industries-and-cases/writing/novel-writing.md)
 * [👩‍💻 Data Analysis](industries-and-cases/data-analysis.md)

@@ -48,9 +48,23 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
-### <mark style="color:orange;">**Important News & Updates:**</mark>
+### <mark style="color:orange;">**Top News & Updates:**</mark>
 
-a16z released their 3rd Top 100 Gen AI Consumer Apps:
+#### **OpenAI o1**
+
+OpenAI launched their new OpenAI o1 series models, which are characterized by taking additional time to deliberate before generating responses. These models have shown remarkable reasoning and problem-solving abilities in complex domains such as science, programming, and mathematics. The o1 models rank in the top 11% for competitive programming challenges, place among the top 500 in the American Mathematics Olympiad preliminary contest, and have excelled in benchmark tests for physics, biology, and chemistry problems.
+
+
+
+#### [Altera Project Sid](ai-agent-apps/what-are-ai-agents/case-altera-project-sid.md)
+
+Altera AI's Project Sid is like a giant virtual experiment where over 1,000 artificial intelligence (AI) characters work together in a Minecraft world. These AI characters, called agents, can think and act on their own without humans telling them what to do. They can play Minecraft for hours or even days, building things, trading items, and even creating their own society. The AI agents have developed their own economy using gems as money, formed religions, and even set up a basic government where they vote on rules.&#x20;
+
+{% embed url="https://youtu.be/2tbaCn0Kl90?si=QGaFtGmrME_7uazi" %}
+
+
+
+#### a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
 {% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
 
@@ -136,4 +150,6 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _9/5/2024 Restructured some contents_
 * _9/6/2024 Added <mark style="color:orange;">Replit</mark>_
 * _9/9/2024 Added <mark style="color:orange;">Altera Project Sid</mark>_
+* _9/11/2024 Added Writing with AI from OpenAI, added some writing examples_
+* _9/12/2024 Added <mark style="color:orange;">OpenAI o1 Model Series</mark>_
 

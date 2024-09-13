@@ -9,13 +9,29 @@ coverY: 0
 
 ## <mark style="color:purple;">LLM for Coding</mark>
 
-### Claude Artifact
+{% tabs %}
+{% tab title="Claude Artifact" %}
+###
 
 Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
 
 [https://claude.ai](https://claude.ai)
 
 {% embed url="https://claude.ai/_next/image?url=%2Fimages%2Ffeature-preview%2Fartifacts.png&w=1920&q=75" %}
+Claude Aritifact
+{% endembed %}
+{% endtab %}
+
+{% tab title="OpenAI o1" %}
+OpenAI's latest model is potent in coding.
+
+{% embed url="https://www.youtube.com/watch?v=T0IrhzrhR40&ab_channel=OpenAI" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+
 
 ***
 

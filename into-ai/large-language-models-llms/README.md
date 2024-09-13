@@ -56,6 +56,14 @@ LLM Ranking
 ### Close Source Models:
 
 {% tabs %}
+{% tab title="OpenAI o1" %}
+OpenAI just released a new model&#x20;
+
+[https://openai.com/index/learning-to-reason-with-llms/](https://openai.com/index/learning-to-reason-with-llms/)
+
+{% embed url="https://www.youtube.com/watch?v=50W4YeQdnSg&ab_channel=OpenAI" %}
+{% endtab %}
+
 {% tab title="GPT-4o" %}
 <mark style="color:orange;">GPT-4o-2024-08-06</mark>, OpenAI's most powerful LLM.
 
