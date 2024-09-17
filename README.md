@@ -54,7 +54,7 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 OpenAI launched their new OpenAI o1 series models, which are characterized by taking additional time to deliberate before generating responses. These models have shown remarkable reasoning and problem-solving abilities in complex domains such as science, programming, and mathematics. The o1 models rank in the top 11% for competitive programming challenges, place among the top 500 in the American Mathematics Olympiad preliminary contest, and have excelled in benchmark tests for physics, biology, and chemistry problems.
 
-
+{% embed url="https://openai.com/index/learning-to-reason-with-llms/" %}
 
 #### [Altera Project Sid](ai-agent-apps/what-are-ai-agents/case-altera-project-sid.md)
 
@@ -152,4 +152,5 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _9/9/2024 Added <mark style="color:orange;">Altera Project Sid</mark>_
 * _9/11/2024 Added Writing with AI from OpenAI, added some writing examples_
 * _9/12/2024 Added <mark style="color:orange;">OpenAI o1 Model Series</mark>_
+* _9/16/2024 Restructured  Autonomous Driving Contents_
 

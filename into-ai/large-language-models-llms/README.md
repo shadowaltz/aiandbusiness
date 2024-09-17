@@ -57,7 +57,11 @@ LLM Ranking
 
 {% tabs %}
 {% tab title="OpenAI o1" %}
-OpenAI just released a new model&#x20;
+**OpenAI's new o1 model, released on September 12, 2024, is now the most powerful LLM that can reason through complex problems by breaking them down into steps, excelling particularly in areas like mathematics, coding, and scientific reasoning where it outperforms previous models and even rivals human experts in some cases.**
+
+{% hint style="info" %}
+OpenAI o1 has 3 models, o1, o1-preview and o1-mini. Currently, o1 has not yet been publicly released.
+{% endhint %}
 
 [https://openai.com/index/learning-to-reason-with-llms/](https://openai.com/index/learning-to-reason-with-llms/)
 
