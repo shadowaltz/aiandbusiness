@@ -69,6 +69,12 @@ Replit Agent is an AI-powered tool that can build entire deployable applications
 
 {% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
 {% endtab %}
+
+{% tab title="Supermaven" %}
+Supermaven, created by a former OpenAI employee, is an AI-powered code completion tool that promises to help developers write code twice as fast, offering features like a 1 million token context window, compatibility with popular IDEs, and integration with leading language models.
+
+[https://supermaven.com/](https://supermaven.com/)
+{% endtab %}
 {% endtabs %}
 
 

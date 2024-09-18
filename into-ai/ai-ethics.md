@@ -9,19 +9,9 @@ coverY: 0
 
 # AI Ethics
 
-{% embed url="https://openai.com/index/openai-board-forms-safety-and-security-committee/" %}
+### Resources:
 
-{% embed url="https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true" %}
-
-{% embed url="https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/" %}
-
-{% embed url="https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/" %}
-
-{% embed url="https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/" %}
-
-{% embed url="https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report" %}
-
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>OpenAI Board Forms Safety and Security Committee</td><td><a href="https://openai.com/index/openai-board-forms-safety-and-security-committee/">https://openai.com/index/openai-board-forms-safety-and-security-committee/</a></td><td></td></tr><tr><td>Sony, Warner, Universal Sue Suno, Udio For Training AI on Copyrighted Music</td><td><a href="https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true">https://www.bloomberg.com/news/articles/2024-06-24/sony-warner-universal-sue-suno-udio-for-training-ai-on-copyrighted-music?embedded-checkout=true</a></td><td></td></tr><tr><td>The jobs being replaced by AI – an analysis of 5M freelancing jobs</td><td><a href="https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/">https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/</a></td><td></td></tr><tr><td>Runway’s AI video generator trained on thousands of scraped YouTube videos</td><td><a href="https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report">https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 

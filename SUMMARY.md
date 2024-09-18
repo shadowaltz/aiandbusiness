@@ -105,12 +105,12 @@
 
 ## Image
 
-* [🪄 Text to Image / Image Editing](image/text-to-image-image-editing/README.md)
-  * [Midjourney Guide](image/text-to-image-image-editing/midjourney-guide.md)
-  * [Grok 2 w/ Flux](image/text-to-image-image-editing/grok-2-w-flux.md)
-  * [Midjourney Cases](image/text-to-image-image-editing/midjourney-cases.md)
-  * [Comfy UI](image/text-to-image-image-editing/comfy-ui.md)
-  * [DallE](image/text-to-image-image-editing/dalle.md)
+* [🪄 Text to Image / Image Editing Tools](image/text-to-image-image-editing-tools/README.md)
+  * [Midjourney Guide](image/text-to-image-image-editing-tools/midjourney-guide.md)
+  * [Grok 2 w/ Flux](image/text-to-image-image-editing-tools/grok-2-w-flux.md)
+  * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-cases.md)
+  * [Comfy UI](image/text-to-image-image-editing-tools/comfy-ui.md)
+  * [DallE](image/text-to-image-image-editing-tools/dalle.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [🌆 AI Image Detector](image/ai-image-detector.md)
 
