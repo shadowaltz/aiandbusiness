@@ -1,10 +1,14 @@
 # 👾 AI Agents
 
 {% hint style="info" %}
-Editor’s note: AI Agents are still in their early stages, and building one requires some basic programming knowledge. The simpler the installation and setup, and the less programming knowledge needed, the more expensive the AI Agent service tends to be.
+AI Agents are still in their early stages, and building one requires some basic programming knowledge.&#x20;
 {% endhint %}
 
-## No code AI Agent/Automatio
+## **Automation Platforms**:&#x20;
+
+{% hint style="info" %}
+Editors notice: These are considered automation platforms strictly speaking. However, with the recent integration of LLM, they now function similarly to an AI Agent. Their ease of deployment and use, along with wide support for various online platforms, have attracted many users, significantly enhancing business processes. That’s why they’re included here.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Make.com" %}
@@ -22,19 +26,45 @@ Make.com is a versatile online platform that allows users to create custom workf
 
 Zapier is a flagship application in the automation field, and after integrating LLM functionality, its use cases and capabilities have been greatly enhanced.
 {% endtab %}
+{% endtabs %}
 
-{% tab title="Wordware" %}
-Wordware.ai
+## **Conversational Agents/Virtual Assistants**:&#x20;
 
-[https://www.wordware.ai/](https://www.wordware.ai/)
+{% tabs %}
+{% tab title="Agent Q" %}
+MultiOn AI has introduced Agent Q, a groundbreaking advancement in AI agent technology that represents a significant leap forward in autonomous web navigation and task completion.
 
+{% embed url="https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities" %}
 
+{% embed url="https://www.youtube.com/watch?v=Pl_wJQ8JA5M&t=4s&ab_channel=MultiOn" %}
+
+**Advanced Reasoning Capabilities:**\
+Agent Q combines several innovative techniques to enhance its decision-making and problem-solving abilities:
+
+* Monte Carlo Tree Search (MCTS): This allows Agent Q to explore different paths on websites, similar to how a GPS system considers multiple routes.
+* Self-Critique Mechanism: The AI evaluates its own actions and learns from its mistakes, enabling continuous improvement.
+* Direct Preference Optimization (DPO): Agent Q learns which actions are more effective based on successful and unsuccessful attempts, mimicking human learning through trial and error.
+
+**Impressive Performance:**\
+In real-world testing, Agent Q has demonstrated remarkable capabilities:
+
+* It achieved a 95.4% success rate on real-world booking tasks, representing a 340% improvement over the baseline zero-shot performance of Llama 3.
+* Agent Q outperforms existing models and even surpasses average human performance on certain web navigation tasks.
+
+### Applications and Implications
+
+Agent Q's advanced capabilities make it particularly well-suited for complex, multi-step tasks in dynamic environments like the web5. This technology could revolutionize areas such as:
+
+* Travel planning and booking
+* E-commerce interactions
+* Customer service automation
+* Research and information gathering
 {% endtab %}
 {% endtabs %}
 
 
 
-## Low Code AI Agent
+## Autonomous Task Execution AI Agents
 
 {% tabs %}
 {% tab title="AutoGPT" %}
@@ -53,14 +83,6 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 {% endtab %}
 
-{% tab title="Microsoft AutoGen" %}
-An Open-Source Programming Framework for Agentic AI
-
-[https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
-
-
-{% endtab %}
-
 {% tab title="AgentGPT" %}
 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
@@ -72,9 +94,17 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 
 
-### AI Agent Building Platform
+## **Customizable Agent Frameworks/Agent Building Platforms**:
 
 {% tabs %}
+{% tab title="Microsoft AutoGen" %}
+An Open-Source Programming Framework for Agentic AI
+
+[https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
+
+
+{% endtab %}
+
 {% tab title="La Plateforme agent builder" %}
 
 
@@ -94,7 +124,7 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 
 
-### AI Software Engineer Agent
+## AI Software Engineers
 
 {% tabs %}
 {% tab title="Cosine Genie" %}
@@ -116,14 +146,6 @@ Cosine Genie is an advanced AI-powered software engineering model that has achie
 
 
 
-### <mark style="color:orange;">Microsoft Copilot+</mark>
-
-{% embed url="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/" %}
-
-{% embed url="https://youtu.be/5JmkWJNng2I" %}
-
-
-
 #### Resources to build AI Agents:
 
 {% tabs %}
@@ -137,4 +159,6 @@ Cosine Genie is an advanced AI-powered software engineering model that has achie
 [https://jina.ai/](https://jina.ai/)
 {% endtab %}
 {% endtabs %}
+
+
 

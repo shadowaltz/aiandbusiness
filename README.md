@@ -153,4 +153,6 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _9/11/2024 Added Writing with AI from OpenAI, added some writing examples_
 * _9/12/2024 Added <mark style="color:orange;">OpenAI o1 Model Series</mark>_
 * _9/16/2024 Restructured  Autonomous Driving Contents_
+* _9/17/2024_
+* _9/18/2024 Added Multion, Agent Q, Restructured_ _AI Agents_
 

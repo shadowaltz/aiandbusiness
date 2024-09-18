@@ -59,6 +59,7 @@
   * [Front End Development](industries-and-cases/software-development-tools-assistants-agents/front-end-development.md)
   * [GPTs for Coding](industries-and-cases/software-development-tools-assistants-agents/gpts-for-coding.md)
   * [Cursor Resources & Cases](industries-and-cases/software-development-tools-assistants-agents/cursor-resources-and-cases.md)
+  * [AI App Development Tool](industries-and-cases/software-development-tools-assistants-agents/ai-app-development-tool.md)
 * [🕹️ Game Development](industries-and-cases/game-development/README.md)
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
   * [🎮 Gaming Assistant](industries-and-cases/game-development/gaming-assistant/README.md)
@@ -101,7 +102,6 @@
 * [👾 AI Agents](ai-agent-apps/ai-agents/README.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
-* [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image
 

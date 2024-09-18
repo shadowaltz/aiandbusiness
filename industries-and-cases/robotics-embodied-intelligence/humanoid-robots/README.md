@@ -40,6 +40,16 @@ Tesla's humanoid robot, Optimus, stands as a formidable competitor in the field.
 
 ***
 
+### 1X
+
+[https://www.1x.tech/](https://www.1x.tech/)
+
+1X Technologies has recently unveiled NEO Beta, a prototype humanoid robot designed for home use. This introduction marks a significant milestone in the company's transition from conceptual development to bringing humanoid robots into consumer households.
+
+{% embed url="https://youtu.be/bUrLuUxv9gE?si=V5c3AabkwEFgdMJn" %}
+
+***
+
 ### <mark style="color:orange;">Sanctuary AI</mark>
 
 {% embed url="https://sanctuary.ai/product/" %}
