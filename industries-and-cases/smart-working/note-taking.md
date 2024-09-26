@@ -6,9 +6,13 @@ The earliest note-taking software to support AI writing features, capable of pro
 
 [_https://www.notion.so/_](https://www.notion.so/)
 
-{% embed url="https://www.notion.so/front-static/pages/product/super-duper/carousel/sites.png" %}
+#### Notion AI
 
+Notion just released Noton AI, allowing users to generate content, summarize text, translate languages, answer questions about their documents, and more - all without leaving the app.
 
+{% embed url="https://www.notion.so/product/ai" %}
+
+{% embed url="https://youtu.be/S92KX8-Hmlc?si=rmixUYgKuxdVrJK_" %}
 
 ### <mark style="color:orange;">Goole Notebooklm</mark>
 

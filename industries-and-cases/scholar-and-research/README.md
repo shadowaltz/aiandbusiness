@@ -36,7 +36,7 @@ GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https:/
 
 [https://afforai.com/](https://afforai.com/)
 
-Afforai is a powerful AI research assistant and chatbot designed to enhance productivity and streamline information processing.
+Afforai is an AI-powered reference management tool designed to assist researchers in managing, annotating, and citing papers, as well as conducting literature reviews with reliable AI support.
 
 {% embed url="https://afforai.com/img/landing_page/main-image.png" %}
 

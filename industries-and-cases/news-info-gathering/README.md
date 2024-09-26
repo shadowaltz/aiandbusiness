@@ -21,8 +21,6 @@ In Perplexity, the Discover page presents you with the most stirring news from t
 
 <figure><img src="../../.gitbook/assets/perp discover tiny.png" alt=""><figcaption><p>perplexity discover page</p></figcaption></figure>
 
-<mark style="background-color:green;">The Discover feature is accessible in the free edition.</mark>
-
 #### AI News Podcasting
 
 Recently, in a collaborative effort, <mark style="color:orange;">Perplexity</mark> and <mark style="color:orange;">ElevenLabs</mark> have evolved the Discover section into an AI Podcast.
@@ -47,8 +45,6 @@ A lesser-known yet valuable web-based app. News Minimalist uses AI (ChatGPT-4) t
 > * **actionability**: how likely it is that a reader can act on the news for personal benefit;
 > * **positivity**: how positive is the event — used to fix media negativity bias;
 > * **credibility**: how credible is the source.
-
-<mark style="background-color:green;">A free version is available for users. The Premium version, priced at $10 monthly or $100 annually, offers access to summaries of over 1000 articles, along with the capabilities to create personal subscription feeds and custom RSS feeds.</mark>
 {% endtab %}
 
 {% tab title="Grok" %}
@@ -69,4 +65,10 @@ Grok is an AI system created by xAI, drawing inspiration from "The Hitchhiker's 
 AI agents can be used to build more advanced and customized AI information-gathering tools. For example, using Make, you can connect to RSS feed applications to collect information, then use LLMs to organize and summarize the data, and finally output it in your desired format. This allows you to efficiently complete various information-gathering tasks.
 
 For detailed information, please refer to the <mark style="color:purple;">**AI Agents**</mark> section.
+
+
+
+
+
+
 

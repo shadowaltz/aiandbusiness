@@ -10,3 +10,13 @@ In the recent surge of AI applications, the image generation field has risen in 
 
 
 
+{% hint style="warning" %}
+### AI Data Poisoning Tool - Nightshade
+
+Nightshade is an innovative tool developed by researchers at the University of Chicago to protect artists' work from being used without permission in AI training datasets. It works by adding subtle modifications to images that are imperceptible to humans but can disrupt AI models that attempt to learn from or replicate these images. When AI systems train on Nightshade-protected images, they may produce distorted or incorrect outputs, effectively "poisoning" the model and deterring unauthorized use of artists' creations.
+
+[https://nightshade.cs.uchicago.edu/whatis.html](https://nightshade.cs.uchicago.edu/whatis.html)
+{% endhint %}
+
+
+
