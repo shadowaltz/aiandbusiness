@@ -69,17 +69,31 @@ Julius AI is a versatile AI-powered data analysis platform that offers features 
 
 For analyzing large-scale data, it's still advised to use specialized data analysis software, with many established giants in data analysis incorporating AI functionalities into their products. For instance, the industry leader Tableau has enhanced its software with an AI system, making it more user-friendly and intelligent.
 
+### <mark style="color:orange;">Tableau</mark>
+
 [https://www.tableau.com/products/tableau-ai](https://www.tableau.com/products/tableau-ai)
+
+Tableau AI democratizes data analysis by bringing trusted generative AI to the entire Tableau platform, accelerating time to value and reducing repetitive tasks for data analysts while empowering business users with smart, personalized insights 1 .
+
+### <mark style="color:orange;">Databricks</mark>
+
+[https://www.databricks.com/](https://www.databricks.com/)
+
+Databricks offers a Data Intelligence Platform that unifies data, AI, and governance, allowing organizations to develop generative AI applications, democratize insights, and drive down costs while maintaining data privacy and control 2 .
+
+### <mark style="color:orange;">IBM Cloud Pak for Data</mark>
+
+[https://www.ibm.com/products/cloud-pak-for-data?utm\_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt\_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw\_wcB\&gclsrc=aw.ds](https://www.ibm.com/products/cloud-pak-for-data?utm\_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt\_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw\_wcB\&gclsrc=aw.ds)
+
+IBM Cloud Pak for Data is a comprehensive data and AI platform that enables organizations to collect, organize, and analyze data, as well as infuse AI throughout their business to drive innovation and digital transformation.
 
 
 
 ***
 
-Learning Resources:
+## Learning Resources:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Open AI</strong></td><td><strong>Enabling a Data-Driven Workforce</strong></td><td>"In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights." <a href="https://openai.com/business/enabling-a-data-driven-workforce-webinar/">https://openai.com/business/enabling-a-data-driven-workforce-webinar/</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
-
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Open AI</strong></td><td><strong>Enabling a Data-Driven Workforce</strong></td><td>"In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights." <a href="https://openai.com/business/enabling-a-data-driven-workforce-webinar/">https://openai.com/business/enabling-a-data-driven-workforce-webinar/</a></td></tr><tr><td>How to Use ChatGPT’s Advanced Data Analysis Feature</td><td><a href="https://mitsloanedtech.mit.edu/ai/tools/data-analysis/how-to-use-chatgpts-advanced-data-analysis-feature/">https://mitsloanedtech.mit.edu/ai/tools/data-analysis/how-to-use-chatgpts-advanced-data-analysis-feature/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 

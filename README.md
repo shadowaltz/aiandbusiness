@@ -50,7 +50,7 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ### <mark style="color:orange;">**Top News & Updates:**</mark>
 
-#### Llama 3.2
+#### Llama 3.2 Released
 
 [https://www.llama.com/](https://www.llama.com/)
 
@@ -155,4 +155,6 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _9/16/2024 Restructured  Autonomous Driving Contents_
 * _9/17/2024_
 * _9/18/2024 Added Multion, Agent Q, Restructured_ _AI Agents_
+* _9/25/2024 Added <mark style="color:orange;">LLama 3.2</mark>_
+* _9/26/2024 Restructured_ _data analysis contents_
 
