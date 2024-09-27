@@ -50,19 +50,19 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ### <mark style="color:orange;">**Top News & Updates:**</mark>
 
+#### Llama 3.2
+
+[https://www.llama.com/](https://www.llama.com/)
+
+Llama 3.2, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks.
+
+
+
 #### **OpenAI o1**
 
 OpenAI launched their new OpenAI o1 series models, which are characterized by taking additional time to deliberate before generating responses. These models have shown remarkable reasoning and problem-solving abilities in complex domains such as science, programming, and mathematics. The o1 models rank in the top 11% for competitive programming challenges, place among the top 500 in the American Mathematics Olympiad preliminary contest, and have excelled in benchmark tests for physics, biology, and chemistry problems.
 
 {% embed url="https://openai.com/index/learning-to-reason-with-llms/" %}
-
-#### [Altera Project Sid](ai-agent-apps/what-are-ai-agents/case-altera-project-sid.md)
-
-Altera AI's Project Sid is like a giant virtual experiment where over 1,000 artificial intelligence (AI) characters work together in a Minecraft world. These AI characters, called agents, can think and act on their own without humans telling them what to do. They can play Minecraft for hours or even days, building things, trading items, and even creating their own society. The AI agents have developed their own economy using gems as money, formed religions, and even set up a basic government where they vote on rules.&#x20;
-
-{% embed url="https://youtu.be/2tbaCn0Kl90?si=QGaFtGmrME_7uazi" %}
-
-
 
 #### a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
