@@ -6,6 +6,12 @@ The second-generation Ray-Ban Meta smart glasses, developed in collaboration wit
 
 {% embed url="https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/?utm_source=gitbook&utm_medium=iframely" %}
 
+### Meta Orion AR Glasses
+
+{% embed url="https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/" %}
+
+{% embed url="https://www.youtube.com/watch?v=2jmuT7ePaA0&ab_channel=BloombergTechnology" %}
+
 ### Frame AI glass
 
 Frame AI is an open source program that designs a unique-looking AI-powered glass.

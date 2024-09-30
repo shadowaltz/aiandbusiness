@@ -1,36 +1,27 @@
 # 📈 Marketing
 
 {% hint style="info" %}
-* Social Media
+* Social Media Marketing
+* Branding
 {% endhint %}
 
 
 
-## Applications in Marketing <a href="#applications-in-marketing" id="applications-in-marketing"></a>
+### Case: Tombras Makes "The World's Smartest Billboard" for PODS
 
-### Market Scope Decisions <a href="#market-scope-decisions" id="market-scope-decisions"></a>
+[https://tombras.com/news/tombras-makes-the-worlds-smartest-billboard-for-pods](https://tombras.com/news/tombras-makes-the-worlds-smartest-billboard-for-pods)
 
-Marketing decisions related to market scope encompass expanding or contracting markets, introducing new products or services, and discontinuing existing ones. This process involves collecting and analyzing data, identifying opportunities and challenges, setting objectives and strategies, developing solutions, testing outcomes, and monitoring performance.
+Tombras, an independent advertising agency, has created what they call "The World's Smartest Billboard" for PODS, a moving and storage company. This innovative campaign, unveiled during the peak moving season in June, transformed a PODS moving container into an intelligent, dynamic billboard capable of displaying customized advertisements for each of New York's 6,000 neighborhoods. The billboard utilizes a combination of generative AI and real-time data, including location, traffic, transit, and weather information, to create hyper-localized content. This groundbreaking initiative, which was revealed at Google's annual Creative Lighthouse event during the Cannes Lions International Festival of Creativity, showcases the power of AI in revolutionizing outdoor advertising and delivering highly targeted messages to potential customers.
 
-### Marketing Automation <a href="#marketing-automation" id="marketing-automation"></a>
-
-Marketing automation tools streamline repetitive marketing tasks across multiple channels, such as email, social media, and websites. This software aims to enhance efficiency and provide valuable data insights for future marketing efforts. The use of these tools can help organizations execute impactful automated marketing campaigns by integrating systems for customer relationship management (CRM), content management, and pipeline management, thereby reducing workflow complications.
-
-### AI-Generated Content (AIGC) <a href="#ai-generated-content-aigc" id="ai-generated-content-aigc"></a>
-
-The application of AI-generated content (AIGC) in marketing is becoming increasingly prevalent. AIGC can improve the efficiency, degree of personalization, and creativity enhancement of enterprise marketing efforts. Utilizing these advanced technologies, companies can better meet customer needs, improve market competitiveness, and reduce the cost of some marketing activities.
-
-### Personalization and Targeting <a href="#personalization-and-targeting" id="personalization-and-targeting"></a>
-
-AI can help marketers personalize their messaging and campaigns based on customer data and behavior. This leads to more effective and targeted marketing efforts, resulting in increased brand awareness and sales. AI algorithms can generate content, including ads, product recommendations, and social media posts, for marketing amplification.
-
-### Digital Humans <a href="#digital-humans" id="digital-humans"></a>
-
-AIGC digital humans can endorse products and brands, engage with customers in a human-like manner, and provide a more personalized and immersive online shopping experience. These digital humans can serve to promote products and brands similarly to key opinion leaders (KOLs) or influencers but without geographical limitations. They can be tailored to appeal to specific target markets, ensuring effective delivery of brand or marketing messages.
+{% embed url="https://youtube.com/shorts/myIGgHnddwI?si=eDa7b9qKb4AA2vba" %}
 
 
 
+### Case: Heinz
 
+Heinz utilized artificial intelligence for a creative ad campaign during the early days of generative AI. By using OpenAI’s DALL-E 2, Heinz input various ketchup-themed prompts, which produced imaginative and often surreal images. Interestingly, many of these AI-generated visuals naturally incorporated Heinz’s iconic branding elements, such as its unique bottle shape and logo. This campaign demonstrated AI’s potential in marketing while reaffirming Heinz’s identity as the definitive ketchup brand, even recognized by AI.
+
+{% embed url="https://youtu.be/LFmpVy6eGXs?si=RY61lUW9EbyezbB3" %}
 
 
 

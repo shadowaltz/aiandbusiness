@@ -77,3 +77,15 @@ Wonderchat, an AI-powered tool, has significantly improved the user experience w
 
 Stonly offers a revolutionary approach to knowledge-based software, focusing on customer service enhancement through interactive guides, decision trees, and AI-generated answers.&#x20;
 
+
+
+
+
+### Case: Alaska Airlines use AI-powered destination search tool
+
+[https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds](https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds)
+
+Alaska Airlines has launched an AI-powered destination search tool that allows customers to find flights using natural language queries, incorporating loyalty program information and offering personalized travel recommendations based on user interests and preferences.
+
+
+

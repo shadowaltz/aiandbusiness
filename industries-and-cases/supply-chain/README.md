@@ -5,6 +5,15 @@ coverY: 0
 
 # 🚚 Supply Chain
 
+## <mark style="color:purple;">Navigation:</mark>
+
+{% hint style="info" %}
+* Manufacturing & Production
+* Warehousing & Logistics
+{% endhint %}
+
+
+
 ## <mark style="color:purple;">Production & Inventory Control</mark>
 
 ### Nvidia NIM

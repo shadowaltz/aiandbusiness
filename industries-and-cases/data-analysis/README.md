@@ -23,7 +23,7 @@ When dealing with larger datasets, such as databases exported from SQL or XLSX s
 
 Additionally, the **GPTs store** already offers a wide array of data analysis GPTs for use, accommodating uploads of various file formats like CSV, PDF, etc., to facilitate data analysis and data visualization tasks.
 
-<img src="../.gitbook/assets/data analyst.png" alt="" data-size="line"><mark style="background-color:orange;">**Data Analyst**</mark> from ChatGPT
+<img src="../../.gitbook/assets/data analyst.png" alt="" data-size="line"><mark style="background-color:orange;">**Data Analyst**</mark> from ChatGPT
 
 > Drop in any files and I can help analyze and visualize your data.
 
@@ -37,7 +37,7 @@ My question and prompt: "**How has the average number of goals scored per match 
 
 Result:&#x20;
 
-![](../.gitbook/assets/data1.png)![](../.gitbook/assets/data2.png)![](../.gitbook/assets/data3.png)
+![](../../.gitbook/assets/data1.png)![](../../.gitbook/assets/data2.png)![](../../.gitbook/assets/data3.png)
 
 
 
