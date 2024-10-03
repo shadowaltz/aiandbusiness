@@ -48,7 +48,7 @@
   * [Waymo](industries-and-cases/autonomous-driving/waymo.md)
   * [Autonomous Trucks](industries-and-cases/autonomous-driving/autonomous-trucks.md)
   * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
-* [📈 Marketing](industries-and-cases/marketing/README.md)
+* [Marketing](industries-and-cases/marketing/README.md)
   * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)
     * [Social Media Prompts](industries-and-cases/marketing/social-media/social-media-prompts.md)
     * [Case: Meta Advantage+](industries-and-cases/marketing/social-media/case-meta-advantage+.md)
@@ -78,9 +78,10 @@
   * [AI-Generated News Podcasting Cases](industries-and-cases/podcasting/ai-generated-news-podcasting-cases.md)
 * [👥 Virtual Avatar / Digital Human](industries-and-cases/virtual-avatar-digital-human.md)
 * [📐 Industrial drafting and modeling](industries-and-cases/industrial-drafting-and-modeling.md)
-* [🤝 Negotiation](industries-and-cases/negotiation.md)
+* [Startups](industries-and-cases/startups.md)
 * [🏛️ Corporate Management](industries-and-cases/corporate-management/README.md)
   * [Management Prompts](industries-and-cases/corporate-management/management-prompts.md)
+* [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🎓 Education](industries-and-cases/education/README.md)
   * [AI Education Tools](industries-and-cases/education/ai-education-tools/README.md)
     * [AI STEAM Learning Tools](industries-and-cases/education/ai-education-tools/ai-steam-learning-tools.md)
@@ -94,9 +95,11 @@
 * [Spatial Computing/3D](industries-and-cases/spatial-computing-3d.md)
 * [Metaverse & Digital Twin](industries-and-cases/metaverse-and-digital-twin.md)
 * [👂 Translation](industries-and-cases/translation.md)
-* [AI + Finance](industries-and-cases/ai-+-finance.md)
+* [AI + Finance](industries-and-cases/ai-+-finance/README.md)
+  * [Fraud Detection](industries-and-cases/ai-+-finance/fraud-detection.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Product Development](industries-and-cases/product-development.md)
+* [Agriculture](industries-and-cases/agriculture.md)
 
 ## AI Agent/Apps
 
@@ -106,6 +109,7 @@
 * [👾 AI Agents](ai-agent-apps/ai-agents/README.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
+  * [Build AI Apps](ai-agent-apps/ai-agents/build-ai-apps.md)
 
 ## Image
 

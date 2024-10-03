@@ -122,7 +122,65 @@ _8/11/2024 Added <mark style="color:orange;">Figure 02</mark>, LLM learning reso
 
 _8/12/2024 Added <mark style="color:orange;">Bark,</mark> LLM learning resources, <mark style="color:orange;">Pagepilot AI,</mark> and E-commerce section_
 
-_8/13/2024 <mark style="color:red;">Changed image embedding to Clouldflare</mark>, Added AI App Development Tool Section, Added AI Scientist_
+_8/13/2024 <mark style="color:red;">Changed image embedding to Clouldflare</mark>, Added AI App Development Tool Section, Added AI Scientist, added <mark style="color:orange;">Grok-2</mark>_
+
+_8/14/2024 Added <mark style="color:orange;">LLama Tutor</mark>, Some AI cases, Google <mark style="color:orange;">Gemini Live, Cosine Genie</mark>_
+
+_8/15/2024 Added <mark style="color:orange;">Sierra.ai, Cresta</mark>, Note-taking section with <mark style="color:orange;">notion</mark>_
+
+_8/16/2024 Restructured some contents_
+
+_8/19/2024 Restructured some contents_
+
+_8/20/2024 Restructured some contents_
+
+_8/21/2024 Added AI Photography section, Added LLM learning resources_
+
+_8/26/2024 Restructured and Added some AI Education contents_
+
+_8/28/2024 Restructured some contents_
+
+_8/29/2024 Added <mark style="color:orange;">Humantic AI</mark>_
+
+_8/30/2024 Added <mark style="color:orange;">Bland AI</mark>_
+
+### _September:_
+
+_9/5/2024 Restructured some contents_
+
+_9/6/2024 Added <mark style="color:orange;">Replit</mark>_
+
+_9/9/2024 Added <mark style="color:orange;">Altera Project Sid</mark>_
+
+_9/11/2024 Added Writing with AI from OpenAI, added some writing examples_
+
+_9/12/2024 Added <mark style="color:orange;">OpenAI o1 Model Series</mark>_
+
+_9/16/2024 Restructured  Autonomous Driving Contents_
+
+_9/17/2024 Restructured some contents_
+
+_9/18/2024 Added Multion, Agent Q, Restructured_ _AI Agents_
+
+_9/25/2024 Added <mark style="color:orange;">LLama 3.2</mark>_
+
+_9/26/2024 Restructured_ _data analysis contents_
+
+_9/27/2024 Added Meta Orion AR Glasses_
+
+_9/28/2024 Restructured some contents_
+
+_9/28/2024 Restructured <mark style="color:purple;">Marketing Section</mark>, Added some marketing cases_
+
+_9/30/2024 Added <mark style="color:orange;">C3.ai</mark>, Added <mark style="color:purple;">Startups Section</mark>, Added <mark style="color:purple;">Agriculture Section</mark>_
+
+### _October:_
+
+_10/1/2024 Added Autonomous Driving Contents_
+
+_10/2/2024 Added Meta Orion Glasses_
+
+_10/3/2024 Added Marketing contents & Cases_
 
 
 

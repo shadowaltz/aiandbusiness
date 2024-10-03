@@ -40,7 +40,71 @@ Amazon-owned Zoox is developing a unique robotaxi design that doesn't resemble t
 {% endtab %}
 {% endtabs %}
 
+### Japan
 
+{% tabs %}
+{% tab title="Honda" %}
+Honda is taking a unique approach to autonomous vehicles in Japan. The company plans to launch self-driving taxis in Tokyo by 2026, collaborating with existing taxi operators rather than operating the service themselves.
+
+{% embed url="https://global.honda/en/stories/091.html" %}
+{% endtab %}
+
+{% tab title="Nissan" %}
+Nissan has recently showcased its in-house developed self-driving technology as part of its plan to provide autonomous mobility services by 2027.
+
+{% embed url="https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/AUTONOMOUS_DRIVE/" %}
+{% endtab %}
+
+{% tab title="Tier IV" %}
+Tier IV is a Tokyo-based startup that provides open-source software for self-driving technology.
+
+[https://tier4.jp/en/](https://tier4.jp/en/)
+{% endtab %}
+{% endtabs %}
+
+### Europe
+
+{% tabs %}
+{% tab title="OXA (formerly Oxbotica)" %}
+Oxa (formerly Oxbotica) is a leading autonomous vehicle software company that develops Universal Autonomy™ technology.
+
+* Founded in 2014 in Oxford
+* Develops autonomous vehicle software for multiple industries
+* Raised over $200 million in funding
+* Partners include BP, ZF, and Ocado
+
+[https://oxa.tech/](https://oxa.tech/)
+
+{% embed url="https://youtu.be/Qz0rfcnES8g?si=NkC4X_Wd6fJn6M8M" %}
+{% endtab %}
+
+{% tab title="Wayve" %}
+{% embed url="https://wayve.ai/" %}
+
+* Founded in 2017 in London
+* Uses AI and machine learning for autonomous driving
+* Raised over $250 million from investors like Microsoft and Virgin
+* Testing autonomous delivery vans with Ocado and Asda
+{% endtab %}
+
+{% tab title="NAVYA" %}
+{% embed url="https://www.navya.tech/en/" %}
+
+* Founded in 2014 in Lyon
+* Manufactures autonomous electric shuttles and cabs
+* Has deployed over 170 autonomous vehicles worldwide
+* Went public in 2018 on Euronext Paris
+{% endtab %}
+
+{% tab title="Fernride" %}
+{% embed url="https://www.fernride.com/" %}
+
+* Founded in 2019 in Munich
+* Developing teleoperated autonomous trucks for logistics
+* Raised over $50 million in funding
+* Focusing on industrial and port environments initially
+{% endtab %}
+{% endtabs %}
 
 ### China
 
@@ -68,7 +132,7 @@ China's ride-hailing giant Didi is working on robotaxis through a joint venture 
 
 ### Other Players
 
-Several other companies are developing robotaxi technology, including traditional automakers like GM, Ford, and Volkswagen, as well as tech companies like Uber and Lyft, often through partnerships and investments.The robotaxi industry is rapidly evolving, with companies facing challenges in technology development, regulatory approval, and achieving profitability. While progress has been made, widespread adoption of robotaxis is still in its early stages.
+Several other companies are developing robotaxi technology, including traditional automakers like GM, Ford, and Volkswagen, and tech companies like Uber and Lyft, often through partnerships and investments. The robotaxi industry is rapidly evolving, with companies facing challenges in technology development, regulatory approval, and achieving profitability. While progress has been made, widespread adoption of robotaxis is still in its early stages.
 
 
 
@@ -76,7 +140,7 @@ Several other companies are developing robotaxi technology, including traditiona
 
 ## Autonomous Truck Brands:
 
-Autonomous trucking technology continues to advance rapidly, with several companies aiming for commercial deployment in the near future. However, the industry landscape is dynamic, with some early leaders exiting while new entrants emerge.
+Autonomous trucking technology advances rapidly, with several companies aiming for commercial deployment soon. However, the industry landscape is dynamic, with some early leaders exiting while new entrants emerge.
 
 ### Leading Autonomous Trucking Companies
 
@@ -130,7 +194,7 @@ Autonomous trucking technology continues to advance rapidly, with several compan
 ### Key Developments
 
 * Many companies aim to deploy autonomous trucks commercially within the next 1-2 years
-* Focus is on highway driving, with human drivers handling more complex urban environments
+* The focus is on highway driving, with human drivers handling more complex urban environments
 * Safety and regulatory approval remain key challenges for widespread adoption
 * Some companies like Embark and Ike have been acquired or ceased operations, showing the competitive and challenging nature of the industry
 
@@ -144,7 +208,7 @@ Autonomous trucking technology continues to advance rapidly, with several compan
 
 #### Federal Regulation
 
-The National Highway Traffic Safety Administration (NHTSA) has provided guidelines for the development and testing of autonomous vehicles, but these are not binding regulations.
+The National Highway Traffic Safety Administration (NHTSA) has provided guidelines for developing and testing autonomous vehicles, but these are not binding regulations.
 
 #### State Laws
 

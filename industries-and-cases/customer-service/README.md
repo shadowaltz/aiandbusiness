@@ -77,9 +77,19 @@ Wonderchat, an AI-powered tool, has significantly improved the user experience w
 
 Stonly offers a revolutionary approach to knowledge-based software, focusing on customer service enhancement through interactive guides, decision trees, and AI-generated answers.&#x20;
 
+***
+
+## Customer survey and analyze
+
+### Ideanote
+
+[https://ideanote.io/](https://ideanote.io/)
+
+Optimize processes, increase sales and make better decisions by listening to ideas from customers, partners and employees, in one place.
 
 
 
+***
 
 ### Case: Alaska Airlines use AI-powered destination search tool
 

@@ -25,9 +25,9 @@ coverY: 0
 
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
-{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/c2a2d678-104c-408b-fabd-d7bfd1849000/public" %}
-
 {% embed url="https://artificialanalysis.ai" %}
+
+{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/6eb88eb4-e885-402f-b439-20aa3d7b1300/public" %}
 {% endtab %}
 
 {% tab title="Scale Leaderboards" %}
@@ -111,11 +111,7 @@ Gemini is a family of multimodal large language models developed by Google DeepM
 {% tab title="LLama" %}
 LLama is a family of state-of-the-art large language models developed by Meta, designed to perform a wide range of natural language processing tasks with varying levels of computational efficiency and accuracy.
 
-7/23/2024, Meta unveiled Llama 3.1, its largest and most advanced open-source AI model to date, featuring a 405 billion parameter version that reportedly rivals or surpasses leading closed-source models from companies like OpenAI and Anthropic in various performance benchmarks.
-
 **Llama 3.2**, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks
-
-
 
 [https://www.llama.com/](https://www.llama.com/)
 {% endtab %}

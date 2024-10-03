@@ -14,7 +14,7 @@ coverY: 0
 * [**Excel**](excel.md)
 * [**Slides**](slides.md)
 * [**Mindmap**](mindmap.md)
-* **Note-taking**
+* [**Note-taking**](note-taking.md)
 {% endhint %}
 
 ***

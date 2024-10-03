@@ -9,6 +9,7 @@ coverY: 0
 
 {% hint style="info" %}
 * [Social Media Prompts](social-media-prompts.md)
+* Case: Meta Advantage+
 {% endhint %}
 
 
@@ -23,23 +24,27 @@ coverY: 0
 
 ***
 
-### Tools
+### Idea Generator
 
-#### Create Videos for Social Media
+AI Content Idea Generator
 
-Hypernatural.ai
+[https://ahrefs.com/writing-tools/content-idea-generator](https://ahrefs.com/writing-tools/content-idea-generator)
 
-[https://hypernatural.ai/](https://hypernatural.ai/)
+***
 
+### Create Videos for Social Media
 
-
+{% tabs %}
+{% tab title="Fliki.ai" %}
 Fliki.ai
 
 [https://fliki.ai/](https://fliki.ai/)
+{% endtab %}
 
-
-
-
+{% tab title="Hypernatural.ai" %}
+[https://hypernatural.ai/](https://hypernatural.ai/)
+{% endtab %}
+{% endtabs %}
 
 
 

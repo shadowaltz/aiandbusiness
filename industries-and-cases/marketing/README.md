@@ -1,4 +1,10 @@
-# 📈 Marketing
+---
+icon: adversal
+---
+
+# Marketing
+
+## Navigation:
 
 {% hint style="info" %}
 * Social Media Marketing
