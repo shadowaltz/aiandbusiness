@@ -75,6 +75,16 @@ Unreal Engine, another titan of the industry, has likewise introduced a suite of
 
 > This plugin provides an easy to use interface that integrates OpenAI's GPT-4/GPT-3.5 right in the UI, allowing you to use natural language commands to control Blender.
 
+***
+
+### GiiNex
+
+[https://giinex.tencent.com/#/index](https://giinex.tencent.com/#/index)
+
+Tencent's GiiNEX is an innovative game AI engine that leverages generative AI technology to support the creation of diverse game content, including 2D images, 3D scenes, narratives, and dialogue, while also utilizing decision-making AI for game development testing and simulated gameplay.
+
+
+
 
 
 

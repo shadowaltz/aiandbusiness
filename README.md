@@ -163,5 +163,5 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _9/30/2024 Added <mark style="color:orange;">C3.ai</mark>, Added <mark style="color:purple;">Startups Section</mark>, Added <mark style="color:purple;">Agriculture Section</mark>_
 * _10/1/2024 Added Autonomous Driving Contents_
 * _10/2/2024 Added Meta Orion Glasses_
-* _10/3/2024 Added Marketing contents & Cases_
+* _10/3/2024 Added Marketing contents & Cases, OpenAI <mark style="color:orange;">Gpt-4o with Canvas</mark>_
 

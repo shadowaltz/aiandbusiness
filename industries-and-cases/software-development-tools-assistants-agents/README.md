@@ -29,6 +29,14 @@ OpenAI's latest model is potent in coding.
 
 
 {% endtab %}
+
+{% tab title="Gpt-4o with Canvas" %}
+GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, vision, and audio capabilities, now available in preview on Azure AI, featuring a new interface called Canvas that allows users to collaborate with the AI on writing and coding projects in a separate, editable workspace.
+
+{% embed url="https://openai.com/index/introducing-canvas/" %}
+
+{% embed url="https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp" %}
+{% endtab %}
 {% endtabs %}
 
 
