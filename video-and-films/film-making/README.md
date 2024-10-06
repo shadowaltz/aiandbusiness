@@ -50,6 +50,12 @@ As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming 
 <mark style="background-color:green;">As of now, OpenAI has not launched a public beta for Sora, making it exclusively available to a select group of directors and professionals in the industry, with no access to the general public.</mark>
 {% endhint %}
 {% endtab %}
+
+{% tab title="Meta movie Gen" %}
+[https://ai.meta.com/research/movie-gen/](https://ai.meta.com/research/movie-gen/)
+
+Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that can generate, edit, and personalize high-definition videos with accompanying audio using simple text prompts.
+{% endtab %}
 {% endtabs %}
 
 
