@@ -46,7 +46,6 @@
 * [🚗 Autonomous Driving](industries-and-cases/autonomous-driving/README.md)
   * [Tesla FSD](industries-and-cases/autonomous-driving/tesla-fsd.md)
   * [Waymo](industries-and-cases/autonomous-driving/waymo.md)
-  * [Autonomous Trucks](industries-and-cases/autonomous-driving/autonomous-trucks.md)
   * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 * [Marketing](industries-and-cases/marketing/README.md)
   * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)

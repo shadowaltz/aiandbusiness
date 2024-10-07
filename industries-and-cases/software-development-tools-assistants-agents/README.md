@@ -10,16 +10,12 @@ coverY: 0
 ## <mark style="color:purple;">LLM for Coding</mark>
 
 {% tabs %}
-{% tab title="Claude Artifact" %}
-###
+{% tab title="Gpt-4o with Canvas" %}
+GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, vision, and audio capabilities, now available in preview on Azure AI, featuring a new interface called Canvas that allows users to collaborate with the AI on writing and coding projects in a separate, editable workspace.
 
-Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
+{% embed url="https://openai.com/index/introducing-canvas/" %}
 
-[https://claude.ai](https://claude.ai)
-
-{% embed url="https://claude.ai/_next/image?url=%2Fimages%2Ffeature-preview%2Fartifacts.png&w=1920&q=75" %}
-Claude Aritifact
-{% endembed %}
+{% embed url="https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp" %}
 {% endtab %}
 
 {% tab title="OpenAI o1" %}
@@ -30,12 +26,16 @@ OpenAI's latest model is potent in coding.
 
 {% endtab %}
 
-{% tab title="Gpt-4o with Canvas" %}
-GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, vision, and audio capabilities, now available in preview on Azure AI, featuring a new interface called Canvas that allows users to collaborate with the AI on writing and coding projects in a separate, editable workspace.
+{% tab title="Claude Artifact" %}
+###
 
-{% embed url="https://openai.com/index/introducing-canvas/" %}
+Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
 
-{% embed url="https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp" %}
+[https://claude.ai](https://claude.ai)
+
+{% embed url="https://claude.ai/_next/image?url=%2Fimages%2Ffeature-preview%2Fartifacts.png&w=1920&q=75" %}
+Claude Aritifact
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
@@ -54,6 +54,14 @@ GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, 
 Cursor is an innovative AI-powered code editor that combines the functionality of traditional IDEs with advanced machine learning capabilities to enhance developers' productivity and coding experience.
 
 {% embed url="https://www.cursor.com/videos/cmdkloop2.mp4" %}
+{% endtab %}
+
+{% tab title="Bolt.new" %}
+Bolt.new is a brand new innovative platform by StackBlitz that allows developers to prompt, run, edit, and deploy full-stack web applications within an AI-powered development sandbox.
+
+[https://bolt.new](https://bolt.new)
+
+
 {% endtab %}
 
 {% tab title="Codeium" %}

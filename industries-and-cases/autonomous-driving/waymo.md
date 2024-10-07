@@ -2,7 +2,15 @@
 
 
 
-In contrast, <mark style="color:orange;">Waymo</mark>'s approach uses a combination of cameras, radar, and lidar sensors, along with detailed pre-mapped data of specific operational areas. Waymo employs a series of interconnected neural networks trained separately for perception, behavior prediction, and planning. Waymo's vehicles are designed to be fully autonomous within their mapped areas and have been operating as a limited commercial driverless taxi service in Phoenix since 2020.
+Waymo's approach to autonomous driving has evolved significantly with the introduction of its sixth-generation technology. The company now employs a more advanced suite of sensors and AI systems to enable fully autonomous driving. Waymo's latest vehicles are equipped with smarter sensors that can better navigate in extreme weather conditions.
+
+The company's autonomous driving system, known as the Waymo Driver, integrates cameras, radar, and lidar sensors, along with sophisticated AI algorithms for perception, behavior prediction, and planning. Waymo continues to use detailed pre-mapped data of operational areas.
+
+Waymo has expanded its commercial driverless taxi service, called Waymo One, to multiple US cities. As of 2024, the service is fully operational in Phoenix, San Francisco, and Los Angeles. The company has recently begun offering public rides in Austin, with plans to launch commercially there in early 2025. Additionally, Waymo is set to expand its service to Atlanta in partnership with Uber, also slated for early 2025.
+
+The company is also partnering with automakers like Hyundai to integrate its technology into new vehicle models, such as the all-electric IONIQ 5 SUV.&#x20;
+
+Furthermore, Waymo is exploring applications beyond personal transportation, including autonomous trucking, demonstrating the company's commitment to advancing self-driving technology across various sectors of the automotive industry.
 
 ## Updates:
 
