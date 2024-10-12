@@ -1,6 +1,6 @@
 # 🕶️ AI Glasses
 
-### Meta Glass
+### <mark style="color:orange;">Meta Glass</mark>
 
 The second-generation Ray-Ban Meta smart glasses, developed in collaboration with EssilorLuxottica, are experiencing high demand and are being expanded with new styles and features. Additionally, new functionalities like hands-free video calling via WhatsApp and Messenger, and enhanced Meta AI capabilities, are being added.&#x20;
 

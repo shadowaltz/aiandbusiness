@@ -16,14 +16,14 @@ GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, 
 {% embed url="https://openai.com/index/introducing-canvas/" %}
 
 {% embed url="https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp" %}
+Gpt-4o with Canvas
+{% endembed %}
 {% endtab %}
 
 {% tab title="OpenAI o1" %}
 OpenAI's latest model is potent in coding.
 
 {% embed url="https://www.youtube.com/watch?v=T0IrhzrhR40&ab_channel=OpenAI" %}
-
-
 {% endtab %}
 
 {% tab title="Claude Artifact" %}

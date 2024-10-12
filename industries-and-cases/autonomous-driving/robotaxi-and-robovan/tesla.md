@@ -1,4 +1,12 @@
-# Tesla FSD
+# Tesla
+
+
+
+
+
+{% embed url="https://x.com/Tesla/status/1844583703604772893" %}
+
+
 
 ### <mark style="color:orange;">Tesla FSD</mark>
 

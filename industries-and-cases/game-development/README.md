@@ -11,6 +11,7 @@ coverY: 0
 
 {% hint style="info" %}
 * AI NPC
+* Gaming Assistant
 {% endhint %}
 
 ***
@@ -55,19 +56,27 @@ It created a 3D model of a sword that closely resembles the distinctive style fo
 
 ## Game Engines
 
-### Unity AI
-
+{% tabs %}
+{% tab title="Unity AI" %}
 [https://unity.com/ai](https://unity.com/ai)
 
 In 2023, numerous developers introduced ChatGPT plugins for Unity, enabling the automatic generation of diverse code snippets and significantly enhancing the efficiency of game development. Since then, these gaming engines have gone a step further by incorporating their own integrated AI systems. These systems build upon the foundation of Large Language Models (LLMs) and include capabilities for creating graphics and images, thereby further improving the efficiency of developing 3D games and environments.
 
 {% embed url="https://youtu.be/dR4IuN2tF78?si=oVlWtz4yGiszHU-p" %}
 
-### AI in Unreal Engine
+###
+{% endtab %}
+
+{% tab title="Unreal Engine" %}
+AI in Unreal Engine
 
 Unreal Engine, another titan of the industry, has likewise introduced a suite of AI capabilities. These enhancements include the generation of AI-driven content and assets, as well as AI-assisted code debugging, among other advancements.
 
 {% embed url="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine" %}
+{% endtab %}
+{% endtabs %}
+
+
 
 ### BlenderGPT
 

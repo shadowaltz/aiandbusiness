@@ -50,6 +50,12 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ### <mark style="color:orange;">**Top News & Updates:**</mark>
 
+<mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
+
+On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO Elon Musk unveiled the company's latest autonomous vehicle, the Cybercab. Musk also introduced a larger autonomous vehicle called the Robovan, capable of transporting up to 20 people. Additionally, Tesla showcased advancements in its Full Self-Driving (FSD) technology, promising unsupervised autonomous driving capabilities for Model 3 and Model Y vehicles in Texas and California by 2025. The event also featured demonstrations of Tesla's Optimus humanoid robots, which Musk claimed could perform various tasks and might be available for $20,000–$30,000.
+
+{% embed url="https://x.com/Tesla/status/1844583703604772893" %}
+
 #### Llama 3.2 Released
 
 [https://www.llama.com/](https://www.llama.com/)
@@ -57,12 +63,6 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 Llama 3.2, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks.
 
 
-
-#### **OpenAI o1**
-
-OpenAI launched their new OpenAI o1 series models, which are characterized by taking additional time to deliberate before generating responses. These models have shown remarkable reasoning and problem-solving abilities in complex domains such as science, programming, and mathematics. The o1 models rank in the top 11% for competitive programming challenges, place among the top 500 in the American Mathematics Olympiad preliminary contest, and have excelled in benchmark tests for physics, biology, and chemistry problems.
-
-{% embed url="https://openai.com/index/learning-to-reason-with-llms/" %}
 
 #### a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
@@ -166,4 +166,6 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _10/3/2024 Added Marketing contents & Cases, OpenAI <mark style="color:orange;">Gpt-4o with Canvas</mark>_
 * _10/5/2024 Added <mark style="color:orange;">Meta Movie Gen</mark>_
 * _10/6/2024 Added <mark style="color:orange;">bolt.new</mark>_
+* _10/8/2024 Added <mark style="color:orange;">Shopify Sidekick Bot</mark>_
+* _10/10/2024 Added <mark style="color:orange;">Tesla Robotaxi</mark>_
 

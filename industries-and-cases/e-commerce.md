@@ -16,3 +16,17 @@ Create high-converting product pages with just a few clicks
 
 
 
+### <mark style="color:orange;">Shopify Sidekick Bot</mark>
+
+[https://www.shopify.com/magic](https://www.shopify.com/magic)
+
+Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
+
+* **Business Insights**: Answers questions about sales performance and generates reports.
+* **Marketing Assistance**: Guides sellers through setting up email campaigns.
+* **Content Creation**: Helps create SEO-optimized product descriptions and FAQs.
+
+
+
+
+

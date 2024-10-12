@@ -63,7 +63,7 @@ Bland AI is a developer-first platform that enables enterprises to automate inbo
 
 [https://wonderchat.io/](https://wonderchat.io/)
 
-Wonderchat, an AI-powered tool, has significantly improved the user experience with FileWave's Knowledge Base by simplifying the search process. It enables users to find information more efficiently and identifies gaps or areas for improvement in the Knowledge Base. This enhancement has made navigating the complexities of the KB much more manageable, providing users with a more convenient and clearer search experience.
+Wonderchat, an AI-powered tool, has significantly improved the user experience with FileWave's Knowledge Base by simplifying the search process. It enables users to find information more efficiently and identifies gaps or areas for improvement in the Knowledge Base.&#x20;
 {% endtab %}
 {% endtabs %}
 

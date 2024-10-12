@@ -9,9 +9,7 @@ coverY: 0
 ## <mark style="color:orange;">Navigation:</mark>
 
 {% hint style="info" %}
-* [**Tesla FSD**](tesla-fsd.md)
-* [**Waymo**](waymo.md)
-* [**Baidu Apollo Go Case**](case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
+* Robotaxi & Robovan
 {% endhint %}
 
 <mark style="color:red;">**Autonomous driving**</mark> represents a significant domain within the commercial application of artificial intelligence, offering vast potential and value across the freight, logistics, and automotive sectors. This technology not only aims to elevate transport efficiency and slash costs but also plays a crucial role in diminishing traffic incidents, thereby boosting road safety.&#x20;
@@ -112,7 +110,7 @@ Oxa (formerly Oxbotica) is a leading autonomous vehicle software company that de
 {% tab title="Baidu Apollo" %}
 Baidu's Apollo Go is a leading robotaxi service in China. In the first quarter of 2024, they provided about 826,000 rides, up 25% year over year. Apollo Go operates in multiple cities and aims to expand to 65 cities by 2025.
 
-\[[Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)]
+\[[Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](robotaxi-and-robovan/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)]
 {% endtab %}
 
 {% tab title="AutoX" %}
