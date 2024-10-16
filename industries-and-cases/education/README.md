@@ -21,6 +21,14 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">Augmented Physics</mark>
+
+Augmented Physics is an innovative machine learning-integrated authoring tool that transforms static physics textbook diagrams into interactive, embedded simulations, enhancing the learning experience by allowing users to manipulate and explore physics concepts dynamically.
+
+Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.18614)
+
+{% embed url="https://youtu.be/MOdSeUp8YcE?si=6-nBMWE6KgS6UKuA" %}
+
 ### <mark style="color:orange;">OpenAI GPT-4o</mark>
 
 &#x20;particularly impressive demonstration of GPT-4o's robust educational potential was provided by Khan Academy founder, Khan, and his child. The video below illustrates this capability:

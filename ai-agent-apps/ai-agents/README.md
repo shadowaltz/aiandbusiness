@@ -149,14 +149,20 @@ Cosine Genie is an advanced AI-powered software engineering model that has achie
 #### Resources to build AI Agents:
 
 {% tabs %}
-{% tab title="Phi Data" %}
-[https://www.phidata.com](https://www.phidata.com)
+{% tab title="OpenAI Swarm" %}
+Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by the OpenAI Solution team.
 
-
+[https://github.com/openai/swarm](https://github.com/openai/swarm)
 {% endtab %}
 
 {% tab title="Jina.ai" %}
 [https://jina.ai/](https://jina.ai/)
+{% endtab %}
+
+{% tab title="Phi Data" %}
+[https://www.phidata.com](https://www.phidata.com)
+
+
 {% endtab %}
 {% endtabs %}
 

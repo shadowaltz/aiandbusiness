@@ -34,9 +34,13 @@ Code Interpreting for AI Apps
 
 [https://github.com/e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter)
 {% endtab %}
+
+{% tab title="Cohere" %}
+Cohere is a leading enterprise AI platform that provides advanced language models and tools for generative AI, search and discovery, and advanced retrieval, offering flexible deployment options and optimized solutions built on the language of business to help companies develop scalable and efficient AI-powered applications.
+
+{% embed url="https://cohere.com/" %}
+{% endtab %}
 {% endtabs %}
-
-
 
 
 

@@ -74,11 +74,15 @@ Source: a16z, Top 50 Gen AI Web Products&#x20;
 
 ### <mark style="color:purple;">Trending Product:</mark>
 
-#### <mark style="color:orange;">Replit AI Agent</mark>
+### <mark style="color:orange;">Augmented Physics</mark>
 
-Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Agent. This tool can build deployable applications from natural language prompts, managing everything from code generation to database setup and deployment.
+Augmented Physics is an innovative machine learning-integrated authoring tool that transforms static physics textbook diagrams into interactive, embedded simulations, enhancing the learning experience by allowing users to manipulate and explore physics concepts dynamically.
 
-{% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
+Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.18614)
+
+{% embed url="https://youtu.be/MOdSeUp8YcE?si=6-nBMWE6KgS6UKuA" %}
+
+### <mark style="color:orange;">OpenAI GPT-4o</mark>
 
 #### <mark style="color:red;">**Changelog**</mark>:
 
@@ -168,4 +172,7 @@ Shortly after the release of Cursor, a new powerful AI editor emerged: Replit Ag
 * _10/6/2024 Added <mark style="color:orange;">bolt.new</mark>_
 * _10/8/2024 Added <mark style="color:orange;">Shopify Sidekick Bot</mark>_
 * _10/10/2024 Added <mark style="color:orange;">Tesla Robotaxi</mark>_
+* _10/11/2024 Added Openai <mark style="color:orange;">Swarm</mark>_
+* _10/14/2024 Added <mark style="color:orange;">Cohere.com, deepreel</mark>_
+* _10/15/2024 Added <mark style="color:orange;">Augmented Physics</mark>_
 

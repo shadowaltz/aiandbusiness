@@ -14,6 +14,10 @@ Beyond its quantitative prowess, GPT-4 also produced valuable narrative insights
 
 
 
+### Perplexity for Finance
+
+{% embed url="https://x.com/perplexity_ai/status/1846287953599123757" %}
+
 ### **Investment Research Tool:**
 
 ### <mark style="color:orange;">Kensho</mark>
@@ -24,7 +28,7 @@ Kensho, now owned by S\&P Global, builds analytical products used by major finan
 
 
 
-## AI Finance Tools:
+## AI+Finance Tools:
 
 {% tabs %}
 {% tab title="Intellectia AI" %}

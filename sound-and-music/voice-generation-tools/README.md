@@ -52,6 +52,14 @@ An Open Source Model for Audio Samples and Sound Design
 
 [https://stability.ai/news/introducing-stable-audio-open](https://stability.ai/news/introducing-stable-audio-open)
 {% endtab %}
+
+{% tab title="Artlist" %}
+The AI voice generator for video creators
+
+[https://artlist.io/voice-over](https://artlist.io/voice-over)
+
+The well-known audio library website Artlist has recently launched its own AI Voice service.
+{% endtab %}
 {% endtabs %}
 
 
