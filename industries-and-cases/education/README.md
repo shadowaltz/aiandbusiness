@@ -45,3 +45,19 @@ SchoolAI is an AI platform specifically designed for K12 students, equipped with
 
 {% embed url="https://www.cbs8.com/article/news/local/outreach/innovate8/ai-program-personal-chatbots-for-students/509-469c086b-cafe-4527-a380-d2a28d7494dc" %}
 
+
+
+## Resources:
+
+### AI Competency Framework for Teachers
+
+[https://www.unesco.org/en/articles/ai-competency-framework-teachers](https://www.unesco.org/en/articles/ai-competency-framework-teachers)
+
+The United Nations has developed an AI and Digital Transformation Competency Framework designed to inform digital capacity-building initiatives in government[1](https://sdgs.un.org/sites/default/files/2023-05/B44%20-%20Tan%20-%20AI%20and%20Digital%20Transformation%20Competencies%20Framework.pdf). While this framework primarily focuses on civil servants, it can be adapted to create a similar competency framework for teachers, outlining the skills and knowledge educators need to integrate AI and digital technologies in their teaching practices effectively.
+
+
+
+
+
+
+

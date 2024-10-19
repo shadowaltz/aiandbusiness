@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🪄 Text to Image / Image Editing
+# 🪄 Text to Image / Image Editing Tools
 
 {% hint style="warning" %}
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
@@ -35,7 +35,7 @@ Stable Diffusion, an open-source model for generating images from text, has sign
 
 Despite its high-quality outputs and versatility, Stable Diffusion's complexity, the need for robust hardware, and substantial storage requirements for data make it both a powerful and demanding tool. It offers great potential for those who can navigate its higher operational demands.
 
-#### <mark style="color:orange;">Important Stable Diffusion Resources:</mark>
+#### <mark style="color:orange;">Important Resources:</mark>
 
 {% tabs %}
 {% tab title="Civit AI" %}
@@ -98,6 +98,10 @@ Canva, a leading name in the image processing sector, has always been at the for
 Ideogram is a free-to-use AI-powered text-to-image generation platform that allows users to create images especially logos directly in their web browser without downloading additional software. Ideogram 2.0, the platform's latest update, introduces five different models (General, Realistic, Design, Anime, and 3D), improved text rendering, and a new color palette feature, significantly enhancing the quality and customization options for generated images.
 
 {% embed url="https://storage.googleapis.com/ideogram-static/Ideogram2.0_16x9.mp4" %}
+
+Ideogram Prompting Tips
+
+{% embed url="https://docs.ideogram.ai/using-ideogram/prompting-tips" %}
 
 ### <mark style="color:orange;">Adobe Firefly</mark>
 

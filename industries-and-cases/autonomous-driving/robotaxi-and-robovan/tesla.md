@@ -2,11 +2,9 @@
 
 
 
+Tesla Robotaxi will use wireless charging.
 
-
-{% embed url="https://x.com/Tesla/status/1844583703604772893" %}
-
-
+{% embed url="https://x.com/Tesla/status/1847302296494915588" %}
 
 ### <mark style="color:orange;">Tesla FSD</mark>
 

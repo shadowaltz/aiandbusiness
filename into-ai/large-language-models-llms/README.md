@@ -114,6 +114,14 @@ LLama is a family of state-of-the-art large language models developed by Meta, d
 **Llama 3.2**, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks
 
 [https://www.llama.com/](https://www.llama.com/)
+
+**llama-3.1-nemotron-70b Version**
+
+[https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8](https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8)
+
+[https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard](https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard)
+
+Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA that outperforms Anthropic Claude Sonnet 3.5 and OpenAI GPT-4o.
 {% endtab %}
 
 {% tab title="Mistral" %}
@@ -126,6 +134,8 @@ Mistral AI offers a range of large language models (LLMs), both open source and 
 Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) that boasts state-of-the-art reasoning, knowledge, and coding capabilities, with a 128k context window and support for dozens of languages, including French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, and Korean, along with 80+ coding languages.
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 

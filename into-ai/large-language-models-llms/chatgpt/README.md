@@ -15,7 +15,9 @@
 
 {% embed url="https://platform.openai.com/docs/overview" %}
 
+o1:
 
+{% embed url="https://openai.com/index/learning-to-reason-with-llms/" %}
 
 
 

@@ -175,4 +175,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/11/2024 Added Openai <mark style="color:orange;">Swarm</mark>_
 * _10/14/2024 Added <mark style="color:orange;">Cohere.com, deepreel</mark>_
 * _10/15/2024 Added <mark style="color:orange;">Augmented Physics</mark>_
+* _10/16/2024 Added <mark style="color:orange;">llama-3.1-nemotron-70b-instruct</mark>_
+* _10/17/2024_&#x20;
 
