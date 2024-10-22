@@ -9,6 +9,12 @@ Inworld AI is a leading platform that uses generative AI to create dynamic and i
 [**https://inworld.ai/**](https://inworld.ai/)
 
 {% embed url="https://youtu.be/5ZdRyZ2amHQ" %}
+
+## Inworld Beyond 2024
+
+{% embed url="https://inworld.ai/blog/beyond-2024" %}
+
+Inworld AI's vision for the future of gaming beyond 2024, highlighting how AI components and agents can revolutionize gameplay mechanics, enhance game development, and create more immersive and dynamic gaming experiences.
 {% endtab %}
 
 {% tab title="Nvidia Avatar Cloud Engine (ACE) " %}

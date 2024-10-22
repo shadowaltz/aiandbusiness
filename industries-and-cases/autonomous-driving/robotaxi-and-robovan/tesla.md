@@ -2,7 +2,7 @@
 
 
 
-Tesla Robotaxi will use wireless charging.
+### Tesla Robotaxi will use wireless charging.
 
 {% embed url="https://x.com/Tesla/status/1847302296494915588" %}
 

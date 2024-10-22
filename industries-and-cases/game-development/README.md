@@ -57,14 +57,26 @@ It created a 3D model of a sword that closely resembles the distinctive style fo
 ## Game Engines
 
 {% tabs %}
-{% tab title="Unity AI" %}
+{% tab title="Unity 6" %}
 [https://unity.com/ai](https://unity.com/ai)
 
 In 2023, numerous developers introduced ChatGPT plugins for Unity, enabling the automatic generation of diverse code snippets and significantly enhancing the efficiency of game development. Since then, these gaming engines have gone a step further by incorporating their own integrated AI systems. These systems build upon the foundation of Large Language Models (LLMs) and include capabilities for creating graphics and images, thereby further improving the efficiency of developing 3D games and environments.
 
 {% embed url="https://youtu.be/dR4IuN2tF78?si=oVlWtz4yGiszHU-p" %}
 
-###
+**Unity 6**
+
+{% embed url="https://unity.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffuvbjjlp%2Fproduction%2F194a4db74ba04548b4a0158a49ae88278041ebc8-1920x1080.jpg&w=3840&q=75" %}
+
+{% embed url="https://unity.com/blog/unity-6-features-announcement" %}
+
+Unity 6 introduces Unity Sentis, a neural engine that allows developers to integrate AI models into their game runtimes without requiring extensive machine learning expertise. Sentis enables developers to add various AI-powered features to their games, including:
+
+* Object recognition
+* Smart NPCs (Non-Player Characters)
+* Graphics optimizations
+
+This technology empowers developers to create dynamic AI experiences across all Unity-supported platforms.
 {% endtab %}
 
 {% tab title="Unreal Engine" %}

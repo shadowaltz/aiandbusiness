@@ -14,9 +14,22 @@ Beyond its quantitative prowess, GPT-4 also produced valuable narrative insights
 
 
 
-### Perplexity for Finance
-
+{% tabs %}
+{% tab title="Perplexity for Finance" %}
 {% embed url="https://x.com/perplexity_ai/status/1846287953599123757" %}
+
+
+{% endtab %}
+
+{% tab title="Claude Financial Data Analyst" %}
+A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat.\
+[https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
+
+{% embed url="https://github.com/anthropics/anthropic-quickstarts/raw/main/financial-data-analyst/public/hero.png" %}
+{% endtab %}
+{% endtabs %}
+
+
 
 ### **Investment Research Tool:**
 

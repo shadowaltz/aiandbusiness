@@ -216,6 +216,12 @@ As of 2024, more than 30 states have enacted laws or executive orders related to
 
 {% embed url="https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/" %}
 
+{% embed url="https://www.multistate.ai/updates/vol-40" %}
+
+{% embed url="https://images.squarespace-cdn.com/content/v1/651b50afd8da364386f2c7e3/965165a0-deab-4d96-ae23-17b4ce4faee8/Map_AV+SAE+Levels+(MASTER+-+LIVE)+(1).png?format=2500w" %}
+Source: multistate.ai
+{% endembed %}
+
 ### European Union
 
 The introduction of Regulation 2019/2144 on July 6, 2022, aims to significantly reduce fatalities on roads by mandating advanced safety technologies in vehicles. This regulation provides a legal framework for automated vehicles, enhancing the competitiveness of EU car manufacturers while addressing safety concerns.

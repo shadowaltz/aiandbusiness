@@ -9,6 +9,10 @@
 
 **ChatGPT Updates:**
 
+**ChatGPT Released Windows Version:**
+
+{% embed url="https://x.com/OpenAI/status/1846957067204166113" %}
+
 {% embed url="https://afflatus.ai/chatgpt-free-users-now-have-access-to-gpt-4o-and-gpts/" %}
 
 ## OpenAI documentation

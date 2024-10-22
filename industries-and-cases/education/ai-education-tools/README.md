@@ -61,3 +61,12 @@ An AI-enhanced quiz creation tool that can adjust question difficulty and genera
 
 [https://quizizz.com/home-v1](https://quizizz.com/home-v1)
 
+
+
+### Answers AI
+
+[https://answersai.com/](https://answersai.com/)
+
+> Snap a photo, get an answer, and ask follow-up questions. Get solutions to your problems instantly.
+
+{% embed url="https://answersai.com/static/media/HeroVideoOct12.3ce84298a5a965fd2b34.mp4" %}

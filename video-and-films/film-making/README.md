@@ -31,6 +31,20 @@ Dream Machine 1.5 is here. Now with higher-quality text-to-video
 {% embed url="https://youtu.be/xcyZe-kiRB8?si=zsBEOHGdo72M2kue" %}
 {% endtab %}
 
+{% tab title="Hailuo" %}
+Hailuo AI is an AI-powered productivity suite developed by MiniMax, a Chinese artificial intelligence company based in Shanghai, that offers text-to-video generation, intelligent programming assistance, and other AI capabilities to boost efficiency.
+
+[https://hailuoai.video/](https://hailuoai.video/)
+
+
+{% endtab %}
+
+{% tab title="Kling" %}
+Kling AI is an advanced artificial intelligence platform developed by Kuaishou that generates high-quality videos up to two minutes long in 1080p resolution from text prompts or images, excelling at depicting complex movements and interactions.
+
+[https://klingai.com/](https://klingai.com/)
+{% endtab %}
+
 {% tab title="Sora" %}
 
 

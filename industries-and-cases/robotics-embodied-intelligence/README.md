@@ -19,6 +19,10 @@ coverY: 137.1375464684015
 
 ## News and Updates:
 
+### Tesla Optimus:
+
+{% embed url="https://x.com/Tesla_Optimus/status/1846797392521167223" %}
+
 ### Nvidia Generative Physical AI
 
 > NVIDIA today announced that the world’s leaders in robot development are adopting the [NVIDIA Isaac™ robotics platform](https://developer.nvidia.com/isaac) for the research, development and production of the next generation of AI-enabled autonomous machines and robots.

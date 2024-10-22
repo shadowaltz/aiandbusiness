@@ -48,9 +48,9 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
-### <mark style="color:orange;">**Top News & Updates:**</mark>
+## <mark style="color:orange;">**Top News & Updates:**</mark>
 
-<mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
+### <mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
 
 On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO Elon Musk unveiled the company's latest autonomous vehicle, the Cybercab. Musk also introduced a larger autonomous vehicle called the Robovan, capable of transporting up to 20 people. Additionally, Tesla showcased advancements in its Full Self-Driving (FSD) technology, promising unsupervised autonomous driving capabilities for Model 3 and Model Y vehicles in Texas and California by 2025. The event also featured demonstrations of Tesla's Optimus humanoid robots, which Musk claimed could perform various tasks and might be available for $20,000–$30,000.
 
@@ -72,7 +72,13 @@ Llama 3.2, released by Meta on September 25, 2024, introduces a new collection o
 Source: a16z, Top 50 Gen AI Web Products&#x20;
 {% endembed %}
 
-### <mark style="color:purple;">Trending Product:</mark>
+## <mark style="color:purple;">Trending Product:</mark>
+
+### <mark style="color:orange;">Comfy UI Desktop:</mark>
+
+Comfy UI, the most powerful and modular diffusion model GUI with a graph/nodes interface, is releasing its desktop version.
+
+{% embed url="https://vimeo.com/1021338681" %}
 
 ### <mark style="color:orange;">Augmented Physics</mark>
 
@@ -176,5 +182,8 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/14/2024 Added <mark style="color:orange;">Cohere.com, deepreel</mark>_
 * _10/15/2024 Added <mark style="color:orange;">Augmented Physics</mark>_
 * _10/16/2024 Added <mark style="color:orange;">llama-3.1-nemotron-70b-instruct</mark>_
-* _10/17/2024_&#x20;
+* _10/17/2024 Added <mark style="color:orange;">Hailuo AI</mark>_
+* _10/18/2024 Added Tesla Optimus updates_
+* _10/19/2024 Added <mark style="color:orange;">Unity 6</mark>_
+* _10/21/2024 Added Adobe MAX revealed new features_
 
