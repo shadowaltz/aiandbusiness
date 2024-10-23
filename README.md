@@ -74,6 +74,14 @@ Source: a16z, Top 50 Gen AI Web Products&#x20;
 
 ## <mark style="color:purple;">Trending Product:</mark>
 
+### <mark style="color:orange;">**New Claude 3.5 Sonnet, and Claude 3.5 Haiku**</mark>
+
+Anthropic introduced the **new Claude 3.5 Sonnet, and Claude 3.5 Haiku.**
+
+{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F0eb9a1b7d5db74a6d21500e9f188c83beef3842e-2601x1932.png&w=3840&q=75" %}
+
+{% embed url="https://youtu.be/ODaHJzOyVCQ" %}
+
 ### <mark style="color:orange;">Comfy UI Desktop:</mark>
 
 Comfy UI, the most powerful and modular diffusion model GUI with a graph/nodes interface, is releasing its desktop version.
@@ -186,4 +194,5 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/18/2024 Added Tesla Optimus updates_
 * _10/19/2024 Added <mark style="color:orange;">Unity 6</mark>_
 * _10/21/2024 Added Adobe MAX revealed new features_
+* _10/22/2024 Added <mark style="color:orange;">new Claude 3.5 Sonnet, and Claude 3.5 Haiku</mark>_
 

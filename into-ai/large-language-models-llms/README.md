@@ -83,17 +83,15 @@ https://x.ai/grok
 {% endtab %}
 
 {% tab title="Claude" %}
-Claude is a family of large language models developed by Anthropic, designed to generate natural, human-like responses to text and image-based inputs. The Claude 3 model family includes three tiers:
-
-* **Claude 3 Opus**: The most intelligent model, excelling in highly complex tasks with near-human comprehension and fluency.
-* **Claude 3 Sonnet**: Balances intelligence and speed, ideal for enterprise workloads requiring rapid responses.
-* **Claude 3 Haiku**: The fastest and most compact model, providing near-instant responses for simple queries and requests.
-
-Anthropic just revealed their new <mark style="color:orange;">**Claude Sonnet 3.5**</mark>, the best LLM according to their data.
-
-{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2Fcf2c754458e9102b7334731fb18a965bfeb7ad08-2200x1894.png&w=3840&q=75" %}
-
 [https://claude.ai](https://claude.ai/login?returnTo=%2F%3F)
+
+Claude is a family of large language models developed by Anthropic, designed to generate natural, human-like responses to text and image-based inputs.&#x20;
+
+Anthropic introduced the **new Claude 3.5 Sonnet, and Claude 3.5 Haiku.**
+
+{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F0eb9a1b7d5db74a6d21500e9f188c83beef3842e-2601x1932.png&w=3840&q=75" %}
+
+{% embed url="https://youtu.be/ODaHJzOyVCQ" %}
 {% endtab %}
 
 {% tab title="Gemini" %}
