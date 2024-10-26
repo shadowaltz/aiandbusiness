@@ -2,6 +2,16 @@
 
 ### Website Address: [https://www.midjourney.com/](https://www.midjourney.com/explore)
 
+### News & Updates:
+
+Midjourney image editor released.
+
+{% embed url="https://x.com/midjourney/status/1849213115009056919" %}
+
+\[Midjourneyhas opened its web interface to all users with a limited-time offer of 25 free image generations, marking a significant shift from its previous Discord-only approach.]
+
+
+
 Midjourney, an AI-powered drawing tool, revolutionizes the creation of art by transforming user-provided text descriptions into stunning artworks. Since its public beta launch in July 2022, access has been primarily through a Discord chatbot (<mark style="color:red;">web version unlocking for those who has generated more than 100 images</mark>). The tool boasts a vast selection of artistic styles, allowing users to refine their creations by tweaking keywords and settings. Known for its ease of use and precision, Midjourney is poised to make a significant impact on the art world.&#x20;
 
 ![](../../.gitbook/assets/Midjourney.png)

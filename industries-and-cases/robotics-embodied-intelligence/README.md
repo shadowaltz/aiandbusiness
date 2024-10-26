@@ -19,6 +19,10 @@ coverY: 137.1375464684015
 
 ## News and Updates:
 
+Boston Dynamics and Toyota Research Institute (TRI) have announced a groundbreaking partnership that combines their expertise in robotics and AI to accelerate the development of general-purpose humanoid robots, leveraging TRI's Large Behavior Models and Boston Dynamics' Atlas robot platform.
+
+{% embed url="https://pressroom.toyota.com/boston-dynamics-and-toyota-research-institute-announce-partnership-to-advance-robotics-research/" %}
+
 ### Tesla Optimus:
 
 {% embed url="https://x.com/Tesla_Optimus/status/1846797392521167223" %}

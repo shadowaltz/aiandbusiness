@@ -4,7 +4,22 @@ description: AI & Film Making
 
 # 🎥 Film Making
 
+## Navigation:
 
+{% hint style="info" %}
+* AI Video Cases
+* Sora
+* Runway
+* Luma Dream Machine
+{% endhint %}
+
+## Industry Updates & News:
+
+### <mark style="color:orange;">Runway Act-One</mark>
+
+Runway's Act-One is revolutionizing AI-assisted video creation by enabling creators to capture and transfer facial expressions from a single video performance onto AI-generated characters without complex motion capture equipment. This makes high-quality character animation accessible to creators at all levels.
+
+{% embed url="https://youtu.be/z3F0ei62Kmk?si=FDoly4FojZ4wSn8Y" %}
 
 ## Top-tier AI video generation application
 
@@ -19,6 +34,12 @@ Runway, an innovative artificial intelligence startup, is at the forefront of de
 They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>. Runway's Gen-3 Alpha, a cutting-edge AI video generator trained on both videos and images, offers improved control, faster creation times, and higher fidelity compared to its predecessor, Gen-2, supporting tools like Text-to-video, Image-to-video, and Text-to-image.
 
 {% embed url="https://youtu.be/nByslCkykj8" %}
+
+#### Act-One
+
+Runway's Act-One is revolutionizing AI-assisted video creation by enabling creators to capture and transfer facial expressions from a single video performance onto AI-generated characters without complex motion capture equipment. This makes high-quality character animation accessible to creators at all levels.
+
+{% embed url="https://youtu.be/z3F0ei62Kmk?si=5CzOffS17NeJcgEJ" %}
 {% endtab %}
 
 {% tab title="Luma Dream Machine" %}

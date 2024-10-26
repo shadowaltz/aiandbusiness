@@ -195,4 +195,7 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/19/2024 Added <mark style="color:orange;">Unity 6</mark>_
 * _10/21/2024 Added Adobe MAX revealed new features_
 * _10/22/2024 Added <mark style="color:orange;">new Claude 3.5 Sonnet, and Claude 3.5 Haiku</mark>_
+* _10/23/2024 Added <mark style="color:orange;">Runway Act-One</mark>_
+* _10/24/2024 Added <mark style="color:orange;">Clone Robotics,</mark> Updates in AI Ethics_
+* _10/25/2024 Updates in <mark style="color:orange;">Midjourney</mark>_&#x20;
 

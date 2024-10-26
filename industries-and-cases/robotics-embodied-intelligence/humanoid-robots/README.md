@@ -10,7 +10,11 @@
 
 {% embed url="https://youtu.be/29ECwExc-_M" %}
 
+#### Update:
 
+Boston Dynamics and Toyota Research Institute (TRI) have announced a groundbreaking partnership that combines their expertise in robotics and AI to accelerate the development of general-purpose humanoid robots, leveraging TRI's Large Behavior Models and Boston Dynamics' Atlas robot platform.
+
+{% embed url="https://pressroom.toyota.com/boston-dynamics-and-toyota-research-institute-announce-partnership-to-advance-robotics-research/" %}
 
 ***
 
@@ -68,5 +72,11 @@ Unitree Robotics is a Chinese startup that develops and manufactures high-perfor
 
 {% embed url="https://x.com/UnitreeRobotics/status/1825435336736120880" %}
 
+***
 
+### Clone Robotics
+
+[https://www.clonerobotics.com/](https://www.clonerobotics.com/)
+
+{% embed url="https://youtu.be/5mSE6Tkhy4g?si=no1L7qAcieVco_sR" %}
 

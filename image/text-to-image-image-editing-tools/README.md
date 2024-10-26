@@ -89,7 +89,7 @@ Comfy UI is releasing a desktop version:
 
 
 
-Applications:
+### Top-tier Applications:
 
 {% tabs %}
 {% tab title="Midjourney" %}
@@ -126,6 +126,12 @@ Ideogram is a free-to-use AI-powered text-to-image generation platform that allo
 Ideogram Prompting Tips
 
 {% embed url="https://docs.ideogram.ai/using-ideogram/prompting-tips" %}
+
+## Ideogram Canvas, Magic Fill, and Extend
+
+Ideogram released a new Canvas function.
+
+[https://about.ideogram.ai/canvas](https://about.ideogram.ai/canvas)
 {% endtab %}
 {% endtabs %}
 
@@ -138,8 +144,6 @@ Ideogram Prompting Tips
 Canva, a leading name in the image processing sector, has always been at the forefront of integrating AI into its platform. Even before the recent surge in AI advancements, Canva had incorporated numerous AI-driven features, like background removal, among others. Now, leveraging Generative AI (GenAI) technology, Canva has expanded its capabilities into graphic design, video production, and copywriting. This innovation allows even those without professional skills to easily execute a wide range of creative projects.
 
 {% embed url="https://youtu.be/bVCRcNlY1yw?si=vcJ3kjIrUyw1AbB1" %}
-
-
 
 
 
