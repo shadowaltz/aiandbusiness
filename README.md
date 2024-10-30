@@ -198,4 +198,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/23/2024 Added <mark style="color:orange;">Runway Act-One</mark>_
 * _10/24/2024 Added <mark style="color:orange;">Clone Robotics,</mark> Updates in AI Ethics_
 * _10/25/2024 Updates in <mark style="color:orange;">Midjourney</mark>_&#x20;
+* _10/28/2024 Added some AI video cases_
+* _10/29/2024 Added <mark style="color:orange;">VIdeo Generate App Ranking</mark>_
 

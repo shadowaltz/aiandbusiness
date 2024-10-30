@@ -13,6 +13,10 @@ description: AI & Film Making
 * Luma Dream Machine
 {% endhint %}
 
+## Ranking:
+
+{% embed url="https://x.com/ArtificialAnlys/status/1850987133563216118" %}
+
 ## Industry Updates & News:
 
 ### <mark style="color:orange;">Runway Act-One</mark>

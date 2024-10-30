@@ -14,6 +14,18 @@ For more details, check this article from Zapier:
 What are AI agents?
 {% endembed %}
 
+## <mark style="color:purple;">News & Updates:</mark>
+
+Claude introduces computer use
+
+{% embed url="https://youtu.be/ODaHJzOyVCQ?si=3N9PrI8DfKyQp6-2" %}
+
+Docs: [https://docs.anthropic.com/en/docs/build-with-claude/computer-use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
+
+***
+
+
+
 #### Learning Resources:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>What Are AI Agents?</td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>

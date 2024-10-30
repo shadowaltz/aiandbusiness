@@ -8,7 +8,9 @@
 * [**Baidu Apollo Go Case**](case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 {% endhint %}
 
+Updates:
 
+{% embed url="https://x.com/Waymo/status/1851365483972538407" %}
 
 Tesla robotaxi & Robovan
 

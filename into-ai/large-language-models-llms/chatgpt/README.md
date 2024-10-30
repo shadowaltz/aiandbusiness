@@ -23,9 +23,9 @@ o1:
 
 {% embed url="https://openai.com/index/learning-to-reason-with-llms/" %}
 
+### Openai Cookbook
 
-
-
+[https://cookbook.openai.com/](https://cookbook.openai.com/)
 
 
 

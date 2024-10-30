@@ -175,9 +175,9 @@ Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 
 ***
 
-## Fine Turning
+## Fine Turning & More
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Meta Fine Turning Guide</td><td><a href="https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/">https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Meta Fine Turning Guide</td><td><a href="https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/">https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/</a></td><td></td></tr><tr><td>Enterprise Guide to Building Intelligent AI Chatbots With RAG</td><td><a href="https://www.nvidia.com/en-us/lp/ai-data-science/generative-ai/building-intelligent-ai-chatbots-with-rag-ebook/?ncid=pa-srch-goog-921287&#x26;wbraid=CmQKCAjwpvK4BhBuElQAC275K5Enwm5TbyBAJa9bTHOySqWuVbOOotxYcmXyq2DG8iG-VqmQeZ2vWWz8wWTs2HlOBi3Id8FSEYmB-nLapvZKxDS-t_tz9TbLINmy--__LHkaAmks&#x26;_bt=713058670066&#x26;_bk=&#x26;_bm=&#x26;_bn=&#x26;_bg=167350975575">https://www.nvidia.com/en-us/lp/ai-data-science/generative-ai/building-intelligent-ai-chatbots-with-rag-ebook/?ncid=pa-srch-goog-921287&#x26;wbraid=CmQKCAjwpvK4BhBuElQAC275K5Enwm5TbyBAJa9bTHOySqWuVbOOotxYcmXyq2DG8iG-VqmQeZ2vWWz8wWTs2HlOBi3Id8FSEYmB-nLapvZKxDS-t_tz9TbLINmy--__LHkaAmks&#x26;_bt=713058670066&#x26;_bk=&#x26;_bm=&#x26;_bn=&#x26;_bg=167350975575</a></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
