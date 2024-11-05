@@ -50,6 +50,12 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">GitHub Spark</mark>
+
+GitHub Spark is an AI-powered tool that enables users to build, share, and manage micro apps with natural language, without needing to write or deploy any code, offering features like automatic history, managed runtime environment, and persistent data storage.
+
+{% embed url="https://youtu.be/oM2amcnVmzM?si=CiTp7iZYAr8278hf" %}
+
 ### <mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
 
 On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO Elon Musk unveiled the company's latest autonomous vehicle, the Cybercab. Musk also introduced a larger autonomous vehicle called the Robovan, capable of transporting up to 20 people. Additionally, Tesla showcased advancements in its Full Self-Driving (FSD) technology, promising unsupervised autonomous driving capabilities for Model 3 and Model Y vehicles in Texas and California by 2025. The event also featured demonstrations of Tesla's Optimus humanoid robots, which Musk claimed could perform various tasks and might be available for $20,000–$30,000.
@@ -200,4 +206,7 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _10/25/2024 Updates in <mark style="color:orange;">Midjourney</mark>_&#x20;
 * _10/28/2024 Added some AI video cases_
 * _10/29/2024 Added <mark style="color:orange;">VIdeo Generate App Ranking</mark>_
+* _11/1/2024 Added <mark style="color:orange;">Mochi 1, ChatGPT Search</mark>_
+* _11/2/2024 Added <mark style="color:orange;">Github Spark</mark>_
+* _11/3/2024 Added <mark style="color:orange;">Ferret-UI 2</mark>_
 

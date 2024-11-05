@@ -16,6 +16,8 @@ Boston Dynamics and Toyota Research Institute (TRI) have announced a groundbreak
 
 {% embed url="https://pressroom.toyota.com/boston-dynamics-and-toyota-research-institute-announce-partnership-to-advance-robotics-research/" %}
 
+{% embed url="https://youtu.be/F_7IPm7f1vI?si=3bcrgYj4FjHg5tO8" %}
+
 ***
 
 ### <mark style="color:orange;">Figure AI</mark>

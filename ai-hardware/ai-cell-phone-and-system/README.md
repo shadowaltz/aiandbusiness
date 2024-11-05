@@ -24,7 +24,9 @@ Apple and OpenAI have reportedly reached an official agreement to integrate Open
 
 {% embed url="https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone" %}
 
+#### Ferret-UI 2
 
+[https://arxiv.org/pdf/2410.18967](https://arxiv.org/pdf/2410.18967)
 
 ## Samsung OneUI
 

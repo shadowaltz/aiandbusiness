@@ -23,6 +23,12 @@ Referral link:
 
 [https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral\_code=LF6KJLGJ)
 
+### <mark style="color:orange;">ChatGPT Search</mark>
+
+ChatGPT Search is a new feature that allows users to get fast, timely answers with links to relevant web sources directly within the ChatGPT interface.
+
+{% embed url="https://images.ctfassets.net/kftzwdyauwt9/7LzxdzMcijUYHtIES6rmub/1dd3bc9f423a6b1cd5176936dbb029aa/Entry_Point.png?w=3840&q=90&fm=webp" %}
+
 ### <mark style="color:orange;">Bing</mark>
 
 Thanks to its partnership with OpenAI, Bing became the pioneering search engine to enhance its search capabilities with large language models. It now boasts a suite of features, including Copilot, that are quite comprehensive, mirroring the functionalities available in ChatGPT. Its strategy focuses on offering a wide-ranging and all-inclusive set of features.

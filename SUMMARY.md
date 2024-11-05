@@ -101,6 +101,7 @@
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Product Development](industries-and-cases/product-development.md)
 * [Agriculture](industries-and-cases/agriculture.md)
+* [Medical](industries-and-cases/medical.md)
 
 ## AI Agent/Apps
 

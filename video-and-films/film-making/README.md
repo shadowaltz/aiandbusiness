@@ -95,6 +95,14 @@ As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming 
 
 Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that can generate, edit, and personalize high-definition videos with accompanying audio using simple text prompts.
 {% endtab %}
+
+{% tab title="Mochi 1" %}
+Genmo AI is at the forefront of video generation technology, offering models that create realistic motion adhering to physical laws and providing detailed control over video content through textual prompts.
+
+[https://www.genmo.ai](https://www.genmo.ai)
+
+
+{% endtab %}
 {% endtabs %}
 
 

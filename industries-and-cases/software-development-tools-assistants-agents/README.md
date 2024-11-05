@@ -70,10 +70,12 @@ Bolt.new is a brand new innovative platform by StackBlitz that allows developers
 Codeium is a coding toolkit that offers intelligent autocomplete, search, and chat capabilities, supporting over 70 programming languages and integrating with 40+ IDEs, designed to enhance developer productivity and efficiency.
 {% endtab %}
 
-{% tab title="Github Copilot" %}
-GitHub Copilot is an AI-powered coding assistant that provides contextualized help throughout the software development process. It offers code completions, chat assistance, code explanations, and answers to docs. Copilot integrates with popular IDEs and is natively built into GitHub. It enables developers to focus more on problem-solving and collaboration, leading to increased productivity and job satisfaction. Copilot is trained on public code repositories and generates suggestions using probabilistic determination, not copy/pasting. It supports various languages, with the quality of suggestions depending on the training data available for each language.
+{% tab title="Github Spark" %}
+GitHub Spark is an AI-powered tool that enables users to build, share, and manage micro apps with natural language, without needing to write or deploy any code, offering features like automatic history, managed runtime environment, and persistent data storage.
 
-{% embed url="https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4" %}
+[https://githubnext.com/projects/github-spark](https://githubnext.com/projects/github-spark)
+
+{% embed url="https://youtu.be/oM2amcnVmzM?si=CiTp7iZYAr8278hf" %}
 {% endtab %}
 
 {% tab title="Replit Agent" %}
