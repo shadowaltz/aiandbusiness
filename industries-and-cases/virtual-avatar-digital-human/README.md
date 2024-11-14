@@ -44,7 +44,7 @@ Nvidia ACE
 
 {% embed url="https://nvidianews.nvidia.com/news/digital-humans-ace-generative-ai-microservices" %}
 
-
+***
 
 ### Heygen
 
@@ -52,11 +52,11 @@ Nvidia ACE
 
 Currently, this stands as one of the top AI avatar creation apps, offering the option to either utilize digital human figures directly from the platform or to clone your own appearance and voice. It boasts multilingual translation capabilities for videos, with a choice of more than 40 languages.
 
-Heygen has recently introduced the new Avatar in Motion 1.0 functionality, which impressively supports lip sync, clones voice intonation, retains ambient sounds, and mimics your body language. The result is strikingly realistic.
+**HeyGen Avatar 3.0** introduces next-level AI with dynamic emotions, singing capabilities, and the ability to create fully customizable digital clones
 
-{% embed url="https://x.com/HeyGen_Official/status/1773119891068883240" %}
+{% embed url="https://youtu.be/zxbSV98VnhY?si=Q60ESEwkMlhTvzhv" %}
 
-
+***
 
 ### D-ID
 
@@ -66,7 +66,7 @@ D-ID is a company that provides innovative AI video and avatar generation servic
 
 {% embed url="https://youtu.be/YduWqN-OzWU?si=GjvVSUufjqI6JLT5" %}
 
-
+{% embed url="https://www.d-id.com/news/techcrunch-d-id-launches-new-high-quality-avatars/" %}
 
 ### Rendernet
 

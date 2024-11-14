@@ -209,4 +209,7 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _11/1/2024 Added <mark style="color:orange;">Mochi 1, ChatGPT Search</mark>_
 * _11/2/2024 Added <mark style="color:orange;">Github Spark</mark>_
 * _11/3/2024 Added <mark style="color:orange;">Ferret-UI 2</mark>_
+* _11/7/2024 Added_&#x20;
+* _11/8/2024 Added_&#x20;
+* _11/11/2024 Added <mark style="color:orange;">Google Learn About</mark>_
 

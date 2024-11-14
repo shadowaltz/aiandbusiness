@@ -11,19 +11,43 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Pactum" %}
-
+Pactum AI is a platform used by Fortune 500 companies to conduct thousands of autonomous negotiations with suppliers, enhancing savings, supplier engagement, and business efficiency.
 
 [https://pactum.com/](https://pactum.com/)
 {% endtab %}
 
 {% tab title="Humantic AI" %}
-
+Humantic AI is a platform that enhances large-ticket sales by providing in-depth buyer intelligence, focusing on both the needs of the company and the wants of the buyer.
 
 [https://humantic.ai/](https://humantic.ai/)
 {% endtab %}
+
+{% tab title="Negotiation Demo from MIT" %}
+Negotiation Demo from MIT
+
+[https://negotiation.mit.edu/demo](https://negotiation.mit.edu/demo)
+
+
+{% endtab %}
 {% endtabs %}
 
+***
 
+## GPTs:
+
+Opting for GPT models offers a streamlined approach, with ChatGPT's official team introducing a dedicated GPT known as <mark style="background-color:orange;">**The Negotiator**</mark>, designed to simulate a range of negotiation scenarios.
+
+> I'll help you advocate for yourself and get better outcomes. Become a great negotiator.
+
+[https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator)
+
+#### Negotiation Simulation Tutor By Ethan R Mollick
+
+[https://chatgpt.com/g/g-zfnQfjIBL-negotiation-simulation-tutor](https://chatgpt.com/g/g-zfnQfjIBL-negotiation-simulation-tutor)
+
+This GPT simulates a negotiation and offers you feedback and grading on your performance
+
+***
 
 ## Prompt：
 
@@ -34,20 +58,6 @@ Negotiation Simulator - GPT4
 >
 >
 > _Source: Ethan Mollick and Lilach Mollick from Wharton School,_ [_https://www.moreusefulthings.com/_](https://www.moreusefulthings.com/)
-
-***
-
-## GPTs
-
-Opting for GPT models offers a streamlined approach, with ChatGPT's official team introducing a dedicated GPT known as <mark style="background-color:orange;">**The Negotiator**</mark>, designed to simulate a range of negotiation scenarios.
-
-> I'll help you advocate for yourself and get better outcomes. Become a great negotiator.
-
-[https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator)
-
-
-
-
 
 ***
 

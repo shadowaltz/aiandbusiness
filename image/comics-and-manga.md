@@ -58,7 +58,11 @@ A brand-new AI startup app optimized for translating comics into various languag
 
 
 
+***
 
+### Cases: Readkidz
+
+[https://www.readkidz.com/](https://www.readkidz.com/)
 
 
 

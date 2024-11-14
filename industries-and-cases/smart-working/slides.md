@@ -1,6 +1,6 @@
 # Slides
 
-## Overall Slides Generate
+## Slides Generate
 
 ### <mark style="color:orange;">Gamma</mark>
 

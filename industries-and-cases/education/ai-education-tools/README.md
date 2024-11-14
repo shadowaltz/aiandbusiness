@@ -13,6 +13,14 @@
 
 ## <mark style="color:purple;">Other Excellent Tools</mark>
 
+### <mark style="color:orange;">Google Learn About</mark>
+
+[https://learning.google.com/experiments/learn-about/signup](https://learning.google.com/experiments/learn-about/signup)
+
+**Google Learn About** is an interactive platform where users can explore and learn about various technologies and concepts through engaging, hands-on experiments.
+
+
+
 ### <mark style="color:orange;">AI Bus</mark>
 
 [https://albus.org/content](https://albus.org/content)
@@ -70,3 +78,4 @@ An AI-enhanced quiz creation tool that can adjust question difficulty and genera
 > Snap a photo, get an answer, and ask follow-up questions. Get solutions to your problems instantly.
 
 {% embed url="https://answersai.com/static/media/HeroVideoOct12.3ce84298a5a965fd2b34.mp4" %}
+

@@ -2,13 +2,13 @@
 
 ### <mark style="color:orange;">Notion</mark>
 
-The earliest note-taking software to support AI writing features, capable of providing various auxiliary or replacement writing functions.
+A note-taking software that was the first to support AI writing features, offering various auxiliary or alternative writing functions.
 
 [_https://www.notion.so/_](https://www.notion.so/)
 
 #### Notion AI
 
-Notion just released Noton AI, allowing users to generate content, summarize text, translate languages, answer questions about their documents, and more - all without leaving the app.
+Notion has released a new feature called Notion AI, allowing users to generate content, summarize text, translate languages, and answer questions related to documents directly within the app.
 
 {% embed url="https://www.notion.so/product/ai" %}
 
@@ -18,11 +18,17 @@ Notion just released Noton AI, allowing users to generate content, summarize tex
 
 [https://notebooklm.google.com](https://notebooklm.google.com)
 
-NotebookLM is an innovative AI-powered note-taking and research assistant developed by Google. It combines the power of large language models with Google's search capabilities to help users organize information, generate ideas, and enhance their productivity. NotebookLM allows users to create, edit, and collaborate on documents while leveraging AI to provide intelligent suggestions, answer questions, and summarize content. This tool aims to streamline the process of gathering and synthesizing information, making it particularly useful for students, researchers, and professionals who need to manage complex information and generate insights efficiently.
+NotebookLM is a tool that combines large language models with Google's search capabilities to help organize information, generate ideas, and boost productivity. Users can create and edit documents, collaborate with others, and receive AI support for suggestions, answering questions, and summarizing content. This tool streamlines information collection and organization, making it particularly useful for students, researchers, and professionals working with complex information to gain insights efficiently.
 
 
 
+### Otter.ai
 
+[https://otter.ai/](https://otter.ai/)
+
+> ## The #1 AI Meeting Assistant✨
+>
+> Never take meeting notes again. Get transcripts, automated summaries, action items, and chat with Otter to get answers from your meetings.
 
 
 

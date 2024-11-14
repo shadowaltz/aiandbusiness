@@ -29,13 +29,9 @@ Apple Intelligence will be available in beta as part of iOS 18, iPadOS 18, and m
 
 
 
+## App Intents
 
-
-
-
-
-
-
+[https://developer.apple.com/documentation/appintents](https://developer.apple.com/documentation/appintents)
 
 
 

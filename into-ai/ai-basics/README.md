@@ -1,4 +1,5 @@
 ---
+icon: brain-circuit
 cover: >-
   https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxBSXxlbnwwfHx8fDE3MTg2NjM5Mzd8MA&ixlib=rb-4.0.3&q=85
 coverY: 171

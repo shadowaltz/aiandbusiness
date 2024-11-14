@@ -7,6 +7,14 @@ coverY: 0
 
 # 💽 Software Development Tools/Assistants/Agents
 
+{% hint style="info" %}
+Google CEO Sundar Pichai recently revealed that artificial intelligence (AI) generates over 25% of the company’s new code
+{% endhint %}
+
+{% embed url="https://finance.yahoo.com/news/over-25-google-code-now-151413292.html" %}
+
+***
+
 ## <mark style="color:purple;">LLM for Coding</mark>
 
 {% tabs %}

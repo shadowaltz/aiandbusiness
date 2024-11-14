@@ -22,6 +22,12 @@ Do Not Pay
 
 DoNotPay uses artificial intelligence to help you fight big corporations, protect your privacy, find hidden money, and beat bureaucracy.
 {% endtab %}
+
+{% tab title="EvenUp" %}
+[https://www.evenuplaw.com/](https://www.evenuplaw.com/)
+
+EvenUp is a cutting-edge claims intelligence platform that leverages AI to enhance the value and efficiency of personal injury case settlements by analyzing extensive historical data.
+{% endtab %}
 {% endtabs %}
 
 
