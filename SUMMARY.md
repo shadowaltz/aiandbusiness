@@ -64,6 +64,7 @@
   * [GPTs for Coding](industries-and-cases/software-development-tools-assistants-agents/gpts-for-coding.md)
   * [Cursor Resources & Cases](industries-and-cases/software-development-tools-assistants-agents/cursor-resources-and-cases.md)
   * [AI App Development Tool](industries-and-cases/software-development-tools-assistants-agents/ai-app-development-tool.md)
+  * [Product Development](industries-and-cases/software-development-tools-assistants-agents/product-development.md)
 * [🕹️ Game Development](industries-and-cases/game-development/README.md)
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
   * [🎮 Gaming Assistant](industries-and-cases/game-development/gaming-assistant/README.md)
@@ -90,19 +91,18 @@
     * [AI Language Learning Tools](industries-and-cases/education/ai-education-tools/ai-language-learning-tools.md)
   * [Education Prompt Examples](industries-and-cases/education/education-prompt-examples.md)
 * [🫂 AI Companion](industries-and-cases/ai-companion.md)
-* [👩‍💻 Sales/Business Development](industries-and-cases/sales-business-development.md)
+* [Sales/Business Development](industries-and-cases/sales-business-development.md)
 * [🚚 Supply Chain](industries-and-cases/supply-chain/README.md)
   * [Manufacturing & Production](industries-and-cases/supply-chain/manufacturing-and-production.md)
   * [Warehousing & Logistics](industries-and-cases/supply-chain/warehousing-and-logistics.md)
-* [Spatial Computing/3D](industries-and-cases/spatial-computing-3d.md)
-* [Metaverse & Digital Twin](industries-and-cases/metaverse-and-digital-twin.md)
-* [👂 Translation](industries-and-cases/translation.md)
+* [Spatial Computing/3D](industries-and-cases/spatial-computing-3d/README.md)
+  * [Metaverse & Digital Twin](industries-and-cases/spatial-computing-3d/metaverse-and-digital-twin.md)
+* [Translation](industries-and-cases/translation.md)
 * [AI + Finance](industries-and-cases/ai-+-finance/README.md)
   * [Fraud Detection](industries-and-cases/ai-+-finance/fraud-detection.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
-* [Product Development](industries-and-cases/product-development.md)
+* [biotechnology  and Medicine](industries-and-cases/biotechnology-and-medicine.md)
 * [Agriculture](industries-and-cases/agriculture.md)
-* [Medical](industries-and-cases/medical.md)
 
 ## AI Agent/Apps
 
@@ -112,18 +112,18 @@
 * [👾 AI Agents](ai-agent-apps/ai-agents/README.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
-  * [Build AI Apps](ai-agent-apps/ai-agents/build-ai-apps.md)
+  * [Crew AI](ai-agent-apps/ai-agents/crew-ai.md)
+* [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image
 
 * [🪄 Text to Image / Image Editing Tools](image/text-to-image-image-editing-tools/README.md)
-  * [Midjourney Guide](image/text-to-image-image-editing-tools/midjourney-guide.md)
+  * [Midjourney Guide](image/text-to-image-image-editing-tools/midjourney-guide/README.md)
+    * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-guide/midjourney-cases.md)
   * [Grok 2 w/ Flux](image/text-to-image-image-editing-tools/grok-2-w-flux.md)
-  * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-cases.md)
   * [Comfy UI](image/text-to-image-image-editing-tools/comfy-ui.md)
-  * [DallE](image/text-to-image-image-editing-tools/dalle.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
-* [🌆 AI Image Detector](image/ai-image-detector.md)
+* [AI Image Detector](image/ai-image-detector.md)
 
 ## Video & Films
 
@@ -132,7 +132,6 @@
   * [McDonald JP Ad](video-and-films/film-making/mcdonald-jp-ad.md)
   * [Sora](video-and-films/film-making/sora/README.md)
     * [ToysRus New AI Commercial](video-and-films/film-making/sora/toysrus-new-ai-commercial.md)
-  * [(-)Luma Dream Machine Tutorial](video-and-films/film-making/luma-dream-machine-tutorial.md)
   * [Runway](video-and-films/film-making/runway/README.md)
     * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
 * [🎛️ AI Video Editing](video-and-films/ai-video-editing/README.md)
@@ -148,13 +147,13 @@
 
 ## AI Hardware
 
-* [🖲️ AI Gadgets](ai-hardware/ai-gadgets.md)
 * [🕶️ AI Glasses](ai-hardware/ai-glasses/README.md)
   * [Case: Meta Glasses](ai-hardware/ai-glasses/case-meta-glasses.md)
 * [📱 AI Cell Phone & System](ai-hardware/ai-cell-phone-and-system/README.md)
   * [Apple Intelligence](ai-hardware/ai-cell-phone-and-system/apple-intelligence.md)
   * [Samsung OneUI](ai-hardware/ai-cell-phone-and-system/samsung-oneui.md)
   * [Google Gemini/Android](ai-hardware/ai-cell-phone-and-system/google-gemini-android.md)
+* [🖲️ AI Gadgets](ai-hardware/ai-gadgets.md)
 
 ## Other
 

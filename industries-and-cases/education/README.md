@@ -21,6 +21,12 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">A Student’s Guide to Writing with ChatGPT</mark>
+
+OpenAI just released a comprehensive guide for students on how to effectively use ChatGPT to enhance their writing skills and academic productivity.
+
+Link: [https://openai.com/chatgpt/use-cases/student-writing-guide/](https://openai.com/chatgpt/use-cases/student-writing-guide/)
+
 ### <mark style="color:orange;">Augmented Physics</mark>
 
 Augmented Physics is an innovative machine learning-integrated authoring tool that transforms static physics textbook diagrams into interactive, embedded simulations, enhancing the learning experience by allowing users to manipulate and explore physics concepts dynamically.

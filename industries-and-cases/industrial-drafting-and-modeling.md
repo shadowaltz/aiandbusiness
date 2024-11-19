@@ -22,3 +22,11 @@ Autodesk's software spans nearly every industry tied to design and manufacturing
 
 {% embed url="https://youtu.be/A3wnzw6I0Qo?si=wC047TTU9DDxJZXT" %}
 
+### PromeAI
+
+[https://www.promeai.pro/](https://www.promeai.pro/)
+
+PromeAI is an innovative AI-powered platform that revolutionizes content creation by transforming sketches into realistic images, photos, and videos, offering tools for both amateurs and professionals in design fields
+
+
+

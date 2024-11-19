@@ -7,7 +7,7 @@ AI Agents are still in their early stages, and building one requires some basic 
 ## **Automation Platforms**:&#x20;
 
 {% hint style="info" %}
-Editors notice: These are considered automation platforms strictly speaking. However, with the recent integration of LLM, they now function similarly to an AI Agent. Their ease of deployment and use, along with wide support for various online platforms, have attracted many users, significantly enhancing business processes. That’s why they’re included here.
+These are considered automation platforms strictly speaking. However, with the recent integration of LLM, they now function similarly to an AI Agent. Their ease of deployment and use, along with wide support for various online platforms, have attracted many users, significantly enhancing business processes. That’s why they’re included here.
 {% endhint %}
 
 {% tabs %}

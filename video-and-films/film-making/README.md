@@ -13,6 +13,12 @@ description: AI & Film Making
 * Luma Dream Machine
 {% endhint %}
 
+Broadly speaking, the video generation techniques available today fall into three categories:&#x20;
+
+* <mark style="color:orange;">**Text-to-Video**</mark>
+* <mark style="color:orange;">**Video-to-Video**</mark>
+* <mark style="color:orange;">**Image-to-Video**</mark>
+
 ## Ranking:
 
 {% embed url="https://x.com/ArtificialAnlys/status/1850987133563216118" %}
@@ -176,4 +182,12 @@ Video-to-video editing tools are great at changing how characters look and alter
 [https://domoai.app/](https://domoai.app/)
 
 {% embed url="https://vimeo.com/915647923" %}
+
+***
+
+### Runway Gen3, Luma, Kling 🎥 Video Prompt Maker
+
+[https://chatgpt.com/g/g-CdUZ2qMxc-runway-gen3-luma-kling-video-prompt-maker](https://chatgpt.com/g/g-CdUZ2qMxc-runway-gen3-luma-kling-video-prompt-maker)
+
+Expert in video prompts. Create videos in any style you can imagine with Text to Video. Instantly generate high-quality prompts, and spark your creativity. Perfect for Runway Gen-3, Kling, Luma AI, Sora and Pika.
 

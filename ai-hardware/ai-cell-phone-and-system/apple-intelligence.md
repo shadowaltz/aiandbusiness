@@ -23,10 +23,6 @@ Apple has recently introduced "Apple Intelligence," a comprehensive suite of gen
    * **Priority Notifications**: Important notifications are surfaced at the top of the stack, and summaries help users scan long notifications quickly.
    * **Mail Enhancements**: Features like "Priority Messages" and "Smart Reply" help users manage their inbox more efficiently.
 
-### Availability
-
-Apple Intelligence will be available in beta as part of iOS 18, iPadOS 18, and macOS Sequoia this fall, initially in U.S. English. It will be accessible on iPhone 15 Pro, iPhone 15 Pro Max, and iPad and Mac devices with M1 and later.
-
 
 
 ## App Intents

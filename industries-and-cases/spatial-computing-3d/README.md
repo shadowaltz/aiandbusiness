@@ -1,6 +1,6 @@
 ---
-description: AI & Spatial Computing/3D
 icon: unity
+description: AI & Spatial Computing/3D
 cover: >-
   https://images.unsplash.com/photo-1680539208269-e7c8898c0713?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHwzZHxlbnwwfHx8fDE3MTg2MDA3MTZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -71,6 +71,10 @@ Spline AI ALPHA introduces the integration of AI into 3D design, allowing users 
 > Voxcraft produces models that seamlessly integrate with 3D modeling tools like Blender, effortlessly fitting into your 3D workflow.
 
 This tool can directly create models in 3D format, ensuring compatibility with a variety of 3D software, and even allows for seamless integration with Apple Vision Pro.&#x20;
+{% endtab %}
+
+{% tab title="Huperhuman Rodin" %}
+[https://hyperhuman.deemos.com/](https://hyperhuman.deemos.com/)
 {% endtab %}
 {% endtabs %}
 

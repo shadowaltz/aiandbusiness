@@ -4,7 +4,7 @@ icon: dumpster
 
 # E-commerce
 
-## Tools:
+## Tools for Shop:
 
 ### <mark style="color:orange;">PagePilot</mark>
 
@@ -25,6 +25,14 @@ Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
 * **Business Insights**: Answers questions about sales performance and generates reports.
 * **Marketing Assistance**: Guides sellers through setting up email campaigns.
 * **Content Creation**: Helps create SEO-optimized product descriptions and FAQs.
+
+
+
+## Virtual Try-on
+
+### Virtually try on clothes with a new AI shopping feature
+
+[https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
 
 
 

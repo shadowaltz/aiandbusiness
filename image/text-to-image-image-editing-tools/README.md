@@ -23,12 +23,12 @@ layout:
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
-
+## Open Source:
 
 {% tabs %}
 {% tab title="Flux. 1" %}
 {% hint style="success" %}
-Editor’s note: **Flux 1**, created by the original members of Stable Diffusion, has now fully surpassed the performance of Stable Diffusion. It is fully compatible with mainstream UIs like Comfy UI and has become the most powerful open-source text-to-image model, even slightly surpassing Midjourney in some aspects. This has significantly enhanced the capabilities of various SaaS businesses based on Stable Diffusion.
+**Flux 1**, created by the original members of Stable Diffusion, has now fully surpassed the performance of Stable Diffusion. It is fully compatible with mainstream UIs like Comfy UI and has become the most powerful open-source text-to-image model, even slightly surpassing Midjourney in some aspects. This has significantly enhanced the capabilities of various SaaS businesses based on Stable Diffusion.
 {% endhint %}
 
 ### <mark style="color:orange;">Flux. 1</mark>
@@ -87,9 +87,9 @@ Comfy UI is releasing a desktop version:
 {% endtab %}
 {% endtabs %}
 
+***
 
-
-### Top-tier Applications:
+## Top-tier Applications:
 
 {% tabs %}
 {% tab title="Midjourney" %}
@@ -133,22 +133,28 @@ Ideogram released a new Canvas function.
 
 [https://about.ideogram.ai/canvas](https://about.ideogram.ai/canvas)
 {% endtab %}
+
+{% tab title="Recraft" %}
+**Recraft** is a new AI-powered design platform that offers a range of tools like AI image generation, vectorization, and mockup creation to help designers and marketers create stunning visual content.
+
+[https://www.recraft.ai/](https://www.recraft.ai/)
+{% endtab %}
 {% endtabs %}
 
+***
 
+## Multifunctional image generation and modification platform
 
-### <mark style="color:orange;">Canva</mark>
-
+{% tabs %}
+{% tab title="Canva" %}
 [https://www.canva.com/](https://www.canva.com/)
 
 Canva, a leading name in the image processing sector, has always been at the forefront of integrating AI into its platform. Even before the recent surge in AI advancements, Canva had incorporated numerous AI-driven features, like background removal, among others. Now, leveraging Generative AI (GenAI) technology, Canva has expanded its capabilities into graphic design, video production, and copywriting. This innovation allows even those without professional skills to easily execute a wide range of creative projects.
 
 {% embed url="https://youtu.be/bVCRcNlY1yw?si=vcJ3kjIrUyw1AbB1" %}
+{% endtab %}
 
-
-
-### <mark style="color:orange;">Adobe Firefly</mark>
-
+{% tab title="Adobe Firefly" %}
 [https://www.adobe.com/products/firefly.html](https://www.adobe.com/products/firefly.html)
 
 Adobe Firefly, officially launched by Adobe, is a web-based creative tool powered by generative AI. It enables users to craft high-quality images, text styles, and textures with just a few simple text prompts. Beyond these capabilities, Firefly also offers creative fill, AI-powered image enlargement, and canvas stretching among its features. Additionally, Adobe is progressively integrating these advanced technologies into other software within its suite, such as Photoshop.
@@ -167,40 +173,64 @@ Adobe MAX recently unveiled its latest Sneaks, showcasing nine innovative projec
 Other notable projects focus on 3D vector art rotation, 3D scene layout for 2D image creation, sketch-to-design conversion, and AI-assisted high-quality image generation from screen captures. These advancements demonstrate Adobe's commitment to pushing the boundaries of creative technology and may potentially become key features in future Adobe products.
 
 {% embed url="https://youtu.be/xuPd0ZZa164?si=5VwTDqTZDyWhq0PA" %}
+{% endtab %}
 
-
-
-### <mark style="color:orange;">ClickDrop</mark>
-
+{% tab title="ClickDrop" %}
 [https://clipdrop.co/](https://clipdrop.co/)
 
 ClickDrop, formerly associated with the open-source frontrunner Stability AI, has been acquired by Jasper and now offers a variety of AI-powered image editing features.
 
 {% embed url="https://youtu.be/6ktXlBDf4hQ" %}
+{% endtab %}
 
+{% tab title="Microsoft Designer" %}
+[https://designer.microsoft.com/](https://designer.microsoft.com/)
 
+{% embed url="https://youtu.be/vQK-E_Mzeq0?si=Ozzus-Mvnp3bzBoe" %}
+{% endtab %}
 
-### Ilus AI
+{% tab title="dzine.ai" %}
+Former Stylar.ai
 
-[https://ilus.ai/](https://ilus.ai/)
+[https://www.dzine.ai/](https://www.dzine.ai/)
+{% endtab %}
+{% endtabs %}
+
+***
+
+### Other Image Generate & Editing Apps
+
+{% tabs %}
+{% tab title="Ilus AI" %}
+[https://](https://ilus.ai/)[ilus.ai/](https://ilus.ai/)
 
 If you're looking to create AI illustrations, ilus is a specialized AI generation service tailored to this niche.&#x20;
+{% endtab %}
 
-
-
-### Krea AI
-
+{% tab title="Krea AI" %}
 [https://www.krea.ai/home](https://www.krea.ai/home)
 
 {% embed url="https://x.com/krea_ai/status/1809154957440163879" %}
+{% endtab %}
 
-upscale
+{% tab title="Upscale" %}
+
 
 [https://magnific.ai/](https://magnific.ai/)
+{% endtab %}
 
+{% tab title="Relight" %}
 
-
-Relight
 
 [https://magnificai.org/magnific-relight/](https://magnificai.org/magnific-relight/)
+{% endtab %}
+
+{% tab title="Magnific.ai" %}
+Magnific.ai
+
+[https://magnific.ai/](https://magnific.ai/)
+{% endtab %}
+{% endtabs %}
+
+
 

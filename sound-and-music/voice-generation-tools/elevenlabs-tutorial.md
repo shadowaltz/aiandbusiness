@@ -14,5 +14,7 @@
 
 {% embed url="https://youtu.be/oD0ADULb_2w?si=h_qml345TkmHziQH" %}
 
+For more info please check the official docs:
 
+[https://elevenlabs.io/docs/introduction](https://elevenlabs.io/docs/introduction)
 

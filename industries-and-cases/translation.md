@@ -1,4 +1,8 @@
-# 👂 Translation
+---
+icon: language
+---
+
+# Translation
 
 Due to the outstanding performance and language capabilities of current large language models like GPT-4 and Claude Sonnet 3.5, the translation quality of these applications has already surpassed that of traditional professional translation software. Therefore, if you only need a simple translation, please directly ask the application, for example: help me translate into German:
 
@@ -11,8 +15,6 @@ If you want better translation results, you can use more specialized prompts to 
 If you need more accurate and reliable translation results, we can use more advanced techniques, such as training a Translation Agent. For instance, Andrew Ng's translation agent, link is as follows:
 
 [https://github.com/andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
-
-
 
 
 

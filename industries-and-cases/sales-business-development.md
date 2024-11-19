@@ -1,10 +1,11 @@
 ---
+icon: salesforce
 cover: >-
   https://images.unsplash.com/photo-1521790797524-b2497295b8a0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxidXllcnxlbnwwfHx8fDE3MjQ5Njc5MDB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 👩‍💻 Sales/Business Development
+# Sales/Business Development
 
 ### 11X AI
 
@@ -23,4 +24,18 @@ An AI-Powered Sales Development Representative.
 Humantic AI is a Buyer Intelligence platform that uses Personality AI to provide sales teams with deep insights into potential customers, enabling personalized communication and improved sales performance across the entire funnel.
 
 
+
+### Otter.ai for Sales
+
+[https://otter.ai/sales-teams](https://otter.ai/sales-teams)
+
+OtterPilot™ for Sales automatically extracts Sales Insights, writes follow-up emails, and pushes call notes to Salesforce and HubSpot.
+
+{% embed url="https://cdn.prod.website-files.com/618e9316785b3582a5178502/64f7c3381e7400aff84f8203_OtterPilot%20for%20Sales%20-%20Animation%20-%20Black%20Background-transcode.mp4" %}
+
+
+
+Salesforce AI
+
+[https://www.salesforce.com/artificial-intelligence/](https://www.salesforce.com/artificial-intelligence/)
 

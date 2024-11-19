@@ -14,7 +14,7 @@ Midjourney image editor released.
 
 Midjourney, an AI-powered drawing tool, revolutionizes the creation of art by transforming user-provided text descriptions into stunning artworks. Since its public beta launch in July 2022, access has been primarily through a Discord chatbot (<mark style="color:red;">web version unlocking for those who has generated more than 100 images</mark>). The tool boasts a vast selection of artistic styles, allowing users to refine their creations by tweaking keywords and settings. Known for its ease of use and precision, Midjourney is poised to make a significant impact on the art world.&#x20;
 
-![](../../.gitbook/assets/Midjourney.png)
+![](../../../.gitbook/assets/Midjourney.png)
 
 A notable update in 2024 introduced a character consistency feature, enabling the reliable creation of diverse comics and animations.
 
@@ -38,17 +38,13 @@ This is the Explore page on Midjourney's official website, which showcases a sel
 
 <mark style="background-color:green;">Pricing for Midjourney involves a subscription model, beginning at a monthly rate of $8. Users have the flexibility to choose from various tiers, tailored to accommodate different levels of image production needs.</mark>
 
-
-
-### Learning Resources:
-
-[https://learningprompt.wiki/docs/midjourney-learning-path](https://learningprompt.wiki/docs/midjourney-learning-path)
-
 ### Midjourney Official Document:
 
 For a detailed tutorial, here is the Midjourney official guide:
 
 {% embed url="https://docs.midjourney.com/docs/quick-start" %}
 
+### Learning Resources:
 
+[https://learningprompt.wiki/docs/midjourney-learning-path](https://learningprompt.wiki/docs/midjourney-learning-path)
 
