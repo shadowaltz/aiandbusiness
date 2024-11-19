@@ -2,6 +2,7 @@
 description: >-
   Track and interpret changes in AI policies and regulations worldwide,
   discussing their impact on the industry and businesses.
+icon: building-shield
 cover: >-
   https://images.unsplash.com/photo-1637317758712-496874398efe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxyZWd1bGF0aW9ufGVufDB8fHx8MTcxODY2NDE0Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0

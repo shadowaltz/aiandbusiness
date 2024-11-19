@@ -16,8 +16,7 @@
   * [Understand Token](into-ai/large-language-models-llms/understand-token.md)
   * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
 * [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
-* [AI Applications](into-ai/ai-applications/README.md)
-  * [AI Aggregator/AI Hub](into-ai/ai-applications/ai-aggregator-ai-hub.md)
+* [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
 * [AI Ethics](into-ai/ai-ethics.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
 

@@ -1,3 +1,7 @@
+---
+icon: file-image
+---
+
 # Image Generation/Synthesis
 
 In the recent surge of AI applications, the image generation field has risen in popularity alongside large language models. Stable Diffusion has played a crucial role in this development.

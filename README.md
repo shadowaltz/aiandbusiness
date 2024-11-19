@@ -62,7 +62,7 @@ On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO El
 
 {% embed url="https://x.com/Tesla/status/1844583703604772893" %}
 
-#### Llama 3.2 Released
+### <mark style="color:orange;">Llama 3.2 Released</mark>
 
 [https://www.llama.com/](https://www.llama.com/)
 
@@ -70,7 +70,7 @@ Llama 3.2, released by Meta on September 25, 2024, introduces a new collection o
 
 
 
-#### a16z released their 3rd Top 100 Gen AI Consumer Apps:
+### a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
 {% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
 
@@ -102,7 +102,7 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 
 {% embed url="https://youtu.be/MOdSeUp8YcE?si=6-nBMWE6KgS6UKuA" %}
 
-### <mark style="color:orange;">OpenAI GPT-4o</mark>
+
 
 #### <mark style="color:red;">**Changelog**</mark>:
 
