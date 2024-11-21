@@ -62,14 +62,6 @@ On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO El
 
 {% embed url="https://x.com/Tesla/status/1844583703604772893" %}
 
-### <mark style="color:orange;">Llama 3.2 Released</mark>
-
-[https://www.llama.com/](https://www.llama.com/)
-
-Llama 3.2, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks.
-
-
-
 ### a16z released their 3rd Top 100 Gen AI Consumer Apps:
 
 {% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
@@ -215,4 +207,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _11/13/2024 Added <mark style="color:orange;">Apple Final Cut Pro 11</mark>_
 * _11/16/2024 Added <mark style="color:orange;">Video Prompt Maker</mark>_
 * _11/18/2024 Added <mark style="color:orange;">Recraft AI,</mark> Restructured some contents_
+* _11/19/2024 Added <mark style="color:orange;">Suno v4, Japanese version released</mark>_
+* _11/20/2024 update <mark style="color:orange;">Figure x BMW , Claude AI use in Gaming</mark>_
 

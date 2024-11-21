@@ -1,3 +1,7 @@
+---
+icon: registered
+---
+
 # Terms of Service
 
 ### Introduction

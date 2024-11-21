@@ -1,8 +1,6 @@
 # 🗒️ Changelog
 
-### _**Unreleased:**_
 
-_Japanese/日本語 Version_
 
 ### _**Apr:**_
 
@@ -182,5 +180,61 @@ _10/2/2024 Added Meta Orion Glasses_
 
 _10/3/2024 Added Marketing contents & Cases_
 
+_10/5/2024 Added <mark style="color:orange;">Meta Movie Gen</mark>_
 
+_10/6/2024 Added <mark style="color:orange;">bolt.new</mark>_
+
+_10/8/2024 Added <mark style="color:orange;">Shopify Sidekick Bot</mark>_
+
+_10/10/2024 Added <mark style="color:orange;">Tesla Robotaxi</mark>_
+
+_10/11/2024 Added Openai <mark style="color:orange;">Swarm</mark>_
+
+_10/14/2024 Added <mark style="color:orange;">Cohere.com, deepreel</mark>_
+
+_10/15/2024 Added <mark style="color:orange;">Augmented Physics</mark>_
+
+_10/16/2024 Added <mark style="color:orange;">llama-3.1-nemotron-70b-instruct</mark>_
+
+_10/17/2024 Added <mark style="color:orange;">Hailuo AI</mark>_
+
+_10/18/2024 Added Tesla Optimus updates_
+
+_10/19/2024 Added <mark style="color:orange;">Unity 6</mark>_
+
+_10/21/2024 Added Adobe MAX revealed new features_
+
+_10/22/2024 Added <mark style="color:orange;">new Claude 3.5 Sonnet, and Claude 3.5 Haiku</mark>_
+
+_10/23/2024 Added <mark style="color:orange;">Runway Act-One</mark>_
+
+_10/24/2024 Added <mark style="color:orange;">Clone Robotics,</mark> Updates in AI Ethics_
+
+_10/25/2024 Updates in <mark style="color:orange;">Midjourney</mark>_&#x20;
+
+_10/28/2024 Added some AI video cases_
+
+_10/29/2024 Added <mark style="color:orange;">VIdeo Generate App Ranking</mark>_
+
+### _November:_
+
+_11/1/2024 Added <mark style="color:orange;">Mochi 1, ChatGPT Search</mark>_
+
+_11/2/2024 Added <mark style="color:orange;">Github Spark</mark>_
+
+_11/3/2024 Added <mark style="color:orange;">Ferret-UI 2</mark>_
+
+_11/7/2024 Restructured some contents_
+
+_11/8/2024 Added <mark style="color:orange;">EvenUp</mark>_
+
+_11/11/2024 Added <mark style="color:orange;">Google Learn About</mark>_
+
+_11/13/2024 Added <mark style="color:orange;">Apple Final Cut Pro 11</mark>_
+
+_11/16/2024 Added <mark style="color:orange;">Video Prompt Maker</mark>_
+
+_11/18/2024 Added <mark style="color:orange;">Recraft AI,</mark> Restructured some contents_
+
+_11/19/2024 Added <mark style="color:orange;">Suno v4, Japanese version released</mark>_
 

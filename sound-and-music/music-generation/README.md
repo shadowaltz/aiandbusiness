@@ -8,7 +8,11 @@ description: AI & Music Generation
 
 [https://app.suno.ai/](https://app.suno.ai/)
 
-<mark style="color:red;">**Suno**</mark> is a startup that has developed an AI model capable of generating shockingly convincing songs from simple text prompts. The technology has the potential to democratize music creation, allowing anyone to produce professional-level songs. The launch of <mark style="color:red;">**Suno v3**</mark> signifies a significant advancement in music generation technologies. It can produce music pieces up to 2 minutes long that meet broadcast standards, based on textual prompts in just a few seconds. This version supports all major languages, offering high-quality audio that rivals professional broadcast standards and broadens the range of music styles and genres available.&#x20;
+**Suno** is a startup that has developed an AI model capable of generating shockingly convincing songs from simple text prompts. The technology has the potential to democratize music creation, allowing anyone to produce professional-level songs.&#x20;
+
+Suno V4 Released
+
+{% embed url="https://x.com/sunomusic/status/1858918710008049866" %}
 
 On March 17, 2024, Rolling Stone published an article showcasing a song titled "Soul of the Machine," created by Suno. ChatGPT was responsible for crafting the lyrics, while Suno handled the vocals, musical instruments, and arrangement. The entire piece was inspired by a remarkably straightforward prompt: "Solo acoustic Mississippi Delta blues about a sad AI." Article link:&#x20;
 
@@ -25,8 +29,6 @@ Bark is Suno's open-source text-to-speech+ model.
 {% endhint %}
 
 {% embed url="https://github.com/suno-ai/bark" %}
-
-{% embed url="https://user-images.githubusercontent.com/5068315/235310676-a4b3b511-90ec-4edf-8153-7ccf14905d73.png" %}
 
 
 

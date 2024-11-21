@@ -6,7 +6,15 @@ coverY: 0
 
 # 🎮 Gaming Assistant
 
+## News & Updates:
 
+{% embed url="https://x.com/minchoi/status/1858850777038553500" %}
+
+[https://huggingface.co/papers/2411.10323](https://huggingface.co/papers/2411.10323)
+
+[https://github.com/showlab/computer\_use\_ootb](https://github.com/showlab/computer\_use\_ootb)
+
+## APPs:
 
 {% tabs %}
 {% tab title="Microsoft copilot + pc" %}

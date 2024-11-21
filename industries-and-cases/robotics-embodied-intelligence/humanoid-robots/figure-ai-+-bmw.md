@@ -4,11 +4,7 @@ Figure AI has signed a commercial agreement with BMW Manufacturing to deploy its
 
 {% embed url="https://www.youtube.com/watch?v=K1TrbI0BaaU&ab_channel=Figure" %}
 
-
-
-
-
-
+{% embed url="https://x.com/Figure_robot/status/1858876300691468579" %}
 
 
 
