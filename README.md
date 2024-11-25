@@ -50,11 +50,11 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
-### <mark style="color:orange;">GitHub Spark</mark>
+### <mark style="color:orange;">Suno V4</mark>
 
-GitHub Spark is an AI-powered tool that enables users to build, share, and manage micro apps with natural language, without needing to write or deploy any code, offering features like automatic history, managed runtime environment, and persistent data storage.
+Suno v4 is a significant upgrade to the AI music generation platform, introducing enhanced audio quality, more dynamic song structures, and creative lyric generation.
 
-{% embed url="https://youtu.be/oM2amcnVmzM?si=CiTp7iZYAr8278hf" %}
+{% embed url="https://x.com/sunomusic/status/1858918710008049866?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1858918710008049866%7Ctwgr%5Efa5b66eedebd17095112811daa6b642cdbbf1ed4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcdn.iframe.ly%2FzDvrFw5%3Fapp%3D1" %}
 
 ### <mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
 
@@ -209,4 +209,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _11/18/2024 Added <mark style="color:orange;">Recraft AI,</mark> Restructured some contents_
 * _11/19/2024 Added <mark style="color:orange;">Suno v4, Japanese version released</mark>_
 * _11/20/2024 update <mark style="color:orange;">Figure x BMW , Claude AI use in Gaming</mark>_
+* _11/22/2024 Added <mark style="color:orange;">Flux Tools</mark>_
+* _11/25/2024 Added_&#x20;
 

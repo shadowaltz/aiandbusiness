@@ -16,6 +16,18 @@ coverY: 0
 
 ***
 
+## Update & News
+
+### World's First AI-Generated Video Game
+
+According to TechCrunch, Decart, an Israeli AI company, has launched Oasis, the world's first fully AI-generated video game, which dynamically creates a Minecraft-like experience in real-time using a large language model instead of a traditional game engine.
+
+[https://www.decart.ai/](https://www.decart.ai/articles/oasis-interactive-ai-video-game-model)
+
+{% embed url="https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8&guce_referrer_sig=AQAAANAq49ukUYrrFzP7ZtIh6MsP4b_E6se-tikpeyDlXQzbTpPVbckXESsBj9XkxnxdWk3GB-_zFvuOD2lMBwCuji1b7NV3hd8kiN_1iBF7swy6P8mTL1VRPbM13X2sRMpyuAX_XuELKfESB3X2v_ebD9Dft1UJqxAG3KtaIJ5_0uoS" %}
+
+***
+
 ## Game Development Support Tools
 
 ### BuildBox 4 Alpha

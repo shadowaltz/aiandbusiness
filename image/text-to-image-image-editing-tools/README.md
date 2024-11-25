@@ -39,7 +39,17 @@ Flux 1 is a new text-to-image model suite developed by Black Forest Labs, a star
 
 {% embed url="https://github.com/black-forest-labs/flux/raw/main/assets/grid.jpg" %}
 
+Black Forest Labs has expanded its FLUX.1 text-to-image model with four new AI tools for image editing.
 
+• FLUX.1 Fill&#x20;
+
+• FLUX.1 Depth&#x20;
+
+• FLUX.1 Canny&#x20;
+
+• FLUX.1 Redux
+
+[https://blackforestlabs.ai/#get-flux](https://blackforestlabs.ai/#get-flux)
 {% endtab %}
 
 {% tab title="Stable Diffusion" %}
@@ -56,6 +66,8 @@ Due to the recent mass departure of the executives and core team at Stable Diffu
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
 
 #### <mark style="color:orange;">Important Resources:</mark>
 
