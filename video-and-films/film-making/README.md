@@ -191,3 +191,13 @@ Video-to-video editing tools are great at changing how characters look and alter
 
 Expert in video prompts. Create videos in any style you can imagine with Text to Video. Instantly generate high-quality prompts, and spark your creativity. Perfect for Runway Gen-3, Kling, Luma AI, Sora and Pika.
 
+
+
+### VideoGen-Eval v1.0
+
+[https://ailab-cvc.github.io/VideoGen-Eval/index.html](https://ailab-cvc.github.io/VideoGen-Eval/index.html)
+
+The Dawn of Video Generation: Preliminary Explorations with SORA-like Models
+
+
+

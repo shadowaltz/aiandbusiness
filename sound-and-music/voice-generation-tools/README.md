@@ -8,6 +8,12 @@ description: AI & Voice Generation
 The information provided in this section regarding tools and guidelines for creating human voices is intended for educational and research purposes only. We strongly condemn any form of illegal activities, including but not limited to fraud, privacy invasion, or any other actions that could harm others. Readers are responsible for ensuring that their use of these tools and technologies complies with local laws and ethical standards, and are accountable for the outcomes of their use. We do not bear responsibility for any legal issues or ethical disputes that may arise from the misuse of the provided information.
 {% endhint %}
 
+## Ranking
+
+{% embed url="https://artificialanalysis.ai/text-to-speech" %}
+
+***
+
 ## Voice Generating/Cloning&#x20;
 
 ### <mark style="color:orange;">ElevenLabs</mark>
@@ -39,6 +45,12 @@ Founded in 2016, Play.ht started as a Chrome extension leveraging natural langua
 Speechify
 
 [https://speechify.com/](https://speechify.com/)
+{% endtab %}
+
+{% tab title="LMNT" %}
+[https://www.lmnt.com/](https://www.lmnt.com/)
+
+LMNT is an advanced AI platform offering ultrafast, lifelike, and reliable text-to-speech services for creating engaging voiceovers, real-time conversations, and scalable content production.
 {% endtab %}
 
 {% tab title="Azure TTS" %}

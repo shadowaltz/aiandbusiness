@@ -8,6 +8,18 @@ coverY: 0
 
 # Spatial Computing/3D
 
+
+
+## Updates & News:
+
+### Nvidia releases new Edify 3D
+
+{% embed url="https://www.youtube.com/watch?v=ROqB8xhKZ6U&ab_channel=NVIDIADeveloper" %}
+
+{% embed url="https://blogs.nvidia.com/blog/edify-3d-generative-ai-custom-fine-tuning/" %}
+
+## APPs:
+
 {% tabs %}
 {% tab title="Luma AI" %}
 [https://lumalabs.ai/](https://lumalabs.ai/)

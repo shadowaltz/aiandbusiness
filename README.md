@@ -50,6 +50,12 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**Claude Custom Styles**</mark>
+
+Claude introduced a new feature called styles that allows users to customize its responses to align with their personal communication styles and workflow preferences
+
+{% embed url="https://www.anthropic.com/news/styles" %}
+
 ### <mark style="color:orange;">Suno V4</mark>
 
 Suno v4 is a significant upgrade to the AI music generation platform, introducing enhanced audio quality, more dynamic song structures, and creative lyric generation.
@@ -210,5 +216,8 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _11/19/2024 Added <mark style="color:orange;">Suno v4, Japanese version released</mark>_
 * _11/20/2024 update <mark style="color:orange;">Figure x BMW , Claude AI use in Gaming</mark>_
 * _11/22/2024 Added <mark style="color:orange;">Flux Tools</mark>_
-* _11/25/2024 Added_&#x20;
+* _11/25/2024 Added <mark style="color:orange;">NVIDIA Edify 3D, VideoGen-Eval v1.0</mark>_
+* _11/29/2024 Added <mark style="color:orange;">LMNT</mark>_
+* _12/2/2024 Added <mark style="color:orange;">Runway new function</mark>_
+* _12/3/2024 Added <mark style="color:orange;">CocaCola 2024 Christmas Ad, Novel Crafter AI</mark>_
 

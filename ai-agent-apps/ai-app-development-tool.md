@@ -14,7 +14,7 @@ Dify.ai is a powerful platform that enables users to easily build and deploy AI 
 
 {% embed url="https://youtu.be/A0w9JAUZwbk?si=45IazW9aQhNbAheW" %}
 
-Dify's Offical tutorial YouTube channel: [https://www.youtube.com/@dify\_ai](https://www.youtube.com/@dify\_ai)
+Dify's Offical tutorial YouTube channel: [https://www.youtube.com/@dify\_ai](https://www.youtube.com/@dify_ai)
 {% endtab %}
 
 {% tab title="Langchain" %}
@@ -39,6 +39,12 @@ Code Interpreting for AI Apps
 [https://replicate.com/home](https://replicate.com/home)
 
 Replicate is a cloud platform that allows developers to run and deploy machine learning models using a simple API, without needing to manage infrastructure or have deep expertise in machine learning.
+{% endtab %}
+
+{% tab title="Vercel " %}
+Vercel AI app templates
+
+[https://vercel.com/templates/ai](https://vercel.com/templates/ai)
 {% endtab %}
 {% endtabs %}
 

@@ -12,6 +12,24 @@ coverY: 0
 * [AI-Generated News Podcasting Cases](ai-generated-news-podcasting-cases.md)
 {% endhint %}
 
+## Podcast Generator:
+
+### NotebookLM
+
+[https://notebooklm.google/](https://notebooklm.google/)
+
+Google’s NotebookLM has introduced a new feature called Audio Overview, where two AI hosts engage in a “deep dive” discussion based on user-uploaded content.&#x20;
+
+{% embed url="https://blog.google/technology/ai/notebooklm-audio-overviews/" %}
+
+### ElevenLabs
+
+ElevenLabs just introduced a similar function that could generate podcasts from papers and docs.
+
+{% embed url="https://x.com/elevenlabsio/status/1861833756027297965" %}
+
+***
+
 ## How to create a podcast using AI tools:
 
 **1 Branding**&#x20;
@@ -59,12 +77,6 @@ NVIDIA Broadcast is an AI-powered application that transforms any room into a ho
 {% hint style="warning" %}
 This app requires an Nvidia graphics card, so it cannot be used on platforms like Mac at the moment.
 {% endhint %}
-
-
-
-
-
-
 
 
 
