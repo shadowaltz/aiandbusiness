@@ -78,13 +78,11 @@ Source: a16z, Top 50 Gen AI Web Products&#x20;
 
 ## <mark style="color:purple;">Trending Product:</mark>
 
-### <mark style="color:orange;">**New Claude 3.5 Sonnet, and Claude 3.5 Haiku**</mark>
+### <mark style="color:orange;">Tencent HunYuan Opensource VideoGen model</mark>
 
-Anthropic introduced the **new Claude 3.5 Sonnet, and Claude 3.5 Haiku.**
+Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI model with 13 billion parameters, designed to generate high-quality videos from text prompts, offering state-of-the-art video quality and motion.
 
-{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F0eb9a1b7d5db74a6d21500e9f188c83beef3842e-2601x1932.png&w=3840&q=75" %}
-
-{% embed url="https://youtu.be/ODaHJzOyVCQ" %}
+{% embed url="https://aivideo.hunyuan.tencent.com/" %}
 
 ### <mark style="color:orange;">Comfy UI Desktop:</mark>
 
@@ -220,4 +218,5 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _11/29/2024 Added <mark style="color:orange;">LMNT</mark>_
 * _12/2/2024 Added <mark style="color:orange;">Runway new function</mark>_
 * _12/3/2024 Added <mark style="color:orange;">CocaCola 2024 Christmas Ad, Novel Crafter AI</mark>_
+* _12/4/2024 Added AI and Work, <mark style="color:orange;">Tencent HunYuan</mark>_
 

@@ -20,6 +20,7 @@
 * [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
 * [AI Ethics](into-ai/ai-ethics.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
+* [AI and Work](into-ai/ai-and-work.md)
 
 ## Industries & Cases
 
@@ -124,6 +125,7 @@
   * [Comfy UI](image/text-to-image-image-editing-tools/comfy-ui.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [AI Image Detector](image/ai-image-detector.md)
+* [Create Avatar](image/create-avatar.md)
 
 ## Video & Films
 

@@ -111,6 +111,22 @@ Genmo AI is at the forefront of video generation technology, offering models tha
 {% endtab %}
 {% endtabs %}
 
+### OpenSource Models:
+
+{% tabs %}
+{% tab title="HunYuan" %}
+### <mark style="color:orange;">Tencent HunYuan Opensource VideoGen model</mark>
+
+Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI model with 13 billion parameters, designed to generate high-quality videos from text prompts, offering state-of-the-art video quality and motion.
+
+{% embed url="https://aivideo.hunyuan.tencent.com/" %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 
 
 ### Others:
