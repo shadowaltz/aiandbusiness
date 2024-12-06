@@ -50,6 +50,20 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">OpenAI o1 and o1 pro mode in ChatGPT</mark>
+
+OpenAI has introduced o1 and o1 Pro modes in ChatGPT. o1 is the world’s smartest language model, optimized for reasoning tasks, while o1 Pro mode offers enhanced computational power for tackling the most complex challenges at $200 per month.
+
+{% embed url="https://youtu.be/iBfQTnA2n2s?si=PWTD9Sh45f7evyZr" %}
+
+### <mark style="color:orange;">**Google Deepmind Genie 2**</mark>
+
+[**https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/**](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+
+Google DeepMind's Genie-2 is a new AI model designed to simulate virtual environments from simple inputs, like images or text, allowing for interactive and dynamic world creation.
+
+{% embed url="https://www.youtube.com/watch?v=dk-mD5djViI&ab_channel=Maginative" %}
+
 ### <mark style="color:orange;">**Claude Custom Styles**</mark>
 
 Claude introduced a new feature called styles that allows users to customize its responses to align with their personal communication styles and workflow preferences

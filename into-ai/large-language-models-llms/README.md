@@ -60,13 +60,11 @@ LLM Ranking
 {% tab title="OpenAI o1" %}
 **OpenAI's new o1 model, released on September 12, 2024, is now the most powerful LLM that can reason through complex problems by breaking them down into steps, excelling particularly in areas like mathematics, coding, and scientific reasoning where it outperforms previous models and even rivals human experts in some cases.**
 
-{% hint style="info" %}
-OpenAI o1 has 3 models, o1, o1-preview and o1-mini. Currently, o1 has not yet been publicly released.
-{% endhint %}
+### <mark style="color:orange;">OpenAI o1 and o1 pro</mark>
+
+{% embed url="https://youtu.be/iBfQTnA2n2s?si=UjY36AMxrZvuhd0Z" %}
 
 [https://openai.com/index/learning-to-reason-with-llms/](https://openai.com/index/learning-to-reason-with-llms/)
-
-{% embed url="https://www.youtube.com/watch?v=50W4YeQdnSg&ab_channel=OpenAI" %}
 {% endtab %}
 
 {% tab title="GPT-4o" %}
@@ -118,7 +116,7 @@ LLama is a family of state-of-the-art large language models developed by Meta, d
 
 [https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8](https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8)
 
-[https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard](https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard)
+[https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct/modelcard)
 
 Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA that outperforms Anthropic Claude Sonnet 3.5 and OpenAI GPT-4o.
 {% endtab %}
