@@ -85,6 +85,7 @@
 * [Startups](industries-and-cases/startups.md)
 * [🏛️ Corporate Management](industries-and-cases/corporate-management/README.md)
   * [Management Prompts](industries-and-cases/corporate-management/management-prompts.md)
+  * [Process Management](industries-and-cases/corporate-management/process-management.md)
 * [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🎓 Education](industries-and-cases/education/README.md)
   * [AI Education Tools](industries-and-cases/education/ai-education-tools/README.md)

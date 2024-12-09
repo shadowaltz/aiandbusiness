@@ -1,6 +1,6 @@
 # 🗒️ Changelog
 
-
+## 2024
 
 ### _**Apr:**_
 
@@ -237,4 +237,22 @@ _11/16/2024 Added <mark style="color:orange;">Video Prompt Maker</mark>_
 _11/18/2024 Added <mark style="color:orange;">Recraft AI,</mark> Restructured some contents_
 
 _11/19/2024 Added <mark style="color:orange;">Suno v4, Japanese version released</mark>_
+
+_11/20/2024 update <mark style="color:orange;">Figure x BMW , Claude AI use in Gaming</mark>_
+
+_11/22/2024 Added <mark style="color:orange;">Flux Tools</mark>_
+
+_11/25/2024 Added <mark style="color:orange;">NVIDIA Edify 3D, VideoGen-Eval v1.0</mark>_
+
+_11/29/2024 Added <mark style="color:orange;">LMNT</mark>_
+
+### _December:_
+
+_12/2/2024 Added <mark style="color:orange;">Runway new function</mark>_
+
+_12/3/2024 Added <mark style="color:orange;">CocaCola 2024 Christmas Ad, Novel Crafter AI</mark>_
+
+_12/4/2024 Added AI and Work, <mark style="color:orange;">Tencent HunYuan</mark>_
+
+_12/5/2024 Added <mark style="color:orange;">Google Deepmind Genie 2</mark>_<mark style="color:orange;">**,**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">O</mark>_<mark style="color:orange;">penAI o1 and o1 pro</mark>
 

@@ -50,6 +50,12 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">SORA</mark>
+
+OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
+
+{% embed url="https://www.youtube.com/live/2jKVx2vyZOY?si=dqxjdMs9NUzgq9Yw" %}
+
 ### <mark style="color:orange;">OpenAI o1 and o1 pro mode in ChatGPT</mark>
 
 OpenAI has introduced o1 and o1 Pro modes in ChatGPT. o1 is the world’s smartest language model, optimized for reasoning tasks, while o1 Pro mode offers enhanced computational power for tackling the most complex challenges at $200 per month.
@@ -233,4 +239,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _12/2/2024 Added <mark style="color:orange;">Runway new function</mark>_
 * _12/3/2024 Added <mark style="color:orange;">CocaCola 2024 Christmas Ad, Novel Crafter AI</mark>_
 * _12/4/2024 Added AI and Work, <mark style="color:orange;">Tencent HunYuan</mark>_
+* _12/5/2024 Added <mark style="color:orange;">Google Deepmind Genie 2</mark>_<mark style="color:orange;">**,**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">O</mark>_<mark style="color:orange;">penAI o1 and o1 pro</mark>
+* _12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
 

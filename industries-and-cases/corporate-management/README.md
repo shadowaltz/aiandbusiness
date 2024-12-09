@@ -4,7 +4,7 @@ description: AI Corporate Management
 
 # 🏛️ Corporate Management
 
-
+## Enterprise Level Solutions:
 
 ### <mark style="color:orange;">Palantir Technologies</mark>
 

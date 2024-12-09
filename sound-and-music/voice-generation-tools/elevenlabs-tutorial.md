@@ -18,3 +18,9 @@ For more info please check the official docs:
 
 [https://elevenlabs.io/docs/introduction](https://elevenlabs.io/docs/introduction)
 
+
+
+## ElevenLabs Conversational AI
+
+{% embed url="https://www.youtube.com/watch?v=v-EYzZCLF48&ab_channel=ElevenLabs" %}
+
