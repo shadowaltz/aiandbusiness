@@ -19,17 +19,13 @@ Broadly speaking, the video generation techniques available today fall into thre
 * <mark style="color:orange;">**Video-to-Video**</mark>
 * <mark style="color:orange;">**Image-to-Video**</mark>
 
-## Ranking:
-
-{% embed url="https://x.com/ArtificialAnlys/status/1850987133563216118" %}
-
 ## Industry Updates & News:
 
-### <mark style="color:orange;">Runway Act-One</mark>
+### <mark style="color:orange;">OpenAI SORA</mark>
 
-Runway's Act-One is revolutionizing AI-assisted video creation by enabling creators to capture and transfer facial expressions from a single video performance onto AI-generated characters without complex motion capture equipment. This makes high-quality character animation accessible to creators at all levels.
+OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
 
-{% embed url="https://youtu.be/z3F0ei62Kmk?si=FDoly4FojZ4wSn8Y" %}
+{% embed url="https://www.youtube.com/watch?v=360ZqfabuPQ&t=11s&ab_channel=OpenAI" %}
 
 ## Top-tier AI video generation application
 
@@ -91,9 +87,7 @@ Alongside contributions from [**ElevenLabs**](../../sound-and-music/voice-genera
 
 As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.
 
-{% hint style="info" %}
-<mark style="background-color:green;">As of now, OpenAI has not launched a public beta for Sora, making it exclusively available to a select group of directors and professionals in the industry, with no access to the general public.</mark>
-{% endhint %}
+
 {% endtab %}
 
 {% tab title="Meta movie Gen" %}
