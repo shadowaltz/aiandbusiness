@@ -241,4 +241,5 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _12/4/2024 Added AI and Work, <mark style="color:orange;">Tencent HunYuan</mark>_
 * _12/5/2024 Added <mark style="color:orange;">Google Deepmind Genie 2</mark>_<mark style="color:orange;">**,**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">O</mark>_<mark style="color:orange;">penAI o1 and o1 pro</mark>
 * _12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
+* _12/10/2024 Updated <mark style="color:orange;">Devin</mark>_
 

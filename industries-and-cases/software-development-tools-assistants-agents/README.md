@@ -113,6 +113,8 @@ Supermaven, created by a former OpenAI employee, is an AI-powered code completio
 {% tab title="Devin" %}
 Cognition has recently unveiled its inaugural AI software engineer named Devin. This AI functions as an autonomous agent with the capability to independently navigate and resolve engineering dilemmas, employing its shell, code editor, and web browser for tasks. Devin has impressively aced real engineering interviews at renowned AI corporations and has executed tangible projects on Upwork, showcasing its practical skills and reliability in the field.
 
+[https://devin.ai/](https://devin.ai/)
+
 {% embed url="https://x.com/cognition_labs/status/1767548763134964000?s=20" %}
 
 {% hint style="info" %}

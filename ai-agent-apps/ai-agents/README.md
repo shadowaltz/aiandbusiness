@@ -136,9 +136,9 @@ Cosine Genie is an advanced AI-powered software engineering model that has achie
 {% endtab %}
 
 {% tab title="Devin" %}
+Devin is generally available and only offers a $500/month team plan.
 
-
-[https://www.cognition.ai/](https://www.cognition.ai/)
+[https://app.devin.ai/](https://app.devin.ai/)
 
 
 {% endtab %}
