@@ -50,6 +50,14 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**Gemini 2.0**</mark>
+
+Google released Gemini 2.0, its most advanced AI model to date, marking the beginning of what the company calls the "agent era" in AI development.
+
+[https://deepmind.google/technologies/gemini/](https://deepmind.google/technologies/gemini/)
+
+{% embed url="https://www.youtube.com/watch?v=Fs0t6SdODd8&t=3s&ab_channel=Google" %}
+
 ### <mark style="color:orange;">SORA</mark>
 
 OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
@@ -242,4 +250,5 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _12/5/2024 Added <mark style="color:orange;">Google Deepmind Genie 2</mark>_<mark style="color:orange;">**,**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">O</mark>_<mark style="color:orange;">penAI o1 and o1 pro</mark>
 * _12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
 * _12/10/2024 Updated <mark style="color:orange;">Devin</mark>_
+* _12/11/2024 Added <mark style="color:orange;">Gemini 2.0</mark>_
 
