@@ -115,6 +115,7 @@
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
   * [Crew AI](ai-agent-apps/ai-agents/crew-ai.md)
+* [AI Assistant](ai-agent-apps/ai-assistant.md)
 * [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image

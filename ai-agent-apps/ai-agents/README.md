@@ -168,3 +168,13 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 
 
 
+
+
+### Project Mariner
+
+[https://deepmind.google/technologies/project-mariner/](https://deepmind.google/technologies/project-mariner/)
+
+Google's Project Mariner is an innovative AI agent, powered by Gemini 2.0, designed to automate web browsing tasks within the Chrome browser, enhancing user productivity by navigating websites, executing searches, and completing tasks autonomously.
+
+{% embed url="https://www.youtube.com/watch?v=2XJqLPqHtyo&ab_channel=GoogleDeepMind" %}
+

@@ -65,6 +65,12 @@ Bland AI is a developer-first platform that enables enterprises to automate inbo
 
 Wonderchat, an AI-powered tool, has significantly improved the user experience with FileWave's Knowledge Base by simplifying the search process. It enables users to find information more efficiently and identifies gaps or areas for improvement in the Knowledge Base.&#x20;
 {% endtab %}
+
+{% tab title="Lindy.ai" %}
+[https://www.lindy.ai/](https://www.lindy.ai/)
+
+Lindy.ai is a platform that allows users to build AI agents in minutes to automate various workflows, enhancing productivity in areas like email management, customer support, and lead generation.
+{% endtab %}
 {% endtabs %}
 
 ***
@@ -93,7 +99,7 @@ Optimize processes, increase sales and make better decisions by listening to ide
 
 ### Case: Alaska Airlines use AI-powered destination search tool
 
-[https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds](https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds)
+[https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds](https://www.alaskaair.com/nls/destination?int=AS_HomePage_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr_CQPyRpEMQ3ZGJkaAhcyEALw_wcB\&gclsrc=aw.ds)
 
 Alaska Airlines has launched an AI-powered destination search tool that allows customers to find flights using natural language queries, incorporating loyalty program information and offering personalized travel recommendations based on user interests and preferences.
 

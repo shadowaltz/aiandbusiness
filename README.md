@@ -251,4 +251,5 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
 * _12/10/2024 Updated <mark style="color:orange;">Devin</mark>_
 * _12/11/2024 Added <mark style="color:orange;">Gemini 2.0</mark>_
+* _<mark style="color:orange;">12</mark>/12/2024 Updated <mark style="color:orange;">Exa</mark>_
 
