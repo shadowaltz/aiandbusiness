@@ -21,11 +21,7 @@ Broadly speaking, the video generation techniques available today fall into thre
 
 ## Industry Updates & News:
 
-### <mark style="color:orange;">OpenAI SORA</mark>
-
-OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
-
-{% embed url="https://www.youtube.com/watch?v=360ZqfabuPQ&t=11s&ab_channel=OpenAI" %}
+{% embed url="https://x.com/ArtificialAnlys/status/1867625177523081641" %}
 
 ## Top-tier AI video generation application
 
@@ -46,6 +42,18 @@ They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>.
 Runway's Act-One is revolutionizing AI-assisted video creation by enabling creators to capture and transfer facial expressions from a single video performance onto AI-generated characters without complex motion capture equipment. This makes high-quality character animation accessible to creators at all levels.
 
 {% embed url="https://youtu.be/z3F0ei62Kmk?si=5CzOffS17NeJcgEJ" %}
+{% endtab %}
+
+{% tab title="Sora" %}
+OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
+
+{% embed url="https://www.youtube.com/watch?v=360ZqfabuPQ&t=11s&ab_channel=OpenAI" %}
+
+{% hint style="success" %}
+As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.
+{% endhint %}
+
+
 {% endtab %}
 
 {% tab title="Luma Dream Machine" %}
@@ -72,36 +80,10 @@ Kling AI is an advanced artificial intelligence platform developed by Kuaishou t
 [https://klingai.com/](https://klingai.com/)
 {% endtab %}
 
-{% tab title="Sora" %}
-
-
-{% embed url="https://openai.com/sora" %}
-
-In February 2024, OpenAI introduced <mark style="color:orange;">**Sora**</mark>**.** It stands out as the most impressive application for generating videos from text. Sora harnesses a diffusion model, operating on the same Transformer architecture that powers ChatGPT. Beginning with videos infused with random noise, it meticulously refines these through several stages, eliminating noise to create videos that are both clear and fluid. This innovative approach to video creation promises enhanced quality and a more authentic viewing experience.&#x20;
-
-{% embed url="https://youtu.be/HK6y8DAPN_0?si=r1SaWSFkoiS2HR-y" %}
-
-{% hint style="success" %}
-Alongside contributions from [**ElevenLabs**](../../sound-and-music/voice-generation-tools/#elevenlabs) for voiceovers, Pika for crafting sound effects, and [**Suno**](../../sound-and-music/music-generation/#suno) for music creation, this suite of technologies heralds a new era in the holistic production of film and TV content.&#x20;
-{% endhint %}
-
-As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.
-
-
-{% endtab %}
-
 {% tab title="Meta movie Gen" %}
 [https://ai.meta.com/research/movie-gen/](https://ai.meta.com/research/movie-gen/)
 
 Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that can generate, edit, and personalize high-definition videos with accompanying audio using simple text prompts.
-{% endtab %}
-
-{% tab title="Mochi 1" %}
-Genmo AI is at the forefront of video generation technology, offering models that create realistic motion adhering to physical laws and providing detailed control over video content through textual prompts.
-
-[https://www.genmo.ai](https://www.genmo.ai)
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -116,10 +98,16 @@ Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI mode
 {% embed url="https://aivideo.hunyuan.tencent.com/" %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Mochi" %}
+Genmo Mochi 1
 
+Genmo AI is at the forefront of video generation technology, offering models that create realistic motion adhering to physical laws and providing detailed control over video content through textual prompts.
+
+[https://www.genmo.ai/](https://www.genmo.ai/)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
