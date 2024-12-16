@@ -8,11 +8,15 @@ coverY: 0
 
 ## News & Updates:
 
+### Gemini 2.0 for games
+
+{% embed url="https://www.youtube.com/watch?v=IKuGNHJBGsc&ab_channel=GoogleDeepMind" %}
+
 {% embed url="https://x.com/minchoi/status/1858850777038553500" %}
 
 [https://huggingface.co/papers/2411.10323](https://huggingface.co/papers/2411.10323)
 
-[https://github.com/showlab/computer\_use\_ootb](https://github.com/showlab/computer\_use\_ootb)
+[https://github.com/showlab/computer\_use\_ootb](https://github.com/showlab/computer_use_ootb)
 
 ## APPs:
 

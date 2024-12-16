@@ -2,7 +2,7 @@
 description: AI & Film Making
 ---
 
-# 🎥 Film Making
+# 🎥 GenAI Film Making
 
 ## Navigation:
 
@@ -23,9 +23,21 @@ Broadly speaking, the video generation techniques available today fall into thre
 
 {% embed url="https://x.com/ArtificialAnlys/status/1867625177523081641" %}
 
-## Top-tier AI video generation application
+## Top-tier AI video generations application (Part 1)
 
 {% tabs %}
+{% tab title="Sora" %}
+OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
+
+{% embed url="https://www.youtube.com/watch?v=360ZqfabuPQ&t=11s&ab_channel=OpenAI" %}
+
+{% hint style="success" %}
+As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.
+{% endhint %}
+
+
+{% endtab %}
+
 {% tab title="Runway" %}
 Official Link:[https://runwayml.com/](https://runwayml.com/)
 
@@ -42,18 +54,6 @@ They just revealed their new <mark style="color:orange;">**Gen-3 Aphpa**</mark>.
 Runway's Act-One is revolutionizing AI-assisted video creation by enabling creators to capture and transfer facial expressions from a single video performance onto AI-generated characters without complex motion capture equipment. This makes high-quality character animation accessible to creators at all levels.
 
 {% embed url="https://youtu.be/z3F0ei62Kmk?si=5CzOffS17NeJcgEJ" %}
-{% endtab %}
-
-{% tab title="Sora" %}
-OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
-
-{% embed url="https://www.youtube.com/watch?v=360ZqfabuPQ&t=11s&ab_channel=OpenAI" %}
-
-{% hint style="success" %}
-As of March 2024, OpenAI has been exploring partnerships with Hollywood, aiming to revolutionize the entertainment industry with AI-generated video content.
-{% endhint %}
-
-
 {% endtab %}
 
 {% tab title="Luma Dream Machine" %}
@@ -87,6 +87,46 @@ Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that ca
 {% endtab %}
 {% endtabs %}
 
+### Top-tier AI video generation applications (Part 2)
+
+{% tabs %}
+{% tab title="Google Veo" %}
+Google Veo 2
+
+[https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
+
+Google just released Veo 2, an advanced AI video generation model that offers enhanced realism, improved physics understanding, and extensive camera control options, setting a new standard in video creation technology.
+
+{% embed url="https://x.com/labsdotgoogle/status/1868704865364701683" %}
+{% endtab %}
+
+{% tab title="Pika" %}
+### <mark style="color:orange;">Pika</mark>
+
+[https://pika.art/](https://pika.art/)
+
+{% embed url="https://youtu.be/6b10jGNNbXQ" %}
+{% endtab %}
+
+{% tab title="Invideo AI" %}
+
+
+[https://invideo.io/ai/](https://invideo.io/ai/)
+
+Invideo is a comprehensive video creation platform that offers an AI-powered solution for creating engaging videos quickly and easily.&#x20;
+
+It has now introduced a GPT feature, enabling the creation of video content right within ChatGPT. Users can write scripts and then directly connect to Invideo to bring their creations to life.
+{% endtab %}
+
+{% tab title="Haiper" %}
+
+
+[https://haiper.ai/onboarding](https://haiper.ai/onboarding)
+{% endtab %}
+{% endtabs %}
+
+
+
 ### OpenSource Models:
 
 {% tabs %}
@@ -104,44 +144,6 @@ Genmo Mochi 1
 Genmo AI is at the forefront of video generation technology, offering models that create realistic motion adhering to physical laws and providing detailed control over video content through textual prompts.
 
 [https://www.genmo.ai/](https://www.genmo.ai/)
-{% endtab %}
-{% endtabs %}
-
-
-
-
-
-### Others:
-
-{% tabs %}
-{% tab title="Invideo AI" %}
-
-
-[https://invideo.io/ai/](https://invideo.io/ai/)
-
-Invideo is a comprehensive video creation platform that offers an AI-powered solution for creating engaging videos quickly and easily.&#x20;
-
-It has now introduced a GPT feature, enabling the creation of video content right within ChatGPT. Users can write scripts and then directly connect to Invideo to bring their creations to life.
-{% endtab %}
-
-{% tab title="Pika" %}
-### <mark style="color:orange;">Pika</mark>
-
-[https://pika.art/](https://pika.art/)
-
-{% embed url="https://youtu.be/6b10jGNNbXQ" %}
-{% endtab %}
-
-{% tab title="Haiper" %}
-
-
-[https://haiper.ai/onboarding](https://haiper.ai/onboarding)
-{% endtab %}
-
-{% tab title="Google Veo" %}
-At the 2024 Google IO conference, Google introduced a range of new AI technologies and products, including Veo for video generation. You can now sign up for the waitlist.
-
-{% embed url="https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/#veo" %}
 {% endtab %}
 {% endtabs %}
 

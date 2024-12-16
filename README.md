@@ -42,13 +42,21 @@ This website features AI-powered Q\&A capabilities. You'll find an "ask or searc
 
 ### <mark style="color:orange;">Trending Topics:</mark>
 
-<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="video-and-films/genai-film-making/"><strong>Film Making</strong></a></td><td><a href="image/text-to-image-image-editing-tools/"><strong>Text to Image</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="ai-agent-apps/ai-agents/"><strong>AI Agent</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="video-and-films/film-making/"><strong>Film Making</strong></a></td><td><a href="image/text-to-image-image-editing-tools/"><strong>Text to Image</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="ai-agent-apps/ai-agents/"><strong>AI Agent</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td></td></tr></tbody></table>
 
 ***
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
+
+### <mark style="color:orange;">Google Veo 2</mark>
+
+[https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
+
+Google just released Veo 2, an advanced AI video generation model that offers enhanced realism, improved physics understanding, and extensive camera control options, setting a new standard in video creation technology.
+
+{% embed url="https://x.com/labsdotgoogle/status/1868704865364701683" %}
 
 ### <mark style="color:orange;">**Gemini 2.0**</mark>
 
@@ -251,5 +259,6 @@ Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.186
 * _12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
 * _12/10/2024 Updated <mark style="color:orange;">Devin</mark>_
 * _12/11/2024 Added <mark style="color:orange;">Gemini 2.0</mark>_
-* _<mark style="color:orange;">12</mark>/12/2024 Updated <mark style="color:orange;">Exa</mark>_
+* _12/12/2024 Updated <mark style="color:orange;">Exa</mark>_
+* _12/16/2024 <mark style="color:orange;">Added Google Veo2, Google Whisk, Filmora,</mark>_&#x20;
 

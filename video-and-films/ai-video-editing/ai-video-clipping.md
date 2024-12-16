@@ -2,7 +2,7 @@
 description: Apps can cut long videos to shorter clips by using AI
 ---
 
-# AI VIDEO CLIPPING
+# AI Video Clipping
 
 ### <mark style="color:orange;">Opus Clip</mark>
 

@@ -132,18 +132,18 @@
 
 ## Video & Films
 
-* [🎥 GenAI Film Making](video-and-films/genai-film-making/README.md)
-  * [Sora](video-and-films/genai-film-making/sora.md)
-  * [Runway](video-and-films/genai-film-making/runway/README.md)
-    * [Runway AIFF](video-and-films/genai-film-making/runway/runway-aiff.md)
+* [🎥 GenAI Film Making](video-and-films/film-making/README.md)
+  * [Sora](video-and-films/film-making/sora.md)
+  * [Runway](video-and-films/film-making/runway/README.md)
+    * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
 * [AI Video Case Studies](video-and-films/ai-video-case-studies/README.md)
   * [ASML Ad: Midjourney+Stable Diffusion+Runway](video-and-films/ai-video-case-studies/asml-ad-midjourney+stable-diffusion+runway.md)
   * [ToysRus New AI Commercial](video-and-films/ai-video-case-studies/toysrus-new-ai-commercial.md)
   * [CocaCola 2024 Christmas Ad](video-and-films/ai-video-case-studies/cocacola-2024-christmas-ad.md)
   * [McDonald JP Ad](video-and-films/ai-video-case-studies/mcdonald-jp-ad.md)
-* [🎛️ AI Video Editing Tools/Platforms](video-and-films/ai-video-editing-tools-platforms/README.md)
+* [🎛️ AI Video Editing Tools/Platforms](video-and-films/ai-video-editing/README.md)
   * [Eyesight Correction](video-and-films/ai-video-editing-tools-platforms/eyesight-correction.md)
-  * [AI VIDEO CLIPPING](video-and-films/ai-video-editing-tools-platforms/ai-video-clipping.md)
+  * [AI Video Clipping](video-and-films/ai-video-editing/ai-video-clipping.md)
 
 ## Sound & Music
 
