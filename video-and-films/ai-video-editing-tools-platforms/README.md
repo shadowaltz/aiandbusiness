@@ -2,7 +2,7 @@
 description: AI Video Editing Tools
 ---
 
-# 🎛️ Video Editing
+# 🎛️ AI Video Editing Tools/Platforms
 
 ### <mark style="color:orange;">Adobe Premiere Pro</mark>
 
@@ -37,4 +37,12 @@ Since 2023, ByteDance has significantly enhanced the AI functionalities of its v
 Converting long videos to short clips, batch editing, removing backgrounds, enlarging videos/pictures, generating videos from text, crafting virtual avatars, creating advertisements, featuring AI models, and more—this solution consolidates a wide array of AI application functionalities available on the market into a single platform.
 
 <mark style="background-color:green;">Pricing: Certain functionalities are accessible for free, while others necessitate a subscription.</mark>
+
+
+
+### <mark style="color:orange;">Filmora</mark>
+
+[https://filmora.wondershare.net/](https://filmora.wondershare.net/)
+
+Wondershare Filmora 14 introduces a suite of next-generation AI features that revolutionize video editing, including **AI Video Enhancer**, **AI Voice Enhancer**, **AI Color Palette**, **Voice Denoise**, **Smart Short Clips**, **Multi-Camera Editing**, **Planar Tracking**, **AI Sound Effect**, **AI Face Mosaic**, **AI Portrait Cutout**, **AI Copilot Editing**, **AI Text-Based Editing**, **AI Thumbnail Creator**, **AI Text-To-Video**, **AI Copywriting**, **AI Smart Masking**, **AI Smart Cutout**, **AI Music Generator**, **AI Vocal Remover**, **AI Audio Denoise**, **AI Audio Stretch**, **Speech-To-Text**, and **Text-To-Speech**.
 

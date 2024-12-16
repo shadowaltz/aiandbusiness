@@ -79,3 +79,13 @@ An AI-enhanced quiz creation tool that can adjust question difficulty and genera
 
 {% embed url="https://answersai.com/static/media/HeroVideoOct12.3ce84298a5a965fd2b34.mp4" %}
 
+
+
+### Coursoology
+
+Coursology is an AI-powered educational tool that helps students excel in their studies by providing tools for homework help, quiz creation, and note-taking across various subjects.
+
+[https://coursology.com/](https://coursology.com/)
+
+{% embed url="https://coursology.com/videos/new_hero.mp4" %}
+
