@@ -91,7 +91,7 @@ Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that ca
 
 {% tabs %}
 {% tab title="Google Veo" %}
-Google Veo 2
+**Google Veo 2**
 
 [https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
 

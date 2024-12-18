@@ -47,13 +47,11 @@ These cases underscore the importance of rigorous verification processes and the
 
 ***
 
-### Hallucination Detector
+### <mark style="color:orange;">Hallucination Detector</mark>
 
 [https://demo.exa.ai/hallucination-detector](https://demo.exa.ai/hallucination-detector)
 
 {% embed url="https://github.com/exa-labs/exa-hallucination-detector/raw/main/public/opengraph-image.jpg" %}
-
-
 
 
 

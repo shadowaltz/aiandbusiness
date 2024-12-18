@@ -15,13 +15,9 @@ At a time when ChatGPT was not able to access the internet, after all, and could
 
 Becoming more and more popular in the market, Perplexity has already formed alliances with many AI products such as Rabbit R1 or AI Frame. There is a free edition for those interested in checking out the features.
 
-{% hint style="info" %}
-AI search engines, exemplified by Perplexity, currently have an issue where the information sources they search are consistent with the language you use when asking the question. In simple terms, if you ask a question in English, it will default to searching for information in English on the internet; if you use German, it will search for German information; and if you ask in Chinese, it will search for Chinese information. Due to the significant differences in the richness of information among different languages and the possibility of varying perspectives on the same issue across different cultures, AI search engines might even arrive at opposite conclusions for the same question based on the language of the information. Please be aware of this.
-{% endhint %}
-
 Referral link:
 
-[https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral\_code=LF6KJLGJ)
+[https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral_code=LF6KJLGJ)
 
 ### <mark style="color:orange;">ChatGPT Search</mark>
 
@@ -36,14 +32,6 @@ Thanks to its partnership with OpenAI, Bing became the pioneering search engine 
 {% embed url="https://youtu.be/wKYqA1MLrXQ" %}
 
 [https://www.bing.com/](https://www.bing.com/)
-
-
-
-### <mark style="color:orange;">Phind</mark>
-
-Like Perplexity, this AI search engine offers rapid response times and is specifically designed for use by developers.
-
-{% embed url="https://www.phind.com/search?home=true" %}
 
 ### <mark style="color:orange;">Exa.ai</mark>
 
@@ -65,11 +53,23 @@ Explorer is a search discovery engine. It creates a table of contents on the top
 
 
 
-### <mark style="color:orange;">**llm-answer-engine**</mark>
+### OpenSource Projects
 
+{% tabs %}
+{% tab title="MiniPerplx" %}
+A minimalistic AI-powered search engine
+
+[https://mplx.run/search](https://mplx.run/search)
+
+Github: [https://github.com/zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx)
+{% endtab %}
+
+{% tab title="llm-answer-engine" %}
 {% embed url="https://github.com/developersdigest/llm-answer-engine" %}
 
-This recent **open-source** initiative guides you through building your own Perplexity AI search engine with Next.js. The project is freely available under the MIT license, complemented by comprehensive YouTube tutorials from the creator. For those interested, it offers the opportunity to customize and integrate preferred large models and their versions.
-
 {% embed url="https://www.youtube.com/watch?v=kFC-OWw7G8k" %}
+
+This recent **open-source** initiative guides you through building your own Perplexity AI search engine with Next.js. The project is freely available under the MIT license, complemented by comprehensive YouTube tutorials from the creator. For those interested, it offers the opportunity to customize and integrate preferred large models and their versions.
+{% endtab %}
+{% endtabs %}
 

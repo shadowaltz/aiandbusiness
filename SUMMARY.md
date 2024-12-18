@@ -162,6 +162,7 @@
   * [Samsung OneUI](ai-hardware/ai-cell-phone-and-system/samsung-oneui.md)
   * [Google Gemini/Android](ai-hardware/ai-cell-phone-and-system/google-gemini-android.md)
 * [🖲️ AI Gadgets](ai-hardware/ai-gadgets.md)
+* [AI Computer](ai-hardware/ai-computer.md)
 
 ## Other
 

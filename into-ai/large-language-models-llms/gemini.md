@@ -22,5 +22,7 @@ Gemini 2.0 represents a significant leap in AI technology, aiming to provide a m
 
 
 
+### <mark style="color:orange;">Gemini 2.0 Cookbook</mark>
 
+{% embed url="https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb" %}
 
