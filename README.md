@@ -44,6 +44,12 @@ aiandbusiness.com is an <mark style="color:red;">**Open Knowledge Base**</mark> 
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI O3**</mark>
+
+OpenAI has unveiled its next-generation AI models, o3 and o3-mini, which set new benchmarks in reasoning, coding, and mathematical capabilities, achieving unprecedented scores across various technical tests including a 96.7% accuracy on AIME 2024 and 87.5% on the ARC-AGI benchmark.
+
+{% embed url="https://youtu.be/SKBG1sqdyIU" %}
+
 ### <mark style="color:orange;">Google Veo 2</mark>
 
 [https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
