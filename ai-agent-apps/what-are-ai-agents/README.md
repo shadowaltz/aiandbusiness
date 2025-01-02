@@ -28,7 +28,7 @@ Docs: [https://docs.anthropic.com/en/docs/build-with-claude/computer-use](https:
 
 #### Learning Resources:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>What Are AI Agents?</td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>What Are AI Agents?</td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td><td></td></tr><tr><td>Building effective agents</td><td><a href="https://www.anthropic.com/research/building-effective-agents">https://www.anthropic.com/research/building-effective-agents</a></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

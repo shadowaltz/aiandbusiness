@@ -136,6 +136,14 @@ Mistral AI offers a range of large language models (LLMs), both open source and 
 
 Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) that boasts state-of-the-art reasoning, knowledge, and coding capabilities, with a 128k context window and support for dozens of languages, including French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, and Korean, along with 80+ coding languages.
 {% endtab %}
+
+{% tab title="Depseek" %}
+DeepSeek v3 is an advanced open-source large language model with 671 billion parameters, offering superior performance and cost-effectiveness, making it a formidable alternative to closed-source models from tech giants like OpenAI and Google.
+
+[https://github.com/deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+
+
+{% endtab %}
 {% endtabs %}
 
 

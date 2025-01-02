@@ -256,3 +256,19 @@ _12/4/2024 Added AI and Work, <mark style="color:orange;">Tencent HunYuan</mark>
 
 _12/5/2024 Added <mark style="color:orange;">Google Deepmind Genie 2</mark>_<mark style="color:orange;">**,**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">O</mark>_<mark style="color:orange;">penAI o1 and o1 pro</mark>
 
+_12/9/2024 Added <mark style="color:orange;">OpenAI Sora</mark>_
+
+_12/10/2024 Updated <mark style="color:orange;">Devin</mark>_
+
+_12/11/2024 Added <mark style="color:orange;">Gemini 2.0</mark>_
+
+_12/12/2024 Updated <mark style="color:orange;">Exa</mark>_
+
+_12/13/2024 Added <mark style="color:orange;">Exa hallucination-detector</mark>_
+
+_12/16/2024 <mark style="color:orange;">Added Google Veo2, Google Whisk, Filmora</mark>_
+
+_12/27/2024 Added <mark style="color:orange;">Deepseek V3</mark>_
+
+_12/31/2024 Added <mark style="color:orange;">Google Deep Research</mark>_
+

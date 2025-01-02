@@ -18,8 +18,8 @@ coverY: 0
 
 ## <mark style="color:purple;">AI Research Tools</mark>
 
-### <mark style="color:orange;">STORM from Stanford</mark>
-
+{% tabs %}
+{% tab title="STORM from Stanford" %}
 #### STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking
 
 [storm-project.stanford.edu](https://storm-project.stanford.edu/)
@@ -29,18 +29,24 @@ coverY: 0
 > While the system cannot produce publication-ready articles that often require a significant number of edits, experienced Wikipedia editors have found it helpful in their pre-writing stage.
 
 GitHub Link: [https://github.com/stanford-oval/storm?tab=readme-ov-file](https://github.com/stanford-oval/storm?tab=readme-ov-file)
+{% endtab %}
 
+{% tab title="Gemini Deep Research" %}
+Gemini Deep Research is an advanced AI feature that automates comprehensive research by analyzing multiple sources and generating detailed reports, now available in Gemini Advanced for users in over 45 languages and 150 countries.
 
+[https://blog.google/products/gemini/google-gemini-deep-research/](https://blog.google/products/gemini/google-gemini-deep-research/)
+{% endtab %}
 
-### <mark style="color:orange;">Afforai</mark>
-
+{% tab title="Afforai" %}
 [https://afforai.com/](https://afforai.com/)
 
 Afforai is an AI-powered reference management tool designed to assist researchers in managing, annotating, and citing papers, as well as conducting literature reviews with reliable AI support.
 
 {% embed url="https://afforai.com/img/landing_page/main-image.png" %}
+{% endtab %}
 
-### <mark style="color:orange;">AI Scientist</mark>
+{% tab title="AI Scientist" %}
+
 
 [https://github.com/SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
@@ -54,16 +60,20 @@ The AI Scientist is composed of four key stages: brainstorming research ideas, c
 
 
 
-### <mark style="color:orange;">Emergent Mind</mark>
+###
+{% endtab %}
 
+{% tab title="Emergent Mind" %}
 [https://www.emergentmind.com](https://www.emergentmind.com)
 
 Emergent Mind is a website that serves as a computer science research explorer, showcasing trending papers in the field.&#x20;
+{% endtab %}
+{% endtabs %}
 
 
 
-### <mark style="color:orange;">Genei.ai</mark>
-
+{% tabs %}
+{% tab title="Genei.ai" %}
 [https://www.genei.io/](https://www.genei.io/)
 
 Automatically summarise background reading and produce blogs, articles, and reports faster.
@@ -73,18 +83,22 @@ Genei.ai
 {% endembed %}
 
 
+{% endtab %}
 
-### <mark style="color:orange;">Otio.ai</mark>
-
+{% tab title="Otio.ai" %}
 [https://otio.ai](https://otio.ai)
+
+{% embed url="https://framerusercontent.com/assets/huhcpuBn1QoPpYkiUwuYMUNMbcI.mp4" %}
 
 An AI-native workspace, custom built for research.
 
 **1.** Summarise and chat with your documents.&#x20;
 
 **2.** Write and edit in an AI text-editor.
+{% endtab %}
+{% endtabs %}
 
-{% embed url="https://framerusercontent.com/assets/huhcpuBn1QoPpYkiUwuYMUNMbcI.mp4" %}
+
 
 ***
 

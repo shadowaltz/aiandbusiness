@@ -10,7 +10,7 @@ Recent research from the University of Chicago Booth School of Business tested G
 
 Beyond its quantitative prowess, GPT-4 also produced valuable narrative insights about a company's future performance. These insights from financial data offered a deep understanding of the company's overall health, market trends, and potential risks.
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4835311](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4835311)
+[https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=4835311](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 
 
 
@@ -26,6 +26,14 @@ A sophisticated Next.js application that combines Claude's capabilities with int
 [https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 
 {% embed url="https://github.com/anthropics/anthropic-quickstarts/raw/main/financial-data-analyst/public/hero.png" %}
+{% endtab %}
+
+{% tab title="Mars" %}
+MarS is a financial market simulation engine developed by Microsoft Research, leveraging generative foundation models to enhance financial research and applications by simulating market dynamics and enabling customized scenarios for prediction, detection, and strategy optimization tasks.
+
+{% embed url="https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/" %}
+
+[https://github.com/microsoft/MarS](https://github.com/microsoft/MarS)
 {% endtab %}
 {% endtabs %}
 

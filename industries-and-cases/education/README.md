@@ -21,6 +21,12 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">Arizona's AI-Taught Charter School</mark>
+
+[https://www.perplexity.ai/page/arizona-s-ai-taught-charter-sc-YMFjVjGIS6mCk9uD8p96HQ](https://www.perplexity.ai/page/arizona-s-ai-taught-charter-sc-YMFjVjGIS6mCk9uD8p96HQ)
+
+Arizona's AI-Taught Charter School is an innovative educational institution where students are instructed by AI systems, marking a significant shift in traditional teaching methods.
+
 ### <mark style="color:orange;">A Student’s Guide to Writing with ChatGPT</mark>
 
 OpenAI just released a comprehensive guide for students on how to effectively use ChatGPT to enhance their writing skills and academic productivity.
