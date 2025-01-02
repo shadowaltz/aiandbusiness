@@ -21,9 +21,9 @@ layout:
 # 👋 Welcome to AI\&Business (Beta)
 
 {% hint style="success" %}
-## <mark style="color:orange;">Introduction</mark>
+<mark style="color:orange;">**Introduction**</mark>
 
-aiandbusiness.com is an AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.
+**aiandbusiness.com is an AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
 {% endhint %}
 
 ### <mark style="color:orange;">Trending Topics:</mark>
