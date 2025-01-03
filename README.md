@@ -1,5 +1,6 @@
 ---
 description: An open manual for the collaboration of AI and business.
+icon: square-left
 cover: .gitbook/assets/ab cover.webp
 coverY: 0
 layout:
@@ -18,7 +19,9 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome to AI\&Business (Beta)
+# Welcome to AI\&Business (Beta)
+
+
 
 {% hint style="success" %}
 <mark style="color:orange;">**Introduction**</mark>
