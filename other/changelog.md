@@ -272,3 +272,9 @@ _12/27/2024 Added <mark style="color:orange;">Deepseek V3</mark>_
 
 _12/31/2024 Added <mark style="color:orange;">Google Deep Research</mark>_
 
+## _<mark style="color:orange;">2025</mark>_
+
+### _<mark style="color:orange;">Jan</mark>_
+
+_1/7/2025 Added <mark style="color:orange;">Nvidia Agentic AI, Razer Project Ava</mark>_
+

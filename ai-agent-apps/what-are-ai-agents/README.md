@@ -11,12 +11,22 @@ Modern AI Agents are built on the capabilities of large language models (LLMs). 
 For more details, check this article from Zapier:
 
 {% embed url="https://zapier.com/blog/ai-agent/?utm_source=Iterable&utm_medium=email&utm_campaign=itbl-gbl-pgv-ooc-blog_ai_agent_20240529-ctn" %}
-What are AI agents?
+Source: Zapier: What are AI agents?
 {% endembed %}
+
+### What are Vertical AI agents?
+
+Vertical AI agents are specialized AI systems designed to automate and optimize industry-specific tasks, offering tailored solutions that integrate seamlessly into existing workflows.
+
+
 
 ## <mark style="color:purple;">News & Updates:</mark>
 
-Claude introduces computer use
+### Nvidia AI Building Blocks for Agentic AI
+
+{% embed url="https://www.youtube.com/watch?v=Htg-J86Usig&ab_channel=NVIDIA" %}
+
+### Claude introduces computer use
 
 {% embed url="https://youtu.be/ODaHJzOyVCQ?si=3N9PrI8DfKyQp6-2" %}
 
@@ -26,9 +36,9 @@ Docs: [https://docs.anthropic.com/en/docs/build-with-claude/computer-use](https:
 
 
 
-#### Learning Resources:
+### <mark style="color:purple;">Learning Resources:</mark>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>What Are AI Agents?</td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td><td></td></tr><tr><td>Building effective agents</td><td><a href="https://www.anthropic.com/research/building-effective-agents">https://www.anthropic.com/research/building-effective-agents</a></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>MIT Tech Review: What Are AI Agents?</td><td><a href="https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/">https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/</a></td><td></td><td></td></tr><tr><td>Building effective agents</td><td><a href="https://www.anthropic.com/research/building-effective-agents">https://www.anthropic.com/research/building-effective-agents</a></td><td></td><td></td></tr><tr><td>Multi AI Agents In Production</td><td><a href="https://insights.crewai.com">https://insights.crewai.com</a></td><td></td><td></td></tr><tr><td>Agents by Google <a href="https://www.kaggle.com/whitepaper-agents">https://www.kaggle.com/whitepaper-agents</a></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

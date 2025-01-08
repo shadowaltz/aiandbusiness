@@ -8,6 +8,12 @@ coverY: 0
 
 ## News & Updates:
 
+### Razer Project Ava
+
+At CES 2025, Razer unveiled Project Ava, an AI-powered gaming assistant designed to provide real-time coaching and strategic advice to enhance gameplay.
+
+{% embed url="https://www.youtube.com/watch?v=K46-vHL4Ouo&t=3s&ab_channel=R%CE%9BZ%CE%9ER" %}
+
 ### Gemini 2.0 for games
 
 {% embed url="https://www.youtube.com/watch?v=IKuGNHJBGsc&ab_channel=GoogleDeepMind" %}
@@ -43,6 +49,12 @@ NVIDIA has released an AI multimodal game assistant that guides you while playin
 Backseat AI is an AI-driven voice assistant designed specifically for League of Legends players, created by the famous streamer Tyler1. The primary function of Backseat AI is to provide real-time game commentary and advice, helping players improve their gameplay by suggesting item purchases, route strategies, and other in-game decisions.
 
 {% embed url="https://youtu.be/QCjBiCX0kQY" %}
+{% endtab %}
+
+{% tab title="Razer Project Ava" %}
+At CES 2025, Razer unveiled Project Ava, an AI-powered gaming assistant designed to provide real-time coaching and strategic advice to enhance gameplay.
+
+{% embed url="https://www.youtube.com/watch?v=K46-vHL4Ouo&t=2s&ab_channel=R%CE%9BZ%CE%9ER" %}
 {% endtab %}
 {% endtabs %}
 
