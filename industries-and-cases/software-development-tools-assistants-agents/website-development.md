@@ -34,6 +34,12 @@ GoDaddy Airo is an AI-powered solution that enables small businesses to quickly 
 
 Chat with AI to build web apps. Sync with GitHub. One-click deploy.
 {% endtab %}
+
+{% tab title="Wegic" %}
+[https://wegic.ai/](https://wegic.ai/)
+
+AI website builder
+{% endtab %}
 {% endtabs %}
 
 
