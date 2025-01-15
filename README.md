@@ -1,6 +1,6 @@
 ---
-description: An open manual for the collaboration of AI and business.
 icon: square-left
+description: An open manual for the collaboration of AI and business.
 cover: .gitbook/assets/ab cover.webp
 coverY: 0
 layout:
@@ -21,8 +21,6 @@ layout:
 
 # Welcome to AI\&Business (Beta)
 
-
-
 {% hint style="success" %}
 <mark style="color:orange;">**Introduction**</mark>
 
@@ -38,6 +36,14 @@ layout:
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
+
+### <mark style="color:orange;">**OpenAI Tasks**</mark>
+
+OpenAI has introduced a new feature called **Tasks** in ChatGPT, allowing users to schedule reminders, updates, and alerts for future actions, enhancing its functionality as a personal assistant.
+
+{% embed url="https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt" %}
+
+{% embed url="https://x.com/OpenAI/status/1879267274185756896" %}
 
 ### <mark style="color:orange;">**OpenAI O3**</mark>
 
