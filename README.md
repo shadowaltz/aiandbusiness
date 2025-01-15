@@ -37,7 +37,7 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
-### <mark style="color:orange;">**OpenAI Tasks**</mark>
+### <mark style="color:orange;">**ChatGPT Scheduled Tasks**</mark>
 
 OpenAI has introduced a new feature called **Tasks** in ChatGPT, allowing users to schedule reminders, updates, and alerts for future actions, enhancing its functionality as a personal assistant.
 
