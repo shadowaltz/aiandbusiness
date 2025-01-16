@@ -96,6 +96,12 @@ An AI-native workspace, custom built for research.
 
 **2.** Write and edit in an AI text-editor.
 {% endtab %}
+
+{% tab title="Cubby" %}
+Cubby is a collaborative research tool that allows users to store files and links, annotate content, and synthesize information with AI assistance.
+
+[https://cubby.nyc/](https://cubby.nyc/)
+{% endtab %}
 {% endtabs %}
 
 

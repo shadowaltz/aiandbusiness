@@ -35,6 +35,12 @@ MarS is a financial market simulation engine developed by Microsoft Research, le
 
 [https://github.com/microsoft/MarS](https://github.com/microsoft/MarS)
 {% endtab %}
+
+{% tab title="TimesFM" %}
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+
+[https://huggingface.co/google/timesfm-2.0-500m-pytorch](https://huggingface.co/google/timesfm-2.0-500m-pytorch)
+{% endtab %}
 {% endtabs %}
 
 
