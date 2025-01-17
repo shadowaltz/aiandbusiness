@@ -57,9 +57,11 @@ Runway's Act-One is revolutionizing AI-assisted video creation by enabling creat
 {% endtab %}
 
 {% tab title="Luma Dream Machine" %}
+### Luma Ray2
 
+Luma released Ray 2, a new AI video generator model that creates realistic videos with natural and coherent motion, available now on the Dream Machine platform
 
-[https://lumalabs.ai/dream-machine](https://lumalabs.ai/dream-machine)
+[https://lumalabs.ai/ray](https://lumalabs.ai/ray)
 
 Dream Machine 1.5 is here. Now with higher-quality text-to-video
 

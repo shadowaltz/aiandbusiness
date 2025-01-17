@@ -87,49 +87,11 @@ Google DeepMind's Genie-2 is a new AI model designed to simulate virtual environ
 
 {% embed url="https://www.youtube.com/watch?v=dk-mD5djViI&ab_channel=Maginative" %}
 
-
-
-### <mark style="color:orange;">Suno V4</mark>
-
-Suno v4 is a significant upgrade to the AI music generation platform, introducing enhanced audio quality, more dynamic song structures, and creative lyric generation.
-
-{% embed url="https://x.com/sunomusic/status/1858918710008049866?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1858918710008049866%7Ctwgr%5Efa5b66eedebd17095112811daa6b642cdbbf1ed4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcdn.iframe.ly%2FzDvrFw5%3Fapp%3D1" %}
-
 ### <mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
 
 On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO Elon Musk unveiled the company's latest autonomous vehicle, the Cybercab. Musk also introduced a larger autonomous vehicle called the Robovan, capable of transporting up to 20 people. Additionally, Tesla showcased advancements in its Full Self-Driving (FSD) technology, promising unsupervised autonomous driving capabilities for Model 3 and Model Y vehicles in Texas and California by 2025. The event also featured demonstrations of Tesla's Optimus humanoid robots, which Musk claimed could perform various tasks and might be available for $20,000–$30,000.
 
 {% embed url="https://x.com/Tesla/status/1844583703604772893" %}
-
-### a16z released their 3rd Top 100 Gen AI Consumer Apps:
-
-{% embed url="https://a16z.com/100-gen-ai-apps-3/?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-top-100-ai-apps&_bhlid=6bea12ab1feeb676d1e31d8eb398118e3acdb9fe" %}
-
-{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/08/Top-Gen-AI-Web-Top-50-List-Inline-3.png" %}
-Source: a16z, Top 50 Gen AI Web Products&#x20;
-{% endembed %}
-
-## <mark style="color:purple;">Trending Product:</mark>
-
-### <mark style="color:orange;">Tencent HunYuan Opensource VideoGen model</mark>
-
-Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI model with 13 billion parameters, designed to generate high-quality videos from text prompts, offering state-of-the-art video quality and motion.
-
-{% embed url="https://aivideo.hunyuan.tencent.com/" %}
-
-### <mark style="color:orange;">Comfy UI Desktop:</mark>
-
-Comfy UI, the most powerful and modular diffusion model GUI with a graph/nodes interface, is releasing its desktop version.
-
-{% embed url="https://vimeo.com/1021338681" %}
-
-### <mark style="color:orange;">Augmented Physics</mark>
-
-Augmented Physics is an innovative machine learning-integrated authoring tool that transforms static physics textbook diagrams into interactive, embedded simulations, enhancing the learning experience by allowing users to manipulate and explore physics concepts dynamically.
-
-Paper Address: [https://arxiv.org/abs/2405.18614](https://arxiv.org/abs/2405.18614)
-
-{% embed url="https://youtu.be/MOdSeUp8YcE?si=6-nBMWE6KgS6UKuA" %}
 
 
 

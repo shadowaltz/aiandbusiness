@@ -19,6 +19,12 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+### <mark style="color:orange;">Unitree Upgrade</mark>
+
+{% embed url="https://x.com/UnitreeRobotics/status/1879864345615814923" %}
+
+***
+
 Boston Dynamics and Toyota Research Institute (TRI) have announced a groundbreaking partnership that combines their expertise in robotics and AI to accelerate the development of general-purpose humanoid robots, leveraging TRI's Large Behavior Models and Boston Dynamics' Atlas robot platform.
 
 {% embed url="https://pressroom.toyota.com/boston-dynamics-and-toyota-research-institute-announce-partnership-to-advance-robotics-research/" %}
