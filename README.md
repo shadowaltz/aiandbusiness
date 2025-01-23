@@ -37,6 +37,12 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**ChatGPT Operator**</mark>
+
+OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
+
+{% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
+
 ### <mark style="color:orange;">**ChatGPT Scheduled Tasks**</mark>
 
 OpenAI has introduced a new feature called **Tasks** in ChatGPT, allowing users to schedule reminders, updates, and alerts for future actions, enhancing its functionality as a personal assistant.
