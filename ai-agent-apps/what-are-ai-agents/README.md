@@ -26,7 +26,7 @@ Vertical AI agents are specialized AI systems designed to automate and optimize 
 
 OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
 
-{% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
+{% embed url="https://www.youtube.com/live/CSE77wAdDLg?si=brd4B-25_tFMcJDz" %}
 
 ### Nvidia AI Building Blocks for Agentic AI
 
