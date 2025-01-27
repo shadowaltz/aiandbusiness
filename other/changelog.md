@@ -280,7 +280,7 @@ _1/7/2025 Added <mark style="color:orange;">Nvidia Agentic AI, Razer Project Ava
 
 _1/16/2025 Added <mark style="color:orange;">ChatGPT Tasks, Luma Ray 2</mark>_
 
-_1/17/2025 Added_
+_1/17/2025 Added <mark style="color:orange;">Robin AI</mark>_
 
 _1/232024 Added <mark style="color:orange;">ChatGPT Operator</mark>_
 

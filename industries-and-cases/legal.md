@@ -28,6 +28,12 @@ DoNotPay uses artificial intelligence to help you fight big corporations, protec
 
 EvenUp is a cutting-edge claims intelligence platform that leverages AI to enhance the value and efficiency of personal injury case settlements by analyzing extensive historical data.
 {% endtab %}
+
+{% tab title="Robin AI" %}
+Legal AI for Contracts
+
+[https://www.robinai.com/](https://www.robinai.com/)
+{% endtab %}
 {% endtabs %}
 
 

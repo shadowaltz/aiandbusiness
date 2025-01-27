@@ -95,8 +95,10 @@ This tool can directly create models in 3D format, ensuring compatibility with a
 [https://trellis3d.github.io/](https://trellis3d.github.io/)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Hunyuan 3D" %}
+[https://huggingface.co/tencent/Hunyuan3D-2](https://huggingface.co/tencent/Hunyuan3D-2)
 
+Hunyuan3D 2.0, is an advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets from Tencent.
 {% endtab %}
 {% endtabs %}
 

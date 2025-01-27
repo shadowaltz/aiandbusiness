@@ -20,6 +20,10 @@ The Home Depot, the world's largest home improvement specialty retailer, has int
 
 
 
+### The Latest Cold Chain Scoop: AI Keeps Ice Cream Delicious
+
+{% embed url="https://www.ascm.org/ascm-insights/scm-now-impact/the-latest-cold-chain-scoop-ai-keeps-ice-cream-delicious/?&utm_source=newsletter&utm_medium=email&utm_campaign=memb_scm-impact-2025_20250124&mkt_tok=MDYzLUZJTy0yNTUAAAGYOEjDfazYEmzAGxRwDza1KYW7Iflf1cAp4Sd3j4pVHneqUVrUditKVJm8vmfRhU5oLQDc8jtSQZLm9VmuFBOsbyhGgaXsBVH_7Mvnw_YjOEK0AA" %}
+
 
 
 
