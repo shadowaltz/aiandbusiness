@@ -37,6 +37,12 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI O3-mini and O3-mini-high**</mark>
+
+OpenAI released the o3-mini and o3-mini-high reasoning models, offering cost-efficient STEM-focused reasoning with adjustable effort levels (low/medium/high) and enhanced coding/math capabilities, where o3-mini-high provides higher intelligence responses for complex tasks.
+
+{% embed url="https://x.com/OpenAI/status/1885406586136383634" %}
+
 ### <mark style="color:orange;">**ChatGPT Operator**</mark>
 
 OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.

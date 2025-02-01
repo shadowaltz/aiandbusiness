@@ -27,8 +27,6 @@ coverY: 0
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
 {% embed url="https://artificialanalysis.ai" %}
-
-{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/6eb88eb4-e885-402f-b439-20aa3d7b1300/public" %}
 {% endtab %}
 
 {% tab title="Scale Leaderboards" %}
@@ -111,6 +109,14 @@ Google released Gemini 2.0, its most advanced AI model to date, marking the begi
 ### Open Source Models:
 
 {% tabs %}
+{% tab title="Deepseek" %}
+DeepSeek v3 is an advanced open-source large language model with 671 billion parameters, offering superior performance and cost-effectiveness, making it a formidable alternative to closed-source models from tech giants like OpenAI and Google.
+
+[https://github.com/deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+
+
+{% endtab %}
+
 {% tab title="LLama" %}
 LLama is a family of state-of-the-art large language models developed by Meta, designed to perform a wide range of natural language processing tasks with varying levels of computational efficiency and accuracy.
 
@@ -135,14 +141,6 @@ Mistral AI offers a range of large language models (LLMs), both open source and 
 **Mistral Large 2**
 
 Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) that boasts state-of-the-art reasoning, knowledge, and coding capabilities, with a 128k context window and support for dozens of languages, including French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, and Korean, along with 80+ coding languages.
-{% endtab %}
-
-{% tab title="Depseek" %}
-DeepSeek v3 is an advanced open-source large language model with 671 billion parameters, offering superior performance and cost-effectiveness, making it a formidable alternative to closed-source models from tech giants like OpenAI and Google.
-
-[https://github.com/deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-
-
 {% endtab %}
 {% endtabs %}
 
