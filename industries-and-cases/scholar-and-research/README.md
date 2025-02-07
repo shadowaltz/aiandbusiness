@@ -85,6 +85,10 @@ Genei.ai
 
 {% endtab %}
 
+{% tab title="ChatGPT Deep Research" %}
+
+{% endtab %}
+
 {% tab title="Otio.ai" %}
 [https://otio.ai](https://otio.ai)
 

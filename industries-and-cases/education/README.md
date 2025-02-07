@@ -21,6 +21,10 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">ChatGPT for Cal State Universities</mark>
+
+{% embed url="https://x.com/gdb/status/1886884951666340270" %}
+
 ### <mark style="color:orange;">Arizona's AI-Taught Charter School</mark>
 
 [https://www.perplexity.ai/page/arizona-s-ai-taught-charter-sc-YMFjVjGIS6mCk9uD8p96HQ](https://www.perplexity.ai/page/arizona-s-ai-taught-charter-sc-YMFjVjGIS6mCk9uD8p96HQ)
