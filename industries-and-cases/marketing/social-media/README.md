@@ -46,5 +46,23 @@ Fliki.ai
 {% endtab %}
 {% endtabs %}
 
+***
+
+## Tools
+
+{% tabs %}
+{% tab title="Astral" %}
+[https://tryastral.com/](https://tryastral.com/)
+
+Astral is an AI-powered content engine designed to help media brands, creators, and marketing teams scale their content creation efficiently while maintaining brand consistency across various channels1.
+
+{% embed url="https://www.youtube.com/watch?v=ZXunvwG1ECc&ab_channel=Astral" %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 
 

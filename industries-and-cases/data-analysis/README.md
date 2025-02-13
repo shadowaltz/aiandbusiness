@@ -93,6 +93,22 @@ Julius AI is a versatile AI-powered data analysis platform that offers features 
 {% endtab %}
 {% endtabs %}
 
+Data Visualization
+
+{% tabs %}
+{% tab title="Data Formulator" %}
+Data formulator from Microsoft&#x20;
+
+[https://github.com/microsoft/data-formulator](https://github.com/microsoft/data-formulator)
+
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ***
 
 ## Large-scale datasets
@@ -113,7 +129,7 @@ Databricks offers a Data Intelligence Platform that unifies data, AI, and govern
 {% endtab %}
 
 {% tab title="IBM Cloud Pak for Data" %}
-[https://www.ibm.com/products/cloud-pak-for-data?utm\_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt\_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw\_wcB\&gclsrc=aw.ds](https://www.ibm.com/products/cloud-pak-for-data?utm\_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt\_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw\_wcB\&gclsrc=aw.ds)
+[https://www.ibm.com/products/cloud-pak-for-data?utm\_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt\_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw\_wcB\&gclsrc=aw.ds](https://www.ibm.com/products/cloud-pak-for-data?utm_content=SRCWW\&p1=Search\&p4=43700074359384704\&p5=p\&p9=58700008187739047\&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rpL4R0xyVov0M7UobmIREe1IRJt_RC0-p32ai3SLRjLg-vMbJh6l0aApKdEALw_wcB\&gclsrc=aw.ds)
 
 IBM Cloud Pak for Data is a comprehensive data and AI platform that enables organizations to collect, organize, and analyze data, as well as infuse AI throughout their business to drive innovation and digital transformation.
 {% endtab %}
