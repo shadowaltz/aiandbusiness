@@ -24,7 +24,7 @@ layout:
 {% hint style="success" %}
 <mark style="color:orange;">**Introduction**</mark>
 
-**aiandbusiness.com is an AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
+**aiandbusiness.com is a free AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
 {% endhint %}
 
 ### <mark style="color:orange;">Trending Topics:</mark>
@@ -90,20 +90,6 @@ OpenAI has officially launched Sora, its advanced AI video-generation tool capab
 OpenAI has introduced o1 and o1 Pro modes in ChatGPT. o1 is the world’s smartest language model, optimized for reasoning tasks, while o1 Pro mode offers enhanced computational power for tackling the most complex challenges at $200 per month.
 
 {% embed url="https://youtu.be/iBfQTnA2n2s?si=PWTD9Sh45f7evyZr" %}
-
-### <mark style="color:orange;">**Google Deepmind Genie 2**</mark>
-
-[**https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/**](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-
-Google DeepMind's Genie-2 is a new AI model designed to simulate virtual environments from simple inputs, like images or text, allowing for interactive and dynamic world creation.
-
-{% embed url="https://www.youtube.com/watch?v=dk-mD5djViI&ab_channel=Maginative" %}
-
-### <mark style="color:orange;">**Tesla "We, Robot" Event**</mark>
-
-On October 10, 2024, Tesla held its highly anticipated "We, Robot" event, CEO Elon Musk unveiled the company's latest autonomous vehicle, the Cybercab. Musk also introduced a larger autonomous vehicle called the Robovan, capable of transporting up to 20 people. Additionally, Tesla showcased advancements in its Full Self-Driving (FSD) technology, promising unsupervised autonomous driving capabilities for Model 3 and Model Y vehicles in Texas and California by 2025. The event also featured demonstrations of Tesla's Optimus humanoid robots, which Musk claimed could perform various tasks and might be available for $20,000–$30,000.
-
-{% embed url="https://x.com/Tesla/status/1844583703604772893" %}
 
 
 
