@@ -37,6 +37,12 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**Grok 3**</mark>
+
+Elon Musk's AI company xAI officially launched Grok 3, touted as the "smartest AI on Earth," on February 18, 2025, claiming it surpasses previous models in reasoning and performance across various benchmarks.
+
+{% embed url="https://x.com/grok/status/1891793693020991658" %}
+
 ### <mark style="color:orange;">**OpenAI O3-mini and O3-mini-high**</mark>
 
 OpenAI released the o3-mini and o3-mini-high reasoning models, offering cost-efficient STEM-focused reasoning with adjustable effort levels (low/medium/high) and enhanced coding/math capabilities, where o3-mini-high provides higher intelligence responses for complex tasks.

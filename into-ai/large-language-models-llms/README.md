@@ -71,12 +71,12 @@ LLM Ranking
 <mark style="color:green;">5/29/2024 ChatGPT with Gpt-4o is free for everyone</mark>
 {% endtab %}
 
-{% tab title="Grok-2" %}
-Grok is an AI built by xAI, unique in its inspiration from the Hitchhiker's Guide to the Galaxy and JARVIS, offering an outside perspective on humanity and not shying away from answering the most intriguing questions.
+{% tab title="Grok-3" %}
+Elon Musk's AI company xAI officially launched Grok 3, touted as the "smartest AI on Earth," on February 18, 2025, claiming it surpasses previous models in reasoning and performance across various benchmarks.
 
-https://x.ai/grok
+{% embed url="https://x.ai/grok" %}
 
-<figure><img src="../../.gitbook/assets/grok 2.webp" alt=""><figcaption></figcaption></figure>
+{% embed url="https://x.com/grok/status/1891793693020991658" %}
 {% endtab %}
 
 {% tab title="Claude" %}
