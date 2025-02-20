@@ -104,7 +104,7 @@
 * [AI + Finance](industries-and-cases/ai-+-finance/README.md)
   * [Fraud Detection](industries-and-cases/ai-+-finance/fraud-detection.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
-* [biotechnology  and Medicine](industries-and-cases/biotechnology-and-medicine.md)
+* [Biotechnology  and Medicine](industries-and-cases/biotechnology-and-medicine.md)
 * [Agriculture](industries-and-cases/agriculture.md)
 
 ## AI Agent/Apps

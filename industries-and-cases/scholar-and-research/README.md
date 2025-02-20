@@ -110,6 +110,24 @@ Cubby is a collaborative research tool that allows users to store files and link
 
 
 
+### <mark style="color:orange;">Science Agents</mark>
+
+{% tabs %}
+{% tab title="Google AI co-scientist" %}
+### <mark style="color:orange;">Google AI co-scientist</mark>
+
+Google has introduced "AI Co-Scientist," a multi-agent AI system built on Gemini 2.0, designed to collaborate with scientists by generating novel hypotheses and research proposals to accelerate scientific and biomedical discoveries.
+
+[https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
 ***
 
 ## Resources:

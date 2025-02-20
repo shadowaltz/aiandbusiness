@@ -43,6 +43,20 @@ Elon Musk's AI company xAI officially launched Grok 3, touted as the "smartest A
 
 {% embed url="https://x.com/grok/status/1891793693020991658" %}
 
+### <mark style="color:orange;">Nvidia Evo 2 Protein Design</mark>
+
+[https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/](https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/)
+
+NVIDIA's introduces Evo 2, a cutting-edge biomolecular AI model designed to accelerate drug discovery and advance biological research through generative design and protein optimization.
+
+{% embed url="https://blogs.nvidia.com/wp-content/uploads/2025/02/hc-corp-blog-evo2-blueprint-25-1280x680-1.jpg" %}
+
+### <mark style="color:orange;">Google AI co-scientist</mark>
+
+Google has introduced "AI Co-Scientist," a multi-agent AI system built on Gemini 2.0, designed to collaborate with scientists by generating novel hypotheses and research proposals to accelerate scientific and biomedical discoveries.
+
+[https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+
 ### <mark style="color:orange;">**OpenAI O3-mini and O3-mini-high**</mark>
 
 OpenAI released the o3-mini and o3-mini-high reasoning models, offering cost-efficient STEM-focused reasoning with adjustable effort levels (low/medium/high) and enhanced coding/math capabilities, where o3-mini-high provides higher intelligence responses for complex tasks.
@@ -55,47 +69,7 @@ OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate 
 
 {% embed url="https://www.youtube.com/live/CSE77wAdDLg?si=brd4B-25_tFMcJDz" %}
 
-### <mark style="color:orange;">**ChatGPT Scheduled Tasks**</mark>
 
-OpenAI has introduced a new feature called **Tasks** in ChatGPT, allowing users to schedule reminders, updates, and alerts for future actions, enhancing its functionality as a personal assistant.
-
-{% embed url="https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt" %}
-
-{% embed url="https://x.com/OpenAI/status/1879267274185756896" %}
-
-### <mark style="color:orange;">**OpenAI O3**</mark>
-
-OpenAI has unveiled its next-generation AI models, o3 and o3-mini, which set new benchmarks in reasoning, coding, and mathematical capabilities, achieving unprecedented scores across various technical tests including a 96.7% accuracy on AIME 2024 and 87.5% on the ARC-AGI benchmark.
-
-{% embed url="https://youtu.be/SKBG1sqdyIU" %}
-
-### <mark style="color:orange;">Google Veo 2</mark>
-
-[https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
-
-Google just released Veo 2, an advanced AI video generation model that offers enhanced realism, improved physics understanding, and extensive camera control options, setting a new standard in video creation technology.
-
-{% embed url="https://x.com/labsdotgoogle/status/1868704865364701683" %}
-
-### <mark style="color:orange;">**Gemini 2.0**</mark>
-
-Google released Gemini 2.0, its most advanced AI model to date, marking the beginning of what the company calls the "agent era" in AI development.
-
-[https://deepmind.google/technologies/gemini/](https://deepmind.google/technologies/gemini/)
-
-{% embed url="https://www.youtube.com/watch?v=Fs0t6SdODd8&t=3s&ab_channel=Google" %}
-
-### <mark style="color:orange;">SORA</mark>
-
-OpenAI has officially launched Sora, its advanced AI video-generation tool capable of creating realistic videos from text or image prompts, available exclusively to ChatGPT Pro and Plus subscribers, with features like a storyboard interface and remix options for customization.
-
-{% embed url="https://www.youtube.com/live/2jKVx2vyZOY?si=dqxjdMs9NUzgq9Yw" %}
-
-### <mark style="color:orange;">OpenAI o1 and o1 pro mode in ChatGPT</mark>
-
-OpenAI has introduced o1 and o1 Pro modes in ChatGPT. o1 is the world’s smartest language model, optimized for reasoning tasks, while o1 Pro mode offers enhanced computational power for tackling the most complex challenges at $200 per month.
-
-{% embed url="https://youtu.be/iBfQTnA2n2s?si=PWTD9Sh45f7evyZr" %}
 
 
 

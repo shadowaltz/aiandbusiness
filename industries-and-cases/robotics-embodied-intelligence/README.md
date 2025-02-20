@@ -19,6 +19,14 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+### <mark style="color:orange;">Figure Felix</mark>
+
+{% embed url="https://x.com/Figure_robot/status/1892577871366939087" %}
+
+### <mark style="color:orange;">Protoclone: Bipedal Musculoskeletal Android V1</mark>
+
+{% embed url="https://youtu.be/H7dhwFcuUn0?si=X3WdvZIFhIt5m-m7" %}
+
 ### <mark style="color:orange;">Unitree Upgrade</mark>
 
 {% embed url="https://x.com/UnitreeRobotics/status/1879864345615814923" %}

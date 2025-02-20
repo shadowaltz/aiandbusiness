@@ -18,6 +18,12 @@ coverY: 0
 
 ## Update & News
 
+### Microsoft Muse
+
+Microsoft Research has unveiled Muse, their first generative AI model crafted to spark innovative gameplay ideas and enhance creative ideation in game development.
+
+[https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/)
+
 ### World's First AI-Generated Video Game
 
 According to TechCrunch, Decart, an Israeli AI company, has launched Oasis, the world's first fully AI-generated video game, which dynamically creates a Minecraft-like experience in real-time using a large language model instead of a traditional game engine.

@@ -2,13 +2,21 @@
 icon: kit-medical
 ---
 
-# biotechnology  and Medicine
+# Biotechnology  and Medicine
 
-popular IBM Watson AI for medical imaging. The recent explosive advancements in AI have propelled its applications in biotechnology and healthcare to new heights.
+AI has long been deeply applied in the fields of biology and healthcare, with examples like the once-popular IBM Watson AI for medical imaging. The recent explosive advancements in AI have propelled its applications in biotechnology and healthcare to new heights.
 
 
 
 ## Biotechnology
+
+### Nvidia Evo 2 Protein Design
+
+[https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/](https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/)
+
+NVIDIA's introduces Evo 2, a cutting-edge biomolecular AI model designed to accelerate drug discovery and advance biological research through generative design and protein optimization.
+
+{% embed url="https://blogs.nvidia.com/wp-content/uploads/2025/02/hc-corp-blog-evo2-blueprint-25-1280x680-1.jpg" %}
 
 ### AlphaFold 3
 
