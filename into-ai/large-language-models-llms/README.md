@@ -36,14 +36,6 @@ Scale Leaderboards
 
 
 {% endtab %}
-
-{% tab title="🏆 LMSYS Chatbot Arena Leaderboard" %}
-{% embed url="https://chat.lmsys.org/?leaderboard" %}
-LLM Ranking
-{% endembed %}
-
-
-{% endtab %}
 {% endtabs %}
 
 
