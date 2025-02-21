@@ -28,7 +28,19 @@ Anthropic Prompt generator
 
 
 
-Prompt Perfect (Paid Service)
+### Paid Service
+
+{% tabs %}
+{% tab title="Prompt Perfect " %}
+
 
 [https://promptperfect.jina.ai/](https://promptperfect.jina.ai/)
+{% endtab %}
+
+{% tab title="Maskara" %}
+[https://www.maskara.ai/](https://www.maskara.ai/)
+{% endtab %}
+{% endtabs %}
+
+
 
