@@ -91,6 +91,14 @@ Link
 
 Julius AI is a versatile AI-powered data analysis platform that offers features such as creating data visualizations, answering questions about data, performing predictive forecasting, solving math and science problems, and generating polished analyses and summaries.
 {% endtab %}
+
+{% tab title="Pandas AI" %}
+Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+
+{% embed url="https://github.com/sinaptik-ai/pandas-ai/raw/main/assets/logo.png" %}
+
+[https://github.com/sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+{% endtab %}
 {% endtabs %}
 
 Data Visualization

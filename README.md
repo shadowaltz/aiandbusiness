@@ -37,6 +37,14 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">Claude 3.7 Sonnet and Claude Code</mark>
+
+Anthropic's Claude 3.7 Sonnet is a groundbreaking hybrid reasoning model that offers both near-instant responses and extended, step-by-step thinking, making it particularly adept at coding and front-end web development tasks.
+
+[https://www.anthropic.com/claude/sonnet](https://www.anthropic.com/claude/sonnet)
+
+{% embed url="https://youtu.be/AJpK3YTTKZ4" %}
+
 ### <mark style="color:orange;">**Grok 3**</mark>
 
 Elon Musk's AI company xAI officially launched Grok 3, touted as the "smartest AI on Earth," on February 18, 2025, claiming it surpasses previous models in reasoning and performance across various benchmarks.
