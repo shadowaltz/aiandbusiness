@@ -4,7 +4,9 @@ description: AI in warehousing and logistics
 
 # Warehousing & Logistics
 
+### Logistic Robot
 
+{% embed url="https://x.com/Figure_robot/status/1894781226676064459" %}
 
 ## Foxconn Trains Robots, Streamlines Assembly With NVIDIA AI and Omniverse
 
