@@ -37,6 +37,12 @@ layout:
 
 ## <mark style="color:orange;">**Top News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
+
+​OpenAI has unveiled GPT-4.5, its most advanced and compute-intensive AI model to date, designed to enhance user interactions with more natural and emotionally nuanced responses.
+
+{% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=USSp646hUMNvsY9k" %}
+
 ### <mark style="color:orange;">Claude 3.7 Sonnet and Claude Code</mark>
 
 Anthropic's Claude 3.7 Sonnet is a groundbreaking hybrid reasoning model that offers both near-instant responses and extended, step-by-step thinking, making it particularly adept at coding and front-end web development tasks.
