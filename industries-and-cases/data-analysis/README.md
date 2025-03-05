@@ -54,8 +54,6 @@ ChatGPT has recently upgraded its data analysis capabilities, enabling it to eff
 {% embed url="https://openai.com/index/improvements-to-data-analysis-in-chatgpt/" %}
 Link
 {% endembed %}
-
-
 {% endtab %}
 
 {% tab title="Claude" %}
@@ -108,12 +106,36 @@ Data Visualization
 Data formulator from Microsoft&#x20;
 
 [https://github.com/microsoft/data-formulator](https://github.com/microsoft/data-formulator)
-
-
 {% endtab %}
 
 {% tab title="Second Tab" %}
 
+{% endtab %}
+{% endtabs %}
+
+Data Analyze Agents
+
+{% tabs %}
+{% tab title="Google Colab Data Science Agent" %}
+The Data Science Agent in Colab uses Gemini to generate complete, executable notebooks from natural language descriptions, streamlining data analysis workflows by automating tasks like importing libraries and loading data.&#x20;
+
+[https://developers.googleblog.com/en/data-science-agent-in-colab-with-gemini/](https://developers.googleblog.com/en/data-science-agent-in-colab-with-gemini/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+Data Extract Tool
+
+{% tabs %}
+{% tab title="Browse.ai" %}
+[https://www.browse.ai/](https://www.browse.ai/)
+{% endtab %}
+
+{% tab title="Exa Websets" %}
+[https://exa.ai/websets](https://exa.ai/websets)
 {% endtab %}
 {% endtabs %}
 

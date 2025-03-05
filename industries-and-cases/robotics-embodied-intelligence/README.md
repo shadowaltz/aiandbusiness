@@ -21,7 +21,7 @@ coverY: 137.1375464684015
 
 ### <mark style="color:orange;">Figure Felix</mark>
 
-{% embed url="https://x.com/Figure_robot/status/1892577871366939087" %}
+{% embed url="https://youtu.be/Z3yQHYNXPws?si=S2DvlnauHy6wq2dV" %}
 
 ### <mark style="color:orange;">Protoclone: Bipedal Musculoskeletal Android V1</mark>
 
