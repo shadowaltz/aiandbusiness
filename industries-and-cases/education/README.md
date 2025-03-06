@@ -21,6 +21,12 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">OpenAI NextGenAI</mark>
+
+OpenAI is investing $50 million to provide universities with free access to advanced AI tools and research funding through the NextGenAI program. This initiative aims to democratize AI, enabling students and researchers to explore its potential in various fields, from cataloging historical collections to diagnosing rare diseases. The program seeks to foster AI fluency and encourage the use of AI to address pressing global challenges.
+
+{% embed url="https://youtu.be/ElFwibTDpiE?si=aAfmqHDjsXUlYeup" %}
+
 ### <mark style="color:orange;">ChatGPT for Cal State Universities</mark>
 
 {% embed url="https://x.com/gdb/status/1886884951666340270" %}
