@@ -67,14 +67,6 @@ Agent Q's advanced capabilities make it particularly well-suited for complex, mu
 ## Autonomous Task Execution AI Agents
 
 {% tabs %}
-{% tab title="ChatGPT Operator" %}
-
-
-OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
-
-{% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
-{% endtab %}
-
 {% tab title="AutoGPT" %}
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools so that you can focus on what matters.
 
@@ -97,6 +89,22 @@ Assemble, configure, and deploy autonomous AI Agents in your browser.
 [https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
 
+{% endtab %}
+
+{% tab title="ChatGPT Operator" %}
+
+
+OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
+
+{% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
+{% endtab %}
+
+{% tab title="ManusAI" %}
+[https://manus.im/](https://manus.im/)
+
+Manus AI is a groundbreaking, fully autonomous artificial intelligence agent capable of handling complex, real-world tasks independently, surpassing traditional AI assistants by delivering tangible results rather than just providing advice or answers.
+
+{% embed url="https://youtu.be/K27diMbCsuw?si=9C9-pXV60anhXX7E" %}
 {% endtab %}
 {% endtabs %}
 
