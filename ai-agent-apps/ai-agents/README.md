@@ -165,6 +165,12 @@ Devin is generally available and only offers a $500/month team plan.
 #### Resources to build AI Agents:
 
 {% tabs %}
+{% tab title="Anthropic MCP" %}
+Anthropic's Model Context Protocol (MCP) is an open standard designed to unify AI models with external tools and data, providing a universal interface for integrating diverse data sources and enhancing AI applications' context-aware capabilities.
+
+[https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol)
+{% endtab %}
+
 {% tab title="OpenAI Swarm" %}
 Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by the OpenAI Solution team.
 
