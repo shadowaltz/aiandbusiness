@@ -1,12 +1,7 @@
 ---
-icon: square-left
 description: An open manual for the collaboration of AI and business.
-cover: .gitbook/assets/ab cover.webp
-coverY: 0
+icon: square-left
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -24,18 +19,22 @@ layout:
 {% hint style="success" %}
 <mark style="color:orange;">**Introduction**</mark>
 
-**aiandbusiness.com is a free AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
+### **aiandbusiness.com is a free AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
 {% endhint %}
 
-### <mark style="color:orange;">Trending Topics:</mark>
+### <mark style="color:orange;">Trending Section:</mark>
 
-<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="video-and-films/film-making/"><strong>Film Making</strong></a></td><td><a href="image/text-to-image-image-editing-tools/"><strong>Text to Image</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="ai-agent-apps/ai-agents/"><strong>AI Agent</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
+
+### <mark style="color:orange;">Industries & Cases Navigation:</mark>
+
+<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><strong>Education</strong></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ***
 
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
-## <mark style="color:orange;">**Top News & Updates:**</mark>
+## <mark style="color:orange;">**Industry News & Updates:**</mark>
 
 ### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
 
