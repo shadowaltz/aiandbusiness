@@ -23,6 +23,20 @@ layout:
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
+## Native Multimodal Model Image Generation/Editing
+
+{% tabs %}
+{% tab title="OpenAI 4o Image Generation" %}
+See examples here: [https://openai.com/index/introducing-4o-image-generation/](https://openai.com/index/introducing-4o-image-generation/)
+
+{% embed url="https://youtu.be/E9RN8jX--uc?si=LsjPZb50vg6biI9Z" %}
+{% endtab %}
+
+{% tab title="Gemini Flash" %}
+
+{% endtab %}
+{% endtabs %}
+
 ## Open Source:
 
 {% tabs %}

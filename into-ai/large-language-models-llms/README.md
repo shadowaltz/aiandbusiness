@@ -84,15 +84,11 @@ Anthropic introduced the **new Claude 3.5 Sonnet, and Claude 3.5 Haiku.**
 {% endtab %}
 
 {% tab title="Gemini" %}
-### <mark style="color:orange;">**Gemini 2.0**</mark>
-
-Google released Gemini 2.0, its most advanced AI model to date, marking the beginning of what the company calls the "agent era" in AI development.
+### <mark style="color:orange;">**Gemini 2.5**</mark>
 
 [https://deepmind.google/technologies/gemini/](https://deepmind.google/technologies/gemini/)
 
-{% embed url="https://www.youtube.com/watch?v=Fs0t6SdODd8&t=3s&ab_channel=Google" %}
-
-[https://gemini.google.com/app](https://gemini.google.com/app)
+{% embed url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_benchmarks_cropped_light2x.gif" %}
 {% endtab %}
 {% endtabs %}
 

@@ -58,6 +58,14 @@ Google's Gemini Flash Experimental is a cutting-edge experimental model with str
 
 ## <mark style="color:orange;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Gemini 2.5</mark>
+
+
+
+### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
+
+{% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=uhVBczCMpAtWOqo5" %}
+
 ### <mark style="color:orange;">**Top 100 GenAI Apps (4th edition)**</mark>
 
 <mark style="color:orange;">**Offical LInk:**</mark> [<mark style="color:orange;">**https://a16z.com/100-gen-ai-apps-4/**</mark>](https://a16z.com/100-gen-ai-apps-4/)
