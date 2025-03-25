@@ -62,6 +62,10 @@ Google's Gemini Flash Experimental is a cutting-edge experimental model with str
 
 {% embed url="https://x.com/GeminiApp/status/1904579704079724599" %}
 
+### <mark style="color:orange;">**OpenAI 4o Image Generation**</mark>
+
+{% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
+
 ### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
 
 {% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=uhVBczCMpAtWOqo5" %}
@@ -107,18 +111,6 @@ NVIDIA's introduces Evo 2, a cutting-edge biomolecular AI model designed to acce
 Google has introduced "AI Co-Scientist," a multi-agent AI system built on Gemini 2.0, designed to collaborate with scientists by generating novel hypotheses and research proposals to accelerate scientific and biomedical discoveries.
 
 [https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
-
-### <mark style="color:orange;">**OpenAI O3-mini and O3-mini-high**</mark>
-
-OpenAI released the o3-mini and o3-mini-high reasoning models, offering cost-efficient STEM-focused reasoning with adjustable effort levels (low/medium/high) and enhanced coding/math capabilities, where o3-mini-high provides higher intelligence responses for complex tasks.
-
-{% embed url="https://x.com/OpenAI/status/1885406586136383634" %}
-
-### <mark style="color:orange;">**ChatGPT Operator**</mark>
-
-OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
-
-{% embed url="https://www.youtube.com/live/CSE77wAdDLg?si=brd4B-25_tFMcJDz" %}
 
 
 
