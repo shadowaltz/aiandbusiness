@@ -17,6 +17,7 @@
   * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
   * [Understand Token](into-ai/large-language-models-llms/understand-token.md)
   * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
+  * [Model Context Protocol (MCP)](into-ai/large-language-models-llms/model-context-protocol-mcp.md)
 * [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
 * [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
 * [AI Ethics](into-ai/ai-ethics.md)

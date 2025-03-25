@@ -19,6 +19,20 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+### <mark style="color:orange;">Boston Dynamics</mark>
+
+Boston Dynamics partners with RAI Institute, combining reinforcement learning and motion capture to let Atlas robots master smoother, human-like movements.
+
+{% embed url="https://youtu.be/I44_zbEwz_w?si=XeMI1ZAHH8g0D82H" %}
+
+### <mark style="color:orange;">Nvidia GR00T N1</mark>
+
+{% embed url="https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks" %}
+
+Nvidia introduces GR00T N1, the world's first open-source, fully customizable foundation model designed for generalized humanoid robot reasoning and skills.
+
+{% embed url="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20252/nvidia-gr00t-n1.jpg" %}
+
 ### <mark style="color:orange;">Figure Felix</mark>
 
 {% embed url="https://youtu.be/Z3yQHYNXPws?si=S2DvlnauHy6wq2dV" %}

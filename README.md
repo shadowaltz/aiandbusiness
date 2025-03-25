@@ -34,7 +34,7 @@ layout:
 
 ***
 
-## <mark style="color:orange;">Monthly Highlights</mark><mark style="color:orange;">**:**</mark>
+## <mark style="color:orange;">Trending Insights</mark><mark style="color:orange;">**:**</mark>
 
 {% tabs %}
 {% tab title="MCP" %}
@@ -42,7 +42,9 @@ layout:
 
 **Model Context Protocol (MCP)** is an open standard protocol developed by Anthropic that enables AI models to seamlessly connect with external data sources, tools, and APIs, enhancing their capabilities beyond their original training data.
 
-{% embed url="https://youtu.be/kQmXtrmQ5Zg?si=PclZBS15qCLRpseE" %}
+{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-x2000.png" %}
+Source: A16Z
+{% endembed %}
 {% endtab %}
 
 {% tab title="Google Gemini Flash Experimental" %}

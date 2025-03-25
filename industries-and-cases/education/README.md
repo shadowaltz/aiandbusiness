@@ -21,6 +21,16 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+{% embed url="https://www.foxnews.com/media/texas-private-schools-use-ai-tutor-rockets-student-test-scores-top-2-country" %}
+
+### <mark style="color:orange;">Super Teacher</mark>
+
+[https://www.anthropic.com/customers/super-teacher](https://www.anthropic.com/customers/super-teacher)
+
+Super Teacher leverages Anthropic's AI model Claude to significantly accelerate software development and educational content creation, enabling personalized classroom instruction and safe, engaging private tutoring for elementary students.
+
+{% embed url="https://www-cdn.anthropic.com/images/4zrzovbb/website/9a0db18715c6fd35a8a5662e08324fcc5de830b3-2880x1620.svg" %}
+
 ### <mark style="color:orange;">OpenAI NextGenAI</mark>
 
 OpenAI is investing $50 million to provide universities with free access to advanced AI tools and research funding through the NextGenAI program. This initiative aims to democratize AI, enabling students and researchers to explore its potential in various fields, from cataloging historical collections to diagnosing rare diseases. The program seeks to foster AI fluency and encourage the use of AI to address pressing global challenges.

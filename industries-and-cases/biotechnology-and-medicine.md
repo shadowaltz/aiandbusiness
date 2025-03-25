@@ -66,5 +66,5 @@ The paper introduces "Agent Hospital," a simulated hospital environment where au
 
 
 
-
+{% embed url="https://x.com/NVIDIAHealth/status/1902101464454934772" %}
 

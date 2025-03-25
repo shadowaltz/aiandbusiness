@@ -14,7 +14,15 @@ coverY: 0
 
 <mark style="color:red;">**Autonomous driving**</mark> represents a significant domain within the commercial application of artificial intelligence, offering vast potential and value across the freight, logistics, and automotive sectors. This technology not only aims to elevate transport efficiency and slash costs but also plays a crucial role in diminishing traffic incidents, thereby boosting road safety.&#x20;
 
-## Autonomous Car Brands:
+## <mark style="color:orange;">Industry News & Updates:</mark>
+
+NVIDIA and General Motors announced a strategic partnership to jointly develop next-generation autonomous vehicles, leveraging NVIDIA's AI platforms for advanced driver-assistance systems and enhanced manufacturing processes.
+
+{% embed url="https://nvidianews.nvidia.com/news/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing" %}
+
+***
+
+## <mark style="color:orange;">Autonomous Car Brands:</mark>
 
 ### **US**
 

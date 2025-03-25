@@ -67,16 +67,6 @@ Link
 
 
 
-ChatGPT has recently upgraded its data analysis capabilities, enabling it to effectively perform data cleaning, data analysis, and data visualization tasks in a wide range of scenarios.
-
-> Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive.
-
-{% embed url="https://images.ctfassets.net/kftzwdyauwt9/5MRilRU8OxsaGeplleKSiM/d308cdc8218484a4666cee7acc9d3863/ChatGPT_Charts_Blog_Summary_v3.gif?w=3840&q=90&fm=webp" %}
-
-{% embed url="https://openai.com/index/improvements-to-data-analysis-in-chatgpt/" %}
-Link
-{% endembed %}
-
 ### AI Data Analysis Tools:
 
 {% hint style="warning" %}
@@ -96,6 +86,22 @@ Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes dat
 {% embed url="https://github.com/sinaptik-ai/pandas-ai/raw/main/assets/logo.png" %}
 
 [https://github.com/sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+{% endtab %}
+{% endtabs %}
+
+Chat with Database
+
+{% tabs %}
+{% tab title="Ask Your Database" %}
+[https://www.askyourdatabase.com/](https://www.askyourdatabase.com/)
+
+Chat with SQL Databases using AI
+
+{% embed url="https://www.askyourdatabase.com/landing-video.webm" %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
 {% endtab %}
 {% endtabs %}
 
