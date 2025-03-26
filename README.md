@@ -47,10 +47,10 @@ Source: A16Z
 {% endembed %}
 {% endtab %}
 
-{% tab title="Google Gemini Flash Experimental" %}
-Google's Gemini Flash Experimental is a cutting-edge experimental model with strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
+{% tab title="Native Multimodal Model Image Generation/Editing" %}
+OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
 
-
+{% embed url="https://www.youtube.com/watch?v=E9RN8jX--uc&ab_channel=OpenAI" %}
 {% endtab %}
 {% endtabs %}
 
@@ -65,10 +65,6 @@ Google's Gemini Flash Experimental is a cutting-edge experimental model with str
 ### <mark style="color:orange;">**OpenAI 4o Image Generation**</mark>
 
 {% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
-
-### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
-
-{% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=uhVBczCMpAtWOqo5" %}
 
 ### <mark style="color:orange;">**Top 100 GenAI Apps (4th edition)**</mark>
 
