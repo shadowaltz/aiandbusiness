@@ -1,5 +1,7 @@
 # Tesla
 
+{% embed url="https://x.com/Tesla/status/1904677503702045043" %}
+
 ## Cybercab
 
 {% embed url="https://youtu.be/Qfj4urMF8CU?si=PiridSLDpGQ3rtfq" %}

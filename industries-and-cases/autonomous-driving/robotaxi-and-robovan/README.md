@@ -10,6 +10,8 @@
 
 Updates:
 
+{% embed url="https://x.com/Tesla/status/1904677503702045043" %}
+
 {% embed url="https://x.com/Waymo/status/1851365483972538407" %}
 
 Tesla robotaxi & Robovan
