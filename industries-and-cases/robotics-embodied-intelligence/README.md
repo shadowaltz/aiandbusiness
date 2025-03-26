@@ -19,6 +19,8 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+{% embed url="https://youtu.be/z6KiwXT_yAM?si=B5ibTYrtL3PwI17N" %}
+
 ### <mark style="color:orange;">Boston Dynamics</mark>
 
 Boston Dynamics partners with RAI Institute, combining reinforcement learning and motion capture to let Atlas robots master smoother, human-like movements.

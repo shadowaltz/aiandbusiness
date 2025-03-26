@@ -16,6 +16,12 @@ coverY: 0
 
 ## <mark style="color:orange;">Industry News & Updates:</mark>
 
+### <mark style="color:orange;">Waymo</mark>
+
+{% embed url="https://x.com/Waymo/status/1904490327773507641" %}
+
+### NVIDIA and General Motors
+
 NVIDIA and General Motors announced a strategic partnership to jointly develop next-generation autonomous vehicles, leveraging NVIDIA's AI platforms for advanced driver-assistance systems and enhanced manufacturing processes.
 
 {% embed url="https://nvidianews.nvidia.com/news/general-motors-and-nvidia-collaborate-on-ai-for-next-generation-vehicle-experience-and-manufacturing" %}

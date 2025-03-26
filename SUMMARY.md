@@ -28,7 +28,7 @@
 
 * [🤖 Robotics/Embodied Intelligence](industries-and-cases/robotics-embodied-intelligence/README.md)
   * [Humanoid Robots](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/README.md)
-    * [Figure AI + BMW](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai-+-bmw.md)
+    * [Figure AI](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
   * [Industrial Robot](industries-and-cases/robotics-embodied-intelligence/industrial-robot.md)
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
   * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)

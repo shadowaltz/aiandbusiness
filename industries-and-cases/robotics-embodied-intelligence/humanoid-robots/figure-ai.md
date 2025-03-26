@@ -1,4 +1,10 @@
-# Figure AI + BMW
+# Figure AI
+
+3.25.2025 Update：
+
+{% embed url="https://youtu.be/z6KiwXT_yAM?si=B5ibTYrtL3PwI17N" %}
+
+### Figure AI + BMW
 
 Figure AI has signed a commercial agreement with BMW Manufacturing to deploy its autonomous humanoid robots in automotive production at BMW's Spartanburg plant, marking a significant milestone in the integration of general-purpose robots in manufacturing environments.
 
