@@ -37,6 +37,12 @@ layout:
 ## <mark style="color:orange;">Trending Insights</mark><mark style="color:orange;">**:**</mark>
 
 {% tabs %}
+{% tab title="Native Multimodal Model Image Generation/Editing" %}
+OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
+
+{% embed url="https://x.com/sama/status/1905296867145154688" %}
+{% endtab %}
+
 {% tab title="MCP" %}
 #### What is MCP?
 
@@ -45,12 +51,6 @@ layout:
 {% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-x2000.png" %}
 Source: A16Z
 {% endembed %}
-{% endtab %}
-
-{% tab title="Native Multimodal Model Image Generation/Editing" %}
-OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
-
-{% embed url="https://www.youtube.com/watch?v=E9RN8jX--uc&ab_channel=OpenAI" %}
 {% endtab %}
 {% endtabs %}
 

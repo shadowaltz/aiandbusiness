@@ -18,6 +18,20 @@ Google CEO Sundar Pichai recently revealed that artificial intelligence (AI) gen
 ## <mark style="color:purple;">LLM for Coding</mark>
 
 {% tabs %}
+{% tab title="Gemini 2.5" %}
+Gemini 2.5, Google DeepMind's latest multimodal AI model, excels in advanced reasoning and coding tasks, capable of generating complex software like interactive web applications or games from minimal prompts while supporting robust code transformation and editing.
+{% endtab %}
+
+{% tab title="Claude 3.7 sonnet" %}
+## Claude 3.7 Sonnet and Claude Code
+
+Anthropic has introduced Claude 3.7 Sonnet, a hybrid reasoning AI model that integrates rapid responses with extended, step-by-step thinking for tasks like coding and problem-solving, alongside a new agentic coding tool, Claude Code, designed to streamline software development workflows.
+
+[https://www.anthropic.com/news/claude-3-7-sonnet](https://www.anthropic.com/news/claude-3-7-sonnet)
+
+[https://claude.ai](https://claude.ai)
+{% endtab %}
+
 {% tab title="Gpt-4o with Canvas" %}
 GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, vision, and audio capabilities, now available in preview on Azure AI, featuring a new interface called Canvas that allows users to collaborate with the AI on writing and coding projects in a separate, editable workspace.
 
@@ -32,18 +46,6 @@ Gpt-4o with Canvas
 OpenAI's latest model is potent in coding.
 
 {% embed url="https://www.youtube.com/watch?v=T0IrhzrhR40&ab_channel=OpenAI" %}
-{% endtab %}
-
-{% tab title="Claude Artifact" %}
-###
-
-Claude 3.5 Sonnet has shown remarkable coding capabilities. With the addition of the new Artifact feature, its real-time interaction performance is exceptional.
-
-[https://claude.ai](https://claude.ai)
-
-{% embed url="https://claude.ai/_next/image?url=%2Fimages%2Ffeature-preview%2Fartifacts.png&w=1920&q=75" %}
-Claude Aritifact
-{% endembed %}
 {% endtab %}
 {% endtabs %}
 
@@ -103,7 +105,19 @@ Supermaven, created by a former OpenAI employee, is an AI-powered code completio
 {% endtab %}
 {% endtabs %}
 
+***
 
+### <mark style="color:purple;">AI Code Review</mark>
+
+{% tabs %}
+{% tab title="Coderabbit" %}
+[https://www.coderabbit.ai/](https://www.coderabbit.ai/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ***
 

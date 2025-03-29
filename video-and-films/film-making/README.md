@@ -21,9 +21,9 @@ Broadly speaking, the video generation techniques available today fall into thre
 
 ## Industry Updates & News:
 
-{% embed url="https://x.com/ArtificialAnlys/status/1867625177523081641" %}
+{% embed url="https://x.com/runwayml/status/1905635934189519088" %}
 
-## Top-tier AI video generations application (Part 1)
+## Top-tier AI video generation application (Part 1)
 
 {% tabs %}
 {% tab title="Sora" %}
@@ -124,6 +124,16 @@ It has now introduced a GPT feature, enabling the creation of video content righ
 
 
 [https://haiper.ai/onboarding](https://haiper.ai/onboarding)
+{% endtab %}
+
+{% tab title="Hedra" %}
+Hedra is a platform that provides a personal AI studio for creating generative images, videos, and audio content.
+
+[https://www.hedra.com/](https://www.hedra.com/)
+
+Case：
+
+{% embed url="https://x.com/omooretweets/status/1905060051125162111" %}
 {% endtab %}
 {% endtabs %}
 

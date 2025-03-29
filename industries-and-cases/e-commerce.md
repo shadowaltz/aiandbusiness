@@ -31,6 +31,12 @@ Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
 ## Virtual Try-on
 
 {% tabs %}
+{% tab title=" Topview" %}
+{% embed url="https://d1735p3aqhycef.cloudfront.net/official-website/public/tools/main_page.mp4" %}
+
+[https://www.topview.ai/](https://www.topview.ai/)
+{% endtab %}
+
 {% tab title="Leffa" %}
 
 

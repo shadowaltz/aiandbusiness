@@ -1,6 +1,6 @@
 ---
-icon: unity
 description: AI & Spatial Computing/3D
+icon: unity
 cover: >-
   https://images.unsplash.com/photo-1680539208269-e7c8898c0713?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHwzZHxlbnwwfHx8fDE3MTg2MDA3MTZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -103,6 +103,10 @@ Hunyuan3D 2.0, is an advanced large-scale 3D synthesis system for generating hig
 
 {% tab title="Tripo3d" %}
 [https://www.tripo3d.ai/](https://www.tripo3d.ai/)
+{% endtab %}
+
+{% tab title="Vecto3D" %}
+[https://github.com/lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
 {% endtab %}
 {% endtabs %}
 
