@@ -58,6 +58,14 @@ Source: A16Z
 
 ## <mark style="color:orange;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Runway Gen-4</mark>
+
+Runway Gen-4 is a cutting-edge AI model designed for generating consistent and controllable media, enabling creators to produce coherent characters, locations, and objects across scenes while maintaining stylistic and cinematic continuity.
+
+[https://runwayml.com/research/introducing-runway-gen-4](https://runwayml.com/research/introducing-runway-gen-4)
+
+{% embed url="https://www.youtube.com/watch?v=uRkfzKYFOxc&ab_channel=Runway" %}
+
 ### <mark style="color:orange;">Gemini 2.5</mark>
 
 {% embed url="https://x.com/GeminiApp/status/1904579704079724599" %}

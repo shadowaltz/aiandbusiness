@@ -23,6 +23,10 @@ layout:
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
+## Updates:
+
+{% embed url="https://x.com/ArtificialAnlys/status/1906713712381337732" %}
+
 ## Native Multimodal Model Image Generation/Editing
 
 {% tabs %}
