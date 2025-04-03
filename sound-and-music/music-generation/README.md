@@ -4,7 +4,9 @@ description: AI & Music Generation
 
 # 🎼 Music Generation
 
-### <mark style="color:orange;">Suno</mark>
+{% tabs %}
+{% tab title="Suno" %}
+
 
 [https://app.suno.ai/](https://app.suno.ai/)
 
@@ -29,16 +31,20 @@ Bark is Suno's open-source text-to-speech+ model.
 {% endhint %}
 
 {% embed url="https://github.com/suno-ai/bark" %}
+{% endtab %}
 
+{% tab title="Mureka" %}
+[https://www.mureka.ai/](https://www.mureka.ai/)
+{% endtab %}
 
-
-***
-
-### <mark style="color:orange;">Udio</mark>
-
+{% tab title="Udio" %}
 [https://www.udio.com/](https://www.udio.com/)
 
 This is a brand new online service for AI-generated music that excels particularly in areas such as classical music, delivering impressive outcomes.
+{% endtab %}
+{% endtabs %}
+
+
 
 
 

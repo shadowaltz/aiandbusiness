@@ -8,13 +8,11 @@ cover: >-
 coverY: 0
 ---
 
-# AI Ethics
+# AI Ethics/Copyright
 
-### News & Updates:
+### <mark style="color:orange;">Video Tutorial：</mark>
 
-{% embed url="https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html" %}
-
-{% embed url="https://x.com/character_ai/status/1849055407492497564" %}
+{% embed url="https://youtu.be/7e31EMBQQX8" %}
 
 ### Resources:
 

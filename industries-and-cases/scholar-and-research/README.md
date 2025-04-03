@@ -106,6 +106,12 @@ Cubby is a collaborative research tool that allows users to store files and link
 
 [https://cubby.nyc/](https://cubby.nyc/)
 {% endtab %}
+
+{% tab title="ResearchRabbit" %}
+[https://www.researchrabbit.ai/](https://www.researchrabbit.ai/)
+
+ResearchRabbit is an AI-powered research tool that streamlines literature searches, provides personalized paper recommendations, visualizes networks of papers and authors, and supports collaboration, all while being free for researchers.
+{% endtab %}
 {% endtabs %}
 
 

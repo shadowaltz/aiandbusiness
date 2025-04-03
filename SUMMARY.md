@@ -20,7 +20,7 @@
   * [Model Context Protocol (MCP)](into-ai/large-language-models-llms/model-context-protocol-mcp.md)
 * [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
 * [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
-* [AI Ethics](into-ai/ai-ethics.md)
+* [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
 * [AI and Work](into-ai/ai-and-work.md)
 
