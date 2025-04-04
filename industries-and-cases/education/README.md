@@ -21,6 +21,18 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">Anthropic Claude for Education</mark>
+
+Anthropic's recent introduction of Claude for Education defies conventional expectations about AI's role in academia. Unlike typical chatbots that prioritize quick responses, this specialized platform challenges users through inquiry-driven interactions. Its signature Learning Mode employs Socratic techniques – prompting learners with "What evidence supports your conclusion?" rather than supplying solutions – while providing structured templates for academic writing and problem-solving. Developed through collaborations with institutions like Northeastern University and the London School of Economics, the system prioritizes skill development over answer delivery, transforming AI from a potential crutch into a catalyst for analytical growth.
+
+[https://www.anthropic.com/education](https://www.anthropic.com/education)
+
+[https://www.anthropic.com/news/introducing-claude-for-education](https://www.anthropic.com/news/introducing-claude-for-education)
+
+
+
+Texas School use AI
+
 {% embed url="https://www.foxnews.com/media/texas-private-schools-use-ai-tutor-rockets-student-test-scores-top-2-country" %}
 
 ### <mark style="color:orange;">Super Teacher</mark>
