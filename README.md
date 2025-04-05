@@ -58,6 +58,12 @@ Source: A16Z
 
 ## <mark style="color:orange;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**Midjourney V7**</mark>
+
+Midjourney V7, released in April 2025, is the latest AI image generation model featuring enhanced coherence, photorealistic textures, a new "Draft Mode" for rapid iteration at lower cost, and default personalization based on user preferences.
+
+{% embed url="https://x.com/midjourney/status/1908012961840672947" %}
+
 ### <mark style="color:orange;">Runway Gen-4</mark>
 
 Runway Gen-4 is a cutting-edge AI model designed for generating consistent and controllable media, enabling creators to produce coherent characters, locations, and objects across scenes while maintaining stylistic and cinematic continuity.
