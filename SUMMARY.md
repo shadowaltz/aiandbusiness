@@ -30,6 +30,7 @@
   * [Humanoid Robots](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/README.md)
     * [Figure AI](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
   * [Industrial Robot](industries-and-cases/robotics-embodied-intelligence/industrial-robot.md)
+  * [Four-legged Robot](industries-and-cases/robotics-embodied-intelligence/four-legged-robot.md)
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
   * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)
 * [🖱️ AI Search Engine](industries-and-cases/ai-search-engine/README.md)

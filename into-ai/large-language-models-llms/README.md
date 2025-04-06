@@ -108,17 +108,13 @@ DeepSeek v3 is an advanced open-source large language model with 671 billion par
 {% tab title="LLama" %}
 LLama is a family of state-of-the-art large language models developed by Meta, designed to perform a wide range of natural language processing tasks with varying levels of computational efficiency and accuracy.
 
-**Llama 3.2**, released by Meta on September 25, 2024, introduces a new collection of models including lightweight text-only versions (1B and 3B) optimized for edge devices and mobile applications, as well as larger multimodal vision models (11B and 90B) capable of sophisticated visual reasoning tasks
+### <mark style="color:orange;">Llama 4</mark>
 
-[https://www.llama.com/](https://www.llama.com/)
+[<mark style="color:orange;">https://ai.meta.com/blog/llama-4-multimodal-intelligence/</mark>](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 
-**llama-3.1-nemotron-70b Version**
+Llama 4 is Meta's latest open-weight multimodal AI model series featuring a Mixture of Experts architecture for efficient processing of text and images, with models like Scout offering a 10 million token context window and Maverick excelling in multilingual tasks.
 
-[https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8](https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8)
-
-[https://build.nvidia.com/nvidia/llama-3\_1-nemotron-70b-instruct/modelcard](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct/modelcard)
-
-Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA that outperforms Anthropic Claude Sonnet 3.5 and OpenAI GPT-4o.
+{% embed url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/489528324_1866126614188079_2353760794201377773_n.png?_nc_cat=1&ccb=1-7&_nc_sid=e280be&_nc_ohc=589b2OgjpKQQ7kNvwEeQi7n&_nc_oc=AdkrLMPNsWY-wsBqqtiG--ev5yMSPQUH0oWPo9DJP7_DV4oDxl8Rh9JiDqzqYawfbE4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AOY8N0FLW2l9zvbR8R-4GQ&oh=00_AfGE7FFmZuALaj_4fG99-HJ6MvID8tQHnH1LvSp5cp6E7Q&oe=680C5473" %}
 {% endtab %}
 
 {% tab title="Mistral" %}

@@ -129,7 +129,11 @@ Midjourney, an AI-powered drawing tool, revolutionizes the creation of art by tr
 
 ![](../../.gitbook/assets/Midjourney.png)
 
+### <mark style="color:orange;">**Midjourney V7**</mark>
 
+Midjourney V7, released in April 2025, is the latest AI image generation model featuring enhanced coherence, photorealistic textures, a new "Draft Mode" for rapid iteration at lower cost, and default personalization based on user preferences.
+
+{% embed url="https://x.com/midjourney/status/1908012961840672947" %}
 {% endtab %}
 
 {% tab title="Leonardo AI" %}

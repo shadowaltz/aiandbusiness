@@ -58,6 +58,22 @@ Source: A16Z
 
 ## <mark style="color:orange;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Llama 4</mark>
+
+[<mark style="color:orange;">https://ai.meta.com/blog/llama-4-multimodal-intelligence/</mark>](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+
+Llama 4 is Meta's latest open-weight multimodal AI model series featuring a Mixture of Experts architecture for efficient processing of text and images, with models like Scout offering a 10 million token context window and Maverick excelling in multilingual tasks.
+
+{% embed url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/489528324_1866126614188079_2353760794201377773_n.png?_nc_cat=1&ccb=1-7&_nc_sid=e280be&_nc_ohc=589b2OgjpKQQ7kNvwEeQi7n&_nc_oc=AdkrLMPNsWY-wsBqqtiG--ev5yMSPQUH0oWPo9DJP7_DV4oDxl8Rh9JiDqzqYawfbE4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AOY8N0FLW2l9zvbR8R-4GQ&oh=00_AfGE7FFmZuALaj_4fG99-HJ6MvID8tQHnH1LvSp5cp6E7Q&oe=680C5473" %}
+
+### <mark style="color:orange;">Kawasaki Corleo</mark>
+
+[https://www.khi.co.jp/expo2025/concept01/index\_en.html](https://www.khi.co.jp/expo2025/concept01/index_en.html)
+
+The Kawasaki Corleo is a hydrogen-powered, four-legged robotic vehicle unveiled at Expo 2025 in Osaka, designed for versatile all-terrain mobility with lifelike movement inspired by animals.
+
+{% embed url="https://www.youtube.com/watch?v=445K716GYCk&t=6s&ab_channel=GRIPPEDIA" %}
+
 ### <mark style="color:orange;">**Midjourney V7**</mark>
 
 Midjourney V7, released in April 2025, is the latest AI image generation model featuring enhanced coherence, photorealistic textures, a new "Draft Mode" for rapid iteration at lower cost, and default personalization based on user preferences.
