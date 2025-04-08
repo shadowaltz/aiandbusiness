@@ -4,19 +4,27 @@ icon: dumpster
 
 # E-commerce
 
-## Tools for Shop:
+## News:
 
-### <mark style="color:orange;">PagePilot</mark>
+{% embed url="https://a16z.com/ai-shopping-online/" %}
 
+{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/AI-Shopping-Market-Map-R3-1.png" %}
+Source: a16z
+{% endembed %}
+
+## Online shop Tools:
+
+{% tabs %}
+{% tab title="PagePilot" %}
 Create high-converting product pages with just a few clicks
-
-[https://pagepilot.ai/](https://pagepilot.ai/)
 
 {% embed url="https://cdn.shopify.com/videos/c/o/v/12a7f831d44f4b548d0a6b45839f743d.mp4" %}
 
+[https://pagepilot.ai/](https://pagepilot.ai/)
+{% endtab %}
 
+{% tab title="Shopify Sidekick Bot" %}
 
-### <mark style="color:orange;">Shopify Sidekick Bot</mark>
 
 [https://www.shopify.com/magic](https://www.shopify.com/magic)
 
@@ -25,8 +33,8 @@ Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
 * **Business Insights**: Answers questions about sales performance and generates reports.
 * **Marketing Assistance**: Guides sellers through setting up email campaigns.
 * **Content Creation**: Helps create SEO-optimized product descriptions and FAQs.
-
-
+{% endtab %}
+{% endtabs %}
 
 ## Virtual Try-on
 
@@ -51,8 +59,6 @@ Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
 [https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On?utm\_source=www.theaivalley.com\&utm\_medium=newsletter\&utm\_campaign=12-predictions-for-ai-in-2025&\_bhlid=2cf9c294747019405e51e621771c8dd90922c379](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On?utm_source=www.theaivalley.com\&utm_medium=newsletter\&utm_campaign=12-predictions-for-ai-in-2025&_bhlid=2cf9c294747019405e51e621771c8dd90922c379)
 {% endtab %}
 {% endtabs %}
-
-
 
 
 

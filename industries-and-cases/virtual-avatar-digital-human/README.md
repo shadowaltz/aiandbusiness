@@ -10,6 +10,8 @@ The information provided in this section regarding tools and guidelines for crea
 
 ## Updates：
 
+{% embed url="https://x.com/a16z/status/1909641279727976620" %}
+
 ### Product Avatar Generator
 
 Upload your product image and instantly create an AI avatar showcasing it.&#x20;

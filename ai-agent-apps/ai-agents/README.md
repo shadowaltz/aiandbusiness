@@ -99,6 +99,10 @@ OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate 
 {% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
 {% endtab %}
 
+{% tab title="n8n" %}
+[https://n8n.io/](https://n8n.io/)
+{% endtab %}
+
 {% tab title="ManusAI" %}
 [https://manus.im/](https://manus.im/)
 

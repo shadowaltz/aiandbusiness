@@ -118,26 +118,6 @@ Anthropic's Claude 3.7 Sonnet is a groundbreaking hybrid reasoning model that of
 
 {% embed url="https://youtu.be/AJpK3YTTKZ4" %}
 
-### <mark style="color:orange;">**Grok 3**</mark>
-
-Elon Musk's AI company xAI officially launched Grok 3, touted as the "smartest AI on Earth," on February 18, 2025, claiming it surpasses previous models in reasoning and performance across various benchmarks.
-
-{% embed url="https://x.com/grok/status/1891793693020991658" %}
-
-### <mark style="color:orange;">Nvidia Evo 2 Protein Design</mark>
-
-[https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/](https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/)
-
-NVIDIA's introduces Evo 2, a cutting-edge biomolecular AI model designed to accelerate drug discovery and advance biological research through generative design and protein optimization.
-
-{% embed url="https://blogs.nvidia.com/wp-content/uploads/2025/02/hc-corp-blog-evo2-blueprint-25-1280x680-1.jpg" %}
-
-### <mark style="color:orange;">Google AI co-scientist</mark>
-
-Google has introduced "AI Co-Scientist," a multi-agent AI system built on Gemini 2.0, designed to collaborate with scientists by generating novel hypotheses and research proposals to accelerate scientific and biomedical discoveries.
-
-[https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
-
 
 
 
