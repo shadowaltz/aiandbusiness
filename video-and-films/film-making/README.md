@@ -135,6 +135,12 @@ Case：
 
 {% embed url="https://x.com/omooretweets/status/1905060051125162111" %}
 {% endtab %}
+
+{% tab title="Higgsfield" %}
+motion control
+
+[https://higgsfield.ai/](https://higgsfield.ai/)
+{% endtab %}
 {% endtabs %}
 
 

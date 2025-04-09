@@ -17,7 +17,6 @@
   * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
   * [Understand Token](into-ai/large-language-models-llms/understand-token.md)
   * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
-  * [Model Context Protocol (MCP)](into-ai/large-language-models-llms/model-context-protocol-mcp.md)
 * [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
 * [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
 * [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
@@ -117,6 +116,9 @@
   * [Make.com Tutorial](ai-agent-apps/ai-agents/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agents/microsoft-autogen.md)
   * [Crew AI](ai-agent-apps/ai-agents/crew-ai.md)
+* [Agent to Agent Protocol](ai-agent-apps/agent-to-agent-protocol/README.md)
+  * [Model Context Protocol (MCP)](ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md)
+  * [Google A2A](ai-agent-apps/agent-to-agent-protocol/google-a2a.md)
 * [AI Assistant](ai-agent-apps/ai-assistant.md)
 * [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 

@@ -26,7 +26,7 @@ layout:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>AI Agents/Apps</td><td></td><td><a href="ai-agent-apps/what-are-ai-agents/">what-are-ai-agents</a></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td>Text to Image/AI Image Editing</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td>AI video generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td>AI Music Generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td>AI Hardware</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
 
-### <mark style="color:orange;">Industries & Cases Navigation:</mark>
+### <mark style="color:purple;">Industries & Cases Navigation:</mark>
 
 <table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="industries-and-cases/ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/education/"><strong>Education</strong></a></td><td><a href="industries-and-cases/marketing/"><strong>Marketing</strong></a></td><td><a href="industries-and-cases/supply-chain/"><strong>Supply Chain</strong></a></td><td></td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ layout:
 
 ***
 
-## <mark style="color:orange;">Trending Insights</mark><mark style="color:orange;">**:**</mark>
+## <mark style="color:purple;">Trending Insights</mark><mark style="color:purple;">**:**</mark>
 
 {% tabs %}
 {% tab title="Native Multimodal Model Image Generation/Editing" %}
@@ -56,7 +56,17 @@ Source: A16Z
 
 ***
 
-## <mark style="color:orange;">**Industry News & Updates:**</mark>
+## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">Google A2A</mark>
+
+[<mark style="color:orange;">https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/</mark>](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+
+Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seamless communication and collaboration between AI agents from different frameworks or vendors, aimed at solving interoperability challenges in enterprise AI systems.
+
+{% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
+Source: Google Cloud
+{% endembed %}
 
 ### <mark style="color:orange;">Llama 4</mark>
 
