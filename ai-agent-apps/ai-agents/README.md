@@ -110,6 +110,12 @@ Manus AI is a groundbreaking, fully autonomous artificial intelligence agent cap
 
 {% embed url="https://youtu.be/K27diMbCsuw?si=9C9-pXV60anhXX7E" %}
 {% endtab %}
+
+{% tab title="Lindy" %}
+
+
+[https://www.lindy.ai/](https://www.lindy.ai/)
+{% endtab %}
 {% endtabs %}
 
 

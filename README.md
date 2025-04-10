@@ -58,6 +58,10 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### **Google** <mark style="color:orange;">Firebase Studio</mark>
+
+{% embed url="https://x.com/Firebase/status/1910001005565284761" %}
+
 ### <mark style="color:orange;">Google A2A</mark>
 
 [<mark style="color:orange;">https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/</mark>](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
