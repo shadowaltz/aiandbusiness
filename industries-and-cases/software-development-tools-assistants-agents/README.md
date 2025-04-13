@@ -74,6 +74,14 @@ Bolt.new is a brand new innovative platform by StackBlitz that allows developers
 
 {% endtab %}
 
+{% tab title="Firebase" %}
+### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
+
+Google just dropped Firebase Studio — their all-in-one AI coding platform.
+
+{% embed url="https://x.com/Firebase/status/1910001005565284761" %}
+{% endtab %}
+
 {% tab title="Codeium" %}
 [https://codeium.com/](https://codeium.com/)
 

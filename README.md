@@ -58,7 +58,9 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
-### **Google** <mark style="color:orange;">Firebase Studio</mark>
+### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
+
+Google just dropped Firebase Studio — their all-in-one AI coding platform.
 
 {% embed url="https://x.com/Firebase/status/1910001005565284761" %}
 
@@ -67,6 +69,8 @@ Source: A16Z
 [<mark style="color:orange;">https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/</mark>](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 
 Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seamless communication and collaboration between AI agents from different frameworks or vendors, aimed at solving interoperability challenges in enterprise AI systems.
+
+[https://github.com/google/A2A](https://github.com/google/A2A)
 
 {% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
 Source: Google Cloud

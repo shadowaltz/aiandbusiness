@@ -79,3 +79,11 @@ Boston Dynamics and Toyota Research Institute (TRI) have announced a groundbreak
 
 ***
 
+
+
+## Resources:
+
+### Awesome Weekly Robotics
+
+[https://github.com/msadowski/awesome-weekly-robotics?tab=readme-ov-file](https://github.com/msadowski/awesome-weekly-robotics?tab=readme-ov-file)
+
