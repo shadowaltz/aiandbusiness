@@ -6,33 +6,21 @@
 
 {% embed url="https://modelcontextprotocol.io/introduction" %}
 
-_**MCP Tools**_
+_**MCP Servers Collections**_
 
 {% tabs %}
-{% tab title="github-mcp-server" %}
-{% embed url="https://github.com/user-attachments/assets/a2926942-1c3d-4f95-bb73-861d8003aecb" %}
-
-[_**https://github.com/modelcontextprotocol/servers**_](https://github.com/modelcontextprotocol/servers)
-
-[https://github.blog/changelog/2025-04-04-github-mcp-server-public-preview/](https://github.blog/changelog/2025-04-04-github-mcp-server-public-preview/)
+{% tab title="Cursor Directory " %}
+Cursor Directory [https://cursor.directory/](http://qiaomu.ai/posts/mcp)
 {% endtab %}
 
-{% tab title="AWS-mcp-server" %}
-
-
-[https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server)
-{% endtab %}
-
-{% tab title="Zapier" %}
-Connect AI to any app with Zapier MCP
-
-[_**https://zapier.com/mcp**_](https://zapier.com/mcp)
-{% endtab %}
-
-{% tab title="Collectipon-Awesome MCP Servers" %}
+{% tab title="Collection-Awesome MCP Servers" %}
 A collection of MCP servers.
 
 [https://github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+{% endtab %}
+
+{% tab title="MCP.so" %}
+[https://mcp.so/](https://mcp.so/)
 {% endtab %}
 {% endtabs %}
 
