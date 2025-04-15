@@ -42,7 +42,7 @@
   * [Research Examples using Perplexity](industries-and-cases/scholar-and-research/research-examples-using-perplexity.md)
 * [✍️ Writing](industries-and-cases/writing/README.md)
   * [Writing Prompts](industries-and-cases/writing/writing-prompts.md)
-  * [AI Detector & Humanizer](industries-and-cases/writing/ai-detector-and-humanizer.md)
+  * [AI Detector & Text Humanizer](industries-and-cases/writing/ai-detector-and-text-humanizer.md)
   * [Novel Writing](industries-and-cases/writing/novel-writing.md)
 * [👩‍💻 Data Analysis](industries-and-cases/data-analysis/README.md)
   * [Case: Los Angeles Rams Harness AI for Competitive Edge](industries-and-cases/data-analysis/case-los-angeles-rams-harness-ai-for-competitive-edge.md)

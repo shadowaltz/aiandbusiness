@@ -37,6 +37,16 @@ layout:
 ## <mark style="color:purple;">Trending Insights</mark><mark style="color:purple;">**:**</mark>
 
 {% tabs %}
+{% tab title="Google A2A" %}
+Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seamless communication and collaboration between AI agents from different frameworks or vendors, aimed at solving interoperability challenges in enterprise AI systems.
+
+[https://github.com/google/A2A](https://github.com/google/A2A)
+
+{% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
+Source: Google Cloud
+{% endembed %}
+{% endtab %}
+
 {% tab title="Native Multimodal Model Image Generation/Editing" %}
 OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
 
@@ -57,6 +67,14 @@ Source: A16Z
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">**OpenAI GPT-4.1 API**</mark>
+
+[<mark style="color:orange;">**https://openai.com/index/gpt-4-1/**</mark>](https://openai.com/index/gpt-4-1/)
+
+OpenAI's GPT-4.1 is a new family of AI models, available via API, that delivers major improvements in coding, instruction following, and long-context understanding—supporting up to 1 million tokens—while offering faster, more reliable performance and lower costs than previous versions.
+
+{% embed url="https://www.youtube.com/live/kA-P9ood-cE?si=36qjn_cvCX2g2vhJ" %}
 
 ### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
 

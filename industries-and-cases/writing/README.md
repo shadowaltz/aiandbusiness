@@ -10,7 +10,7 @@ coverY: 0
 ## Navigation:
 
 {% hint style="info" %}
-* [AI Detector & Humanizer](ai-detector-and-humanizer.md)
+* [AI Detector & Humanizer](ai-detector-and-text-humanizer.md)
 * [Novel Writing](novel-writing.md)
 * [Writing Prompts](writing-prompts.md)
 {% endhint %}
