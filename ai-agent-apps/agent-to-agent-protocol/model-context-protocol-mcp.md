@@ -6,11 +6,23 @@
 
 {% embed url="https://modelcontextprotocol.io/introduction" %}
 
+_**MCP Clients**_
+
+{% tabs %}
+{% tab title="Cursor" %}
+[https://www.cursor.com/](https://www.cursor.com/)
+{% endtab %}
+
+{% tab title="Claude" %}
+[https://claude.ai/](https://claude.ai/login?returnTo=%2F%3F)
+{% endtab %}
+{% endtabs %}
+
 _**MCP Servers Collections**_
 
 {% tabs %}
 {% tab title="Cursor Directory " %}
-Cursor Directory [https://cursor.directory/](http://qiaomu.ai/posts/mcp)
+Cursor Directory [https://cursor.directory/](https://cursor.directory/)
 {% endtab %}
 
 {% tab title="Collection-Awesome MCP Servers" %}

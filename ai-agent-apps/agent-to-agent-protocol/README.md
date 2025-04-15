@@ -5,8 +5,8 @@ icon: arrow-right-arrow-left
 # Agent to Agent Protocol
 
 {% hint style="info" %}
-* [MCP](model-context-protocol-mcp.md)
-* [A2A](./#google-a2a)
+* [**MCP**](model-context-protocol-mcp.md)
+* [**A2A**](./#google-a2a)
 {% endhint %}
 
 ### **What’s the difference between MCP and A2A?**
