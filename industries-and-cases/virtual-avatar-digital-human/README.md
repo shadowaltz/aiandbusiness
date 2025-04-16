@@ -20,9 +20,9 @@ Upload your product image and instantly create an AI avatar showcasing it.&#x20;
 
 ***
 
-
-
-### Synthesia
+{% tabs %}
+{% tab title="First Tab" %}
+###
 
 [https://www.synthesia.io/](https://www.synthesia.io/)
 
@@ -43,9 +43,9 @@ Synthesia just released Expressive AI Avatars:
 Synthesia 2.0 introduces a comprehensive AI video communications platform with enhanced features such as full-body avatars, interactive video experiences, and an improved translation system that automatically updates all language versions from a single source file.
 
 {% embed url="https://youtu.be/gZaBwdru_bk?si=8tgUy9zsxHwRgvc0" %}
+{% endtab %}
 
-### Nvidia ACE
-
+{% tab title="Nvidia ACE" %}
 At Computex 2024 Nvidia revealed their new digital human microservices. NVIDIA ACE is a suite of digital human technologies, packaged as easy-to-deploy, fully optimized microservices, also known as NVIDIA NIM.
 
 {% embed url="https://youtu.be/8xMeIwBnIpU?si=6Mw9tiHrPf8CV0c5" %}
@@ -55,10 +55,10 @@ Nvidia ACE
 > NVIDIA Releases Digital Human Microservices, Paving Way for Future of Generative AI Avatars
 
 {% embed url="https://nvidianews.nvidia.com/news/digital-humans-ace-generative-ai-microservices" %}
+{% endtab %}
 
-***
+{% tab title="Heygen" %}
 
-### Heygen
 
 [https://www.heygen.com/](https://www.heygen.com/)
 
@@ -67,10 +67,10 @@ Currently, this stands as one of the top AI avatar creation apps, offering the o
 **HeyGen Avatar 3.0** introduces next-level AI with dynamic emotions, singing capabilities, and the ability to create fully customizable digital clones
 
 {% embed url="https://youtu.be/zxbSV98VnhY?si=Q60ESEwkMlhTvzhv" %}
+{% endtab %}
 
-***
+{% tab title="D-ID" %}
 
-### D-ID
 
 [https://www.d-id.com/](https://www.d-id.com/)
 
@@ -79,24 +79,24 @@ D-ID is a company that provides innovative AI video and avatar generation servic
 {% embed url="https://youtu.be/YduWqN-OzWU?si=GjvVSUufjqI6JLT5" %}
 
 {% embed url="https://www.d-id.com/news/techcrunch-d-id-launches-new-high-quality-avatars/" %}
+{% endtab %}
 
-### Rendernet
-
-[https://rendernet.ai](https://rendernet.ai)
-
-RenderNet AI introduces a video face-swapping feature that allows you to easily change the faces of characters in videos using photos.
-
-
-
-### Captions.ai
-
+{% tab title="Captions.ai" %}
 [https://www.captions.ai](https://www.captions.ai)
+{% endtab %}
 
-
-
-### Deepreel
+{% tab title="Deepreel" %}
+###
 
 [https://www.deepreel.com](https://www.deepreel.com)
+{% endtab %}
+
+{% tab title="Pickle" %}
+Replace your camera on Zoom, Twitch, TikTok and more.
+
+[https://www.pickle.com/](https://www.pickle.com/)
+{% endtab %}
+{% endtabs %}
 
 
 

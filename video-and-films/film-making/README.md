@@ -77,7 +77,7 @@ Hailuo AI is an AI-powered productivity suite developed by MiniMax, a Chinese ar
 {% endtab %}
 
 {% tab title="Kling" %}
-Kling AI is an advanced artificial intelligence platform developed by Kuaishou that generates high-quality videos up to two minutes long in 1080p resolution from text prompts or images, excelling at depicting complex movements and interactions.
+Kling 2.0 is the latest version of Kuaishou’s advanced AI video generator, delivering major improvements in prompt adherence, dynamic action, and image-to-video fidelity, making it one of the most powerful tools for creating high-quality, AI-generated videos from text or images
 
 [https://klingai.com/](https://klingai.com/)
 {% endtab %}

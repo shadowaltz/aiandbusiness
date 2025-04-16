@@ -20,6 +20,10 @@ _**MCP Clients**_
 
 _**MCP Servers Collections**_
 
+{% hint style="warning" %}
+Please note that some current MCP tools contain malicious programs, which may lead to serious security issues. Please exercise caution and identify them carefully.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Cursor Directory " %}
 Cursor Directory [https://cursor.directory/](https://cursor.directory/)

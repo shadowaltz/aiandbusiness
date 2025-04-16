@@ -106,6 +106,7 @@
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Biotechnology  and Medicine](industries-and-cases/biotechnology-and-medicine.md)
 * [Agriculture](industries-and-cases/agriculture.md)
+* [Jobs & Interview](industries-and-cases/jobs-and-interview.md)
 
 ## AI Agent/Apps
 

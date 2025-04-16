@@ -1,5 +1,15 @@
 # 🪪 What Are AI Agents?
 
+## Navigation
+
+{% hint style="success" %}
+* [**AI Agents**](../ai-agents/)
+* [**MCP**](../agent-to-agent-protocol/model-context-protocol-mcp.md)
+* **A2A**
+{% endhint %}
+
+***
+
 ## What is an AI Agent?
 
 An AI Agent is a computer program or system that can perceive its environment, make decisions, and take actions. These agents have autonomy, are goal-oriented, can learn, and use logical reasoning. They understand user intentions through inputs and can autonomously plan and execute complex tasks.
