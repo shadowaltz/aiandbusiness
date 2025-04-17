@@ -13,7 +13,7 @@ coverY: 0
 * [**PDF**](pdf.md)
 * [**Excel**](excel.md)
 * [**Slides**](slides.md)
-* [**Mindmap**](mindmap.md)
+* [**Mindmap**](ai-mindmap.md)
 * [**Note-taking**](note-taking.md)
 {% endhint %}
 

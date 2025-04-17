@@ -68,6 +68,10 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">OpenAI o3 & o4-mini</mark>
+
+{% embed url="https://www.youtube.com/watch?v=sq8GBPUb3rk&ab_channel=OpenAI" %}
+
 ### <mark style="color:orange;">**OpenAI GPT-4.1 API**</mark>
 
 [<mark style="color:orange;">**https://openai.com/index/gpt-4-1/**</mark>](https://openai.com/index/gpt-4-1/)
@@ -145,14 +149,6 @@ Runway Gen-4 is a cutting-edge AI model designed for generating consistent and c
 ​OpenAI has unveiled GPT-4.5, its most advanced and compute-intensive AI model to date, designed to enhance user interactions with more natural and emotionally nuanced responses.
 
 {% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=USSp646hUMNvsY9k" %}
-
-### <mark style="color:orange;">Claude 3.7 Sonnet and Claude Code</mark>
-
-Anthropic's Claude 3.7 Sonnet is a groundbreaking hybrid reasoning model that offers both near-instant responses and extended, step-by-step thinking, making it particularly adept at coding and front-end web development tasks.
-
-[https://www.anthropic.com/claude/sonnet](https://www.anthropic.com/claude/sonnet)
-
-{% embed url="https://youtu.be/AJpK3YTTKZ4" %}
 
 
 

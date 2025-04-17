@@ -22,13 +22,5 @@ NotebookLM is a tool that combines large language models with Google's search ca
 
 
 
-### Otter.ai
-
-[https://otter.ai/](https://otter.ai/)
-
-> ## The #1 AI Meeting Assistant✨
->
-> Never take meeting notes again. Get transcripts, automated summaries, action items, and chat with Otter to get answers from your meetings.
-
 
 
