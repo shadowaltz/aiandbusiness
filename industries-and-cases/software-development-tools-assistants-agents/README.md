@@ -82,10 +82,10 @@ Google just dropped Firebase Studio — their all-in-one AI coding platform.
 {% embed url="https://x.com/Firebase/status/1910001005565284761" %}
 {% endtab %}
 
-{% tab title="Codeium" %}
+{% tab title="Windsurf" %}
 [https://codeium.com/](https://codeium.com/)
 
-Codeium is a coding toolkit that offers intelligent autocomplete, search, and chat capabilities, supporting over 70 programming languages and integrating with 40+ IDEs, designed to enhance developer productivity and efficiency.
+
 {% endtab %}
 
 {% tab title="Github Spark" %}

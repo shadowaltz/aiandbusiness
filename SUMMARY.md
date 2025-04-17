@@ -28,6 +28,8 @@
 * [🤖 Robotics/Embodied Intelligence](industries-and-cases/robotics-embodied-intelligence/README.md)
   * [Humanoid Robots](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/README.md)
     * [Figure AI](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
+    * [Boston Dynamics](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/boston-dynamics.md)
+    * [Tesla Optimus](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/tesla-optimus.md)
   * [Industrial Robot](industries-and-cases/robotics-embodied-intelligence/industrial-robot.md)
   * [Four-legged Robot](industries-and-cases/robotics-embodied-intelligence/four-legged-robot.md)
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
