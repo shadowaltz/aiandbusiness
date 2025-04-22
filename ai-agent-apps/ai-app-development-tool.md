@@ -4,7 +4,7 @@ icon: lightbulb-exclamation-on
 
 # AI App Development Tool
 
-#### Resources to build AI Applications:
+### <mark style="color:purple;">Resources to build AI Applications:</mark>
 
 {% tabs %}
 {% tab title="Dify.ai" %}
@@ -49,4 +49,12 @@ Vercel AI app templates
 {% endtabs %}
 
 
+
+### <mark style="color:purple;">AI APP System Prompts</mark>
+
+{% embed url="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" %}
+
+{% embed url="https://github.com/dontriskit/awesome-ai-system-prompts" %}
+
+{% embed url="https://github.com/ai-boost/awesome-prompts" %}
 

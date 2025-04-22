@@ -40,6 +40,7 @@ These cases underscore the importance of rigorous verification processes and the
 2. **Use AI Search Engines:** Employ applications like Perplexity, which are optimized for search tasks using large models. These applications provide answers based on internet data content. (\*Although they can still have hallucinations, the chances are significantly lower.)
 3. **Human-in-the-Loop:** Have humans meticulously verify AI-generated indexes, cases, and other content.
 4. **Refine Your Prompts:** Use more detailed and sophisticated prompts and prompt structures to obtain more accurate results.
+5. **Use Advanced Reasoning LLM:** Choose models specifically trained or fine-tuned for logical reasoning and step-by-step problem-solving tasks, such as GPT-4 with chain-of-thought (CoT) prompting or Claude 3, which systematically reduce hallucinations through explicit reasoning processes.
 
 
 

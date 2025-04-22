@@ -114,8 +114,8 @@ Data formulator from Microsoft&#x20;
 [https://github.com/microsoft/data-formulator](https://github.com/microsoft/data-formulator)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Graphy" %}
+[https://graphy.app](https://graphy.app)
 {% endtab %}
 {% endtabs %}
 

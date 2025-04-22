@@ -40,6 +40,12 @@ A collection of MCP servers.
 {% endtab %}
 {% endtabs %}
 
+### Updates：
+
+Microsoft MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop.&#x20;
+
+[https://github.com/microsoft/markitdown?tab=readme-ov-file#markitdown](https://github.com/microsoft/markitdown?tab=readme-ov-file#markitdown)
+
 
 
 ***
