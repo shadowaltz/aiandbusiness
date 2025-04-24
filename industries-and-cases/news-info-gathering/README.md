@@ -56,6 +56,14 @@ Grok is an AI system created by xAI, drawing inspiration from "The Hitchhiker's 
 
 
 {% endtab %}
+
+{% tab title="Firecrawl" %}
+Firecrawl
+
+[https://github.com/mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
+> Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+{% endtab %}
 {% endtabs %}
 
 
