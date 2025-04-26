@@ -22,16 +22,6 @@ The information provided in this section regarding tools and guidelines for crea
 
 Founded in 2022, Elevenlabs is a newcomer that has rapidly become one of the hottest natural language processing (NLP) service providers in the industry. ElevenLabs offers an AI voice generator that converts text to speech(TTS) in multiple languages. It creates natural-sounding voices for various applications like videos, gaming, audiobooks, and chatbots. VoiceLab function allows users to create unique synthetic voices, while the Dubbing Studio enables video localization. Speech to Speech maintains the nuance of the original message, and Projects facilitate long-form voice generation.&#x20;
 
-
-
-### <img src="../../.gitbook/assets/openai-logomark.png" alt="" data-size="line"><mark style="color:orange;">OpenAI Voice Engine</mark>
-
-OpenAI has recently unveiled a sophisticated voice model named Voice Engine, capable of flawlessly replicating human voices. Citing security concerns, OpenAI has decided not to release this service to the general public anytime soon. However, demonstrations on their website indicate that the cloned voices are remarkably authentic.
-
-[https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
-
-
-
 ### <mark style="color:orange;">Other Apps</mark>
 
 {% tabs %}
@@ -59,12 +49,6 @@ LMNT is an advanced AI platform offering ultrafast, lifelike, and reliable text-
 [https://azure.microsoft.com/en-us/products/ai-services/text-to-speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech)
 {% endtab %}
 
-{% tab title="Stable Audio Open" %}
-An Open Source Model for Audio Samples and Sound Design
-
-[https://stability.ai/news/introducing-stable-audio-open](https://stability.ai/news/introducing-stable-audio-open)
-{% endtab %}
-
 {% tab title="Artlist" %}
 The AI voice generator for video creators
 
@@ -72,7 +56,29 @@ The AI voice generator for video creators
 
 The well-known audio library website Artlist has recently launched its own AI Voice service.
 {% endtab %}
+
+{% tab title="OpenAI Voice Engine" %}
+OpenAI has recently unveiled a sophisticated voice model named Voice Engine, capable of flawlessly replicating human voices. Citing security concerns, OpenAI has decided not to release this service to the general public anytime soon. However, demonstrations on their website indicate that the cloned voices are remarkably authentic.
+
+[https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
+{% endtab %}
 {% endtabs %}
 
 
+
+### OpenSource Apps
+
+{% tabs %}
+{% tab title="SoVITs" %}
+1 min of voice data can also be used to train a good TTS model
+
+[https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+{% endtab %}
+
+{% tab title="Stable Audio Open" %}
+An Open Source Model for Audio Samples and Sound Design
+
+[https://stability.ai/news/introducing-stable-audio-open](https://stability.ai/news/introducing-stable-audio-open)
+{% endtab %}
+{% endtabs %}
 

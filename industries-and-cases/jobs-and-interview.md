@@ -16,7 +16,7 @@ Amainterview AI is an artificial intelligence-powered tool designed to help user
 
 [https://www.contrario.ai/](https://www.contrario.ai/)
 
-
+Contrario is an AI-powered recruiting agency that helps early-stage companies build teams by matching them with specialized recruiters.
 
 
 

@@ -66,14 +66,6 @@ Cursor is an innovative AI-powered code editor that combines the functionality o
 {% embed url="https://www.cursor.com/videos/cmdkloop2.mp4" %}
 {% endtab %}
 
-{% tab title="Bolt.new" %}
-Bolt.new is a brand new innovative platform by StackBlitz that allows developers to prompt, run, edit, and deploy full-stack web applications within an AI-powered development sandbox.
-
-[https://bolt.new](https://bolt.new)
-
-
-{% endtab %}
-
 {% tab title="Firebase" %}
 ### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
 
@@ -110,6 +102,28 @@ Replit Agent is an AI-powered tool that can build entire deployable applications
 Supermaven, created by a former OpenAI employee, is an AI-powered code completion tool that promises to help developers write code twice as fast, offering features like a 1 million token context window, compatibility with popular IDEs, and integration with leading language models.
 
 [https://supermaven.com/](https://supermaven.com/)
+{% endtab %}
+{% endtabs %}
+
+### AI Front End tools
+
+{% tabs %}
+{% tab title="Bolt.new" %}
+Bolt.new is a brand new innovative platform by StackBlitz that allows developers to prompt, run, edit, and deploy full-stack web applications within an AI-powered development sandbox.
+
+[https://bolt.new](https://bolt.new)
+
+
+{% endtab %}
+
+{% tab title="Lovable" %}
+[https://lovable.dev](https://lovable.dev/?gad_source=1\&gbraid=0AAAAA-iIxGf7pAxRb1Bbu8ilVMkCw2NP5\&gclid=Cj0KCQjw5azABhD1ARIsAA0WFUFmS0zQt3m9r59cCIcLWx4ielEvDJFOyPE5kSEkEVSj3YhKa_gFIo4aAmtzEALw_wcB#via=a3)
+{% endtab %}
+
+{% tab title="V0" %}
+V0 by Vercel
+
+[https://v0.dev/](https://v0.dev/)
 {% endtab %}
 {% endtabs %}
 
