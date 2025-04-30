@@ -126,7 +126,17 @@ Mistral AI offers a range of large language models (LLMs), both open source and 
 
 Mistral AI has introduced Mistral Large 2, a cutting-edge Language Model (LLM) that boasts state-of-the-art reasoning, knowledge, and coding capabilities, with a 128k context window and support for dozens of languages, including French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, and Korean, along with 80+ coding languages.
 {% endtab %}
+
+{% tab title="Qwen3" %}
+Qwen3 is the latest generation of large language models from Alibaba Cloud, featuring a hybrid approach to problem-solving with both "thinking" and "non-thinking" modes, support for 119 languages, and a range of model sizes-including dense and Mixture-of-Experts (MoE) architectures, designed for scalable, efficient, and multilingual AI applications.
+
+{% embed url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3/qwen3-235a22.jpg" %}
+
+[https://huggingface.co/Qwen/Qwen3-235B-A22B](https://huggingface.co/Qwen/Qwen3-235B-A22B)
+{% endtab %}
 {% endtabs %}
+
+
 
 
 
