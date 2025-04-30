@@ -14,7 +14,7 @@ Furthermore, Waymo is exploring applications beyond personal transportation, inc
 
 ## Updates:
 
-{% embed url="https://x.com/Waymo/status/1904490327773507641" %}
+{% embed url="https://x.com/Waymo/status/1917353329547465210" %}
 
 {% embed url="https://waymo.com/blog/2024/01/from-surface-streets-to-freeways-safely-expanding-our-rider-only-testing/" %}
 

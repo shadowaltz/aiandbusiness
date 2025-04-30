@@ -141,6 +141,20 @@ V0 by Vercel
 {% endtab %}
 {% endtabs %}
 
+### <mark style="color:purple;">Documentation</mark>
+
+{% tabs %}
+{% tab title="Deepwiki" %}
+[https://deepwiki.com](https://deepwiki.com)
+
+DeepWiki is an AI-powered documentation tool developed by Cognition Labs—the creators of the AI developer assistant Devin—that automatically transforms any GitHub repository into an interactive, wiki-style knowledge base with visual diagrams and a conversational AI assistant.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ***
 
 ## <mark style="color:purple;">AI Agent Software Engineer</mark>

@@ -54,6 +54,7 @@
     * [Waymo](industries-and-cases/autonomous-driving/robotaxi-and-robovan/waymo.md)
     * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/robotaxi-and-robovan/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 * [Marketing](industries-and-cases/marketing/README.md)
+  * [Tools](industries-and-cases/marketing/tools.md)
   * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)
     * [Social Media Prompts](industries-and-cases/marketing/social-media/social-media-prompts.md)
     * [Case: Meta Advantage+](industries-and-cases/marketing/social-media/case-meta-advantage+.md)
@@ -129,6 +130,7 @@
 ## Image
 
 * [🪄 Text to Image / Image Editing Tools](image/text-to-image-image-editing-tools/README.md)
+  * [GPT-4o Image Collection](image/text-to-image-image-editing-tools/gpt-4o-image-collection.md)
   * [Midjourney Guide](image/text-to-image-image-editing-tools/midjourney-guide/README.md)
     * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-guide/midjourney-cases.md)
   * [Grok 2 w/ Flux](image/text-to-image-image-editing-tools/grok-2-w-flux.md)
