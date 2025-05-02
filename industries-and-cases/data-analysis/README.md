@@ -29,6 +29,10 @@ Additionally, the **GPTs store** already offers a wide array of data analysis GP
 
 Link: [https://chat.openai.com/g/g-HMNcP6w7d-data-analyst](https://chat.openai.com/g/g-HMNcP6w7d-data-analyst)
 
+#### <mark style="color:orange;">OpenAI Official Data Analyse Guide:</mark>
+
+{% embed url="https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt" %}
+
 <mark style="background-color:purple;">**Example:**</mark>
 
 International football results from 1872 to 2024, contain an up-to-date dataset of over 45,000 international football results. Data retrieved from [Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?resource=download).

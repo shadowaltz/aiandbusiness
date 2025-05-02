@@ -22,11 +22,19 @@ In the last step, simply position each image within a drawing or comic editing a
 
 A more straightforward approach would be to utilize AI applications specifically tailored for comic creation.
 
-### SkyReels AI (ComicAI)
-
+{% tabs %}
+{% tab title="SkyReels AI (ComicAI)" %}
 [https://skyreels.ai/](https://skyreels.ai/)
 
 SkyReels offers a platform to create unique visual narratives in four steps, emphasizing consistency and efficiency. It features advanced algorithms to maintain uniformity in characters, styles, and backgrounds across projects.&#x20;
+{% endtab %}
+
+{% tab title="Animon.ai" %}
+[https://www.animon.ai/explore](https://www.animon.ai/explore)
+
+Animon.ai is a Tokyo-based AI platform developed by Animon, a subsidiary of CreateAI Holdings Inc., designed to enable users worldwide to generate anime-style videos effortlessly. Launched in April 2025, it stands as the world's first anime-specific AI video generator, developed in collaboration with leading Japanese anime producers. The platform offers a subscription-based model with unlimited video generation, aiming to democratize anime creation by removing financial and technical barriers for creators globally.
+{% endtab %}
+{% endtabs %}
 
 ***
 
@@ -56,21 +64,11 @@ A brand-new AI startup app optimized for translating comics into various languag
 
 
 
-
-
 ***
 
 ### Cases: Readkidz
 
 [https://www.readkidz.com/](https://www.readkidz.com/)
-
-
-
-
-
-
-
-
 
 
 
