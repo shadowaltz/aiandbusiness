@@ -4,17 +4,23 @@
 
 ### News & Updates:
 
-Midjourney image editor released.
+### <mark style="color:orange;">Omni-Reference</mark>
+
+Midjourney's Omni-Reference is a powerful feature in version 7 that allows users to embed specific characters, objects, or creatures from a reference image into AI-generated artwork, offering precise control over visual elements through adjustable influence settings.
+
+#### Offical Document Link:
+
+[https://docs.midjourney.com/hc/en-us/articles/36285124473997-Omni-Reference](https://docs.midjourney.com/hc/en-us/articles/36285124473997-Omni-Reference)
+
+{% embed url="https://docs.midjourney.com/hc/article_attachments/36285152349837" %}
+
+### Midjourney image editor released.
 
 {% embed url="https://x.com/midjourney/status/1849213115009056919" %}
 
 \[Midjourneyhas opened its web interface to all users with a limited-time offer of 25 free image generations, marking a significant shift from its previous Discord-only approach.]
 
 
-
-Midjourney, an AI-powered drawing tool, revolutionizes the creation of art by transforming user-provided text descriptions into stunning artworks. Since its public beta launch in July 2022, access has been primarily through a Discord chatbot (<mark style="color:red;">web version unlocking for those who has generated more than 100 images</mark>). The tool boasts a vast selection of artistic styles, allowing users to refine their creations by tweaking keywords and settings. Known for its ease of use and precision, Midjourney is poised to make a significant impact on the art world.&#x20;
-
-![](../../../.gitbook/assets/Midjourney.png)
 
 A notable update in 2024 introduced a character consistency feature, enabling the reliable creation of diverse comics and animations.
 
@@ -24,8 +30,6 @@ A notable update in 2024 introduced a character consistency feature, enabling th
 
 {% tabs %}
 {% tab title="ロMidjourneyロ -- MJ Prompt Generator (V6)" %}
-Unlike LLMs, Midjourney features unique Prompt rules that include an extensive array of terms from disciplines like art and photography. If you're unfamiliar with these terms, consider using the Midjourney Prompt available in the GPTs store. This tool can assist in generating the specific terminology you need, significantly improving control over the process and enhancing the outcome of your projects.
-
 [https://chat.openai.com/g/g-tc0eHXdgb-romidjourneyro-mj-prompt-generator-v6](https://chat.openai.com/g/g-tc0eHXdgb-romidjourneyro-mj-prompt-generator-v6)
 {% endtab %}
 
@@ -43,8 +47,4 @@ This is the Explore page on Midjourney's official website, which showcases a sel
 For a detailed tutorial, here is the Midjourney official guide:
 
 {% embed url="https://docs.midjourney.com/docs/quick-start" %}
-
-### Learning Resources:
-
-[https://learningprompt.wiki/docs/midjourney-learning-path](https://learningprompt.wiki/docs/midjourney-learning-path)
 

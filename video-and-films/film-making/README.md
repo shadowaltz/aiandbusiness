@@ -63,7 +63,11 @@ Luma released Ray 2, a new AI video generator model that creates realistic video
 
 [https://lumalabs.ai/ray](https://lumalabs.ai/ray)
 
-Dream Machine 1.5 is here. Now with higher-quality text-to-video
+Ray 2 Official Guide:
+
+[https://lumalabs.ai/learning-hub/dream-machine-guide-ray2](https://lumalabs.ai/learning-hub/dream-machine-guide-ray2)
+
+Now with higher-quality text-to-video
 
 {% embed url="https://youtu.be/xcyZe-kiRB8?si=zsBEOHGdo72M2kue" %}
 {% endtab %}

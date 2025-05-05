@@ -125,6 +125,7 @@
   * [Model Context Protocol (MCP)](ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md)
   * [Google A2A](ai-agent-apps/agent-to-agent-protocol/google-a2a.md)
 * [AI Assistant](ai-agent-apps/ai-assistant.md)
+* [Computer Use Agent](ai-agent-apps/computer-use-agent.md)
 * [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image
