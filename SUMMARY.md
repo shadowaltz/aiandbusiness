@@ -7,6 +7,7 @@
 * [AI Basics](into-ai/ai-basics/README.md)
   * [Industry Reports and White Papers](into-ai/ai-basics/industry-reports-and-white-papers.md)
   * [AI Learning Resources](into-ai/ai-basics/ai-learning-resources.md)
+  * [AI in the Enterprise](into-ai/ai-basics/ai-in-the-enterprise.md)
 * [Large Language Models (LLMs)](into-ai/large-language-models-llms/README.md)
   * [ChatGPT](into-ai/large-language-models-llms/chatgpt/README.md)
     * [GPTs](into-ai/large-language-models-llms/chatgpt/gpts.md)
