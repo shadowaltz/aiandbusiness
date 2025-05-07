@@ -20,3 +20,9 @@ Contrario is an AI-powered recruiting agency that helps early-stage companies bu
 
 
 
+## Resources:
+
+Duolingo has announced a strategic shift to become an "AI-first" company, planning to gradually phase out contractors for tasks that can be automated by artificial intelligence, aiming to eliminate repetitive work and enable staff to focus on more creative and meaningful projects .
+
+{% embed url="https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers" %}
+
