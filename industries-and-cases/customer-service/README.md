@@ -30,6 +30,12 @@ Ada is an AI-powered customer service platform that helps businesses save time a
 
 {% endtab %}
 
+{% tab title="ManyChat" %}
+ManyChat is a no-code chat marketing platform that empowers businesses to automate conversations across Instagram, Facebook Messenger, WhatsApp, SMS, and email, now enhanced with AI features like AI Step, Intention Recognition, Flow Builder Assistant, and Text Improver to streamline customer interactions, qualify leads, and maintain consistent brand messaging.
+
+[https://manychat.com/](https://manychat.com/)
+{% endtab %}
+
 {% tab title="Cresta" %}
 [https://cresta.com/](https://cresta.com/)
 
