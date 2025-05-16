@@ -21,6 +21,18 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">Little Language Lessons</mark>
+
+[<mark style="color:orange;">https://labs.google/lll/en</mark>](https://labs.google/lll/en)
+
+Little Language Lessons is an experimental project from Google Labs that uses Gemini’s generative AI to create personalized, bite-sized language learning experiences-like contextual vocabulary, real-life conversations, and instant object labeling-making language practice more engaging and relevant to everyday situations.
+
+{% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/01_TinyLessons_BLOG_250418a.mp4" %}
+
+[https://developers.googleblog.com/en/how-its-made-little-language-lessons-to-personalize-learning/](https://developers.googleblog.com/en/how-its-made-little-language-lessons-to-personalize-learning/)
+
+
+
 ### <mark style="color:orange;">Anthropic Claude for Education</mark>
 
 Anthropic's recent introduction of Claude for Education defies conventional expectations about AI's role in academia. Unlike typical chatbots that prioritize quick responses, this specialized platform challenges users through inquiry-driven interactions. Its signature Learning Mode employs Socratic techniques – prompting learners with "What evidence supports your conclusion?" rather than supplying solutions – while providing structured templates for academic writing and problem-solving. Developed through collaborations with institutions like Northeastern University and the London School of Economics, the system prioritizes skill development over answer delivery, transforming AI from a potential crutch into a catalyst for analytical growth.
