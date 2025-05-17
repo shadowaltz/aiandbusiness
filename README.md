@@ -68,6 +68,14 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI Codex**</mark>
+
+OpenAI just launched Codex, an advanced AI system that translates natural language into code, empowering developers to write software faster and more efficiently.
+
+[<mark style="color:orange;">**https://openai.com/index/introducing-codex/**</mark>](https://openai.com/index/introducing-codex/)
+
+{% embed url="https://images.ctfassets.net/kftzwdyauwt9/6wYGm9QST2WYLbPJl5YwZC/1e63f3bfb458ce891db4f94a52052240/Codex_Blog_Header_V5.png?w=3840&q=90&fm=webp" %}
+
 ### <mark style="color:orange;">OpenAI o3 & o4-mini</mark>
 
 {% embed url="https://www.youtube.com/watch?v=sq8GBPUb3rk&ab_channel=OpenAI" %}
@@ -97,14 +105,6 @@ Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seam
 {% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
 Source: Google Cloud
 {% endembed %}
-
-### <mark style="color:orange;">Llama 4</mark>
-
-[<mark style="color:orange;">https://ai.meta.com/blog/llama-4-multimodal-intelligence/</mark>](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
-
-Llama 4 is Meta's latest open-weight multimodal AI model series featuring a Mixture of Experts architecture for efficient processing of text and images, with models like Scout offering a 10 million token context window and Maverick excelling in multilingual tasks.
-
-{% embed url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/489528324_1866126614188079_2353760794201377773_n.png?_nc_cat=1&ccb=1-7&_nc_sid=e280be&_nc_ohc=589b2OgjpKQQ7kNvwEeQi7n&_nc_oc=AdkrLMPNsWY-wsBqqtiG--ev5yMSPQUH0oWPo9DJP7_DV4oDxl8Rh9JiDqzqYawfbE4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AOY8N0FLW2l9zvbR8R-4GQ&oh=00_AfGE7FFmZuALaj_4fG99-HJ6MvID8tQHnH1LvSp5cp6E7Q&oe=680C5473" %}
 
 ### <mark style="color:orange;">Kawasaki Corleo</mark>
 
@@ -143,14 +143,6 @@ Runway Gen-4 is a cutting-edge AI model designed for generating consistent and c
 {% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/01-Top-Gen-AI-2025-Web-Top-50-List-Inline-1.jpg" %}
 
 {% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/02-Top-Gen-AI-2025-Apps-Top-50-List-Inline.png" %}
-
-### <mark style="color:orange;">**OpenAI GPT 4.5**</mark>
-
-​OpenAI has unveiled GPT-4.5, its most advanced and compute-intensive AI model to date, designed to enhance user interactions with more natural and emotionally nuanced responses.
-
-{% embed url="https://www.youtube.com/live/cfRYp0nItZ8?si=USSp646hUMNvsY9k" %}
-
-
 
 
 

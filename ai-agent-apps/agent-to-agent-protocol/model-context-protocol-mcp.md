@@ -40,6 +40,22 @@ A collection of MCP servers.
 {% endtab %}
 {% endtabs %}
 
+#### _Other_
+
+{% tabs %}
+{% tab title="Mem0" %}
+Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users.
+
+[https://mem0.ai/](https://mem0.ai/)
+
+Github Link: [https://github.com/mem0ai/mem0/tree/main](https://github.com/mem0ai/mem0/tree/main)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### Updates：
 
 Microsoft MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop.&#x20;
