@@ -50,7 +50,7 @@ Source: Google Cloud
 {% tab title="Native Multimodal Model Image Generation/Editing" %}
 OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
 
-{% embed url="https://x.com/sama/status/1905296867145154688" %}
+{% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
 {% endtab %}
 
 {% tab title="MCP" %}
@@ -68,31 +68,29 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Google Veo 3</mark>
+
+Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.
+
+This third-generation model surpasses its predecessor, Veo 2, by offering enhanced realism, improved prompt adherence, and seamless audio-visual synchronization, enabling creators to produce cinematic scenes with lifelike physics and soundscapes. Veo 3 is accessible through Google's new Flow platform and the Gemini app for AI Ultra subscribers in the U.S., and it's also available to enterprise users via Vertex AI.
+
+{% embed url="https://x.com/GoogleDeepMind/status/1924893528062140417" %}
+
+### <mark style="color:orange;">Lovart</mark>
+
+[https://www.lovart.ai/](https://www.lovart.ai/)
+
+Lovart has just introduced the world's first AI Design Agent—a conversational, multimodal creative assistant that transforms a single prompt into a full suite of brand visuals, including logos, posters, videos, and music, all within an intuitive, collaborative canvas. Unlike traditional AI tools, Lovart integrates multiple AI models and offers editable layers, enabling users to iterate and refine designs in real time, effectively functioning as an on-demand creative team.
+
+{% embed url="https://youtu.be/KBeHmuRAJ7I?si=vXBQQ8osIEJRTTEf" %}
+
 ### <mark style="color:orange;">**OpenAI Codex**</mark>
 
-OpenAI just launched Codex, an advanced AI system that translates natural language into code, empowering developers to write software faster and more efficiently.
+OpenAI has just launched Codex, a cloud-based AI coding agent that autonomously handles tasks like writing features, fixing bugs, and running tests within isolated environments, offering developers a powerful virtual coworker integrated into ChatGPT.
 
 [<mark style="color:orange;">**https://openai.com/index/introducing-codex/**</mark>](https://openai.com/index/introducing-codex/)
 
 {% embed url="https://images.ctfassets.net/kftzwdyauwt9/6wYGm9QST2WYLbPJl5YwZC/1e63f3bfb458ce891db4f94a52052240/Codex_Blog_Header_V5.png?w=3840&q=90&fm=webp" %}
-
-### <mark style="color:orange;">OpenAI o3 & o4-mini</mark>
-
-{% embed url="https://www.youtube.com/watch?v=sq8GBPUb3rk&ab_channel=OpenAI" %}
-
-### <mark style="color:orange;">**OpenAI GPT-4.1 API**</mark>
-
-[<mark style="color:orange;">**https://openai.com/index/gpt-4-1/**</mark>](https://openai.com/index/gpt-4-1/)
-
-OpenAI's GPT-4.1 is a new family of AI models, available via API, that delivers major improvements in coding, instruction following, and long-context understanding—supporting up to 1 million tokens—while offering faster, more reliable performance and lower costs than previous versions.
-
-{% embed url="https://www.youtube.com/live/kA-P9ood-cE?si=36qjn_cvCX2g2vhJ" %}
-
-### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
-
-Google just dropped Firebase Studio — their all-in-one AI coding platform.
-
-{% embed url="https://x.com/Firebase/status/1910001005565284761" %}
 
 ### <mark style="color:orange;">Google A2A</mark>
 
@@ -127,14 +125,6 @@ Runway Gen-4 is a cutting-edge AI model designed for generating consistent and c
 [https://runwayml.com/research/introducing-runway-gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 
 {% embed url="https://www.youtube.com/watch?v=uRkfzKYFOxc&ab_channel=Runway" %}
-
-### <mark style="color:orange;">Gemini 2.5</mark>
-
-{% embed url="https://x.com/GeminiApp/status/1904579704079724599" %}
-
-### <mark style="color:orange;">**OpenAI 4o Image Generation**</mark>
-
-{% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
 
 ### <mark style="color:orange;">**Top 100 GenAI Apps (4th edition)**</mark>
 
