@@ -21,7 +21,15 @@ Broadly speaking, the video generation techniques available today fall into thre
 
 ## Industry Updates & News:
 
-{% embed url="https://x.com/runwayml/status/1905635934189519088" %}
+### <mark style="color:orange;">Google Veo 3</mark>
+
+Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.
+
+This third-generation model surpasses its predecessor, Veo 2, by offering enhanced realism, improved prompt adherence, and seamless audio-visual synchronization, enabling creators to produce cinematic scenes with lifelike physics and soundscapes. Veo 3 is accessible through Google's new Flow platform and the Gemini app for AI Ultra subscribers in the U.S., and it's also available to enterprise users via Vertex AI.
+
+{% embed url="https://x.com/GoogleDeepMind/status/1924893528062140417" %}
+
+
 
 ## Top-tier AI video generation application (Part 1)
 
@@ -97,13 +105,17 @@ Meta has unveiled Movie Gen, a groundbreaking AI-powered suite of models that ca
 
 {% tabs %}
 {% tab title="Google Veo" %}
-**Google Veo 2**
+### <mark style="color:orange;">Google Veo 3</mark>
 
-[https://deepmind.google/technologies/veo/veo-2/](https://deepmind.google/technologies/veo/veo-2/)
+Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.
 
-Google just released Veo 2, an advanced AI video generation model that offers enhanced realism, improved physics understanding, and extensive camera control options, setting a new standard in video creation technology.
+This third-generation model surpasses its predecessor, Veo 2, by offering enhanced realism, improved prompt adherence, and seamless audio-visual synchronization, enabling creators to produce cinematic scenes with lifelike physics and soundscapes. Veo 3 is accessible through Google's new Flow platform and the Gemini app for AI Ultra subscribers in the U.S., and it's also available to enterprise users via Vertex AI.
 
-{% embed url="https://x.com/labsdotgoogle/status/1868704865364701683" %}
+{% embed url="https://x.com/GoogleDeepMind/status/1924893528062140417" %}
+
+
+
+
 {% endtab %}
 
 {% tab title="Pika" %}
@@ -169,7 +181,7 @@ Genmo AI is at the forefront of video generation technology, offering models tha
 {% endtab %}
 {% endtabs %}
 
-
+1
 
 ***
 

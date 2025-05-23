@@ -68,6 +68,14 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Claude Opus 4 and Claude Sonnet 4</mark>
+
+[<mark style="color:orange;">https://www.anthropic.com/news/claude-4</mark>](https://www.anthropic.com/news/claude-4)
+
+Anthropic just released Claude Opus 4 and Claude Sonnet 4, its most advanced AI models yet, with Opus 4 outperforming GPT-4.1 and Gemini 2.5 Pro in coding benchmarks and sustaining autonomous work for up to seven hours, while Sonnet 4 offers a cost-effective, high-precision alternative with enhanced reasoning and reduced shortcutting.&#x20;
+
+{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F09a6d5aa47c25cb2037efff9f486da4918f77708-3840x2304.png&w=3840&q=75" %}
+
 ### <mark style="color:orange;">Google Veo 3</mark>
 
 Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.

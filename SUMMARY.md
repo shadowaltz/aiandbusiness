@@ -144,6 +144,7 @@
 ## Video & Films
 
 * [🎥 GenAI Film Making](video-and-films/film-making/README.md)
+  * [Veo 3 Cases](video-and-films/genai-film-making/veo-3-cases.md)
   * [Sora](video-and-films/film-making/sora.md)
   * [Runway](video-and-films/film-making/runway/README.md)
     * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
