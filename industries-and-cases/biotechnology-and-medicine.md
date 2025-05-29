@@ -46,6 +46,14 @@ Link: [https://github.com/google-deepmind/alphafold3](https://github.com/google-
 
 
 
+### Google Rad Explain
+
+[https://huggingface.co/spaces/google/rad\_explain](https://huggingface.co/spaces/google/rad_explain)
+
+Google has just launched Rad Explain, a Hugging Face Space that utilizes its MedGemma model to translate complex radiology reports into clear, patient-friendly language, enhancing medical communication and accessibility.
+
+
+
 ### Agent Hospital&#x20;
 
 Check the paper here: [https://arxiv.org/pdf/2405.02957](https://arxiv.org/pdf/2405.02957)

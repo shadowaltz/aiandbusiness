@@ -36,6 +36,14 @@ Scale Leaderboards
 
 
 {% endtab %}
+
+{% tab title="LM Arena" %}
+LMArena.ai is a comprehensive AI model leaderboard, ranking over 240 large language models across various domains—including text, vision, web development, search, and coding—based on more than 3.5 million user votes.
+
+Unlike traditional benchmarks, LMArena employs a crowdsourced, blind-voting system where users compare anonymous model responses to the same prompt and vote for the better one. This approach provides a dynamic, real-world evaluation of model performance.
+
+{% embed url="https://lmarena.ai/leaderboard" %}
+{% endtab %}
 {% endtabs %}
 
 

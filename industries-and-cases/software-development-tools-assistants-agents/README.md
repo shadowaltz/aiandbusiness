@@ -7,12 +7,6 @@ coverY: 0
 
 # 💽 Software Development Tools/Assistants/Agents
 
-{% hint style="info" %}
-Google CEO Sundar Pichai recently revealed that artificial intelligence (AI) generates over 25% of the company’s new code
-{% endhint %}
-
-{% embed url="https://finance.yahoo.com/news/over-25-google-code-now-151413292.html" %}
-
 ***
 
 ## <mark style="color:purple;">LLM for Coding</mark>
@@ -125,6 +119,18 @@ V0 by Vercel
 
 [https://v0.dev/](https://v0.dev/)
 {% endtab %}
+
+{% tab title="Framer" %}
+Framerは、シンプルなテキストプロンプトから完全に構造化されたレスポンシブなWebレイアウトを即座に生成するAI搭載ツール「Wireframer」をリリースしました。これにより、デザイナーはゼロから始めることなく、ランディングページやポートフォリオなどのプロトタイプを迅速に作成できます。
+
+[https://www.framer.com/wireframer/](https://www.framer.com/wireframer/)
+{% endtab %}
+
+{% tab title="Untitled" %}
+[https://stitch.withgoogle.com/](https://stitch.withgoogle.com/)
+
+Google acquired Stitch, a free AI-powered UI design tool that transforms text prompts or sketches into responsive web and mobile interfaces, complete with exportable code and seamless Figma integration, streamlining the journey from concept to production.
+{% endtab %}
 {% endtabs %}
 
 ***
@@ -133,7 +139,9 @@ V0 by Vercel
 
 {% tabs %}
 {% tab title="Coderabbit" %}
-[https://www.coderabbit.ai/](https://www.coderabbit.ai/)
+{% embed url="https://www.coderabbit.ai/" %}
+
+CodeRabbit is an AI-powered code review platform that delivers context-aware, line-by-line feedback on pull requests, significantly reducing manual review time and enhancing code quality. Unlike traditional linters or static analysis tools, CodeRabbit leverages advanced language models to understand code semantics, architectural patterns, and developer intent, providing nuanced suggestions and facilitating collaborative discussions directly within GitHub or GitLab.
 {% endtab %}
 
 {% tab title="Second Tab" %}
