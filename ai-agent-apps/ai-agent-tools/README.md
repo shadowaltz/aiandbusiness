@@ -1,4 +1,4 @@
-# 👾 AI Agents
+# 👾 AI Agent Tools
 
 AI Agents are still in their early stages, and building one requires some basic programming knowledge.&#x20;
 
@@ -8,7 +8,9 @@ AI Agents are still in their early stages, and building one requires some basic 
 These are considered automation platforms strictly speaking. However, with the recent integration of LLM, they now function similarly to an AI Agent. Their ease of deployment and use, along with wide support for various online platforms, have attracted many users, significantly enhancing business processes. That’s why they’re included here.
 {% endhint %}
 
-Part 1
+### <mark style="color:purple;">Workflow Automation Platforms / iPaaS</mark>
+
+These platforms are designed to connect various applications and services, automating repetitive tasks and data flows based on predefined, rule-based processes. They act as bridges between different software, ensuring data moves correctly and tasks are executed systematically. Their core function is to "do as instructed."&#x20;
 
 {% tabs %}
 {% tab title="Make.com" %}
@@ -39,23 +41,15 @@ n8n AI Agent is an open-source, highly customizable automation tool that empower
 
 [https://n8n.io/](https://n8n.io/)
 {% endtab %}
-
-{% tab title="AutoGPT" %}
-AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools so that you can focus on what matters.
-
-[https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-{% endtab %}
-
-{% tab title="AgentGPT" %}
-Assemble, configure, and deploy autonomous AI Agents in your browser.
-
-[https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
-
-
-{% endtab %}
 {% endtabs %}
 
-Part 2
+### <mark style="color:purple;">AI Agent Tools & Frameworks</mark>
+
+These tools and frameworks are designed to help developers build and deploy AI agents that can **autonomously understand, plan, decide, and execute tasks**. Their core is to imbue AI with "intelligence" and "autonomy," enabling it to tackle more complex, unstructured, or dynamically changing problems. Their goal is to "achieve an objective."
+
+#### AI Agent Frameworks:
+
+These provide the foundational modules, components, and abstractions necessary to build AI agents, primarily targeting developers.
 
 {% tabs %}
 {% tab title="Crew AI" %}
@@ -72,18 +66,10 @@ CrewAI is a fast, open-source Python framework that enables developers to build 
 
 {% endtab %}
 
-{% tab title="Dify" %}
-Dify AI is an open-source platform for building generative AI applications, featuring a no-code/low-code visual workflow builder, robust Retrieval-Augmented Generation (RAG) engine, and flexible agent framework, which sets it apart from competitors by enabling rapid, production-grade LLM app development even for non-technical users, with broad model support, intuitive orchestration, and seamless deployment—all in a single, integrated solution.
+{% tab title="Microsoft AutoGen" %}
+An Open-Source Programming Framework for Agentic AI
 
-{% embed url="https://youtu.be/Z5i1CD_IstQ?si=S1lPoyCgo_xw4j30" %}
-
-[https://dify.ai/](https://dify.ai/)
-{% endtab %}
-
-{% tab title="ChatGPT Operator" %}
-OpenAI released ChatGPT Operator, an AI agent that uses its browser to automate online tasks like booking reservations and ordering groceries, interacting with websites just like a human would.
-
-{% embed url="https://x.com/OpenAI/status/1882509286439637448" %}
+[https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 {% endtab %}
 
 {% tab title="ManusAI" %}
@@ -101,15 +87,41 @@ Manus AI is a groundbreaking, fully autonomous artificial intelligence agent cap
 {% endtab %}
 {% endtabs %}
 
+#### Autonomous AI Agent Projects
 
-
-### **Customizable Agent Frameworks/Agent Building Platforms**:
+These refer to experimental or proof-of-concept AI agent projects that demonstrate the ability to set long-term goals and autonomously plan and execute multi-step tasks.
 
 {% tabs %}
-{% tab title="Microsoft AutoGen" %}
-An Open-Source Programming Framework for Agentic AI
+{% tab title="AutoGPT" %}
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools so that you can focus on what matters.
 
-[https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
+[https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+{% endtab %}
+
+{% tab title="AgentGPT" %}
+Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+[https://github.com/reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+
+
+{% endtab %}
+{% endtabs %}
+
+#### AI Agent Building Platforms
+
+These offer higher-level abstractions and interfaces to help users (including non-developers) more easily design, train, and deploy AI agents.
+
+{% tabs %}
+{% tab title="Dify" %}
+Dify AI is an open-source platform for building generative AI applications, featuring a no-code/low-code visual workflow builder, robust Retrieval-Augmented Generation (RAG) engine, and flexible agent framework, which sets it apart from competitors by enabling rapid, production-grade LLM app development even for non-technical users, with broad model support, intuitive orchestration, and seamless deployment—all in a single, integrated solution.
+
+{% embed url="https://youtu.be/Z5i1CD_IstQ?si=S1lPoyCgo_xw4j30" %}
+
+[https://dify.ai/](https://dify.ai/)
+{% endtab %}
+
+{% tab title="Google Vertex AI Agent Builder:" %}
+[https://cloud.google.com/](https://cloud.google.com/)
 
 
 {% endtab %}
@@ -121,19 +133,11 @@ An Open-Source Programming Framework for Agentic AI
 
 
 {% endtab %}
-
-{% tab title="Google Vertex AI Agent Builder" %}
-
-
-[https://cloud.google.com/](https://cloud.google.com/)
-
-
-{% endtab %}
 {% endtabs %}
 
+#### Specialized AI Agent Applications:
 
-
-### AI Software Engineers
+These are end-user applications developed using AI agent technologies, serving a specific domain or solving a particular problem.
 
 {% tabs %}
 {% tab title="Cosine Genie" %}
@@ -149,6 +153,10 @@ Devin is generally available and only offers a $500/month team plan.
 
 [https://app.devin.ai/](https://app.devin.ai/)
 
+
+{% endtab %}
+
+{% tab title="ChatGPT Operator" %}
 
 {% endtab %}
 {% endtabs %}

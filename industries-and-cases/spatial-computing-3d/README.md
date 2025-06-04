@@ -92,6 +92,8 @@ This tool can directly create models in 3D format, ensuring compatibility with a
 
 {% tabs %}
 {% tab title="Trellis" %}
+Tripo AI is an advanced AI-powered 3D modeling platform that enables users to generate high-quality 3D models from text or image prompts in as little as 8 seconds, with enhanced geometry, PBR rendering, and seamless integration with tools like Blender and ComfyUI.
+
 [https://trellis3d.github.io/](https://trellis3d.github.io/)
 {% endtab %}
 

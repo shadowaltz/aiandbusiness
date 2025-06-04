@@ -3,7 +3,7 @@
 ## Navigation
 
 {% hint style="success" %}
-* [**AI Agents**](../ai-agents/)
+* [**AI Agents**](../ai-agent-tools/)
 * [**MCP**](../agent-to-agent-protocol/model-context-protocol-mcp.md)
 * **A2A**
 {% endhint %}
