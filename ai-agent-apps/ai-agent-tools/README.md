@@ -1,16 +1,14 @@
 # 👾 AI Agent Tools
 
-AI Agents are still in their early stages, and building one requires some basic programming knowledge.&#x20;
-
-## **Automation Platforms**:&#x20;
-
 {% hint style="info" %}
-These are considered automation platforms strictly speaking. However, with the recent integration of LLM, they now function similarly to an AI Agent. Their ease of deployment and use, along with wide support for various online platforms, have attracted many users, significantly enhancing business processes. That’s why they’re included here.
+AI Agents are still in their early stages, and building one requires some basic programming knowledge.&#x20;
 {% endhint %}
 
 ### <mark style="color:purple;">Workflow Automation Platforms / iPaaS</mark>
 
-These platforms are designed to connect various applications and services, automating repetitive tasks and data flows based on predefined, rule-based processes. They act as bridges between different software, ensuring data moves correctly and tasks are executed systematically. Their core function is to "do as instructed."&#x20;
+{% hint style="success" %}
+These platforms are designed to connect various applications and services, automating repetitive tasks and data flows based on predefined rules. They act as bridges between software, ensuring processes run smoothly and systematically. With the rise of LLMs, they can also be used to build diverse AI agent workflows.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Make.com" %}
@@ -45,7 +43,9 @@ n8n AI Agent is an open-source, highly customizable automation tool that empower
 
 ### <mark style="color:purple;">AI Agent Tools & Frameworks</mark>
 
+{% hint style="success" %}
 These tools and frameworks are designed to help developers build and deploy AI agents that can **autonomously understand, plan, decide, and execute tasks**. Their core is to imbue AI with "intelligence" and "autonomy," enabling it to tackle more complex, unstructured, or dynamically changing problems. Their goal is to "achieve an objective."
+{% endhint %}
 
 #### AI Agent Frameworks:
 
@@ -70,6 +70,10 @@ CrewAI is a fast, open-source Python framework that enables developers to build 
 An Open-Source Programming Framework for Agentic AI
 
 [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
+{% endtab %}
+
+{% tab title="LangChain" %}
+A popular Python/JavaScript library for developing applications powered by large language models, offering modules for building agents, tools, and chains.
 {% endtab %}
 {% endtabs %}
 
