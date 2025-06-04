@@ -71,20 +71,6 @@ An Open-Source Programming Framework for Agentic AI
 
 [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)
 {% endtab %}
-
-{% tab title="ManusAI" %}
-[https://manus.im/](https://manus.im/)
-
-Manus AI is a groundbreaking, fully autonomous artificial intelligence agent capable of handling complex, real-world tasks independently, surpassing traditional AI assistants by delivering tangible results rather than just providing advice or answers.
-
-{% embed url="https://youtu.be/K27diMbCsuw?si=9C9-pXV60anhXX7E" %}
-{% endtab %}
-
-{% tab title="Lindy" %}
-
-
-[https://www.lindy.ai/](https://www.lindy.ai/)
-{% endtab %}
 {% endtabs %}
 
 #### Autonomous AI Agent Projects
@@ -149,7 +135,7 @@ Cosine Genie is an advanced AI-powered software engineering model that has achie
 {% endtab %}
 
 {% tab title="Devin" %}
-Devin is generally available and only offers a $500/month team plan.
+
 
 [https://app.devin.ai/](https://app.devin.ai/)
 
@@ -158,6 +144,20 @@ Devin is generally available and only offers a $500/month team plan.
 
 {% tab title="ChatGPT Operator" %}
 
+{% endtab %}
+
+{% tab title="ManusAI" %}
+[https://manus.im/](https://manus.im/)
+
+Manus AI is a groundbreaking, fully autonomous artificial intelligence agent capable of handling complex, real-world tasks independently, surpassing traditional AI assistants by delivering tangible results rather than just providing advice or answers.
+
+{% embed url="https://youtu.be/K27diMbCsuw?si=9C9-pXV60anhXX7E" %}
+{% endtab %}
+
+{% tab title="Lindy" %}
+
+
+[https://www.lindy.ai/](https://www.lindy.ai/)
 {% endtab %}
 {% endtabs %}
 
