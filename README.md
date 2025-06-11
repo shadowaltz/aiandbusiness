@@ -68,6 +68,12 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">ElevenLabs Eleven v3 (alpha)</mark>
+
+ElevenLabs has just released Eleven v3 (alpha), its most expressive text-to-speech model to date, featuring over 70 languages, inline audio tags for emotional control, and a new Text to Dialogue API for seamless multi-speaker conversations—marking a significant leap in AI-generated voice realism for creators in film, audiobooks, and interactive media.
+
+{% embed url="https://youtu.be/zv_IoWIO5Ek?si=SYSymnHO8JU1I6Fz" %}
+
 ### <mark style="color:orange;">Claude Opus 4 and Claude Sonnet 4</mark>
 
 [<mark style="color:orange;">https://www.anthropic.com/news/claude-4</mark>](https://www.anthropic.com/news/claude-4)

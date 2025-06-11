@@ -10,9 +10,9 @@ Figure AI has unveiled Figure 02, its second-generation humanoid robot, which fe
 
 {% embed url="https://youtu.be/Sq1QZB5baNw" %}
 
-3.25.2025 Update：
+{% embed url="https://x.com/Figure_robot/status/1931391490967928936" %}
 
-{% embed url="https://youtu.be/z6KiwXT_yAM?si=B5ibTYrtL3PwI17N" %}
+***
 
 ### <mark style="color:orange;">Figure AI + BMW</mark>
 

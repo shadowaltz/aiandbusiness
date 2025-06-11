@@ -20,7 +20,7 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
-{% embed url="https://youtu.be/z6KiwXT_yAM?si=B5ibTYrtL3PwI17N" %}
+{% embed url="https://x.com/Figure_robot/status/1931391490967928936" %}
 
 ### <mark style="color:orange;">Boston Dynamics</mark>
 
