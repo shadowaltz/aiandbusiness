@@ -1,11 +1,31 @@
 ---
-description: AI Search Engine
+description: AI Browser/ AI Search Engine
 cover: >-
   https://images.unsplash.com/photo-1625296276703-3fbc924f07b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzZWFyY2glMjBlbmdpbmV8ZW58MHx8fHwxNzE4NTk0MzA4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🖱️ AI Search Engine
+# 🖱️ AI Browser/ AI Search Engine
+
+## AI Browsers
+
+Dia
+
+[https://www.diabrowser.com/](https://www.diabrowser.com/)
+
+
+
+Fellou
+
+[https://fellou.ai/](https://fellou.ai/)
+
+
+
+
+
+***
+
+## AI Search Engines
 
 ### <img src="../../.gitbook/assets/NB3G6tx3_400x400.jpg" alt="" data-size="line"><mark style="color:orange;">Perplexity</mark>
 
