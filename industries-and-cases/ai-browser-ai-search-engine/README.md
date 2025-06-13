@@ -5,21 +5,29 @@ cover: >-
 coverY: 0
 ---
 
-# 🖱️ AI Browser/ AI Search Engine
+# 🖱️ AI Browser / AI Search Engine
 
 ## AI Browsers
 
-Dia
+{% tabs %}
+{% tab title="Dia" %}
+### Dia
+
+The Browser Company has rolled out Dia, an AI‑first browser currently in beta for macOS that places a contextual assistant—powered by a “skills” system—right in your address bar and sidebar, letting you summarize content, draft emails, shop smarter, and interact directly with tabs and browsing history without switching apps
 
 [https://www.diabrowser.com/](https://www.diabrowser.com/)
 
+{% embed url="https://youtu.be/YVOw0TAO9ok?si=sr0EuQa8NV6qbE7o" %}
+{% endtab %}
 
-
-Fellou
+{% tab title="Fellou" %}
+### Fellou
 
 [https://fellou.ai/](https://fellou.ai/)
 
-
+Fellou, the world’s first true _agentic browser_, which doesn’t just display web pages but autonomously thinks, navigates, clicks, and compiles insights—letting you delegate complex workflows and deep research across public and private platforms via intuitive natural-language commands
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -27,7 +35,9 @@ Fellou
 
 ## AI Search Engines
 
-### <img src="../../.gitbook/assets/NB3G6tx3_400x400.jpg" alt="" data-size="line"><mark style="color:orange;">Perplexity</mark>
+{% tabs %}
+{% tab title="Perplexity" %}
+### <mark style="color:orange;">Perplexity</mark>
 
 At a time when ChatGPT was not able to access the internet, after all, and could be very inaccurate, in came Perplexity—an AI search engine application that primarily uses internet connectivity to source for whatever information it is. It guarantees sourcing for all the responses, thus leading to very high search speeds and a great user experience. With recent features like Copilot, it has become a serious competitor to Google and is now the default search engine for upcoming browsers like Arc.
 
@@ -38,13 +48,17 @@ Becoming more and more popular in the market, Perplexity has already formed alli
 Referral link:
 
 [https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral_code=LF6KJLGJ)
+{% endtab %}
 
+{% tab title="ChatGPT Search" %}
 ### <mark style="color:orange;">ChatGPT Search</mark>
 
 ChatGPT Search is a new feature that allows users to get fast, timely answers with links to relevant web sources directly within the ChatGPT interface.
 
 {% embed url="https://images.ctfassets.net/kftzwdyauwt9/7LzxdzMcijUYHtIES6rmub/1dd3bc9f423a6b1cd5176936dbb029aa/Entry_Point.png?w=3840&q=90&fm=webp" %}
+{% endtab %}
 
+{% tab title="Bing" %}
 ### <mark style="color:orange;">Bing</mark>
 
 Thanks to its partnership with OpenAI, Bing became the pioneering search engine to enhance its search capabilities with large language models. It now boasts a suite of features, including Copilot, that are quite comprehensive, mirroring the functionalities available in ChatGPT. Its strategy focuses on offering a wide-ranging and all-inclusive set of features.
@@ -52,7 +66,13 @@ Thanks to its partnership with OpenAI, Bing became the pioneering search engine 
 {% embed url="https://youtu.be/wKYqA1MLrXQ" %}
 
 [https://www.bing.com/](https://www.bing.com/)
+{% endtab %}
 
+{% tab title="Gemini" %}
+Google Gemini
+{% endtab %}
+
+{% tab title="Exa.ai" %}
 ### <mark style="color:orange;">Exa.ai</mark>
 
 [https://exa.ai/search](https://exa.ai/search)
@@ -61,6 +81,10 @@ Exa.ai is a knowledge API that utilizes advanced AI language processing to conve
 
 {% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/999c2e68-578e-42e8-ceb0-afad0316ac00/public" %}
 
+
+{% endtab %}
+
+{% tab title="Globe.engineer" %}
 ### <mark style="color:orange;">Globe.engineer</mark>
 
 [https://globe.engineer/](https://globe.engineer/)
@@ -70,6 +94,10 @@ Exa.ai is a knowledge API that utilizes advanced AI language processing to conve
 Explorer is a search discovery engine. It creates a table of contents on the topic, and then visualizes each section and concept with an optimal image or diagram so you can quickly find what you need, or discover what you didn't know you needed.
 
 <figure><img src="../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
+
+
+{% endtab %}
+{% endtabs %}
 
 
 

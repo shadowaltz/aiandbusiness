@@ -35,7 +35,7 @@
   * [Four-legged Robot](industries-and-cases/robotics-embodied-intelligence/four-legged-robot.md)
   * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
   * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)
-* [🖱️ AI Browser/ AI Search Engine](industries-and-cases/ai-browser-ai-search-engine/README.md)
+* [🖱️ AI Browser / AI Search Engine](industries-and-cases/ai-browser-ai-search-engine/README.md)
   * [Perplexity](industries-and-cases/ai-browser-ai-search-engine/perplexity.md)
 * [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
   * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
