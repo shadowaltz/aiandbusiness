@@ -100,11 +100,7 @@ Tripo AI is an advanced AI-powered 3D modeling platform that enables users to ge
 {% tab title="Hunyuan 3D" %}
 [https://huggingface.co/tencent/Hunyuan3D-2](https://huggingface.co/tencent/Hunyuan3D-2)
 
-Hunyuan3D 2.0, is an advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets from Tencent.
-
-Sketch to 3D
-
-{% embed url="https://x.com/EHuanglu/status/1915080914356605171" %}
+{% embed url="https://x.com/TencentHunyuan/status/1933563360320385527" %}
 {% endtab %}
 
 {% tab title="Tripo3d" %}

@@ -75,6 +75,10 @@ An Open-Source Programming Framework for Agentic AI
 {% tab title="LangChain" %}
 A popular Python/JavaScript library for developing applications powered by large language models, offering modules for building agents, tools, and chains.
 {% endtab %}
+
+{% tab title="LangGraph" %}
+It's built on top of LangChain and focuses specifically on **stateful, multi-agent orchestration**. It allows developers to define complex, cyclical agent workflows as a graph, where each node can be an LLM agent or a tool, and the edges represent transitions between states.&#x20;
+{% endtab %}
 {% endtabs %}
 
 #### Autonomous AI Agent Projects
@@ -165,7 +169,19 @@ Manus AI is a groundbreaking, fully autonomous artificial intelligence agent cap
 {% endtab %}
 {% endtabs %}
 
+#### AI Agent Operations Platforms
 
+This is an emerging sub-category focused on the **observability, testing, debugging, and deployment of AI agents** in production environments. As AI agents become more complex, managing their performance, cost, and reliability is critical.
+
+{% tabs %}
+{% tab title="AgentOps" %}
+It provides infrastructure and tools for developers to monitor, test, debug, and track the performance and costs of their AI agents and LLM-powered applications. It's essentially the "DevOps" for AI agents, helping ensure agents are reliable and efficient in production.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 #### Resources to build AI Agents:
 
@@ -192,6 +208,24 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 
 {% endtab %}
 {% endtabs %}
+
+
+
+### <mark style="color:purple;">AI Factory / Industrial AI Solutions</mark>
+
+This category is distinct from both general workflow automation and AI agent development. It refers to the comprehensive approach and tools for building, deploying, and managing AI models and solutions within an industrial or enterprise context, often focusing on data pipelines, model training, deployment, and MLOps.
+
+{% tabs %}
+{% tab title="factory.ai" %}
+factory.ai is primarily a **Specialized AI Application/Solution** within the broader domain of **Industrial AI / AI Factory**. It focuses on applying AI for specific industrial use cases like **predictive maintenance and AI-powered CMMS (Computerized Maintenance Management System)** software.&#x20;
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 
 

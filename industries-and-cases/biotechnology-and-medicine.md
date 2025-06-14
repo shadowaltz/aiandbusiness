@@ -40,6 +40,10 @@ Link: [https://github.com/google-deepmind/alphafold3](https://github.com/google-
 
 ## Medical
 
+### FDA Elsa
+
+{% embed url="https://www.fiercebiotech.com/cro/fda-launces-new-generative-ai-tool-elsa-month-ahead-schedule" %}
+
 ### Google Med Gemini
 
 [https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/?sh=10e5238e3d72](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/?sh=10e5238e3d72)
