@@ -68,6 +68,12 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Midjourney Video</mark>
+
+Midjourney has unveiled Video V1, its first image-to-video generation model now available via Web and Discord, letting users animate static or uploaded images into short 5‑ to 21‑second clips—with adjustable motion levels, both automatic and custom prompts, at approximately eight times the GPU cost of image creation—offered under existing subscription tiers (from $10/month), marking a big step toward real-time interactive worlds despite ongoing copyright lawsuits from Disney and Universal.
+
+{% embed url="https://x.com/midjourney/status/1935377193733079452" %}
+
 ### <mark style="color:orange;">ElevenLabs Eleven v3 (alpha)</mark>
 
 ElevenLabs has just released Eleven v3 (alpha), its most expressive text-to-speech model to date, featuring over 70 languages, inline audio tags for emotional control, and a new Text to Dialogue API for seamless multi-speaker conversations—marking a significant leap in AI-generated voice realism for creators in film, audiobooks, and interactive media.
