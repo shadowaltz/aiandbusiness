@@ -1,17 +1,6 @@
 ---
 description: An open manual for the collaboration of AI and business.
 icon: square-left
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to AI\&Business (Beta)
@@ -67,6 +56,10 @@ Source: A16Z
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">Grok 4</mark>
+
+{% embed url="https://x.com/xai/status/1943158495588815072" %}
 
 ### <mark style="color:orange;">Midjourney Video</mark>
 

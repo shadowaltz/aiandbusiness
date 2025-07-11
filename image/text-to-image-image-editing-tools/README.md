@@ -1,20 +1,6 @@
 ---
 cover: ../../.gitbook/assets/midjourney cover.webp
 coverY: 30.890666666666664
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🪄 Text to Image / Image Editing Tools
@@ -49,25 +35,11 @@ See examples here: [https://openai.com/index/introducing-4o-image-generation/](h
 **Flux 1**, created by the original members of Stable Diffusion, has now fully surpassed the performance of Stable Diffusion. It is fully compatible with mainstream UIs like Comfy UI and has become the most powerful open-source text-to-image model, even slightly surpassing Midjourney in some aspects. This has significantly enhanced the capabilities of various SaaS businesses based on Stable Diffusion.
 {% endhint %}
 
-### <mark style="color:orange;">Flux. 1</mark>
+## FLUX.1 Kontext
 
-[https://blackforestlabs.ai/](https://blackforestlabs.ai/)
+{% embed url="https://x.com/bfl_ml/status/1938257909726519640" %}
 
-Flux 1 is a new text-to-image model suite developed by Black Forest Labs, a startup founded by the original creators of Stable Diffusion, who have secured $31 million in seed funding to advance their mission of making powerful generative AI technology widely accessible.
-
-{% embed url="https://github.com/black-forest-labs/flux/raw/main/assets/grid.jpg" %}
-
-Black Forest Labs has expanded its FLUX.1 text-to-image model with four new AI tools for image editing.
-
-• FLUX.1 Fill&#x20;
-
-• FLUX.1 Depth&#x20;
-
-• FLUX.1 Canny&#x20;
-
-• FLUX.1 Redux
-
-[https://blackforestlabs.ai/#get-flux](https://blackforestlabs.ai/#get-flux)
+[https://bfl.ai/models/flux-kontext](https://bfl.ai/models/flux-kontext)
 {% endtab %}
 
 {% tab title="Stable Diffusion" %}
