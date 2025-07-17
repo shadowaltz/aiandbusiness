@@ -16,15 +16,19 @@ The information provided in this section regarding tools and guidelines for crea
 
 ## Voice Generating/Cloning&#x20;
 
-### <mark style="color:orange;">ElevenLabs</mark>
+{% tabs %}
+{% tab title="ElevenLabs" %}
+
 
 [https://elevenlabs.io/](https://elevenlabs.io/)
 
-Founded in 2022, Elevenlabs is a newcomer that has rapidly become one of the hottest natural language processing (NLP) service providers in the industry. ElevenLabs offers an AI voice generator that converts text to speech(TTS) in multiple languages. It creates natural-sounding voices for various applications like videos, gaming, audiobooks, and chatbots. VoiceLab function allows users to create unique synthetic voices, while the Dubbing Studio enables video localization. Speech to Speech maintains the nuance of the original message, and Projects facilitate long-form voice generation.&#x20;
+Founded in 2022, Elevenlabs is a newcomer that has rapidly become one of the hottest natural language processing (NLP) service providers in the industry.&#x20;
 
-### <mark style="color:orange;">Other Apps</mark>
+{% embed url="https://x.com/elevenlabsio/status/1930689774278570003" %}
 
-{% tabs %}
+
+{% endtab %}
+
 {% tab title="Play.ht" %}
 [https://play.ht/](https://play.ht/)
 

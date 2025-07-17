@@ -57,6 +57,12 @@ Source: A16Z
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI Agent**</mark>
+
+OpenAI today launched ChatGPT Agent, a powerful AI assistant that goes beyond chat by autonomously managing complex, multi‑step tasks—complete with its own “virtual computer” that can browse websites, run code, book reservations, shop online, edit spreadsheets and slide decks—while ensuring users stay in control through permission prompts and safety features like Watch Mode.
+
+{% embed url="https://www.youtube.com/live/1jn_RpbPbEc?si=yE8s9jFdSZIdJVN0" %}
+
 ### <mark style="color:orange;">Grok 4</mark>
 
 {% embed url="https://x.com/xai/status/1943158495588815072" %}
