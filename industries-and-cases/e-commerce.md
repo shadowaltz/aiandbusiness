@@ -39,6 +39,12 @@ Shopify launched Sidekick Bot, an LLM tool for sellers. It offers:
 ## Virtual Try-on
 
 {% tabs %}
+{% tab title="Google Doppl" %}
+[https://labs.google/doppl](https://labs.google/doppl)
+
+Google Labs has just unveiled Doppl, an experimental mobile app that lets U.S. users upload a full‑body photo or screenshot of an outfit—and see an AI‑generated video of themselves wearing it to explore styles and motion before shopping.
+{% endtab %}
+
 {% tab title=" Topview" %}
 {% embed url="https://d1735p3aqhycef.cloudfront.net/official-website/public/tools/main_page.mp4" %}
 
