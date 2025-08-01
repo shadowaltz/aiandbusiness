@@ -21,6 +21,12 @@ coverY: 0
 
 ## News and cases: <a href="#prompts-for-educators" id="prompts-for-educators"></a>
 
+### <mark style="color:orange;">ChatGPT Study Mode</mark>
+
+OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides users through step-by-step reasoning using Socratic-style questions, scaffolded lessons, personalized feedback, and interactive quizzes—designed to foster critical thinking and deeper comprehension rather than simply providing answers, and available to all logged‑in users on Free, Plus, Pro, and Team plans (with Edu availability soon)
+
+{% embed url="https://youtu.be/XDYilxy1dn8?si=igCVut358bdlsmbD" %}
+
 ### <mark style="color:orange;">Little Language Lessons</mark>
 
 [<mark style="color:orange;">https://labs.google/lll/en</mark>](https://labs.google/lll/en)
