@@ -26,6 +26,20 @@ icon: square-left
 ## <mark style="color:purple;">Trending Insights</mark><mark style="color:purple;">**:**</mark>
 
 {% tabs %}
+{% tab title="AI Browsers" %}
+By mid‑2025, a wave of agentic AI browsers has arrived—startups like The Browser Company’s **Dia**, which lets you _chat with your tabs_ via AI built into the browser’s foundation, and **Fellou**, which takes it further by actually executing multi‑step, cross‑site workflows on your behalf —and now the tech giants are racing to follow: **Perplexity Comet** (Chromium-based, for Max subscribers) auto-summarizes content, autofills forms, and orchestrates research or errands across pages; **Microsoft Edge**’s experimental _Copilot Mode_ sees across all open tabs, accepts voice or chat commands, and acts as a proactive in-browser assistant; and **Google Chrome** is embedding Gemini to deliver contextual tab-level AI help—with a fuller “Agent Mode” due soon.
+{% endtab %}
+
+{% tab title="MCP" %}
+#### What is MCP?
+
+**Model Context Protocol (MCP)** is an open standard protocol developed by Anthropic that enables AI models to seamlessly connect with external data sources, tools, and APIs, enhancing their capabilities beyond their original training data.
+
+{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-x2000.png" %}
+Source: A16Z
+{% endembed %}
+{% endtab %}
+
 {% tab title="Google A2A" %}
 Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seamless communication and collaboration between AI agents from different frameworks or vendors, aimed at solving interoperability challenges in enterprise AI systems.
 
@@ -41,27 +55,31 @@ OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation f
 
 {% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
 {% endtab %}
-
-{% tab title="MCP" %}
-#### What is MCP?
-
-**Model Context Protocol (MCP)** is an open standard protocol developed by Anthropic that enables AI models to seamlessly connect with external data sources, tools, and APIs, enhancing their capabilities beyond their original training data.
-
-{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/250319-MCP-x2000.png" %}
-Source: A16Z
-{% endembed %}
-{% endtab %}
 {% endtabs %}
 
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">ChatGPT Study Mode</mark>
+
+OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides users through step-by-step reasoning using Socratic-style questions, scaffolded lessons, personalized feedback, and interactive quizzes—designed to foster critical thinking and deeper comprehension rather than simply providing answers, and available to all logged‑in users on Free, Plus, Pro, and Team plans (with Edu availability soon)
+
+{% embed url="https://youtu.be/XDYilxy1dn8?si=igCVut358bdlsmbD" %}
+
 ### <mark style="color:orange;">**ChatGPT Agent**</mark>
 
 OpenAI today launched ChatGPT Agent, a powerful AI assistant that goes beyond chat by autonomously managing complex, multi‑step tasks—complete with its own “virtual computer” that can browse websites, run code, book reservations, shop online, edit spreadsheets and slide decks—while ensuring users stay in control through permission prompts and safety features like Watch Mode.
 
 {% embed url="https://www.youtube.com/live/1jn_RpbPbEc?si=yE8s9jFdSZIdJVN0" %}
+
+### <mark style="color:orange;">AMERICA’S AI ACTION PLAN</mark>
+
+The Trump Administration has released America’s AI Action Plan (on July 23, 2025), a sweeping policy roadmap of over 90 federal actions across three pillars—Accelerating Innovation, Building American AI Infrastructure, and Leading International AI Diplomacy & Security—to establish U.S. global dominance in AI through deregulation, export incentives, energy expansion, and workforce development.
+
+{% embed url="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" %}
+
+
 
 ### <mark style="color:orange;">Grok 4</mark>
 

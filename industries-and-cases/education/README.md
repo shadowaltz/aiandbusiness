@@ -27,6 +27,12 @@ OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides
 
 {% embed url="https://youtu.be/XDYilxy1dn8?si=igCVut358bdlsmbD" %}
 
+## New Gemini tools for students and educators
+
+{% embed url="https://blog.google/outreach-initiatives/education/gemini-iste-2025/" %}
+
+
+
 ### <mark style="color:orange;">Little Language Lessons</mark>
 
 [<mark style="color:orange;">https://labs.google/lll/en</mark>](https://labs.google/lll/en)

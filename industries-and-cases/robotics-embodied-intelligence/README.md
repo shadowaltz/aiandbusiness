@@ -20,6 +20,14 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+### <mark style="color:orange;">Reachy Mini</mark>
+
+Hugging Face, via its recent acquisition of Pollen Robotics, has unveiled Reachy Mini, a compact and affordable open‑source desktop humanoid kit (starting at $299) designed for expressive human‑robot interaction, creative coding, and AI experimentation—featuring motorized head and body rotation, animated antennas, audio‑visual sensors, pre‑loaded behaviors, and compatibility with Hugging Face’s AI model ecosystem, with shipping beginning fall 2025.
+
+{% embed url="https://youtu.be/JvdBJZ-qR18" %}
+
+### <mark style="color:orange;">Figure Felix</mark>
+
 {% embed url="https://x.com/Figure_robot/status/1931391490967928936" %}
 
 ### <mark style="color:orange;">Boston Dynamics</mark>

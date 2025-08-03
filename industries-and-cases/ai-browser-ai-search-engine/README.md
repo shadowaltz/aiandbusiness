@@ -27,7 +27,27 @@ The Browser Company has rolled out Dia, an AI‑first browser currently in beta 
 
 Fellou, the world’s first true _agentic browser_, which doesn’t just display web pages but autonomously thinks, navigates, clicks, and compiles insights—letting you delegate complex workflows and deep research across public and private platforms via intuitive natural-language commands
 {% endtab %}
+
+{% tab title="Perplexity Comet" %}
+[https://www.perplexity.ai/comet](https://www.perplexity.ai/comet)
+
+Perplexity AI has launched Comet, a Chromium‑based AI‑powered web browser that transforms browsing into a conversational assistant—organizing tabs, retaining context across sessions, automating tasks like summarizing articles, shopping, emailing, calendar management and even food ordering—all currently available to Perplexity Max subscribers with broader invite access rolling out through the summer of 2025.
+{% endtab %}
+
+{% tab title="Edge" %}
+Copilot in Edge
+
+{% embed url="https://x.com/satyanadella/status/1949884999345590406" %}
+{% endtab %}
+
+{% tab title="Chrome" %}
+Chrome AI Mode
+
+{% embed url="https://labs.google.com/search?source=srp&authuser=0" %}
+{% endtab %}
 {% endtabs %}
+
+
 
 
 

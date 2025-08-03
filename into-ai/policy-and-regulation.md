@@ -14,7 +14,15 @@ coverY: 0
 
 
 
-### United States:
+## United States:
+
+### AMERICA’S AI ACTION PLAN
+
+The Trump Administration has released America’s AI Action Plan (on July 23, 2025), a sweeping policy roadmap of over 90 federal actions across three pillars—Accelerating Innovation, Building American AI Infrastructure, and Leading International AI Diplomacy & Security—to establish U.S. global dominance in AI through deregulation, export incentives, energy expansion, and workforce development.
+
+{% embed url="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" %}
+
+
 
 Executive Order 14110 on "Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" (October 2023)\
 This executive order focuses on ensuring AI safety and security through robust evaluations, policies, and mechanisms to test and mitigate risks.

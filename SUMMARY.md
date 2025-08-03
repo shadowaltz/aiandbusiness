@@ -121,6 +121,7 @@
 * [👾 AI Agent Tools](ai-agent-apps/ai-agent-tools/README.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agent-tools/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agent-tools/microsoft-autogen.md)
+  * [n8n](ai-agent-apps/ai-agent-tools/n8n.md)
   * [Crew AI](ai-agent-apps/ai-agent-tools/crew-ai.md)
 * [Agent to Agent Protocol](ai-agent-apps/agent-to-agent-protocol/README.md)
   * [Model Context Protocol (MCP)](ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md)
