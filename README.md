@@ -61,6 +61,12 @@ OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation f
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**ElevenLabs Music**</mark>
+
+ElevenLabs has just launched Eleven Music, a new AI music-generation platform that lets users—from creators to businesses—instantly generate studio-grade tracks with vocals or instrumentals in multiple languages from natural‑language prompts, backed by licensing deals with Merlin Network and Kobalt to ensure broad commercial use.
+
+{% embed url="https://x.com/elevenlabsio/status/1952754097976721737" %}
+
 ### <mark style="color:orange;">ChatGPT Study Mode</mark>
 
 OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides users through step-by-step reasoning using Socratic-style questions, scaffolded lessons, personalized feedback, and interactive quizzes—designed to foster critical thinking and deeper comprehension rather than simply providing answers, and available to all logged‑in users on Free, Plus, Pro, and Team plans (with Edu availability soon)
@@ -91,44 +97,6 @@ Midjourney has unveiled Video V1, its first image-to-video generation model now 
 
 {% embed url="https://x.com/midjourney/status/1935377193733079452" %}
 
-### <mark style="color:orange;">ElevenLabs Eleven v3 (alpha)</mark>
-
-ElevenLabs has just released Eleven v3 (alpha), its most expressive text-to-speech model to date, featuring over 70 languages, inline audio tags for emotional control, and a new Text to Dialogue API for seamless multi-speaker conversations—marking a significant leap in AI-generated voice realism for creators in film, audiobooks, and interactive media.
-
-{% embed url="https://youtu.be/zv_IoWIO5Ek?si=SYSymnHO8JU1I6Fz" %}
-
-### <mark style="color:orange;">Claude Opus 4 and Claude Sonnet 4</mark>
-
-[<mark style="color:orange;">https://www.anthropic.com/news/claude-4</mark>](https://www.anthropic.com/news/claude-4)
-
-Anthropic just released Claude Opus 4 and Claude Sonnet 4, its most advanced AI models yet, with Opus 4 outperforming GPT-4.1 and Gemini 2.5 Pro in coding benchmarks and sustaining autonomous work for up to seven hours, while Sonnet 4 offers a cost-effective, high-precision alternative with enhanced reasoning and reduced shortcutting.&#x20;
-
-{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F09a6d5aa47c25cb2037efff9f486da4918f77708-3840x2304.png&w=3840&q=75" %}
-
-### <mark style="color:orange;">Google Veo 3</mark>
-
-Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.
-
-This third-generation model surpasses its predecessor, Veo 2, by offering enhanced realism, improved prompt adherence, and seamless audio-visual synchronization, enabling creators to produce cinematic scenes with lifelike physics and soundscapes. Veo 3 is accessible through Google's new Flow platform and the Gemini app for AI Ultra subscribers in the U.S., and it's also available to enterprise users via Vertex AI.
-
-{% embed url="https://x.com/GoogleDeepMind/status/1924893528062140417" %}
-
-### <mark style="color:orange;">Lovart</mark>
-
-[https://www.lovart.ai/](https://www.lovart.ai/)
-
-Lovart has just introduced the world's first AI Design Agent—a conversational, multimodal creative assistant that transforms a single prompt into a full suite of brand visuals, including logos, posters, videos, and music, all within an intuitive, collaborative canvas. Unlike traditional AI tools, Lovart integrates multiple AI models and offers editable layers, enabling users to iterate and refine designs in real time, effectively functioning as an on-demand creative team.
-
-{% embed url="https://youtu.be/KBeHmuRAJ7I?si=vXBQQ8osIEJRTTEf" %}
-
-### <mark style="color:orange;">**OpenAI Codex**</mark>
-
-OpenAI has just launched Codex, a cloud-based AI coding agent that autonomously handles tasks like writing features, fixing bugs, and running tests within isolated environments, offering developers a powerful virtual coworker integrated into ChatGPT.
-
-[<mark style="color:orange;">**https://openai.com/index/introducing-codex/**</mark>](https://openai.com/index/introducing-codex/)
-
-{% embed url="https://images.ctfassets.net/kftzwdyauwt9/6wYGm9QST2WYLbPJl5YwZC/1e63f3bfb458ce891db4f94a52052240/Codex_Blog_Header_V5.png?w=3840&q=90&fm=webp" %}
-
 ### <mark style="color:orange;">Google A2A</mark>
 
 [<mark style="color:orange;">https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/</mark>](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
@@ -140,20 +108,6 @@ Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seam
 {% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
 Source: Google Cloud
 {% endembed %}
-
-### <mark style="color:orange;">Kawasaki Corleo</mark>
-
-[https://www.khi.co.jp/expo2025/concept01/index\_en.html](https://www.khi.co.jp/expo2025/concept01/index_en.html)
-
-The Kawasaki Corleo is a hydrogen-powered, four-legged robotic vehicle unveiled at Expo 2025 in Osaka, designed for versatile all-terrain mobility with lifelike movement inspired by animals.
-
-{% embed url="https://www.youtube.com/watch?v=445K716GYCk&t=6s&ab_channel=GRIPPEDIA" %}
-
-### <mark style="color:orange;">**Midjourney V7**</mark>
-
-Midjourney V7, released in April 2025, is the latest AI image generation model featuring enhanced coherence, photorealistic textures, a new "Draft Mode" for rapid iteration at lower cost, and default personalization based on user preferences.
-
-{% embed url="https://x.com/midjourney/status/1908012961840672947" %}
 
 ### <mark style="color:orange;">Runway Gen-4</mark>
 
