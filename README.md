@@ -61,6 +61,12 @@ OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation f
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">GPT‑5</mark>
+
+OpenAI has officially released GPT‑5, its smartest, fastest, and most capable language model yet—featuring integrated reasoning via an automatic router, “vibe‑coding” for software‑generation from plain English, multimodal processing, higher accuracy with fewer hallucinations, and personalized experiences across multiple variants (Standard, Mini, Nano, Pro)—marking a major step toward agentic AI and AGI.
+
+{% embed url="https://www.youtube.com/live/0Uu_VJeVVfo?si=AaNCeDg4ssyXfw2c" %}
+
 ### <mark style="color:orange;">**ElevenLabs Music**</mark>
 
 ElevenLabs has just launched Eleven Music, a new AI music-generation platform that lets users—from creators to businesses—instantly generate studio-grade tracks with vocals or instrumentals in multiple languages from natural‑language prompts, backed by licensing deals with Merlin Network and Kobalt to ensure broad commercial use.
