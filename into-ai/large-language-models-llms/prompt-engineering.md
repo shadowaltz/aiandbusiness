@@ -4,8 +4,6 @@
 
 A prompt is an initial input or instruction given to an AI model to generate a response or complete a task.
 
-
-
 ### Why is a prompt important?
 
 A prompt is essential as it directs the AI model's output by offering detailed context, guidelines, or inquiries, thereby ensuring the generated response is pertinent, precise, and customized to the user's requirements.
@@ -41,6 +39,14 @@ Anthropic Prompt generator
 [https://console.anthropic.com/dashboard](https://console.anthropic.com/dashboard)
 {% endtab %}
 {% endtabs %}
+
+
+
+### Prompt MarketPlace
+
+* [https://promptbase.com/](https://promptbase.com/)
+* [https://promptrr.io/](https://promptrr.io/)
+* [https://prompts-market.com/](https://prompts-market.com/)
 
 
 
