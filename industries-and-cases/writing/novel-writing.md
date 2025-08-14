@@ -4,9 +4,17 @@ Given the present capabilities and memory constraints of large language models, 
 
 
 
+
+
 ### GenAI Novel Writing Tools
 
 {% tabs %}
+{% tab title="Google Story Book" %}
+[https://gemini.google.com/gem/storybook](https://gemini.google.com/gem/storybook)
+
+Google has launched Gemini Storybook, a new feature within the Gemini app that lets anyone—parents, educators, or storytellers—instantly generate personalized 10-page illustrated storybooks with optional read‑aloud narration, customizable art styles (like pixel art, claymation, comics), and even the ability to incorporate your own photos or drawings, all available across desktop and mobile in 45+ languages.
+{% endtab %}
+
 {% tab title="SudoWrite" %}
 [https://sudowrite.com/](https://sudowrite.com/)
 

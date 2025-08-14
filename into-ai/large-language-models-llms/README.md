@@ -105,6 +105,12 @@ Anthropic introduced the **new Claude 3.5 Sonnet, and Claude 3.5 Haiku.**
 ### Open Source Models:
 
 {% tabs %}
+{% tab title="gpt-oss" %}
+[https://openai.com/index/introducing-gpt-oss/](https://openai.com/index/introducing-gpt-oss/)
+
+OpenAI has released gpt‑oss, a pair of open‑weight language models (gpt‑oss‑120b and 20b) under the Apache 2.0 license, designed for high‑performance reasoning, tool use, and efficient local deployment—making the 120B model competitive with o4‑mini and the 20B variant optimized to run on consumer hardware.
+{% endtab %}
+
 {% tab title="Deepseek" %}
 DeepSeek v3 is an advanced open-source large language model with 671 billion parameters, offering superior performance and cost-effectiveness, making it a formidable alternative to closed-source models from tech giants like OpenAI and Google.
 
