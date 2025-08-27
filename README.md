@@ -30,6 +30,11 @@ icon: square-left
 By mid‑2025, a wave of agentic AI browsers has arrived—startups like The Browser Company’s **Dia**, which lets you _chat with your tabs_ via AI built into the browser’s foundation, and **Fellou**, which takes it further by actually executing multi‑step, cross‑site workflows on your behalf —and now the tech giants are racing to follow: **Perplexity Comet** (Chromium-based, for Max subscribers) auto-summarizes content, autofills forms, and orchestrates research or errands across pages; **Microsoft Edge**’s experimental _Copilot Mode_ sees across all open tabs, accepts voice or chat commands, and acts as a proactive in-browser assistant; and **Google Chrome** is embedding Gemini to deliver contextual tab-level AI help—with a fuller “Agent Mode” due soon.
 {% endtab %}
 
+{% tab title="Vibe Coding" %}
+This is where coding meets flow. Vibe coding is more than just writing code—it’s an approach and a mindset. It’s about working in a creative state, turning programming into exploration and expression, making tech intuitive and fun.\
+Put simply, **vibe coding is like writing down your ideas and letting the computer turn them into code—something anyone can do.**
+{% endtab %}
+
 {% tab title="MCP" %}
 #### What is MCP?
 
@@ -49,17 +54,17 @@ Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seam
 Source: Google Cloud
 {% endembed %}
 {% endtab %}
-
-{% tab title="Native Multimodal Model Image Generation/Editing" %}
-OpenAI's latest GPT 4o and Google's Gemini Flash Experimental image generation functions bring strong image editing capabilities, allowing users to manipulate and generate images through natural language prompts.
-
-{% embed url="https://youtu.be/ELwb_emN1p0?si=a-3MdEw0Q_KJ1qmE" %}
-{% endtab %}
 {% endtabs %}
 
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">Google Gemini 2.5 Flash Image (Nano-Banana)</mark>
+
+Google DeepMind introduces Gemini 2.5 Flash Image (Nano-Banana), a state-of-the-art image generation and editing model that blends multiple images, maintains character consistency, allows natural-language transformations, and leverages world knowledge for precision editing.&#x20;
+
+
 
 ### <mark style="color:orange;">GPT‑5</mark>
 

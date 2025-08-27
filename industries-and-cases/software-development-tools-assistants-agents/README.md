@@ -7,6 +7,13 @@ coverY: 0
 
 # 💽 Software Development Tools/Assistants/Agents
 
+## <mark style="color:purple;">Vibe Coding</mark>
+
+This is where coding meets flow. Vibe coding is more than just writing code—it’s an approach and a mindset. It’s about working in a creative state, turning programming into exploration and expression, making tech intuitive and fun.\
+Put simply, **vibe coding is like writing down your ideas and letting the computer turn them into code—something anyone can do.**
+
+
+
 ***
 
 ## <mark style="color:purple;">LLM for Coding</mark>
