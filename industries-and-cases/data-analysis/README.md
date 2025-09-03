@@ -9,6 +9,18 @@ coverY: 0
 
 Data analysis stands as a fundamental pillar of modern commerce and plays a crucial role in the advancement of artificial intelligence. The rapid advancement of large language models (LLM) over the last two years has significantly eased the entry barrier into the data science domain, opening up a broader array of practical applications.
 
+## News & Updates:
+
+### <mark style="color:purple;">Vibe Analytics</mark>
+
+> ### The Excel spreadsheet era asked, “What happened?” The dashboard era asked, “Why did it happen?” The vibe era asks, “What insights emerge if we explore together?” Consider the gains that real-world companies are already making.
+
+{% embed url="https://sloanreview.mit.edu/article/vibe-analytics-vibe-codings-new-cousin-unlocks-insights/" %}
+
+
+
+***
+
 ## Small to medium-scale datasets
 
 For analyzing small to medium-scale datasets, simply copy and paste your data into the conversation interfaces of various Large Language Models (such as ChatGPT, Claude, etc.) and engage in a dialogue with the AI to obtain analysis results. Here are some examples of how to structure your **prompts:**&#x20;

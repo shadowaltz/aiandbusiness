@@ -67,6 +67,12 @@ Cursor is an innovative AI-powered code editor that combines the functionality o
 {% embed url="https://www.cursor.com/videos/cmdkloop2.mp4" %}
 {% endtab %}
 
+{% tab title="Claude Code" %}
+_Anthropic launches Claude Code, a terminal-native agentic coding assistant that drops Claude Opus 4.1 into your existing IDE/CLI so it can deeply understand your codebase, edit files, run shell/Git commands, and connect to MCP servers like GitHub to automate everyday dev work._&#x20;
+
+{% embed url="https://youtu.be/AJpK3YTTKZ4?si=n34dUwRhnRiZdgUR" %}
+{% endtab %}
+
 {% tab title="Firebase" %}
 ### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
 

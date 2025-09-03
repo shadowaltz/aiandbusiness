@@ -64,7 +64,7 @@ Source: Google Cloud
 
 Google DeepMind introduces Gemini 2.5 Flash Image (Nano-Banana), a state-of-the-art image generation and editing model that blends multiple images, maintains character consistency, allows natural-language transformations, and leverages world knowledge for precision editing.&#x20;
 
-
+{% embed url="https://x.com/GoogleDeepMind/status/1960341906790957283" %}
 
 ### <mark style="color:orange;">GPT‑5</mark>
 
