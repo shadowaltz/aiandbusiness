@@ -10,7 +10,11 @@
 
 ### Causes of AI Hallucinations
 
-There are several reasons for AI hallucinations. Some large models suffer from insufficient training data, while others have low-quality training data containing errors. Additionally, some models were trained earlier and lacked updated information. User prompts that are unclear can also lead to hallucinations. Furthermore, chatbots designed to maintain conversation flow might generate inaccurate information in the absence of correct data (it is easy for an LLm) to fulfill their primary task of keeping the dialogue going.
+{% hint style="success" %}
+Large language models hallucinate—producing confident but false outputs—because their training and evaluation processes reward guessing over admitting uncertainty.
+{% endhint %}
+
+{% embed url="https://openai.com/index/why-language-models-hallucinate/" %}
 
 
 

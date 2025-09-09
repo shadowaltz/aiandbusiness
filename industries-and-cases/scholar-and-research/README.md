@@ -68,6 +68,12 @@ The AI Scientist is composed of four key stages: brainstorming research ideas, c
 
 Emergent Mind is a website that serves as a computer science research explorer, showcasing trending papers in the field.&#x20;
 {% endtab %}
+
+{% tab title="Paper Digest" %}
+**Review the most influential work around any topic by area, genre & time.**
+
+[https://www.paperdigest.org/](https://www.paperdigest.org/)
+{% endtab %}
 {% endtabs %}
 
 
