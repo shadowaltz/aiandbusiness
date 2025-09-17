@@ -77,6 +77,20 @@ CK-12 Foundation launched Flexi, an AI-powered tutor that delivers personalized,
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Learn Your Way" %}
+Google has launched Learn Your Way, a personalized AI-powered learning platform that adapts to each learner’s pace, style, and goals for more effective skill-building.
+
+[https://learnyourway.withgoogle.com/](https://learnyourway.withgoogle.com/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
 ## AI education agent
 
 {% tabs %}

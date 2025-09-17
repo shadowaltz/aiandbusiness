@@ -2,7 +2,7 @@
 description: AI Corporate Management
 ---
 
-# 🏛️ Corporate Management
+# 🏛️ General Business
 
 ## Enterprise Level Solutions:
 
@@ -16,11 +16,14 @@ Palantir Technologies is a leading provider of artificial intelligence and data 
 
 
 
-### <mark style="color:orange;">C3.ai</mark>
+[https://attio.com/](https://attio.com/)
 
-[https://c3.ai/products/c3-ai-applications/](https://c3.ai/products/c3-ai-applications/)
+Attio is the AI-native CRM for GTM builders.\
 
-C3.ai is a leading enterprise AI software provider founded in 2009 by Thomas Siebel and headquartered in Redwood City, California. The company specializes in developing and delivering enterprise-scale artificial intelligence applications across various industries, including manufacturing, financial services, government, utilities, oil and gas, and defense. C3.ai's flagship offering is the C3 AI Platform, a comprehensive suite of AI and machine learning tools that enables organizations to rapidly design, develop, and deploy AI applications to solve complex business problems and accelerate digital transformation.
+
+### The AI Product Manager
+
+[https://www.chatprd.ai/](https://www.chatprd.ai/)
 
 
 
