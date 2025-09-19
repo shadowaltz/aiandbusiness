@@ -60,6 +60,18 @@ Source: Google Cloud
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**Luma AI Ray3**</mark>
+
+Luma AI has released Ray3, a cutting-edge video generation model that thinks like a creative partner—offering native 10-/12-/16-bit HDR (ACES2065-1 EXR) video, visual reasoning (scene planning, self-evaluation, annotations), plus a fast “Draft Mode” for rapid ideation.
+
+{% embed url="https://youtu.be/z2UIcD2xvsA?si=xk3Trfh-_q7vFTgQ" %}
+
+### <mark style="color:orange;">Notion Agents</mark>
+
+Notion has announced Notion 3.0: Agents, a transformative upgrade that rebuilds Notion AI from the ground up so your Agent can do _anything a human can do_ in Notion—create docs, build databases, search across connected tools, execute multi-step workflows, remember your preferences, and even automate routine work on a schedule.
+
+{% embed url="https://youtu.be/R1cF4T4lgI4?si=YTJyPFOgNDbc8DsA" %}
+
 ### <mark style="color:orange;">Google Gemini 2.5 Flash Image (Nano-Banana)</mark>
 
 Google DeepMind introduces Gemini 2.5 Flash Image (Nano-Banana), a state-of-the-art image generation and editing model that blends multiple images, maintains character consistency, allows natural-language transformations, and leverages world knowledge for precision editing.&#x20;
