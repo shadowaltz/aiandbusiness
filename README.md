@@ -25,6 +25,12 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**ChatGPT Pulse**</mark>
+
+OpenAI has introduced ChatGPT Pulse, a proactive “morning briefing” experience for Pro users where ChatGPT autonomously researches your interests, calendar, and past conversations overnight and delivers a curated set of visual update cards the next day.
+
+{% embed url="https://youtu.be/nk6IjAnCCqw?si=siHq79zdtOJxpD9c" %}
+
 ### <mark style="color:orange;">**Luma AI Ray3**</mark>
 
 Luma AI has released Ray3, a cutting-edge video generation model that thinks like a creative partner—offering native 10-/12-/16-bit HDR (ACES2065-1 EXR) video, visual reasoning (scene planning, self-evaluation, annotations), plus a fast “Draft Mode” for rapid ideation.
