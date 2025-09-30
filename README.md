@@ -25,6 +25,12 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Sora 2</mark>
+
+OpenAI has launched Sora 2, a standalone app and next-generation text-to-video model that lets users create 10-second AI-generated videos (all content is synthetic) with features like identity verification, remixing, and a TikTok-style vertical video feed.
+
+{% embed url="https://youtu.be/1PaoWKvcJP0?si=bDP04yjpEC_HT_BJ" %}
+
 ### <mark style="color:orange;">**ChatGPT Pulse**</mark>
 
 OpenAI has introduced ChatGPT Pulse, a proactive “morning briefing” experience for Pro users where ChatGPT autonomously researches your interests, calendar, and past conversations overnight and delivers a curated set of visual update cards the next day.
