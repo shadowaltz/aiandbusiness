@@ -62,7 +62,7 @@ DuckDuckGo, the well-known search engine, has launched an AI Chat feature that p
 
 
 
-or you could use an AI aggregator like [**Poe**](../ai-aggregator-ai-hub.md#poe).
+or you could use an AI aggregator like [**Poe**](broken-reference).
 
 
 

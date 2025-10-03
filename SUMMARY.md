@@ -18,11 +18,8 @@
   * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
   * [Understand Token](into-ai/large-language-models-llms/understand-token.md)
   * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
-* [Image Generation/Synthesis](into-ai/image-generation-synthesis.md)
-* [AI Aggregator/AI Hub](into-ai/ai-aggregator-ai-hub.md)
 * [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
-* [AI and Work](into-ai/ai-and-work.md)
 
 ## Industries & Cases
 
@@ -38,8 +35,6 @@
 * [🖱️ AI Browser / AI Search Engine](industries-and-cases/ai-browser-ai-search-engine/README.md)
   * [Perplexity](industries-and-cases/ai-browser-ai-search-engine/perplexity.md)
   * [AEO (Answer Engine Optimization)](industries-and-cases/ai-browser-ai-search-engine/aeo-answer-engine-optimization.md)
-* [ℹ️ News/Info Gathering](industries-and-cases/news-info-gathering/README.md)
-  * [Case: how to use Grok to get the trending topic on X](industries-and-cases/news-info-gathering/case-how-to-use-grok-to-get-the-trending-topic-on-x.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
   * [Scholar & Research Prompts](industries-and-cases/scholar-and-research/scholar-and-research-prompts.md)
   * [Research & Scholar GPTs](industries-and-cases/scholar-and-research/research-and-scholar-gpts.md)

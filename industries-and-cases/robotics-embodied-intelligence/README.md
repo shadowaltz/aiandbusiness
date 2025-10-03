@@ -20,6 +20,12 @@ coverY: 137.1375464684015
 
 ## <mark style="color:purple;">News and Updates:</mark>
 
+### <mark style="color:orange;">Gemini Robotics 1.5</mark>
+
+Gemini Robotics 1.5 from Google DeepMind marks the official introduction of agentic capabilities to robots, allowing them to complete complex, multi-step tasks.
+
+{% embed url="https://youtu.be/UObzWjPb6XM?si=in6_KmbfL0WkL_zb" %}
+
 ### <mark style="color:orange;">Reachy Mini</mark>
 
 Hugging Face, via its recent acquisition of Pollen Robotics, has unveiled Reachy Mini, a compact and affordable open‑source desktop humanoid kit (starting at $299) designed for expressive human‑robot interaction, creative coding, and AI experimentation—featuring motorized head and body rotation, animated antennas, audio‑visual sensors, pre‑loaded behaviors, and compatibility with Hugging Face’s AI model ecosystem, with shipping beginning fall 2025.
