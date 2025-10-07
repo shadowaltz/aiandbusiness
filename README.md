@@ -25,6 +25,12 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">**OpenAI**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">AgentKit</mark>
+
+OpenAI has rolled out Agent Builder as part of its new AgentKit — a visual canvas for orchestrating and versioning workflows among multiple AI agents, letting developers build complex, multi-agent systems more easily and reliably than before.
+
+{% embed url="https://youtu.be/44eFf-tRiSg?si=ozoHthiQSGCHQdOl" %}
+
 ### <mark style="color:orange;">Sora 2</mark>
 
 OpenAI has launched Sora 2, a standalone app and next-generation text-to-video model that lets users create 10-second AI-generated videos (all content is synthetic) with features like identity verification, remixing, and a TikTok-style vertical video feed.
