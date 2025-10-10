@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to AI\&Business (Beta)](README.md)
+* [AIandBusiness.com (Beta)](README.md)
 
 ## INTO AI
 

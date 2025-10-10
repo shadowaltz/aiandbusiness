@@ -3,7 +3,7 @@ description: An open manual for the collaboration of AI and business.
 icon: square-left
 ---
 
-# Welcome to AI\&Business (Beta)
+# AIandBusiness.com (Beta)
 
 {% hint style="success" %}
 <mark style="color:orange;">**Introduction**</mark>
@@ -15,15 +15,17 @@ icon: square-left
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>AI Agents/Apps/MCP</td><td></td><td><a href="ai-agent-apps/what-are-ai-agents/">what-are-ai-agents</a></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td>Text to Image/AI Image Editing</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td>AI video generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td>AI Music Generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td>AI Hardware</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
 
-### <mark style="color:purple;">Industries & Cases Navigation:</mark>
-
-<table data-header-hidden><thead><tr><th width="223"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="industries-and-cases/ai-browser-ai-search-engine/"><strong>AI Search Engine</strong></a></td><td><a href="industries-and-cases/smart-working/"><strong>Smart Working</strong></a></td><td><a href="industries-and-cases/podcasting/"><strong>Podcasting</strong></a></td><td><a href="industries-and-cases/writing/"><strong>Writing</strong></a></td></tr><tr><td><a href="industries-and-cases/software-development-tools-assistants-agents/"><strong>Software Development</strong></a></td><td><a href="industries-and-cases/scholar-and-research/"><strong>Scholar&#x26;Research</strong></a></td><td><a href="sound-and-music/music-generation/"><strong>Music Generation</strong></a></td><td><a href="industries-and-cases/robotics-embodied-intelligence/"><strong>Robotics</strong></a></td></tr><tr><td><a href="industries-and-cases/education/"><strong>Education</strong></a></td><td><a href="industries-and-cases/marketing/"><strong>Marketing</strong></a></td><td><a href="industries-and-cases/supply-chain/"><strong>Supply Chain</strong></a></td><td><a href="ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md"><strong>MCP</strong></a></td></tr></tbody></table>
-
 <figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
 
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">**Figure 03**</mark>
+
+
+
+{% embed url="https://youtu.be/Eu5mYMavctM?si=lPNcD56-CzQuSJfg" %}
 
 ### <mark style="color:orange;">**OpenAI**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">AgentKit</mark>
 
@@ -79,11 +81,7 @@ OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides
 
 {% embed url="https://youtu.be/XDYilxy1dn8?si=igCVut358bdlsmbD" %}
 
-### <mark style="color:orange;">**ChatGPT Agent**</mark>
 
-OpenAI today launched ChatGPT Agent, a powerful AI assistant that goes beyond chat by autonomously managing complex, multi‑step tasks—complete with its own “virtual computer” that can browse websites, run code, book reservations, shop online, edit spreadsheets and slide decks—while ensuring users stay in control through permission prompts and safety features like Watch Mode.
-
-{% embed url="https://www.youtube.com/live/1jn_RpbPbEc?si=yE8s9jFdSZIdJVN0" %}
 
 ### <mark style="color:orange;">AMERICA’S AI ACTION PLAN</mark>
 
@@ -115,21 +113,7 @@ Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seam
 Source: Google Cloud
 {% endembed %}
 
-### <mark style="color:orange;">Runway Gen-4</mark>
 
-Runway Gen-4 is a cutting-edge AI model designed for generating consistent and controllable media, enabling creators to produce coherent characters, locations, and objects across scenes while maintaining stylistic and cinematic continuity.
-
-[https://runwayml.com/research/introducing-runway-gen-4](https://runwayml.com/research/introducing-runway-gen-4)
-
-{% embed url="https://www.youtube.com/watch?v=uRkfzKYFOxc&ab_channel=Runway" %}
-
-### <mark style="color:orange;">**Top 100 GenAI Apps (4th edition)**</mark>
-
-<mark style="color:orange;">**Offical LInk:**</mark> [<mark style="color:orange;">**https://a16z.com/100-gen-ai-apps-4/**</mark>](https://a16z.com/100-gen-ai-apps-4/)
-
-{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/01-Top-Gen-AI-2025-Web-Top-50-List-Inline-1.jpg" %}
-
-{% embed url="https://d1lamhf6l6yk6d.cloudfront.net/uploads/2025/03/02-Top-Gen-AI-2025-Apps-Top-50-List-Inline.png" %}
 
 
 
