@@ -23,7 +23,7 @@ icon: square-left
 
 ### <mark style="color:orange;">**Figure 03**</mark>
 
-
+Figure has just introduced Figure 03, a third-generation humanoid robot built from the ground up for general-purpose use—its improvements include a fully redesigned sensory suite, tactile fingertips able to sense as little as 3 g of force, inductive wireless charging, soft-goods safety materials, and a production-friendly architecture that makes it scalable to mass manufacture.
 
 {% embed url="https://youtu.be/Eu5mYMavctM?si=lPNcD56-CzQuSJfg" %}
 
