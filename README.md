@@ -21,6 +21,12 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">ChatGPT Atlas</mark>
+
+ChatGPT Atlas by OpenAI is a newly launched AI‑powered web browser that integrates the ChatGPT interface directly into your browsing experience, offering a sidebar chat companion, webpage summarization, product and content comparison, personalized memory of your behavior, and an “agent mode” that can navigate websites and perform tasks on your behalf—all initially available globally for macOS, with Windows, iOS and Android versions coming soon.
+
+{% embed url="https://www.youtube.com/live/8UWKxJbjriY?si=v9gk5fU_U9MCHrPR" %}
+
 ### <mark style="color:orange;">**Figure 03**</mark>
 
 Figure has just introduced Figure 03, a third-generation humanoid robot built from the ground up for general-purpose use—its improvements include a fully redesigned sensory suite, tactile fingertips able to sense as little as 3 g of force, inductive wireless charging, soft-goods safety materials, and a production-friendly architecture that makes it scalable to mass manufacture.
