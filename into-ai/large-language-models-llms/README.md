@@ -10,8 +10,8 @@ coverY: 0
 
 
 {% hint style="success" %}
-* [ChatGPT Tutorial](chatgpt/)
-* [LLama](how-to-use-an-opensource-llm-locally.md)
+* [ChatGPT Tutorial](broken-reference)
+* [LLama](broken-reference)
 * [Prompt Tutorial](prompt-engineering.md)
 * [Hallucination Problem](hallucination-problem.md)
 {% endhint %}

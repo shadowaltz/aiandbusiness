@@ -15,8 +15,6 @@ icon: square-left
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>AI Agents/Apps/MCP</td><td></td><td><a href="ai-agent-apps/what-are-ai-agents/">what-are-ai-agents</a></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td>Text to Image/AI Image Editing</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td>AI video generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td>AI Music Generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td>AI Hardware</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/AIandBusiness (1).webp" alt=""><figcaption><p>Generated with Midjourney by aiandbusiness.com</p></figcaption></figure>
-
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
