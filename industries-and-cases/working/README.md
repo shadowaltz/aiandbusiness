@@ -19,19 +19,19 @@ coverY: 0
 
 ***
 
-## All-in-one Office Suite
+OpenAI ChatGPT for any roles
+
+[https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role)
 
 
 
-
-
-### OpenAI - AI in the Enterprise
+OpenAI - AI in the Enterprise
 
 [https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf)
 
 
 
-### Microsoft’s 2025 Work Trend Index
+Microsoft’s 2025 Work Trend Index
 
 [https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)
 

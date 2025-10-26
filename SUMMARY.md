@@ -78,7 +78,6 @@
     * [AI STEAM Learning Tools](industries-and-cases/education/ai-education-tools/ai-steam-learning-tools.md)
     * [AI Language Learning Tools](industries-and-cases/education/ai-education-tools/ai-language-learning-tools.md)
   * [Education Prompt Examples](industries-and-cases/education/education-prompt-examples.md)
-* [🫂 AI Companion](industries-and-cases/ai-companion.md)
 * [Sales/Business Development](industries-and-cases/sales-business-development.md)
 * [🚚 Supply Chain](industries-and-cases/supply-chain/README.md)
   * [Manufacturing & Production](industries-and-cases/supply-chain/manufacturing-and-production.md)
