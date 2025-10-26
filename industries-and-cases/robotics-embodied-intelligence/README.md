@@ -10,10 +10,9 @@ coverY: 137.1375464684015
 
 {% hint style="info" %}
 * [Humanoid Robots](humanoid-robots/)
-* [Industrial Robots](industrial-robot.md)
-* [Four-legged Robot](four-legged-robot.md)
-* [Service Robots](service-robots.md)
-* [Field Robots](field-robots.md)
+* [Service Robots](broken-reference)
+
+
 {% endhint %}
 
 ***

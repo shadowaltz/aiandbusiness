@@ -11,8 +11,6 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Dia" %}
-### Dia
-
 The Browser Company has rolled out Dia, an AI‑first browser currently in beta for macOS that places a contextual assistant—powered by a “skills” system—right in your address bar and sidebar, letting you summarize content, draft emails, shop smarter, and interact directly with tabs and browsing history without switching apps
 
 [https://www.diabrowser.com/](https://www.diabrowser.com/)
@@ -34,110 +32,9 @@ Fellou, the world’s first true _agentic browser_, which doesn’t just display
 Perplexity AI has launched Comet, a Chromium‑based AI‑powered web browser that transforms browsing into a conversational assistant—organizing tabs, retaining context across sessions, automating tasks like summarizing articles, shopping, emailing, calendar management and even food ordering—all currently available to Perplexity Max subscribers with broader invite access rolling out through the summer of 2025.
 {% endtab %}
 
-{% tab title="Edge" %}
-Copilot in Edge
-
-{% embed url="https://x.com/satyanadella/status/1949884999345590406" %}
-{% endtab %}
-
 {% tab title="Chrome" %}
 Chrome AI Mode
 
 {% embed url="https://labs.google.com/search?source=srp&authuser=0" %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-***
-
-## AI Search Engines
-
-{% tabs %}
-{% tab title="Perplexity" %}
-### <mark style="color:orange;">Perplexity</mark>
-
-At a time when ChatGPT was not able to access the internet, after all, and could be very inaccurate, in came Perplexity—an AI search engine application that primarily uses internet connectivity to source for whatever information it is. It guarantees sourcing for all the responses, thus leading to very high search speeds and a great user experience. With recent features like Copilot, it has become a serious competitor to Google and is now the default search engine for upcoming browsers like Arc.
-
-{% embed url="https://youtu.be/hrggcbweDjc" %}
-
-Becoming more and more popular in the market, Perplexity has already formed alliances with many AI products such as Rabbit R1 or AI Frame. There is a free edition for those interested in checking out the features.
-
-Referral link:
-
-[https://perplexity.ai/pro?referral\_code=LF6KJLGJ](https://perplexity.ai/pro?referral_code=LF6KJLGJ)
-{% endtab %}
-
-{% tab title="ChatGPT Search" %}
-### <mark style="color:orange;">ChatGPT Search</mark>
-
-ChatGPT Search is a new feature that allows users to get fast, timely answers with links to relevant web sources directly within the ChatGPT interface.
-
-{% embed url="https://images.ctfassets.net/kftzwdyauwt9/7LzxdzMcijUYHtIES6rmub/1dd3bc9f423a6b1cd5176936dbb029aa/Entry_Point.png?w=3840&q=90&fm=webp" %}
-{% endtab %}
-
-{% tab title="Bing" %}
-### <mark style="color:orange;">Bing</mark>
-
-Thanks to its partnership with OpenAI, Bing became the pioneering search engine to enhance its search capabilities with large language models. It now boasts a suite of features, including Copilot, that are quite comprehensive, mirroring the functionalities available in ChatGPT. Its strategy focuses on offering a wide-ranging and all-inclusive set of features.
-
-{% embed url="https://youtu.be/wKYqA1MLrXQ" %}
-
-[https://www.bing.com/](https://www.bing.com/)
-{% endtab %}
-
-{% tab title="Gemini" %}
-Google Gemini
-{% endtab %}
-
-{% tab title="Exa.ai" %}
-### <mark style="color:orange;">Exa.ai</mark>
-
-[https://exa.ai/search](https://exa.ai/search)
-
-Exa.ai is a knowledge API that utilizes advanced AI language processing to convert internet information into organized knowledge, designed specifically for large language models and developers.
-
-{% embed url="https://imagedelivery.net/gpNK4NZWsKZudYe2e_vBrw/999c2e68-578e-42e8-ceb0-afad0316ac00/public" %}
-
-
-{% endtab %}
-
-{% tab title="Globe.engineer" %}
-### <mark style="color:orange;">Globe.engineer</mark>
-
-[https://globe.engineer/](https://globe.engineer/)
-
-> #### _Globe's mission is to optimally represent information for human comprehension._
-
-Explorer is a search discovery engine. It creates a table of contents on the topic, and then visualizes each section and concept with an optimal image or diagram so you can quickly find what you need, or discover what you didn't know you needed.
-
-<figure><img src="../../.gitbook/assets/engineer globe tiny.png" alt=""><figcaption><p><mark style="color:orange;">Globe.engineer</mark> will access images online, due to copyright issues, all images are obscured.</p></figcaption></figure>
-
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### OpenSource Projects
-
-{% tabs %}
-{% tab title="MiniPerplx" %}
-A minimalistic AI-powered search engine
-
-[https://mplx.run/search](https://mplx.run/search)
-
-Github: [https://github.com/zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx)
-{% endtab %}
-
-{% tab title="llm-answer-engine" %}
-{% embed url="https://github.com/developersdigest/llm-answer-engine" %}
-
-{% embed url="https://www.youtube.com/watch?v=kFC-OWw7G8k" %}
-
-This recent **open-source** initiative guides you through building your own Perplexity AI search engine with Next.js. The project is freely available under the MIT license, complemented by comprehensive YouTube tutorials from the creator. For those interested, it offers the opportunity to customize and integrate preferred large models and their versions.
-{% endtab %}
-{% endtabs %}
-

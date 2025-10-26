@@ -5,8 +5,7 @@
 ## INTO AI
 
 * [AI Basics](into-ai/ai-basics/README.md)
-  * [AI Learning Resources](into-ai/ai-basics/ai-learning-resources/README.md)
-    * [Industry Reports and White Papers](into-ai/ai-basics/ai-learning-resources/industry-reports-and-white-papers.md)
+  * [AI Learning Resources](into-ai/ai-basics/ai-learning-resources.md)
 * [Large Language Models (LLMs)](into-ai/large-language-models-llms/README.md)
   * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
   * [Hallucination](into-ai/large-language-models-llms/hallucination.md)
@@ -20,12 +19,7 @@
     * [Figure AI](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
     * [Boston Dynamics](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/boston-dynamics.md)
     * [Tesla Optimus](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/tesla-optimus.md)
-  * [Industrial Robot](industries-and-cases/robotics-embodied-intelligence/industrial-robot.md)
-  * [Four-legged Robot](industries-and-cases/robotics-embodied-intelligence/four-legged-robot.md)
-  * [Service Robots](industries-and-cases/robotics-embodied-intelligence/service-robots.md)
-  * [Field Robots](industries-and-cases/robotics-embodied-intelligence/field-robots.md)
 * [🖱️ AI Browser / AI Search Engine](industries-and-cases/ai-browser-ai-search-engine/README.md)
-  * [Perplexity](industries-and-cases/ai-browser-ai-search-engine/perplexity.md)
   * [AEO (Answer Engine Optimization)](industries-and-cases/ai-browser-ai-search-engine/aeo-answer-engine-optimization.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
   * [Scholar & Research Prompts](industries-and-cases/scholar-and-research/scholar-and-research-prompts.md)
