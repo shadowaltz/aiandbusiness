@@ -10,10 +10,6 @@ coverY: 0
 
 # Policy and Regulation
 
-**Introduction:** Understanding the policies and regulations surrounding artificial intelligence is crucial for businesses to navigate the legal landscape and ensure compliance. This section provides insights into the latest legislative changes, regulatory impacts, and compliance requirements for AI technologies across different regions.
-
-
-
 ## United States:
 
 ### AMERICA’S AI ACTION PLAN
@@ -43,7 +39,7 @@ UK government's announcement of £8.5 million in research grants aimed at improv
 
 {% embed url="https://www.gov.uk/government/news/tech-secretary-unveils-85-million-research-funding-set-to-break-new-grounds-in-ai-safety-testing" %}
 
-### **Europe:**
+### **E.U.:**
 
 The European Parliament has passed the Artificial Intelligence Act, marking the world's first legally binding AI legislation. This act is designed to ensure safety and adherence to fundamental rights while fostering innovation. Key components include:
 

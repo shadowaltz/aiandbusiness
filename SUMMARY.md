@@ -9,7 +9,7 @@
     * [Industry Reports and White Papers](into-ai/ai-basics/ai-learning-resources/industry-reports-and-white-papers.md)
 * [Large Language Models (LLMs)](into-ai/large-language-models-llms/README.md)
   * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
-  * [Hallucination Problem](into-ai/large-language-models-llms/hallucination-problem.md)
+  * [Hallucination](into-ai/large-language-models-llms/hallucination.md)
 * [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
 
