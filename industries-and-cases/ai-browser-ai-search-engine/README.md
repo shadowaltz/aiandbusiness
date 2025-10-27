@@ -10,6 +10,12 @@ coverY: 0
 ## AI Browsers
 
 {% tabs %}
+{% tab title="ChatGPT Atlas" %}
+ChatGPT Atlas by OpenAI is a newly launched AI‑powered web browser that integrates the ChatGPT interface directly into your browsing experience, offering a sidebar chat companion, webpage summarization, product and content comparison, personalized memory of your behavior, and an “agent mode” that can navigate websites and perform tasks on your behalf—all initially available globally for macOS, with Windows, iOS and Android versions coming soon.
+
+{% embed url="https://www.youtube.com/live/8UWKxJbjriY?si=v9gk5fU_U9MCHrPR" %}
+{% endtab %}
+
 {% tab title="Dia" %}
 The Browser Company has rolled out Dia, an AI‑first browser currently in beta for macOS that places a contextual assistant—powered by a “skills” system—right in your address bar and sidebar, letting you summarize content, draft emails, shop smarter, and interact directly with tabs and browsing history without switching apps
 

@@ -10,9 +10,7 @@ coverY: 137.1375464684015
 
 {% hint style="info" %}
 * [Humanoid Robots](humanoid-robots/)
-* [Service Robots](broken-reference)
-
-
+*
 {% endhint %}
 
 ***
