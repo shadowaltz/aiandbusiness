@@ -5,50 +5,26 @@ cover: >-
 coverY: 0
 ---
 
-# 💽 Software Development Tools/Assistants/Agents
+# 💽 Coding
 
-## <mark style="color:purple;">Vibe Coding</mark>
+<details>
+
+<summary>Vibe Coding</summary>
 
 This is where coding meets flow. Vibe coding is more than just writing code—it’s an approach and a mindset. It’s about working in a creative state, turning programming into exploration and expression, making tech intuitive and fun.\
 Put simply, **vibe coding is like writing down your ideas and letting the computer turn them into code—something anyone can do.**
 
-
+</details>
 
 ***
 
 ## <mark style="color:purple;">LLM for Coding</mark>
 
-{% tabs %}
-{% tab title="Gemini 2.5" %}
-Gemini 2.5, Google DeepMind's latest multimodal AI model, excels in advanced reasoning and coding tasks, capable of generating complex software like interactive web applications or games from minimal prompts while supporting robust code transformation and editing.
-{% endtab %}
-
-{% tab title="Claude 3.7 sonnet" %}
-## Claude 3.7 Sonnet and Claude Code
-
-Anthropic has introduced Claude 3.7 Sonnet, a hybrid reasoning AI model that integrates rapid responses with extended, step-by-step thinking for tasks like coding and problem-solving, alongside a new agentic coding tool, Claude Code, designed to streamline software development workflows.
-
-[https://www.anthropic.com/news/claude-3-7-sonnet](https://www.anthropic.com/news/claude-3-7-sonnet)
-
-[https://claude.ai](https://claude.ai)
-{% endtab %}
-
-{% tab title="Gpt-4o with Canvas" %}
-GPT-4o with Canvas is OpenAI's latest multimodal AI model that integrates text, vision, and audio capabilities, now available in preview on Azure AI, featuring a new interface called Canvas that allows users to collaborate with the AI on writing and coding projects in a separate, editable workspace.
-
-{% embed url="https://openai.com/index/introducing-canvas/" %}
-
-{% embed url="https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp" %}
-Gpt-4o with Canvas
-{% endembed %}
-{% endtab %}
-
-{% tab title="OpenAI o1" %}
-OpenAI's latest model is potent in coding.
-
-{% embed url="https://www.youtube.com/watch?v=T0IrhzrhR40&ab_channel=OpenAI" %}
-{% endtab %}
-{% endtabs %}
+{% hint style="info" %}
+* Claude
+* GPT
+* Gemini
+{% endhint %}
 
 
 

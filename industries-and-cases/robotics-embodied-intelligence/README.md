@@ -8,9 +8,8 @@ coverY: 137.1375464684015
 
 ## Navigation:
 
-{% hint style="info" %}
+{% hint style="success" %}
 * [Humanoid Robots](humanoid-robots/)
-*
 {% endhint %}
 
 ***
