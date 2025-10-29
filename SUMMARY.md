@@ -90,9 +90,9 @@
 
 ## AI Agent/Apps
 
-* [🪪 What Are AI Agents?](ai-agent-apps/what-are-ai-agents/README.md)
-  * [Case: Altera Project Sid](ai-agent-apps/what-are-ai-agents/case-altera-project-sid.md)
-  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/what-are-ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
+* [🪪 AI Agents](ai-agent-apps/ai-agents/README.md)
+  * [Case: Altera Project Sid](ai-agent-apps/ai-agents/case-altera-project-sid.md)
+  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
 * [👾 AI Agent Tools](ai-agent-apps/ai-agent-tools/README.md)
   * [Make.com Tutorial](ai-agent-apps/ai-agent-tools/make.com-tutorial.md)
   * [Microsoft AutoGen](ai-agent-apps/ai-agent-tools/microsoft-autogen.md)
@@ -102,8 +102,6 @@
 * [Agent to Agent Protocol](ai-agent-apps/agent-to-agent-protocol/README.md)
   * [Model Context Protocol (MCP)](ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md)
   * [Google A2A](ai-agent-apps/agent-to-agent-protocol/google-a2a.md)
-* [AI Assistant](ai-agent-apps/ai-assistant.md)
-* [Computer Use Agent](ai-agent-apps/computer-use-agent.md)
 * [AI App Development Tool](ai-agent-apps/ai-app-development-tool.md)
 
 ## Image

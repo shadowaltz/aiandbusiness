@@ -1,9 +1,5 @@
 # 👾 AI Agent Tools
 
-{% hint style="info" %}
-AI Agents are still in their early stages, and building one requires some basic programming knowledge.&#x20;
-{% endhint %}
-
 ### <mark style="color:purple;">Workflow Automation Platforms / iPaaS</mark>
 
 {% hint style="success" %}
