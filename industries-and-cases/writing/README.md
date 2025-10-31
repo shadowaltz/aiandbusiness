@@ -27,39 +27,75 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 
 Example:
 
-#### 1. **Extending Text**
+<details>
+
+<summary>Expand Text</summary>
 
 * **Original Content**: "The rise of artificial intelligence has brought significant changes to various industries."
-* **Prompt**: "Extend the following sentence: 'The rise of artificial intelligence has brought significant changes to various industries.'"
+
+- **Prompt**: "Extend the following sentence: 'The rise of artificial intelligence has brought significant changes to various industries.'"
+
 * **Result**: "The rise of artificial intelligence has brought significant changes to various industries, revolutionizing sectors like healthcare, finance, and education. In healthcare, AI systems enhance diagnostics and treatment accuracy, while in finance, they streamline risk assessment and fraud detection. Similarly, in education, AI-based tools are reshaping how students learn and interact with course materials."
 
-#### 2. **Mimicking Writing Styles**
+</details>
+
+<details>
+
+<summary>Mimicking Writing Styles</summary>
+
+
 
 * **Original Content**: "The weather is sunny today, and it feels really nice outside."
-* **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in an academic style."
+
+- **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in an academic style."
+
 * **Result (Academic Style)**: "Today’s atmospheric conditions are characterized by clear skies and abundant sunlight, contributing to a pleasant outdoor experience conducive to various activities."
-* **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in a casual, conversational style."
+
+- **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in a casual, conversational style."
+
 * **Result (Casual Style)**: "Man, the weather is amazing today—sun’s out, and it’s the perfect day to chill outside!"
 
-#### 3. **Substituting Words**
+</details>
+
+<details>
+
+<summary>Substituting Words</summary>
 
 * **Original Content**: "The company is planning to expand its market presence."
-* **Prompt**: "Substitute words in the sentence 'The company is planning to expand its market presence' with more formal or alternative words."
+
+- **Prompt**: "Substitute words in the sentence 'The company is planning to expand its market presence' with more formal or alternative words."
+
 * **Result**: "The corporation intends to broaden its footprint in the market."
 
-#### 4. **Completing Texts**
+</details>
+
+<details>
+
+<summary>Completing Texts</summary>
 
 * **Original Content**: "Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…"
-* **Prompt**: "Complete the sentence: 'Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…'"
+
+- **Prompt**: "Complete the sentence: 'Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…'"
+
 * **Result**: "…the rapid decryption of complex codes, which would take traditional computers millions of years to crack. This advancement could not only disrupt cybersecurity but also offer breakthroughs in chemical modeling, drug discovery, and financial forecasting by performing calculations at speeds previously thought impossible."
 
-#### 5. **Refining Content**
+</details>
+
+<details>
+
+<summary>Refining Content</summary>
 
 * **Original Content**: "The product is good and helps people do things more efficiently."
-* **Prompt**: "Refine the sentence: 'The product is good and helps people do things more efficiently.'"
+
+- **Prompt**: "Refine the sentence: 'The product is good and helps people do things more efficiently.'"
+
 * **Result**: "The product significantly enhances productivity, enabling users to complete tasks with greater efficiency and precision."
 
-#### 6. **Summarizing**
+</details>
+
+<details>
+
+<summary>Summarizing</summary>
 
 LLMs can generate concise summaries of longer texts, which is useful for quickly extracting key points from lengthy documents.
 
@@ -67,13 +103,23 @@ LLMs can generate concise summaries of longer texts, which is useful for quickly
 * **Prompt**: "Summarize the following text: 'The latest report from the World Economic Forum outlines how emerging technologies, such as artificial intelligence and blockchain, are poised to reshape global industries...'"
 * **Result**: "Emerging technologies like AI and blockchain are set to revolutionize industries, with examples from healthcare, finance, and supply chains showcasing both benefits and risks."
 
-#### 7. **Generating Titles or Headlines**
+</details>
+
+<details>
+
+<summary>Generating Titles or Headlines</summary>
 
 LLMs can help craft catchy titles or headlines for articles, blogs, and other content.
 
 * **Original**: "A detailed exploration of how artificial intelligence is impacting modern-day healthcare systems by improving diagnostics, treatment, and patient outcomes."
 * **Prompt**: "Create a catchy headline for the following content: 'A detailed exploration of how artificial intelligence is impacting modern-day healthcare systems...'"
 * **Result**: "AI in Healthcare: Revolutionizing Diagnostics and Patient Care"
+
+</details>
+
+
+
+
 
 #### 8. **Paraphrasing**
 

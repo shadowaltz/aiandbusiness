@@ -16,14 +16,40 @@ Palantir Technologies is a leading provider of artificial intelligence and data 
 
 
 
+CRM
+
 [https://attio.com/](https://attio.com/)
 
 Attio is the AI-native CRM for GTM builders.\
 
 
-### The AI Product Manager
+#### The AI Product Manager
 
 [https://www.chatprd.ai/](https://www.chatprd.ai/)
+
+
+
+## Startups
+
+<details>
+
+<summary>Startup Evaluation</summary>
+
+Tome [https://tome.app/](https://tome.app/)
+
+</details>
+
+<details>
+
+<summary>Startup Ideas</summary>
+
+|               |                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| Ideanote      | [https://ideanote.io/idea-generator](https://ideanote.io/idea-generator)                         |
+| Founderpal AI | [https://founderpal.ai/business-ideas-generator](https://founderpal.ai/business-ideas-generator) |
+| Startup AI    | [https://stratup.ai/en](https://stratup.ai/en)                                                   |
+
+</details>
 
 
 

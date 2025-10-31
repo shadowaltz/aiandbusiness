@@ -34,11 +34,6 @@
   * [Novel Writing](industries-and-cases/writing/novel-writing.md)
 * [👩‍💻 Data Analysis](industries-and-cases/data-analysis/README.md)
   * [Case: Los Angeles Rams Harness AI for Competitive Edge](industries-and-cases/data-analysis/case-los-angeles-rams-harness-ai-for-competitive-edge.md)
-* [🚗 Autonomous Driving](industries-and-cases/autonomous-driving/README.md)
-  * [Robotaxi & Robovan](industries-and-cases/autonomous-driving/robotaxi-and-robovan/README.md)
-    * [Tesla](industries-and-cases/autonomous-driving/robotaxi-and-robovan/tesla.md)
-    * [Waymo](industries-and-cases/autonomous-driving/robotaxi-and-robovan/waymo.md)
-    * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/robotaxi-and-robovan/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 * [Marketing](industries-and-cases/marketing/README.md)
   * [Tools](industries-and-cases/marketing/tools.md)
   * [📱 Social Media](industries-and-cases/marketing/social-media/README.md)
@@ -60,13 +55,6 @@
   * [AI NPC](industries-and-cases/game-development/ai-npc.md)
   * [🎮 Gaming Assistant](industries-and-cases/game-development/gaming-assistant/README.md)
     * [Case: OpenAI Five](industries-and-cases/game-development/gaming-assistant/case-openai-five.md)
-* [🎙️ Podcasting](industries-and-cases/podcasting/README.md)
-  * [Podcast Summaries](industries-and-cases/podcasting/podcast-summaries.md)
-  * [AI-Generated News Podcasting Cases](industries-and-cases/podcasting/ai-generated-news-podcasting-cases.md)
-* [👥 Virtual Avatar / Digital Human](industries-and-cases/virtual-avatar-digital-human/README.md)
-  * [Case: Ai.lonso](industries-and-cases/virtual-avatar-digital-human/case-ai.lonso.md)
-* [📐 Industrial drafting and modeling](industries-and-cases/industrial-drafting-and-modeling.md)
-* [Startups](industries-and-cases/startups.md)
 * [🏛️ General Business](industries-and-cases/general-business.md)
 * [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🎓 Education](industries-and-cases/education/README.md)
@@ -85,8 +73,12 @@
   * [Fraud Detection](industries-and-cases/ai-+-finance/fraud-detection.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
 * [Biotechnology  and Medicine](industries-and-cases/biotechnology-and-medicine.md)
-* [Agriculture](industries-and-cases/agriculture.md)
 * [Jobs & Interview](industries-and-cases/jobs-and-interview.md)
+* [🚗 Autonomous Driving](industries-and-cases/autonomous-driving/README.md)
+  * [Robotaxi & Robovan](industries-and-cases/autonomous-driving/robotaxi-and-robovan/README.md)
+    * [Tesla](industries-and-cases/autonomous-driving/robotaxi-and-robovan/tesla.md)
+    * [Waymo](industries-and-cases/autonomous-driving/robotaxi-and-robovan/waymo.md)
+    * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](industries-and-cases/autonomous-driving/robotaxi-and-robovan/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 
 ## AI Agent/Apps
 
@@ -123,6 +115,8 @@
   * [Sora](video-and-films/film-making/sora.md)
   * [Runway](video-and-films/film-making/runway/README.md)
     * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
+* [👥 Virtual Avatar / Digital Human](video-and-films/virtual-avatar-digital-human/README.md)
+  * [Case: Ai.lonso](video-and-films/virtual-avatar-digital-human/case-ai.lonso.md)
 * [AI Video Case Studies](video-and-films/ai-video-case-studies/README.md)
   * [ASML Ad: Midjourney+Stable Diffusion+Runway](video-and-films/ai-video-case-studies/asml-ad-midjourney+stable-diffusion+runway.md)
   * [ToysRus New AI Commercial](video-and-films/ai-video-case-studies/toysrus-new-ai-commercial.md)
@@ -139,6 +133,9 @@
 * [🎼 Music Generation](sound-and-music/music-generation/README.md)
   * [Suno Guide](sound-and-music/music-generation/suno-guide.md)
 * [🪇 Sound Effect](sound-and-music/sound-effect.md)
+* [🎙️ Podcasting](sound-and-music/podcasting/README.md)
+  * [Podcast Summaries](sound-and-music/podcasting/podcast-summaries.md)
+  * [AI-Generated News Podcasting Cases](sound-and-music/podcasting/ai-generated-news-podcasting-cases.md)
 
 ## AI Hardware
 
