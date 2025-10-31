@@ -25,7 +25,7 @@ Editor's note: For writing, the recommendation is to opt for larger, more compre
 
 Regarding particular abilities, Large Language Models (LLMs) are capable of assisting with a variety of tasks, such as **extending text, mimicking writing styles, substituting words, completing texts, and refining content, among others**.&#x20;
 
-Example:
+#### Examples:
 
 <details>
 
@@ -117,11 +117,9 @@ LLMs can help craft catchy titles or headlines for articles, blogs, and other co
 
 </details>
 
+<details>
 
-
-
-
-#### 8. **Paraphrasing**
+<summary>Paraphrasing</summary>
 
 LLMs can rephrase a sentence or passage while maintaining the original meaning, which is useful for improving readability or avoiding repetition.
 
@@ -129,19 +127,37 @@ LLMs can rephrase a sentence or passage while maintaining the original meaning, 
 * **Prompt**: "Paraphrase the following sentence: 'Artificial intelligence is transforming industries worldwide, bringing both innovation and disruption.'"
 * **Result**: "AI is reshaping global industries, offering a mix of innovation and upheaval."
 
-#### 9. **Correcting Grammar and Spelling**
+</details>
+
+<details>
+
+<summary>Correcting Grammar and Spelling</summary>
 
 * **Original**: "The impact of technology on businesses are enormous, as it helps improves efficency and productivity."
-* **Prompt**: "Correct any grammar or spelling mistakes in the sentence: 'The impact of technology on businesses are enormous, as it helps improves efficency and productivity.'"
+
+- **Prompt**: "Correct any grammar or spelling mistakes in the sentence: 'The impact of technology on businesses are enormous, as it helps improves efficency and productivity.'"
+
 * **Result**: "The impact of technology on businesses is enormous, as it helps improve efficiency and productivity."
 
-#### 10. **Converting Passive Voice to Active Voice (and vice versa)**
+</details>
+
+<details>
+
+<summary>Converting Passive Voice to Active Voice (and vice versa)</summary>
+
+
 
 * **Original**: "The report was written by the committee."
-* **Prompt**: "Convert the following sentence from passive to active voice: 'The report was written by the committee.'"
+
+- **Prompt**: "Convert the following sentence from passive to active voice: 'The report was written by the committee.'"
+
 * **Result**: "The committee wrote the report."
 
-#### 11. **Generating Ideas or Outlines**
+</details>
+
+<details>
+
+<summary>Generating Ideas or Outlines</summary>
 
 LLMs can help brainstorm ideas or create structured outlines for articles, essays, or presentations.
 
@@ -154,7 +170,11 @@ LLMs can help brainstorm ideas or create structured outlines for articles, essay
   5. Case studies
   6. Conclusion
 
-#### 12. **Expanding Bullet Points**
+</details>
+
+<details>
+
+<summary>Expanding Bullet Points</summary>
 
 LLMs can take brief bullet points and expand them into more detailed paragraphs.
 
@@ -164,11 +184,43 @@ LLMs can take brief bullet points and expand them into more detailed paragraphs.
 * **Prompt**: "Expand the following bullet points into full sentences: 'AI in finance improves risk management. Reduces fraud through anomaly detection.'"
 * **Result**: "In the financial sector, AI plays a crucial role in enhancing risk management by analyzing large datasets and identifying potential threats. Additionally, AI systems are adept at detecting anomalies in transactions, thereby reducing the occurrence of fraudulent activities."
 
-***
+</details>
 
-{% hint style="info" %}
-Currently, as one of the most fundamental features of LLMs, various writing functions have already been integrated into various software, such as browser plugins, note-taking apps, and GPTs. These functions can now be accessed and utilized across different platforms.
-{% endhint %}
+### Other writing Prompt Examples:
+
+<details>
+
+<summary>Grammar genie</summary>
+
+Transform grammatically incorrect sentences into proper English.
+
+> <mark style="color:purple;">Your task is to take the text provided and rewrite it into a clear, grammatically correct version while preserving the original meaning as closely as possible. Correct any spelling mistakes, punctuation errors, verb tense issues, word choice problems, and other grammatical mistakes.</mark>
+
+_Source: Anthropic Prompt Library_
+
+</details>
+
+<details>
+
+<summary>Prose polisher</summary>
+
+Refine and improve written content with advanced copyediting techniques and suggestions.
+
+> <mark style="color:purple;">You are an AI copyeditor with a keen eye for detail and a deep understanding of language, style, and grammar. Your task is to refine and improve written content provided by users, offering advanced copyediting techniques and suggestions to enhance the overall quality of the text. When a user submits a piece of writing, follow these steps:</mark>\
+> \ <mark style="color:purple;">1. Read through the content carefully, identifying areas that need improvement in terms of grammar, punctuation, spelling, syntax, and style.</mark>\
+> \ <mark style="color:purple;">2. Provide specific, actionable suggestions for refining the text, explaining the rationale behind each suggestion.</mark>\
+> \ <mark style="color:purple;">3. Offer alternatives for word choice, sentence structure, and phrasing to improve clarity, concision, and impact.</mark>\
+> \ <mark style="color:purple;">4. Ensure the tone and voice of the writing are consistent and appropriate for the intended audience and purpose.</mark>\
+> \ <mark style="color:purple;">5. Check for logical flow, coherence, and organization, suggesting improvements where necessary.</mark>\
+> \ <mark style="color:purple;">6. Provide feedback on the overall effectiveness of the writing, highlighting strengths and areas for further development.</mark>\
+> \ <mark style="color:purple;">7. Finally at the end, output a fully edited version that takes into account all your suggestions.</mark>\
+> \ <mark style="color:purple;">Your suggestions should be constructive, insightful, and designed to help the user elevate the quality of their writing.</mark>
+
+_Source: Anthropic Prompt Library_
+
+</details>
+
+***
 
 ### GPTs
 
@@ -185,10 +237,6 @@ If you're a ChatGPT subscriber, you can access writing GPTs already customized b
 [https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach)
 
 
-
-### Browser Plugins
-
-The writing assistance features of browser plugins prove to be extremely handy in various web-based writing contexts. Simply select a section of text within the browser, and a floating toolbar will appear, offering options to enhance your writing or add content seamlessly. It's incredibly user-friendly.&#x20;
 
 ***
 
@@ -210,7 +258,7 @@ Don't forget to gather articles or paragraphs that showcase your distinctive sty
 
 ## <mark style="color:purple;">AI Writing Apps/Services</mark>
 
-The evolution of AI writing apps commenced during the GPT-3 era, predating ChatGPT. With ChatGPT's launch, these platforms pivoted from solely assisting with writing to exploring diverse business models. <mark style="color:red;">**Rytr**</mark> specializes in mimicking personal writing styles, <mark style="color:red;">**Copy.ai**</mark> focuses on creating content for marketing and sales, and <mark style="color:red;">**Jasper**</mark> has acquired CilickDrop from Stable Diffusion to provide a comprehensive generative AI marketing solution that combines LLM with AIGC content. The table below enumerates some of the third-party writing applications available:
+The evolution of AI writing apps commenced during the GPT-3 era, predating ChatGPT. With ChatGPT's launch, these platforms pivoted from solely assisting with writing to exploring diverse business models. The table below enumerates some of the third-party writing applications available:
 
 <table data-header-hidden><thead><tr><th width="232"></th><th></th></tr></thead><tbody><tr><td>Jasper</td><td><a href="https://www.jasper.ai/">https://www.jasper.ai/</a></td></tr><tr><td>Writesonic</td><td><a href="https://writesonic.com/">https://writesonic.com/</a></td></tr><tr><td>Hoppycopy</td><td><a href="https://www.hoppycopy.co/">https://www.hoppycopy.co/</a></td></tr></tbody></table>
 
