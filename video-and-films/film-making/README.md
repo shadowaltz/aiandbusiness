@@ -13,21 +13,15 @@ description: AI & Film Making
 * Luma Dream Machine
 {% endhint %}
 
-Broadly speaking, the video generation techniques available today fall into three categories:&#x20;
+## Leaderboard:
 
-* <mark style="color:orange;">**Text-to-Video**</mark>
-* <mark style="color:orange;">**Video-to-Video**</mark>
-* <mark style="color:orange;">**Image-to-Video**</mark>
+<mark style="color:orange;">**Text-to-Video Leaderboard**</mark>
 
-## Industry Updates & News:
+{% embed url="https://artificialanalysis.ai/embed/text-to-video-leaderboard?tab=leaderboard-text" %}
 
-### <mark style="color:orange;">Google Veo 3</mark>
+<mark style="color:orange;">**Image-to-Video Leaderboard**</mark>
 
-Google just unveiled Veo 3, its latest AI video generation model that not only creates high-quality visuals from text or image prompts but also integrates native audio—including dialogue, sound effects, and ambient noise—setting a new standard for immersive, end-to-end AI filmmaking.
-
-This third-generation model surpasses its predecessor, Veo 2, by offering enhanced realism, improved prompt adherence, and seamless audio-visual synchronization, enabling creators to produce cinematic scenes with lifelike physics and soundscapes. Veo 3 is accessible through Google's new Flow platform and the Gemini app for AI Ultra subscribers in the U.S., and it's also available to enterprise users via Vertex AI.
-
-{% embed url="https://x.com/GoogleDeepMind/status/1924893528062140417" %}
+{% embed url="https://artificialanalysis.ai/embed/text-to-video-leaderboard?tab=leaderboard-image" %}
 
 
 

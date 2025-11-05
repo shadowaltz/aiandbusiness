@@ -29,7 +29,7 @@ Attio is the AI-native CRM for GTM builders.\
 
 
 
-## Startups
+## Startup Tools
 
 <details>
 

@@ -10,9 +10,7 @@ coverY: 0
 ## Navigation:
 
 {% hint style="info" %}
-* [AI Detector & Humanizer](ai-detector-and-text-humanizer.md)
-* [Novel Writing](novel-writing.md)
-* [Writing Prompts](writing-prompts.md)
+* [**AI Detector & Humanizer**](ai-detector-and-text-humanizer.md)
 {% endhint %}
 
 ***
@@ -240,22 +238,6 @@ If you're a ChatGPT subscriber, you can access writing GPTs already customized b
 
 ***
 
-## <mark style="color:purple;">Create Your Own Writing GPTs</mark>
-
-For those who frequently engage in writing, tailoring GPT models to your unique writing style is indispensable.&#x20;
-
-Firstly, Press the 'Create' button located in the upper right corner of the GPTs Store page.
-
-<img src="../../.gitbook/assets/Create GPT 1.png" alt="" data-size="original">
-
-Next, during the customization process, click the Configure tab, give this GPT a **name**, write your Instructions (or just simply click on the 'Create' tab next to the Configure tab and allow the GPT to generate the name, logo, and instructions for you by chat), and ensure the GPT models are informed of your details, such as your age, preferred writing style, commonly used phrases, etc.&#x20;
-
-<figure><img src="../../.gitbook/assets/Create GPT 3.png" alt=""><figcaption></figcaption></figure>
-
-Don't forget to gather articles or paragraphs that showcase your distinctive style. These can be in the form of .txt or .docx documents. Upload these documents as reference materials in the Knowledge section. Save, and you should be able to use this GPT for writing.&#x20;
-
-***
-
 ## <mark style="color:purple;">AI Writing Apps/Services</mark>
 
 The evolution of AI writing apps commenced during the GPT-3 era, predating ChatGPT. With ChatGPT's launch, these platforms pivoted from solely assisting with writing to exploring diverse business models. The table below enumerates some of the third-party writing applications available:
@@ -277,6 +259,42 @@ The evolution of AI writing apps commenced during the GPT-3 era, predating ChatG
 {% endhint %}
 
 
+
+***
+
+### GenAI Novel Writing Tools
+
+{% tabs %}
+{% tab title="Google Story Book" %}
+[https://gemini.google.com/gem/storybook](https://gemini.google.com/gem/storybook)
+
+Google has launched Gemini Storybook, a new feature within the Gemini app that lets anyone—parents, educators, or storytellers—instantly generate personalized 10-page illustrated storybooks with optional read‑aloud narration, customizable art styles (like pixel art, claymation, comics), and even the ability to incorporate your own photos or drawings, all available across desktop and mobile in 45+ languages.
+{% endtab %}
+
+{% tab title="SudoWrite" %}
+[https://sudowrite.com/](https://sudowrite.com/)
+
+Sudowrite is an AI writing tool designed as a non-judgmental partner to help writers with descriptions, novel writing, rewriting, brainstorming, and more.
+
+**Muse**
+
+Sudowrite’s Muse model is a cutting-edge AI tool specifically designed for creative writing, offering an intuitive understanding of scenes, dialogue, and narrative consistency, making it a standout feature for writers seeking to enhance their storytelling capabilities.
+{% endtab %}
+
+{% tab title="Novel AI" %}
+[https://novelai.net/](https://novelai.net/)
+{% endtab %}
+
+{% tab title="Squibler" %}
+[https://www.squibler.io/](https://www.squibler.io/)
+{% endtab %}
+
+{% tab title="Novel Crafter AI" %}
+[https://www.novelcrafter.com/](https://www.novelcrafter.com/)
+
+{% embed url="https://www.novelcrafter.com/_astro/ui-planning.DeGapZ4e_Z2cW0Q.webp" %}
+{% endtab %}
+{% endtabs %}
 
 
 

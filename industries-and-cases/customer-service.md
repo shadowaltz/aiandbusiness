@@ -91,7 +91,7 @@ Stonly offers a revolutionary approach to knowledge-based software, focusing on 
 
 ***
 
-## Customer survey and analyze
+## Customer survey and analysis
 
 ### Ideanote
 
@@ -103,11 +103,43 @@ Optimize processes, increase sales and make better decisions by listening to ide
 
 ***
 
-### Case: Alaska Airlines use AI-powered destination search tool
+### Case: Alaska Airlines uses an AI-powered destination search tool
 
 [https://www.alaskaair.com/nls/destination?int=AS\_HomePage\_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad\_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr\_CQPyRpEMQ3ZGJkaAhcyEALw\_wcB\&gclsrc=aw.ds](https://www.alaskaair.com/nls/destination?int=AS_HomePage_HERO%7C%7C20240418-care%7C%7C-prodID:Awareness&&\&gad_source=1\&gclid=Cj0KCQjwr9m3BhDHARIsANut04ZySkLZZfD5tHBIMn0qpSD3SlmqF3amXyNJNMIr_CQPyRpEMQ3ZGJkaAhcyEALw_wcB\&gclsrc=aw.ds)
 
 Alaska Airlines has launched an AI-powered destination search tool that allows customers to find flights using natural language queries, incorporating loyalty program information and offering personalized travel recommendations based on user interests and preferences.
 
 
+
+
+
+**Prompt Example:**
+
+<details>
+
+<summary>Review classifier</summary>
+
+Categorize feedback into pre-specified tags and categorizations.
+
+> <mark style="color:purple;">You are an AI assistant trained to categorize user feedback into predefined categories, along with sentiment analysis for each category. Your goal is to analyze each piece of feedback, assign the most relevant categories, and determine the sentiment (positive, negative, or neutral) associated with each category based on the feedback content.</mark>\
+> \
+> <mark style="color:purple;">Predefined Categories:</mark>\
+> \ <mark style="color:purple;">- Product Features and Functionality</mark>\ <mark style="color:purple;">- Core Features</mark>\ <mark style="color:purple;">- Add-ons and Integrations</mark>\ <mark style="color:purple;">- Customization and Configuration</mark>\ <mark style="color:purple;">- User Experience and Design</mark>\ <mark style="color:purple;">- Ease of Use</mark>\ <mark style="color:purple;">- Navigation and Discoverability</mark>\ <mark style="color:purple;">- Visual Design and Aesthetics</mark>\ <mark style="color:purple;">- Accessibility</mark>\ <mark style="color:purple;">- Performance and Reliability</mark>\ <mark style="color:purple;">- Speed and Responsiveness</mark>\ <mark style="color:purple;">- Uptime and Availability</mark>\ <mark style="color:purple;">- Scalability</mark>\ <mark style="color:purple;">- Bug Fixes and Error Handling</mark>\ <mark style="color:purple;">- Customer Support and Service</mark>\ <mark style="color:purple;">- Responsiveness and Availability</mark>\ <mark style="color:purple;">- Knowledge and Expertise</mark>\
+> <mark style="color:purple;">- Issue Resolution and Follow-up</mark>\ <mark style="color:purple;">- Self-Service Resources</mark>\ <mark style="color:purple;">- Billing, Pricing, and Licensing</mark>\ <mark style="color:purple;">- Pricing Model and Tiers</mark>\ <mark style="color:purple;">- Billing Processes and Invoicing</mark>\ <mark style="color:purple;">- License Management</mark>\ <mark style="color:purple;">- Upgrades and Renewals</mark>\ <mark style="color:purple;">- Security, Compliance, and Privacy</mark>\ <mark style="color:purple;">- Data Protection and Confidentiality</mark>\ <mark style="color:purple;">- Access Control and Authentication</mark>\ <mark style="color:purple;">- Regulatory Compliance</mark>\ <mark style="color:purple;">- Incident Response and Monitoring</mark>\ <mark style="color:purple;">- Mobile and Cross-Platform Compatibility</mark>\ <mark style="color:purple;">- Mobile App Functionality</mark>\ <mark style="color:purple;">- Synchronization and Data Consistency</mark>\ <mark style="color:purple;">- Responsive Design</mark>\ <mark style="color:purple;">- Device and OS Compatibility</mark>\ <mark style="color:purple;">- Third-Party Integrations and API</mark>\ <mark style="color:purple;">- Integration Functionality and Reliability</mark>\ <mark style="color:purple;">- API Documentation and Support</mark>\ <mark style="color:purple;">- Customization and Extensibility</mark>\ <mark style="color:purple;">- Onboarding, Training, and Documentation</mark>\ <mark style="color:purple;">- User Guides and Tutorials</mark>\ <mark style="color:purple;">- In-App Guidance and Tooltips</mark>\ <mark style="color:purple;">- Webinars and Live Training</mark>\ <mark style="color:purple;">- Knowledge Base and FAQs</mark>
+
+_Source: Ethan Mollick and Lilach Mollick from Wharton School,_ [_https://www.moreusefulthings.com/_](https://www.moreusefulthings.com/)
+
+</details>
+
+Online Shopping Assistants
+
+<details>
+
+<summary>Amazon Rufus</summary>
+
+[https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus)
+
+Amazon Rufus AI is a new generative AI-powered shopping assistant integrated into the Amazon Shopping app. Launched in February 2024 and now available to all U.S. customers, Rufus aims to enhance the online shopping experience by answering customer questions, providing product comparisons, and offering personalized recommendations. This conversational AI tool is trained on Amazon's extensive product catalog, customer reviews, community Q\&As, and information from across the web, allowing it to assist shoppers throughout their journey - from broad research questions to specific product inquiries. By leveraging generative AI technology, Rufus can create original responses tailored to each customer's needs, helping them make more informed purchase decisions and discover products more efficiently within the familiar Amazon shopping environment.
+
+</details>
 
