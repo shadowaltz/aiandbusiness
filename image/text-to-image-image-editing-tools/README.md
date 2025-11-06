@@ -9,21 +9,17 @@ coverY: 30.890666666666664
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.
 {% endhint %}
 
-## Native Multimodal Model Image Generation/Editing
+### Text to Image Model Leaderboard:
 
-ChatGPT
+{% embed url="https://artificialanalysis.ai/image/leaderboard/text-to-image" %}
 
-Gemini
+### Image Editing Leaderboard:
 
-Grok
-
-## Open Source:
+{% embed url="https://artificialanalysis.ai/image/leaderboard/editing" %}
 
 
 
-
-
-## Top-tier Applications:
+### Top-tier Applications:
 
 {% tabs %}
 {% tab title="Midjourney" %}
@@ -81,7 +77,7 @@ Ideogram released a new Canvas function.
 
 ***
 
-## Multifunctional image generation and modification platform
+### Multifunctional image generation and modification platform
 
 {% tabs %}
 {% tab title="Canva" %}
@@ -136,36 +132,3 @@ Former Stylar.ai
 
 ***
 
-### Other Image Generate & Editing Apps
-
-{% tabs %}
-{% tab title="Ilus AI" %}
-[https://](https://ilus.ai/)[ilus.ai/](https://ilus.ai/)
-
-If you're looking to create AI illustrations, ilus is a specialized AI generation service tailored to this niche.&#x20;
-{% endtab %}
-
-{% tab title="Krea AI" %}
-[https://www.krea.ai/home](https://www.krea.ai/home)
-
-{% embed url="https://x.com/krea_ai/status/1809154957440163879" %}
-{% endtab %}
-
-{% tab title="Upscale" %}
-
-
-[https://magnific.ai/](https://magnific.ai/)
-{% endtab %}
-
-{% tab title="Relight" %}
-
-
-[https://magnificai.org/magnific-relight/](https://magnificai.org/magnific-relight/)
-{% endtab %}
-
-{% tab title="Magnific.ai" %}
-Magnific.ai
-
-[https://magnific.ai/](https://magnific.ai/)
-{% endtab %}
-{% endtabs %}
