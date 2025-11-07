@@ -18,8 +18,6 @@ Navigation:
 
 {% tabs %}
 {% tab title="Artificial Analysis" %}
-### <mark style="color:purple;">Artificial Analysis</mark>
-
 Independent analysis of AI language models and API. Provides quality, speed, and price comparisons.
 
 {% embed url="https://artificialanalysis.ai" %}
@@ -39,6 +37,16 @@ LMArena.ai is a comprehensive AI model leaderboard, ranking over 240 large langu
 Unlike traditional benchmarks, LMArena employs a crowdsourced, blind-voting system where users compare anonymous model responses to the same prompt and vote for the better one. This approach provides a dynamic, real-world evaluation of model performance.
 
 {% embed url="https://lmarena.ai/leaderboard" %}
+{% endtab %}
+
+{% tab title="HuggingFace" %}
+
+
+[https://huggingface.co/open-llm-leaderboard](https://huggingface.co/open-llm-leaderboard)
+{% endtab %}
+
+{% tab title="vellum" %}
+[https://www.vellum.ai/llm-leaderboard](https://www.vellum.ai/llm-leaderboard)
 {% endtab %}
 {% endtabs %}
 
