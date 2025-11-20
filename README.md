@@ -19,6 +19,12 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+### <mark style="color:orange;">Google Gemini 3</mark>
+
+Google’s AI division has introduced its latest flagship model, Gemini 3, which delivers state‑of‑the‑art reasoning and multimodal capabilities—achieving breakthrough benchmark scores, grasping deeper context and nuance, and powering rich new agentic features to help users “bring any idea to life.”
+
+{% embed url="https://youtu.be/98DcoXwGX6I?si=tzJNFE2f2aerabkM" %}
+
 ### <mark style="color:orange;">ChatGPT Atlas</mark>
 
 ChatGPT Atlas by OpenAI is a newly launched AI‑powered web browser that integrates the ChatGPT interface directly into your browsing experience, offering a sidebar chat companion, webpage summarization, product and content comparison, personalized memory of your behavior, and an “agent mode” that can navigate websites and perform tasks on your behalf—all initially available globally for macOS, with Windows, iOS and Android versions coming soon.
