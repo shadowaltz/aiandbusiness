@@ -13,11 +13,17 @@ icon: square-left
 
 ### <mark style="color:orange;">Trending Section:</mark>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>AI Agents/Apps/MCP</td><td></td><td><a href="ai-agent-apps/ai-agents/">ai-agents</a></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td>Text to Image/AI Image Editing</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td>AI video generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td>AI Music Generation</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td>AI Hardware</td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>AI Agents/Apps/MCP</td><td></td><td><a href="ai-agent-apps/ai-agents/">ai-agents</a></td><td><a href=".gitbook/assets/1.webp">1.webp</a></td></tr><tr><td>Text to Image/AI Image Editing</td><td></td><td><a href="/broken/pages/DssvyplZ5RmLfCg7PwxA">Broken link</a></td><td><a href=".gitbook/assets/2.webp">2.webp</a></td></tr><tr><td>AI video generation</td><td></td><td><a href="/broken/pages/C75bZNZsoxQiGcAKVc56">Broken link</a></td><td><a href=".gitbook/assets/5.webp">5.webp</a></td></tr><tr><td>AI Music Generation</td><td></td><td><a href="/broken/pages/A2MWF8UfSxtEckFyeBsm">Broken link</a></td><td><a href=".gitbook/assets/3.webp">3.webp</a></td></tr><tr><td>AI Hardware</td><td></td><td><a href="/broken/pages/mGBXvlPrqemPPngVc0gL">Broken link</a></td><td><a href=".gitbook/assets/4.webp">4.webp</a></td></tr></tbody></table>
 
 ***
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
+
+### <mark style="color:orange;">GPT 5.2</mark>
+
+OpenAI introduces GPT-5.2, an upgraded flagship foundation model that delivers stronger reasoning, higher response accuracy, and more reliable multimodal performance, positioning it as a more dependable core engine for next-generation AI products and enterprise applications.
+
+
 
 ### <mark style="color:orange;">Google Gemini 3</mark>
 
