@@ -48,26 +48,6 @@ Leonardo.ai
 Leonardo AI is an advanced AI-powered image generation platform that allows users to create high-quality, customizable artwork and visual assets through text prompts, offering features like fine-tuned models, AI canvas editing, and 3D texture generation.
 {% endtab %}
 
-{% tab title="Ideogram" %}
-### <mark style="color:orange;">Ideogram</mark>
-
-[https://ideogram.ai/login](https://ideogram.ai/login)
-
-{% embed url="https://storage.googleapis.com/ideogram-static/Ideogram2.0_16x9.mp4" %}
-
-Ideogram is a free-to-use AI-powered text-to-image generation platform that allows users to create images especially logos directly in their web browser without downloading additional software. Ideogram 2.0, the platform's latest update, introduces five different models (General, Realistic, Design, Anime, and 3D), improved text rendering, and a new color palette feature, significantly enhancing the quality and customization options for generated images.
-
-Ideogram Prompting Tips
-
-{% embed url="https://docs.ideogram.ai/using-ideogram/prompting-tips" %}
-
-## Ideogram Canvas, Magic Fill, and Extend
-
-Ideogram released a new Canvas function.
-
-[https://about.ideogram.ai/canvas](https://about.ideogram.ai/canvas)
-{% endtab %}
-
 {% tab title="Recraft" %}
 **Recraft** is a new AI-powered design platform that offers a range of tools like AI image generation, vectorization, and mockup creation to help designers and marketers create stunning visual content.
 
@@ -122,13 +102,5 @@ ClickDrop, formerly associated with the open-source frontrunner Stability AI, ha
 
 {% embed url="https://youtu.be/vQK-E_Mzeq0?si=Ozzus-Mvnp3bzBoe" %}
 {% endtab %}
-
-{% tab title="dzine.ai" %}
-Former Stylar.ai
-
-[https://www.dzine.ai/](https://www.dzine.ai/)
-{% endtab %}
 {% endtabs %}
-
-***
 

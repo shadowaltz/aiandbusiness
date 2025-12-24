@@ -96,8 +96,6 @@
   * [GPT-4o Image Collection](image/text-to-image-image-editing-tools/gpt-4o-image-collection.md)
   * [Midjourney Guide](image/text-to-image-image-editing-tools/midjourney-guide/README.md)
     * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-guide/midjourney-cases.md)
-  * [Grok 2 w/ Flux](image/text-to-image-image-editing-tools/grok-2-w-flux.md)
-  * [Comfy UI](image/text-to-image-image-editing-tools/comfy-ui.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [AI Image Detector](image/ai-image-detector.md)
 * [Create Avatar](image/create-avatar.md)

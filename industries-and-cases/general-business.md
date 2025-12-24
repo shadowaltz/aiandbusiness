@@ -20,8 +20,7 @@ CRM
 
 [https://attio.com/](https://attio.com/)
 
-Attio is the AI-native CRM for GTM builders.\
-
+Attio is the AI-native CRM for GTM builders.<br>
 
 #### The AI Product Manager
 

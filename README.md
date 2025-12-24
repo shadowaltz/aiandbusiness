@@ -19,11 +19,13 @@ icon: square-left
 
 ## <mark style="color:purple;">**Industry News & Updates:**</mark>
 
+
+
 ### <mark style="color:orange;">GPT 5.2</mark>
 
 OpenAI introduces GPT-5.2, an upgraded flagship foundation model that delivers stronger reasoning, higher response accuracy, and more reliable multimodal performance, positioning it as a more dependable core engine for next-generation AI products and enterprise applications.
 
-
+{% embed url="https://openai.com/index/introducing-gpt-5-2/" %}
 
 ### <mark style="color:orange;">Google Gemini 3</mark>
 
@@ -104,30 +106,6 @@ OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides
 The Trump Administration has released America’s AI Action Plan (on July 23, 2025), a sweeping policy roadmap of over 90 federal actions across three pillars—Accelerating Innovation, Building American AI Infrastructure, and Leading International AI Diplomacy & Security—to establish U.S. global dominance in AI through deregulation, export incentives, energy expansion, and workforce development.
 
 {% embed url="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" %}
-
-
-
-### <mark style="color:orange;">Grok 4</mark>
-
-{% embed url="https://x.com/xai/status/1943158495588815072" %}
-
-### <mark style="color:orange;">Midjourney Video</mark>
-
-Midjourney has unveiled Video V1, its first image-to-video generation model now available via Web and Discord, letting users animate static or uploaded images into short 5‑ to 21‑second clips—with adjustable motion levels, both automatic and custom prompts, at approximately eight times the GPU cost of image creation—offered under existing subscription tiers (from $10/month), marking a big step toward real-time interactive worlds despite ongoing copyright lawsuits from Disney and Universal.
-
-{% embed url="https://x.com/midjourney/status/1935377193733079452" %}
-
-### <mark style="color:orange;">Google A2A</mark>
-
-[<mark style="color:orange;">https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/</mark>](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
-
-Google introduced the Agent2Agent (A2A) protocol, an open standard enabling seamless communication and collaboration between AI agents from different frameworks or vendors, aimed at solving interoperability challenges in enterprise AI systems.
-
-[https://github.com/google/A2A](https://github.com/google/A2A)
-
-{% embed url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image1_yEPzdSr.original.png" %}
-Source: Google Cloud
-{% endembed %}
 
 
 

@@ -16,6 +16,16 @@ Put simply, **vibe coding is like writing down your ideas and letting the comput
 
 </details>
 
+<details>
+
+<summary>Spec Coding</summary>
+
+Spec Coding is the practice of "designing a flawless blueprint before building the house."
+
+Instead of jumping straight into writing software, developers first create a precise mathematical description (the Specification) of exactly how the program must behave. By defining every rule and edge case in advance, they can prove the logic is perfect before a single line of actual code is written. It is essentially extreme planning used to ensure that critical systems—like those in airplanes or banks—are bug-free and fail-safe.
+
+</details>
+
 ***
 
 ## <mark style="color:purple;">LLM for Coding</mark>
@@ -25,8 +35,6 @@ Put simply, **vibe coding is like writing down your ideas and letting the comput
 * GPT
 * Gemini
 {% endhint %}
-
-
 
 ***
 
