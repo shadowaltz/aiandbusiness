@@ -65,12 +65,6 @@ Google just dropped Firebase Studio — their all-in-one AI coding platform.
 {% embed url="https://x.com/Firebase/status/1910001005565284761" %}
 {% endtab %}
 
-{% tab title="Windsurf" %}
-[https://codeium.com/](https://codeium.com/)
-
-
-{% endtab %}
-
 {% tab title="Github Spark" %}
 GitHub Spark is an AI-powered tool that enables users to build, share, and manage micro apps with natural language, without needing to write or deploy any code, offering features like automatic history, managed runtime environment, and persistent data storage.
 
@@ -87,12 +81,6 @@ Replit
 Replit Agent is an AI-powered tool that can build entire deployable applications from natural language prompts, handling everything from code generation to database setup and deployment.&#x20;
 
 {% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
-{% endtab %}
-
-{% tab title="Supermaven" %}
-Supermaven, created by a former OpenAI employee, is an AI-powered code completion tool that promises to help developers write code twice as fast, offering features like a 1 million token context window, compatibility with popular IDEs, and integration with leading language models.
-
-[https://supermaven.com/](https://supermaven.com/)
 {% endtab %}
 {% endtabs %}
 
@@ -121,12 +109,6 @@ V0 by Vercel
 Framerは、シンプルなテキストプロンプトから完全に構造化されたレスポンシブなWebレイアウトを即座に生成するAI搭載ツール「Wireframer」をリリースしました。これにより、デザイナーはゼロから始めることなく、ランディングページやポートフォリオなどのプロトタイプを迅速に作成できます。
 
 [https://www.framer.com/wireframer/](https://www.framer.com/wireframer/)
-{% endtab %}
-
-{% tab title="Untitled" %}
-[https://stitch.withgoogle.com/](https://stitch.withgoogle.com/)
-
-Google acquired Stitch, a free AI-powered UI design tool that transforms text prompts or sketches into responsive web and mobile interfaces, complete with exportable code and seamless Figma integration, streamlining the journey from concept to production.
 {% endtab %}
 {% endtabs %}
 
@@ -162,7 +144,7 @@ DeepWiki is an AI-powered documentation tool developed by Cognition Labs—the c
 
 ***
 
-## <mark style="color:purple;">AI Agent Software Engineer</mark>
+## <mark style="color:purple;">Agentic AI Software Engineer</mark>
 
 {% tabs %}
 {% tab title="Devin" %}
@@ -193,6 +175,10 @@ Microsoft and Cognition Labs have announced a partnership to bring Devin, Cognit
 An Open Platform for AI Software Developers as Generalist Agents
 
 [https://huggingface.co/papers/2407.16741](https://huggingface.co/papers/2407.16741)
+{% endtab %}
+
+{% tab title="Kiro" %}
+
 {% endtab %}
 {% endtabs %}
 
