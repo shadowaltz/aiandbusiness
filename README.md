@@ -7,6 +7,8 @@ icon: square-left
 
 {% hint style="success" %}
 <mark style="color:orange;">**WElCOME!**</mark>
+
+aiandbusiness.com is a free AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.
 {% endhint %}
 
 ### <mark style="color:orange;">Trending Section:</mark>
@@ -69,7 +71,7 @@ icon: square-left
 
 ### Claude Skills
 
-{% hint style="info" %}
+{% hint style="success" %}
 **TL;DR:** _Claude Skills_ are a new modular feature in Anthropic’s Claude AI that lets Claude dynamically load folders of instructions, scripts, and resources to handle specialized tasks more consistently and efficiently—such as generating formatted documents, applying brand‑specific styles, analyzing data, or running custom workflows—by teaching the model how to perform these tasks in a repeatable way without needing long, repeated prompts.
 {% endhint %}
 
@@ -81,7 +83,7 @@ icon: square-left
 
 ### Agentic AI Foundation
 
-{% hint style="info" %}
+{% hint style="success" %}
 **TL;DR:** _The Agentic AI Foundation (AAIF)_ is a newly established open‑source, neutral governance foundation under the Linux Foundation co‑founded by OpenAI, Anthropic, Block and backed by major tech companies like Google, Microsoft, AWS, Bloomberg, and Cloudflare to standardize, steward, and advance agentic AI technologies—providing interoperable open standards and protocols (such as OpenAI’s AGENTS.md, Anthropic’s Model Context Protocol, and Block’s Goose framework) so developers and organizations can build autonomous, action‑oriented AI systems collaboratively and transparently.
 {% endhint %}
 

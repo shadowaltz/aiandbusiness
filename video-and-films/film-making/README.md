@@ -86,7 +86,51 @@ Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI mode
 * Artlist [https://artlist.io/](https://artlist.io/)
 * Openart [https://openart.ai/](https://openart.ai/)
 
+***
 
+### Virtual Avatar / Digital Human
+
+{% hint style="danger" %}
+The information provided in this section regarding tools and guidelines for creating virtual avatars/digital humans is intended for educational and research purposes only. We strongly condemn any form of illegal activities, including but not limited to fraud, privacy invasion, or any other actions that could harm others. Readers are responsible for ensuring that their use of these tools and technologies complies with local laws and ethical standards, and are accountable for the outcomes of their use. We do not bear responsibility for any legal issues or ethical disputes that may arise from the misuse of the provided information.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Heygen" %}
+
+
+[https://www.heygen.com/](https://www.heygen.com/)
+
+Currently, this stands as one of the top AI avatar creation apps, offering the option to either utilize digital human figures directly from the platform or to clone your own appearance and voice. It boasts multilingual translation capabilities for videos, with a choice of more than 40 languages.
+
+**HeyGen Avatar 3.0** introduces next-level AI with dynamic emotions, singing capabilities, and the ability to create fully customizable digital clones
+
+{% embed url="https://youtu.be/zxbSV98VnhY?si=Q60ESEwkMlhTvzhv" %}
+{% endtab %}
+
+{% tab title="Nvidia ACE" %}
+At Computex 2024 Nvidia revealed their new digital human microservices. NVIDIA ACE is a suite of digital human technologies, packaged as easy-to-deploy, fully optimized microservices, also known as NVIDIA NIM.
+
+{% embed url="https://youtu.be/8xMeIwBnIpU?si=6Mw9tiHrPf8CV0c5" %}
+Nvidia ACE
+{% endembed %}
+
+> NVIDIA Releases Digital Human Microservices, Paving Way for Future of Generative AI Avatars
+
+{% embed url="https://nvidianews.nvidia.com/news/digital-humans-ace-generative-ai-microservices" %}
+{% endtab %}
+
+{% tab title="D-ID" %}
+
+
+[https://www.d-id.com/](https://www.d-id.com/)
+
+D-ID is a company that provides innovative AI video and avatar generation services.&#x20;
+
+{% embed url="https://youtu.be/YduWqN-OzWU?si=GjvVSUufjqI6JLT5" %}
+
+{% embed url="https://www.d-id.com/news/techcrunch-d-id-launches-new-high-quality-avatars/" %}
+{% endtab %}
+{% endtabs %}
 
 
 
