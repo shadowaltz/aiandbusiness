@@ -14,13 +14,11 @@ description: AI & Music Generation
 
 {% tabs %}
 {% tab title="Suno" %}
-
-
 [https://app.suno.ai/](https://app.suno.ai/)
 
-**Suno** is a startup that has developed an AI model capable of generating shockingly convincing songs from simple text prompts. The technology has the potential to democratize music creation, allowing anyone to produce professional-level songs.&#x20;
+_Suno AI_ is an innovative AI music creation platform and generative audio workstation that transforms simple text prompts into fully produced original songs—complete with vocals, genre‑appropriate instrumentation, lyrics, and arrangements—making professional‑level music composition accessible to everyone via web and mobile apps.
 
-{% embed url="https://x.com/SunoMusic/status/1945884363805061537" %}
+
 {% endtab %}
 
 {% tab title="Udio" %}

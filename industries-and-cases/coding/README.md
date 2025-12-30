@@ -57,6 +57,12 @@ _Anthropic launches Claude Code, a terminal-native agentic coding assistant that
 {% embed url="https://youtu.be/AJpK3YTTKZ4?si=n34dUwRhnRiZdgUR" %}
 {% endtab %}
 
+{% tab title="Codex" %}
+_OpenAI’s Codex_ is a powerful AI‑driven software engineering agent and coding assistant that translates natural language into working code, understands and edits repositories, writes features, fixes bugs, runs tests, and proposes pull requests in parallel—helping developers automate software development workflows and accelerate coding productivity across IDEs, terminals, cloud environments, and tools like ChatGPT.&#x20;
+
+
+{% endtab %}
+
 {% tab title="Firebase" %}
 ### <mark style="color:orange;">**Google**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Firebase</mark>
 

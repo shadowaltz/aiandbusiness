@@ -3,12 +3,10 @@ description: An open manual for the collaboration of AI and business.
 icon: square-left
 ---
 
-# AIandBusiness.com (Beta)
+# AIandBusiness.com
 
 {% hint style="success" %}
-<mark style="color:orange;">**Introduction**</mark>
-
-### **aiandbusiness.com is a free AI learning platform and business intelligence hub that bridges the gap between technical AI concepts and their real-world applications in business.**
+<mark style="color:orange;">**WElCOME!**</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">Trending Section:</mark>
@@ -17,95 +15,83 @@ icon: square-left
 
 ***
 
-## <mark style="color:purple;">**Industry News & Updates:**</mark>
+### <mark style="color:blue;">2026 Top Tools:</mark>
+
+{% columns %}
+{% column %}
+**Chatbots:**
+
+* ChatGPT
+* Gemini
+{% endcolumn %}
+
+{% column %}
+**Image:**
+
+* Nano Banana
+* Midjourney
+{% endcolumn %}
+
+{% column %}
+**Video:**
+
+* Veo
+* Sora
+{% endcolumn %}
+
+{% column %}
+**Music:**
+
+* Suno
+* Vido
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+**Voice:**
+
+* ElevenLabs
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## <mark style="color:blue;">What's New?</mark>
+
+### Claude Skills
+
+{% hint style="info" %}
+**TL;DR:** _Claude Skills_ are a new modular feature in Anthropic’s Claude AI that lets Claude dynamically load folders of instructions, scripts, and resources to handle specialized tasks more consistently and efficiently—such as generating formatted documents, applying brand‑specific styles, analyzing data, or running custom workflows—by teaching the model how to perform these tasks in a repeatable way without needing long, repeated prompts.
+{% endhint %}
+
+{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fddd7e6e572ad0b6a943cacefe957248455f6d522-1650x929.jpg&w=3840&q=75" %}
+
+> A skill is a directory containing a SKILL.md file that contains organized folders of instructions, scripts, and resources that give agents additional capabilities.
 
 
 
-### <mark style="color:orange;">GPT 5.2</mark>
+### Agentic AI Foundation
 
-OpenAI introduces GPT-5.2, an upgraded flagship foundation model that delivers stronger reasoning, higher response accuracy, and more reliable multimodal performance, positioning it as a more dependable core engine for next-generation AI products and enterprise applications.
+{% hint style="info" %}
+**TL;DR:** _The Agentic AI Foundation (AAIF)_ is a newly established open‑source, neutral governance foundation under the Linux Foundation co‑founded by OpenAI, Anthropic, Block and backed by major tech companies like Google, Microsoft, AWS, Bloomberg, and Cloudflare to standardize, steward, and advance agentic AI technologies—providing interoperable open standards and protocols (such as OpenAI’s AGENTS.md, Anthropic’s Model Context Protocol, and Block’s Goose framework) so developers and organizations can build autonomous, action‑oriented AI systems collaboratively and transparently.
+{% endhint %}
 
-{% embed url="https://openai.com/index/introducing-gpt-5-2/" %}
-
-### <mark style="color:orange;">Google Gemini 3</mark>
-
-Google’s AI division has introduced its latest flagship model, Gemini 3, which delivers state‑of‑the‑art reasoning and multimodal capabilities—achieving breakthrough benchmark scores, grasping deeper context and nuance, and powering rich new agentic features to help users “bring any idea to life.”
-
-{% embed url="https://youtu.be/98DcoXwGX6I?si=tzJNFE2f2aerabkM" %}
-
-### <mark style="color:orange;">ChatGPT Atlas</mark>
-
-ChatGPT Atlas by OpenAI is a newly launched AI‑powered web browser that integrates the ChatGPT interface directly into your browsing experience, offering a sidebar chat companion, webpage summarization, product and content comparison, personalized memory of your behavior, and an “agent mode” that can navigate websites and perform tasks on your behalf—all initially available globally for macOS, with Windows, iOS and Android versions coming soon.
-
-{% embed url="https://www.youtube.com/live/8UWKxJbjriY?si=v9gk5fU_U9MCHrPR" %}
-
-### <mark style="color:orange;">**Figure 03**</mark>
-
-Figure has just introduced Figure 03, a third-generation humanoid robot built from the ground up for general-purpose use—its improvements include a fully redesigned sensory suite, tactile fingertips able to sense as little as 3 g of force, inductive wireless charging, soft-goods safety materials, and a production-friendly architecture that makes it scalable to mass manufacture.
-
-{% embed url="https://youtu.be/Eu5mYMavctM?si=lPNcD56-CzQuSJfg" %}
-
-### <mark style="color:orange;">**OpenAI**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">AgentKit</mark>
-
-OpenAI has rolled out Agent Builder as part of its new AgentKit — a visual canvas for orchestrating and versioning workflows among multiple AI agents, letting developers build complex, multi-agent systems more easily and reliably than before.
-
-{% embed url="https://youtu.be/44eFf-tRiSg?si=ozoHthiQSGCHQdOl" %}
-
-### <mark style="color:orange;">Sora 2</mark>
-
-OpenAI has launched Sora 2, a standalone app and next-generation text-to-video model that lets users create 10-second AI-generated videos (all content is synthetic) with features like identity verification, remixing, and a TikTok-style vertical video feed.
-
-{% embed url="https://youtu.be/1PaoWKvcJP0?si=bDP04yjpEC_HT_BJ" %}
-
-### <mark style="color:orange;">**ChatGPT Pulse**</mark>
-
-OpenAI has introduced ChatGPT Pulse, a proactive “morning briefing” experience for Pro users where ChatGPT autonomously researches your interests, calendar, and past conversations overnight and delivers a curated set of visual update cards the next day.
-
-{% embed url="https://youtu.be/nk6IjAnCCqw?si=siHq79zdtOJxpD9c" %}
-
-### <mark style="color:orange;">**Luma AI Ray3**</mark>
-
-Luma AI has released Ray3, a cutting-edge video generation model that thinks like a creative partner—offering native 10-/12-/16-bit HDR (ACES2065-1 EXR) video, visual reasoning (scene planning, self-evaluation, annotations), plus a fast “Draft Mode” for rapid ideation.
-
-{% embed url="https://youtu.be/z2UIcD2xvsA?si=xk3Trfh-_q7vFTgQ" %}
-
-### <mark style="color:orange;">Notion Agents</mark>
-
-Notion has announced Notion 3.0: Agents, a transformative upgrade that rebuilds Notion AI from the ground up so your Agent can do _anything a human can do_ in Notion—create docs, build databases, search across connected tools, execute multi-step workflows, remember your preferences, and even automate routine work on a schedule.
-
-{% embed url="https://youtu.be/R1cF4T4lgI4?si=YTJyPFOgNDbc8DsA" %}
-
-### <mark style="color:orange;">Google Gemini 2.5 Flash Image (Nano-Banana)</mark>
-
-Google DeepMind introduces Gemini 2.5 Flash Image (Nano-Banana), a state-of-the-art image generation and editing model that blends multiple images, maintains character consistency, allows natural-language transformations, and leverages world knowledge for precision editing.&#x20;
-
-{% embed url="https://x.com/GoogleDeepMind/status/1960341906790957283" %}
-
-### <mark style="color:orange;">GPT‑5</mark>
-
-OpenAI has officially released GPT‑5, its smartest, fastest, and most capable language model yet—featuring integrated reasoning via an automatic router, “vibe‑coding” for software‑generation from plain English, multimodal processing, higher accuracy with fewer hallucinations, and personalized experiences across multiple variants (Standard, Mini, Nano, Pro)—marking a major step toward agentic AI and AGI.
-
-{% embed url="https://www.youtube.com/live/0Uu_VJeVVfo?si=AaNCeDg4ssyXfw2c" %}
-
-### <mark style="color:orange;">**ElevenLabs Music**</mark>
-
-ElevenLabs has just launched Eleven Music, a new AI music-generation platform that lets users—from creators to businesses—instantly generate studio-grade tracks with vocals or instrumentals in multiple languages from natural‑language prompts, backed by licensing deals with Merlin Network and Kobalt to ensure broad commercial use.
-
-{% embed url="https://x.com/elevenlabsio/status/1952754097976721737" %}
-
-### <mark style="color:orange;">ChatGPT Study Mode</mark>
-
-OpenAI has launched ChatGPT Study Mode, a new learning-oriented mode that guides users through step-by-step reasoning using Socratic-style questions, scaffolded lessons, personalized feedback, and interactive quizzes—designed to foster critical thinking and deeper comprehension rather than simply providing answers, and available to all logged‑in users on Free, Plus, Pro, and Team plans (with Edu availability soon)
-
-{% embed url="https://youtu.be/XDYilxy1dn8?si=igCVut358bdlsmbD" %}
+{% embed url="https://openai.com/index/agentic-ai-foundation/" %}
 
 
-
-### <mark style="color:orange;">AMERICA’S AI ACTION PLAN</mark>
-
-The Trump Administration has released America’s AI Action Plan (on July 23, 2025), a sweeping policy roadmap of over 90 federal actions across three pillars—Accelerating Innovation, Building American AI Infrastructure, and Leading International AI Diplomacy & Security—to establish U.S. global dominance in AI through deregulation, export incentives, energy expansion, and workforce development.
-
-{% embed url="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" %}
 
 
 

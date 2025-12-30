@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AIandBusiness.com (Beta)](README.md)
+* [AIandBusiness.com](README.md)
 
 ## INTO AI
 
@@ -21,8 +21,8 @@
     * [Figure AI](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
     * [Boston Dynamics](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/boston-dynamics.md)
     * [Tesla Optimus](industries-and-cases/robotics-embodied-intelligence/humanoid-robots/tesla-optimus.md)
-* [🖱️ AI Browser / AI Search Engine](industries-and-cases/ai-browser-ai-search-engine/README.md)
-  * [AEO (Answer Engine Optimization)](industries-and-cases/ai-browser-ai-search-engine/aeo-answer-engine-optimization.md)
+* [🖱️ AI Browsers](industries-and-cases/ai-browsers/README.md)
+  * [AEO (Answer Engine Optimization)](industries-and-cases/ai-browsers/aeo-answer-engine-optimization.md)
 * [🔍 Scholar & Research](industries-and-cases/scholar-and-research/README.md)
   * [Scholar & Research Prompts](industries-and-cases/scholar-and-research/scholar-and-research-prompts.md)
   * [Research & Scholar GPTs](industries-and-cases/scholar-and-research/research-and-scholar-gpts.md)
@@ -105,8 +105,6 @@
 * [🎥 GenAI Film Making](video-and-films/film-making/README.md)
   * [Veo 3 Cases](video-and-films/genai-film-making/veo-3-cases.md)
   * [Sora](video-and-films/film-making/sora.md)
-  * [Runway](video-and-films/film-making/runway/README.md)
-    * [Runway AIFF](video-and-films/film-making/runway/runway-aiff.md)
 * [👥 Virtual Avatar / Digital Human](video-and-films/virtual-avatar-digital-human/README.md)
   * [Case: Ai.lonso](video-and-films/virtual-avatar-digital-human/case-ai.lonso.md)
 * [AI Video Case Studies](video-and-films/ai-video-case-studies/README.md)

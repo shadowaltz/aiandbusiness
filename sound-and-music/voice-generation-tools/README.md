@@ -24,11 +24,25 @@ Founded in 2022, Elevenlabs is a newcomer that has rapidly become one of the hot
 
 
 {% endtab %}
+
+{% tab title="MiniMax" %}
+_MiniMax Voice_ (often delivered through MiniMax Audio) is MiniMax’s advanced AI text‑to‑speech and voice synthesis platform that transforms text into ultra‑realistic, natural human‑like speech with support for hundreds of voices, voice cloning from samples, and customizable voice creation via descriptive prompts—empowering creators, developers, and businesses to generate high‑quality audio in dozens of languages with fine‑tuned tone, accent, and emotion.
+{% endtab %}
 {% endtabs %}
 
 #### OpenSource Apps
 
+{% tabs %}
+{% tab title="IndexTTS2" %}
+_IndexTTS2_ is a next‑generation text‑to‑speech (TTS) AI model from the IndexTeam / Bilibili that delivers industrial‑level, zero‑shot speech synthesis with precise duration control, expressive emotional control, and high‑fidelity voice cloning—letting users generate natural, human‑like speech that matches specified emotion, tone, and timing directly from text or reference audio, ideal for dubbing, audiobooks, and multimedia applications.
 
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
