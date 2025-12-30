@@ -15,7 +15,7 @@ icon: square-left
 
 ***
 
-### <mark style="color:blue;">2026 Top AI Tools:</mark>
+### <mark style="color:blue;">2025 Top AI Tools:</mark>
 
 {% columns %}
 {% column %}
@@ -24,6 +24,10 @@ icon: square-left
 * ChatGPT
 * Gemini
 * Claude
+
+**Voice Gen:**
+
+* ElevenLabs
 {% endcolumn %}
 
 {% column %}
@@ -32,46 +36,30 @@ icon: square-left
 * Nano Banana
 * Midjourney
 * Seeddream
-{% endcolumn %}
 
-{% column %}
-**Video Gen:**
-
-* Runway
-* Veo
-* Kling
-{% endcolumn %}
-
-{% column %}
-**Music Gen:**
-
-* Suno
-* Udio
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-**Voice Gen:**
-
-* ElevenLabs
-{% endcolumn %}
-
-{% column %}
 **Learning Tool:**
 
 * NotebookLM
 {% endcolumn %}
 
-{% column %}
+{% column width="25%" %}
+**Video Gen:**
+
+* Runway
+* Veo
+* Kling
+
 **Coding:**
 
 * Claude Code
 * Cursor
 {% endcolumn %}
 
-{% column %}
+{% column width="25%" %}
+**Music Gen:**
 
+* Suno
+* Udio
 {% endcolumn %}
 {% endcolumns %}
 
