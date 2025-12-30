@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🖱️ AI Browser / AI Search Engine
+# 🖱️ AI Browsers
 
 ## AI Browsers
 

@@ -15,51 +15,59 @@ icon: square-left
 
 ***
 
-### <mark style="color:blue;">2026 Top Tools:</mark>
+### <mark style="color:blue;">2026 Top AI Tools:</mark>
 
 {% columns %}
 {% column %}
-**Chatbots:**
+**General Chatbots:**
 
 * ChatGPT
 * Gemini
+* Claude
 {% endcolumn %}
 
 {% column %}
-**Image:**
+**Image Gen:**
 
 * Nano Banana
 * Midjourney
+* Seeddream
 {% endcolumn %}
 
 {% column %}
-**Video:**
+**Video Gen:**
 
+* Runway
 * Veo
-* Sora
+* Kling
 {% endcolumn %}
 
 {% column %}
-**Music:**
+**Music Gen:**
 
 * Suno
-* Vido
+* Udio
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column %}
-**Voice:**
+**Voice Gen:**
 
 * ElevenLabs
 {% endcolumn %}
 
 {% column %}
+**Learning Tool:**
 
+* NotebookLM
 {% endcolumn %}
 
 {% column %}
+**Coding:**
 
+* Claude Code
+* Cursor
 {% endcolumn %}
 
 {% column %}
