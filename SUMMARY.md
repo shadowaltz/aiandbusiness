@@ -76,15 +76,12 @@
 
 ## AI Agent/Apps
 
-* [🪪 AI Agents](ai-agent-apps/ai-agents/README.md)
-  * [Case: Altera Project Sid](ai-agent-apps/ai-agents/case-altera-project-sid.md)
-  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/ai-agents/case-generative-agents-interactive-simulacra-of-human-behavior.md)
-* [👾 AI Agent Tools](ai-agent-apps/ai-agent-tools/README.md)
-  * [Make.com Tutorial](ai-agent-apps/ai-agent-tools/make.com-tutorial.md)
-  * [Microsoft AutoGen](ai-agent-apps/ai-agent-tools/microsoft-autogen.md)
-  * [n8n](ai-agent-apps/ai-agent-tools/n8n.md)
-  * [ChatGPT Agent](ai-agent-apps/ai-agent-tools/chatgpt-agent.md)
-  * [Crew AI](ai-agent-apps/ai-agent-tools/crew-ai.md)
+* [🪪 AI Agent Tools & Ecosystem Landscape](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/README.md)
+  * [Case: Altera Project Sid](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/case-altera-project-sid.md)
+  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/case-generative-agents-interactive-simulacra-of-human-behavior.md)
+  * [Make.com Tutorial](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/make.com-tutorial.md)
+  * [Microsoft AutoGen](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/microsoft-autogen.md)
+  * [Crew AI](ai-agent-apps/ai-agent-tools-and-ecosystem-landscape/crew-ai.md)
 * [Agent to Agent Protocol](ai-agent-apps/agent-to-agent-protocol/README.md)
   * [Model Context Protocol (MCP)](ai-agent-apps/agent-to-agent-protocol/model-context-protocol-mcp.md)
   * [Google A2A](ai-agent-apps/agent-to-agent-protocol/google-a2a.md)
