@@ -7,41 +7,55 @@ coverY: 0
 
 # 🖋️ AI in Working
 
+<details>
 
-
-OpenAI ChatGPT for any roles
+<summary>OpenAI ChatGPT for any roles</summary>
 
 [https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role)
 
+</details>
 
+<details>
 
-OpenAI - AI in the Enterprise
+<summary>OpenAI - AI in the Enterprise</summary>
 
 [https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf)
 
 
 
-Microsoft’s 2025 Work Trend Index
+</details>
+
+<details>
+
+<summary>Microsoft’s 2025 Work Trend Index</summary>
 
 [https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)
 
 Microsoft’s 2025 Work Trend Index says, in short: companies must “re-install their OS” by hiring AI agents as digital teammates, creating human-AI hybrid “Frontier Firms” that plug the capacity gap and rewrite how organizations and business work. ​
 
+</details>
 
 
-### PDF Tools
 
-{% hint style="warning" %}
-**Most LLM chat applications, such as ChatGPT and Claude, can now interact directly with PDF files.**
-{% endhint %}
+### Slides Generate
 
-### <mark style="color:orange;">ChatPDF</mark>
+{% tabs %}
+{% tab title="Gamma" %}
+[https://gamma.app](https://gamma.app/?lng=en)
 
-When ChatGPT was first launched, it lacked the ability to upload files, forcing users to interact by copying and pasting text from PDF documents. This cumbersome process led to the creation of API-based third-party apps, enabling direct dialogue with PDF documents, such as <mark style="background-color:orange;">ChatPDF</mark>.
+Gamma is an AI-powered tool that quickly generates polished presentations and documents. It offers flexible templates, one-click restyling, and the ability to embed various media types. Gamma's present mode, nested cards, and publishing features enable effective communication and collaboration. It provides built-in analytics, quick reactions, and cross-device compatibility.
 
-[https://www.chatpdf.com/](https://www.chatpdf.com/)
+{% embed url="https://youtu.be/r9VOYJM6nZc" %}
+Gamma
+{% endembed %}
+{% endtab %}
 
-With continuous upgrades to Large Language Models (LLMs) like ChatGPT and Claude, these applications now support file uploads, enabling us to upload PDFs directly within the LLM chat interface to extract and summarize their content.&#x20;
+{% tab title="Goole Notebooklm" %}
+[https://notebooklm.google.com](https://notebooklm.google.com)
+
+NotebookLM is a tool that combines large language models with Google's search capabilities to help organize information, generate ideas, and boost productivity. Users can create and edit documents, collaborate with others, and receive AI support for suggestions, answering questions, and summarizing content. This tool streamlines information collection and organization, making it particularly useful for students, researchers, and professionals working with complex information to gain insights efficiently.
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -77,11 +91,15 @@ Seamlessly capture, transcribe, and organize your in-person and virtual meetings
 
 
 
-### <mark style="color:orange;">Goole Notebooklm</mark>
+{% tabs %}
+{% tab title="First Tab" %}
+[https://workspace.google.com/studio/](https://workspace.google.com/studio/)
+{% endtab %}
 
-[https://notebooklm.google.com](https://notebooklm.google.com)
+{% tab title="Second Tab" %}
 
-NotebookLM is a tool that combines large language models with Google's search capabilities to help organize information, generate ideas, and boost productivity. Users can create and edit documents, collaborate with others, and receive AI support for suggestions, answering questions, and summarizing content. This tool streamlines information collection and organization, making it particularly useful for students, researchers, and professionals working with complex information to gain insights efficiently.
+{% endtab %}
+{% endtabs %}
 
 
 
