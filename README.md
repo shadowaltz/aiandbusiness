@@ -69,6 +69,13 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Boston Dynamics Atlas
+
+Boston Dynamics just revealed the **product version of Atlas** — an **enterprise-grade humanoid robot built for real industrial use**.\
+Fully electric, capable of lifting **\~50 kg (110 lbs)**, with **56 degrees of freedom**, autonomous navigation, automatic battery swapping, and a clear roadmap toward factory deployment and large-scale production.
+
+{% embed url="https://www.youtube.com/watch?v=rrUHZKlrxms" %}
+
 ### Claude Skills
 
 {% hint style="success" %}
