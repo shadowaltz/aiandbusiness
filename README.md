@@ -69,12 +69,30 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### NVIDIA Rubin
+
+{% hint style="success" %}
+**TL;DR:** _NVIDIA Rubin_ is NVIDIA’s upcoming 2026 AI GPU architecture, succeeding Blackwell, and forms the core of the Vera Rubin platform—a next-gen AI computing system optimized for ultra‑high throughput, larger context windows, and efficient AI model training and inference with HBM4 memory, designed to power future data centers at scale.
+{% endhint %}
+
+{% embed url="https://youtu.be/e3PIvqig1MM?si=AWM0bNjZBWP2oaxE" %}
+
+### NVIDIA DRIVE Alpamayo‑R1
+
+{% hint style="success" %}
+**TL;DR:** NVIDIA DRIVE Alpamayo‑R1, an open‑source reasoning vision‑language‑action (VLA) AI model designed specifically for autonomous driving research and development that integrates vision, language, and action planning—allowing vehicles to interpret sensor inputs, reason through complex scenarios (chain‑of‑causation), plan safe trajectories, and even explain decisions, advancing the path toward safer Level 4 autonomy. Already partnered with Mercedes-Benz, with plans to deploy it on the next-gen CLA as early as next year.
+{% endhint %}
+
+
+
 ### Boston Dynamics Atlas
 
 {% hint style="success" %}
 **TL;DR:** Boston Dynamics just revealed the **product version of Atlas** — an **enterprise-grade humanoid robot built for real industrial use**.\
 Fully electric, capable of lifting **\~50 kg (110 lbs)**, with **56 degrees of freedom**, autonomous navigation, automatic battery swapping, and a clear roadmap toward factory deployment and large-scale production.
 {% endhint %}
+
+
 
 {% embed url="https://www.youtube.com/watch?v=rrUHZKlrxms" %}
 
@@ -87,8 +105,6 @@ Fully electric, capable of lifting **\~50 kg (110 lbs)**, with **56 degrees of f
 {% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fddd7e6e572ad0b6a943cacefe957248455f6d522-1650x929.jpg&w=3840&q=75" %}
 
 > A skill is a directory containing a SKILL.md file that contains organized folders of instructions, scripts, and resources that give agents additional capabilities.
-
-
 
 ### Agentic AI Foundation
 
