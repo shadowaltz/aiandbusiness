@@ -40,6 +40,12 @@ Link: [https://github.com/google-deepmind/alphafold3](https://github.com/google-
 
 ## Medical
 
+### Predicting 130+ Diseases via AI
+
+Major news from Nature Medicine: researchers have released SleepFM, a foundation model that "learns the language of sleep". By integrating brain, heart, and respiratory signals, the model achieves a C-Index of 0.85 for dementia and 0.84 for all-cause mortality prediction. This is how we scale proactive medicine.&#x20;
+
+{% embed url="https://www.nature.com/articles/s41591-025-04133-4?utm_source=www.theaivalley.com&utm_medium=newsletter&utm_campaign=google-overtakes-openai&_bhlid=32e788bac55290c98b375ab635fc44e4efdcdaa3" %}
+
 ### FDA Elsa
 
 {% embed url="https://www.fiercebiotech.com/cro/fda-launces-new-generative-ai-tool-elsa-month-ahead-schedule" %}
@@ -78,5 +84,5 @@ The paper introduces "Agent Hospital," a simulated hospital environment where au
 
 
 
-{% embed url="https://x.com/NVIDIAHealth/status/1902101464454934772" %}
+
 

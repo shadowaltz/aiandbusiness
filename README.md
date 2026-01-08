@@ -69,6 +69,14 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### ChatGPT Health
+
+{% hint style="success" %}
+_ChatGPT Health_ is a new dedicated health and wellness experience within ChatGPT launched by OpenAI that lets users securely connect their medical records and wellness apps (like Apple Health or MyFitnessPal), provides a separate tab with enhanced privacy and data isolation for health‑related conversations, and helps people understand lab results, prepare for doctor visits, track wellness patterns, and explore insurance options—while clearly positioning itself as a supportive informational tool (not a replacement for professional medical care).
+{% endhint %}
+
+{% embed url="https://openai.com/index/introducing-chatgpt-health/" %}
+
 ### NVIDIA Rubin
 
 {% hint style="success" %}
@@ -83,16 +91,12 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 **TL;DR:** NVIDIA DRIVE Alpamayo‑R1, an open‑source reasoning vision‑language‑action (VLA) AI model designed specifically for autonomous driving research and development that integrates vision, language, and action planning—allowing vehicles to interpret sensor inputs, reason through complex scenarios (chain‑of‑causation), plan safe trajectories, and even explain decisions, advancing the path toward safer Level 4 autonomy. Already partnered with Mercedes-Benz, with plans to deploy it on the next-gen CLA as early as next year.
 {% endhint %}
 
-
-
 ### Boston Dynamics Atlas
 
 {% hint style="success" %}
 **TL;DR:** Boston Dynamics just revealed the **product version of Atlas** — an **enterprise-grade humanoid robot built for real industrial use**.\
 Fully electric, capable of lifting **\~50 kg (110 lbs)**, with **56 degrees of freedom**, autonomous navigation, automatic battery swapping, and a clear roadmap toward factory deployment and large-scale production.
 {% endhint %}
-
-
 
 {% embed url="https://www.youtube.com/watch?v=rrUHZKlrxms" %}
 
