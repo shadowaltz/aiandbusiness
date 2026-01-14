@@ -92,7 +92,7 @@ Replit Agent is an AI-powered tool that can build entire deployable applications
 {% tab title="Google Antigravity" %}
 [https://antigravity.google/download](https://antigravity.google/download)
 
-
+Google has introduced Antigravity, an AI-first integrated development environment where autonomous agents powered by Gemini 3 Pro handle planning, coding, testing, and verification across editor, terminal, and browser—redefining software development as a high-level, agent-driven process instead of manual coding.
 {% endtab %}
 {% endtabs %}
 
