@@ -69,6 +69,12 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Claude Cowork
+
+Anthropic’s Claude Cowork is a new feature in the Claude Desktop app that lets the AI act like a proactive digital coworker—automatically reading, editing, organizing, and creating files in a designated folder to complete non‑coding productivity tasks without needing you to write code, effectively bringing the power of Claude Code to everyday work workflows.
+
+{% embed url="https://youtu.be/UAmKyyZ-b9E?si=zM02aNjnxwgSIQ0Z" %}
+
 ### ChatGPT Health
 
 {% hint style="success" %}

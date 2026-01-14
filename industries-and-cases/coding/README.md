@@ -38,7 +38,7 @@ Instead of jumping straight into writing software, developers first create a pre
 
 ***
 
-## <mark style="color:purple;">AI Software Development Assistants</mark>
+## <mark style="color:purple;">Agentic Development Platform</mark>
 
 {% tabs %}
 {% tab title="Cursor" %}
@@ -87,6 +87,12 @@ Replit
 Replit Agent is an AI-powered tool that can build entire deployable applications from natural language prompts, handling everything from code generation to database setup and deployment.&#x20;
 
 {% embed url="https://youtu.be/IYiVPrxY8-Y?si=fFnatxdY5UTu6HLq" %}
+{% endtab %}
+
+{% tab title="Google Antigravity" %}
+[https://antigravity.google/download](https://antigravity.google/download)
+
+
 {% endtab %}
 {% endtabs %}
 
