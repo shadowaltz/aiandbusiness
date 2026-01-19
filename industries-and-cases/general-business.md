@@ -52,7 +52,15 @@ Tome [https://tome.app/](https://tome.app/)
 
 
 
+### Leadership
 
+<details>
+
+<summary>OpenAI - Staying ahead in the age of ai</summary>
+
+[https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf](https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf)
+
+</details>
 
 
 
