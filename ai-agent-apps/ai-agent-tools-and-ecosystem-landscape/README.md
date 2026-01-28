@@ -157,9 +157,13 @@ _Claude Skills_ are a new modular feature in Anthropic’s Claude AI that lets C
 
 > A skill is a directory containing a SKILL.md file that contains organized folders of instructions, scripts, and resources that give agents additional capabilities.
 
-#### Awesome Claude skills
+#### Skills Marketplace
 
 {% embed url="https://github.com/ComposioHQ/awesome-claude-skills" %}
+
+{% embed url="https://skillsmp.com/" %}
+
+{% embed url="https://skills.sh/trending" %}
 
 
 
