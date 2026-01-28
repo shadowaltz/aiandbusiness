@@ -69,6 +69,18 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Figure Helix 02
+
+Figure AI’s Helix 02 — launched as the next generation of its humanoid AI control system — is a unified neural architecture that gives a Figure humanoid robot full‑body autonomy, enabling it to walk, balance, perceive, and manipulate objects continuously across complex, long‑horizon tasks (like unloading and reloading a dishwasher) entirely from onboard sensors with no human intervention. It represents a major stride in _loco‑manipulation_ by integrating perception and whole‑body control into one learned system that reasons from pixels to joint torques.
+
+{% embed url="https://youtu.be/lQsvTrRTBRs?si=C5LpIjOZ_3uMrL6O" %}
+
+### Moltbot(Clawdbot)
+
+Moltbot (formerly known as Clawdbot) is a viral open‑source personal AI agent that “actually does things” by running locally on your own hardware and autonomously managing tasks like clearing your inbox, sending emails, automating scripts, handling calendars, and interacting through messaging apps such as WhatsApp, Telegram, Discord, or iMessage — blending real task execution with persistent memory and user‑chosen AI models rather than just generating chat replies.
+
+{% embed url="https://www.molt.bot/" %}
+
 ### Claude Cowork
 
 Anthropic’s Claude Cowork is a new feature in the Claude Desktop app that lets the AI act like a proactive digital coworker—automatically reading, editing, organizing, and creating files in a designated folder to complete non‑coding productivity tasks without needing you to write code, effectively bringing the power of Claude Code to everyday work workflows.

@@ -32,3 +32,9 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 * Flux
 * Z-image
 
+
+
+### AI Image Generation & Edit Platforms
+
+<table data-header-hidden><thead><tr><th width="279.73828125"></th><th></th></tr></thead><tbody><tr><td><strong>Canva</strong></td><td><a href="https://www.lovart.ai/">https://www.lovart.ai/</a></td></tr><tr><td><strong>Adobe Firefly</strong></td><td><a href="https://www.adobe.com/">https://www.adobe.com/</a></td></tr><tr><td><strong>Lovart</strong></td><td><a href="https://www.lovart.ai/">https://www.lovart.ai/</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+
