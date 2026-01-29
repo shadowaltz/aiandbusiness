@@ -86,3 +86,7 @@ The paper introduces "Agent Hospital," a simulated hospital environment where au
 
 
 
+Healthcare providers are turning to agentic AI to achieve a "touchless" Revenue Cycle Management (RCM) system. Unlike traditional generative AI, agentic AI can autonomously make decisions and execute complex end-to-end processes, potentially reducing collection costs by 30% to 60% while allowing staff to focus on high-value patient care.
+
+{% embed url="https://www.mckinsey.com/industries/healthcare/our-insights/agentic-ai-and-the-race-to-a-touchless-revenue-cycle?stcr=875748A05E794A768148E218FC23D04C&cid=mgp_opr-eml-alt-shp_hc-mgp-glb--&hlkid=b3cc574e4c7649fbb8f819d57564b1a3&hctky=14836052&hdpid=8106681b-8c16-41f9-9c72-41ef921ad882" %}
+

@@ -62,7 +62,6 @@
   * [Warehousing & Logistics](industries-and-cases/supply-chain/warehousing-and-logistics.md)
 * [Spatial Computing/3D](industries-and-cases/spatial-computing-3d/README.md)
   * [Metaverse & Digital Twin](industries-and-cases/spatial-computing-3d/metaverse-and-digital-twin.md)
-* [Translation](industries-and-cases/translation.md)
 * [AI + Finance](industries-and-cases/ai-+-finance/README.md)
   * [Fraud Detection](industries-and-cases/ai-+-finance/fraud-detection.md)
 * [E-commerce](industries-and-cases/e-commerce.md)
@@ -127,10 +126,6 @@
 
 * [🕶️ AI Glasses](ai-hardware/ai-glasses/README.md)
   * [Case: Meta Glasses](ai-hardware/ai-glasses/case-meta-glasses.md)
-* [📱 AI Cell Phone & System](ai-hardware/ai-cell-phone-and-system/README.md)
-  * [Apple Intelligence](ai-hardware/ai-cell-phone-and-system/apple-intelligence.md)
-  * [Samsung OneUI](ai-hardware/ai-cell-phone-and-system/samsung-oneui.md)
-  * [Google Gemini/Android](ai-hardware/ai-cell-phone-and-system/google-gemini-android.md)
 * [🖲️ AI Gadgets](ai-hardware/ai-gadgets.md)
 * [AI Computer](ai-hardware/ai-computer.md)
 
