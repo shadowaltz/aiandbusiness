@@ -2,7 +2,7 @@
 description: AI Corporate Management
 ---
 
-# 🏛️ General Business
+# 🏛️ General Businessdelphi
 
 ## Enterprise Level Solutions:
 

@@ -50,6 +50,15 @@ Unlike traditional benchmarks, LMArena employs a crowdsourced, blind-voting syst
 {% endtab %}
 {% endtabs %}
 
+### Comparison
+
+| AI Model                   | Core Strength (2026)      | Context Window  | Agent Capability         | Starting Price    |
+| -------------------------- | ------------------------- | --------------- | ------------------------ | ----------------- |
+| **ChatGPT (GPT-5.2)**      | Generalist & Logic (o3)   | 256K Tokens     | Operator (Browser Agent) | $20/mo            |
+| **Claude 4 (Opus/Sonnet)** | Human-like Writing & Code | 500K+ Tokens    | Computer Use (Desktop)   | $20/mo            |
+| **Gemini 3 (Ultra)**       | Google Ecosystem & Video  | 2M - 10M Tokens | Google Workspace Agent   | $19.99/mo         |
+| **Grok 4**                 | Real-time X Data & Wit    | 128K+ Tokens    | Integrated Social Agent  | $8/mo (X Premium) |
+
 ***
 
 ## Large Language Models

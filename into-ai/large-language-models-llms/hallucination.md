@@ -1,4 +1,4 @@
-# Hallucination Problem
+# Hallucination
 
 ## <mark style="color:purple;">What is AI Hallucination?</mark>
 

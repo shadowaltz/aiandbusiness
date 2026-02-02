@@ -4,15 +4,15 @@
 
 ## Learn
 
-* [AI Basics](learn/ai-basics/README.md)
-  * [AI Learning Resources](learn/ai-basics/ai-learning-resources.md)
-* [Large Language Models (LLMs)](learn/large-language-models-llms/README.md)
-  * [Prompt Engineering](learn/large-language-models-llms/prompt-engineering.md)
-  * [Hallucination](learn/large-language-models-llms/hallucination.md)
-  * [Claude](learn/large-language-models-llms/claude.md)
-  * [Create Your Own Writing GPTs](learn/large-language-models-llms/create-your-own-writing-gpts.md)
-* [AI Ethics/Copyright](learn/ai-ethics-copyright.md)
-* [Policy and Regulation](learn/policy-and-regulation.md)
+* [AI Basics](into-ai/ai-basics/README.md)
+  * [AI Learning Resources](into-ai/ai-basics/ai-learning-resources.md)
+* [Large Language Models (LLMs)](into-ai/large-language-models-llms/README.md)
+  * [Prompt Engineering](into-ai/large-language-models-llms/prompt-engineering.md)
+  * [Hallucination](into-ai/large-language-models-llms/hallucination.md)
+  * [Claude](into-ai/large-language-models-llms/claude.md)
+  * [Create Your Own Writing GPTs](into-ai/create-your-own-writing-gpts.md)
+* [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
+* [Policy and Regulation](into-ai/policy-and-regulation.md)
 
 ## Industries & Cases
 
@@ -57,7 +57,7 @@
   * [Website Development](industries-and-cases/coding/website-development.md)
   * [Cursor Resources & Cases](industries-and-cases/coding/cursor-resources-and-cases.md)
   * [AI App Development Tool](industries-and-cases/coding/ai-app-development-tool.md)
-* [🏛️ General Businessdelphi](industries-and-cases/general-businessdelphi.md)
+* [🏛️ General Businessdelphi](industries-and-cases/general-business.md)
 * [🤝 Negotiation](industries-and-cases/negotiation.md)
 * [🎓 Education](industries-and-cases/education/README.md)
   * [AI Education Tools](industries-and-cases/education/ai-education-tools/README.md)
