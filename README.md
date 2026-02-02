@@ -17,48 +17,50 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 
 ***
 
-### <mark style="color:blue;">2025 Top AI Tools:</mark>
+### 🏆 <mark style="color:blue;">2025 Top AI Tools:</mark>
+
+> **AIandBusiness Ranking** · Updated 2025
 
 {% columns %}
 {% column %}
-**General Chatbots:**
+🤖**General LLM:**
 
 * ChatGPT
 * Gemini
 * Claude
 
-**Voice Gen:**
+🎙 **Voice Gen:**
 
 * ElevenLabs
 {% endcolumn %}
 
 {% column %}
-**Image Gen:**
+🎨 **Image Gen:**
 
 * Nano Banana
 * Midjourney
 * Seeddream
 
-**Learning Tool:**
+📚 **Learning Tool:**
 
 * NotebookLM
 {% endcolumn %}
 
 {% column width="25%" %}
-**Video Gen:**
+🎬 **Video Gen:**
 
 * Runway
 * Veo
 * Kling
 
-**Coding:**
+💻 **Coding:**
 
 * Claude Code
 * Cursor
 {% endcolumn %}
 
 {% column width="25%" %}
-**Music Gen:**
+🎵 **Music Gen:**
 
 * Suno
 * Udio
@@ -68,6 +70,16 @@ aiandbusiness.com is a free AI learning platform and business intelligence hub t
 ***
 
 ## <mark style="color:blue;">What's New?</mark>
+
+### &#x20;Codex app
+
+OpenAI’s Codex app is a new macOS productivity and developer tool that unifies the company’s cloud‑based software engineering AI agent into a dedicated desktop interface where multiple autonomous coding agents can run in parallel, manage worktrees, automate tasks, integrate with Git, use “Skills,” and help build, review, and ship software more efficiently from natural‑language prompts or structured workflows — essentially turning AI into a multitasking virtual engineering teammate right on your Mac.
+
+{% embed url="https://youtu.be/0e-Brv-gS9Q?si=cMhs7kN1mOSAg_GR" %}
+
+### OpenClaw(Clawdbot/Moltbot)
+
+OpenClaw is an open‑source, self‑hosted autonomous AI agent platform (originally released as _Clawdbot_ and later _Moltbot_) that runs on your own machine and connects to familiar messaging apps like WhatsApp, Telegram, Discord, Slack, Signal, and iMessage to act as a proactive digital assistant that not only chats but executes real‑world tasks (e.g., managing messages, calendars, emails, workflows, and scripts) based on your permissions and integrations.
 
 ### Figure Helix 02
 

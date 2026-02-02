@@ -87,10 +87,6 @@
 * [Audio/Music](tools-and-tech/audio-music.md)
 * [Code Assistance](tools-and-tech/code-assistance.md)
 
-## News & Trends
-
-* [Page 1](news-and-trends/page-1.md)
-
 ## Image
 
 * [🪄 Text to Image / Image Editing Tools](image/text-to-image-image-editing-tools/README.md)
@@ -99,7 +95,6 @@
     * [Midjourney Cases](image/text-to-image-image-editing-tools/midjourney-guide/midjourney-cases.md)
 * [🖌️ Comics & Manga](image/comics-and-manga.md)
 * [AI Image Detector](image/ai-image-detector.md)
-* [Create Avatar](image/create-avatar.md)
 
 ## Video & Films
 
