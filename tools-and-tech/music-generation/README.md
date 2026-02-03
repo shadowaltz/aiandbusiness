@@ -1,8 +1,9 @@
 ---
 description: AI & Music Generation
+icon: music
 ---
 
-# 🎼 Music Generation
+# Music Generation
 
 ### Music Leaderboard:
 

@@ -1,9 +1,10 @@
 ---
+icon: image-landscape
 cover: ../../.gitbook/assets/midjourney cover.webp
 coverY: 30.890666666666664
 ---
 
-# 🪄 Image Generation/Editing Tools
+# Image Generation/Editing Tools
 
 {% hint style="warning" %}
 The training data for certain AIGC models, including Stable Diffusion, is currently subject to copyright disputes and legal risks. It is essential to assess these issues in light of the legal standards applicable in your jurisdiction and to approach commercial usage with prudence.

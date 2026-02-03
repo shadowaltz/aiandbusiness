@@ -1,11 +1,12 @@
 ---
 description: AI Browser/ AI Search Engine
+icon: window
 cover: >-
   https://images.unsplash.com/photo-1625296276703-3fbc924f07b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzZWFyY2glMjBlbmdpbmV8ZW58MHx8fHwxNzE4NTk0MzA4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🖱️ AI Browsers
+# AI Browsers
 
 ## AI Browsers
 

@@ -1,4 +1,8 @@
-# 🎥 AI Video Gen Tools
+---
+icon: camera-security
+---
+
+# AI Video Gen Tools
 
 ## Leaderboard:
 

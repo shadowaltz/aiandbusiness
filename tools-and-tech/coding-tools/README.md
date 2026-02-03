@@ -1,11 +1,12 @@
 ---
 description: ToolsAI & Software Development
+icon: display-code
 cover: >-
   https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb2Rpbmd8ZW58MHx8fHwxNzE4NjAwNTU4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 💽 Coding Tools
+# Coding Tools
 
 <details>
 

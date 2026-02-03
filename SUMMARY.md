@@ -13,24 +13,34 @@
   * [Create Your Own Writing GPTs](into-ai/create-your-own-writing-gpts.md)
 * [AI Ethics/Copyright](into-ai/ai-ethics-copyright.md)
 * [Policy and Regulation](into-ai/policy-and-regulation.md)
+* [AI Agent](learn/ai-agent.md)
 
 ## 🛠️ Tools & Tech
 
-* [The Premier AI Index](tools-and-tech/the-premier-ai-index.md)
-* [🪄 Image Generation/Editing Tools](tools-and-tech/image-generation-editing-tools/README.md)
+* [Image Generation/Editing Tools](tools-and-tech/image-generation-editing-tools/README.md)
   * [GPT-4o Image Collection](tools-and-tech/image-generation-editing-tools/gpt-4o-image-collection.md)
   * [Midjourney Guide](tools-and-tech/image-generation-editing-tools/midjourney-guide/README.md)
     * [Midjourney Cases](tools-and-tech/image-generation-editing-tools/midjourney-guide/midjourney-cases.md)
-* [🎥 AI Video Gen Tools](tools-and-tech/ai-video-gen-tools.md)
-* [💽 Coding Tools](tools-and-tech/coding-tools/README.md)
+* [AI Video Gen Tools](tools-and-tech/ai-video-gen-tools.md)
+* [Coding Tools](tools-and-tech/coding-tools/README.md)
   * [Website Development](tools-and-tech/coding-tools/website-development.md)
   * [Cursor Resources & Cases](tools-and-tech/coding-tools/cursor-resources-and-cases.md)
   * [AI App Development Tool](tools-and-tech/coding-tools/ai-app-development-tool.md)
-* [🎼 Music Generation](tools-and-tech/music-generation/README.md)
+* [Music Generation](tools-and-tech/music-generation/README.md)
   * [Suno Guide](tools-and-tech/music-generation/suno-guide.md)
-* [🎤 Voice Generation Tools](tools-and-tech/voice-generation-tools/README.md)
+* [Voice Generation Tools](tools-and-tech/voice-generation-tools/README.md)
   * [ElevenLabs Tutorial](tools-and-tech/voice-generation-tools/elevenlabs-tutorial.md)
-* [🖱️ AI Browsers](tools-and-tech/ai-browsers.md)
+* [AI Browsers](tools-and-tech/ai-browsers.md)
+* [🪪 AI Agent Tools](tools-and-tech/ai-agent-tools/README.md)
+  * [Case: Altera Project Sid](tools-and-tech/ai-agent-tools/case-altera-project-sid.md)
+  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](tools-and-tech/ai-agent-tools/case-generative-agents-interactive-simulacra-of-human-behavior.md)
+  * [Make.com Tutorial](tools-and-tech/ai-agent-tools/make.com-tutorial.md)
+  * [Microsoft AutoGen](tools-and-tech/ai-agent-tools/microsoft-autogen.md)
+  * [Crew AI](tools-and-tech/ai-agent-tools/crew-ai.md)
+  * [Agent to Agent Protocol](tools-and-tech/ai-agent-tools/agent-to-agent-protocol/README.md)
+    * [Model Context Protocol (MCP)](tools-and-tech/ai-agent-tools/agent-to-agent-protocol/model-context-protocol-mcp.md)
+    * [Google A2A](tools-and-tech/ai-agent-tools/agent-to-agent-protocol/google-a2a.md)
+  * [AI App Development Tool](tools-and-tech/ai-agent-tools/ai-app-development-tool.md)
 
 ## 🏭 By Industry (Cases)
 
@@ -39,16 +49,6 @@
     * [Figure AI](by-industry-cases/robotics-embodied-intelligence/humanoid-robots/figure-ai.md)
     * [Boston Dynamics](by-industry-cases/robotics-embodied-intelligence/humanoid-robots/boston-dynamics.md)
     * [Tesla Optimus](by-industry-cases/robotics-embodied-intelligence/humanoid-robots/tesla-optimus.md)
-* [🪪 AI Agent Tools & Ecosystem Landscape](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/README.md)
-  * [Case: Altera Project Sid](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/case-altera-project-sid.md)
-  * [Case: Generative Agents: Interactive Simulacra of Human Behavior](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/case-generative-agents-interactive-simulacra-of-human-behavior.md)
-  * [Make.com Tutorial](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/make.com-tutorial.md)
-  * [Microsoft AutoGen](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/microsoft-autogen.md)
-  * [Crew AI](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/crew-ai.md)
-  * [Agent to Agent Protocol](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/agent-to-agent-protocol/README.md)
-    * [Model Context Protocol (MCP)](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/agent-to-agent-protocol/model-context-protocol-mcp.md)
-    * [Google A2A](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/agent-to-agent-protocol/google-a2a.md)
-  * [AI App Development Tool](by-industry-cases/ai-agent-tools-and-ecosystem-landscape/ai-app-development-tool.md)
 * [Movies/Films](by-industry-cases/movies-films/README.md)
   * [AI Video Production: The Top Tools for California Filmmakers in 2026](by-industry-cases/movies-films/ai-video-production-the-top-tools-for-california-filmmakers-in-2026.md)
   * [AI Video Case Studies](by-industry-cases/movies-films/ai-video-case-studies/README.md)
@@ -96,22 +96,13 @@
     * [Waymo](by-industry-cases/autonomous-driving/robotaxi-and-robovan/waymo.md)
     * [Case: Challenges in Implementing Baidu's Apollo Go Autonomous Driving Business](by-industry-cases/autonomous-driving/robotaxi-and-robovan/case-challenges-in-implementing-baidus-apollo-go-autonomous-driving-business.md)
 * [AI Image Detector](by-industry-cases/ai-image-detector.md)
+* [🎙️ Podcasting](by-industry-cases/podcasting/README.md)
+  * [Podcast Summaries](by-industry-cases/podcasting/podcast-summaries.md)
+  * [AI-Generated News Podcasting Cases](by-industry-cases/podcasting/ai-generated-news-podcasting-cases.md)
 
 ## 🎯 By Role
 
 * [Page 1](by-role/page-1.md)
-
-## Video & Films
-
-* [🎛️ AI Video Editing Tools/Platforms](video-and-films/ai-video-editing/README.md)
-  * [Eyesight Correction](video-and-films/ai-video-editing-tools-platforms/eyesight-correction.md)
-  * [AI Video Clipping](video-and-films/ai-video-editing/ai-video-clipping.md)
-
-## Sound & Music
-
-* [🎙️ Podcasting](sound-and-music/podcasting/README.md)
-  * [Podcast Summaries](sound-and-music/podcasting/podcast-summaries.md)
-  * [AI-Generated News Podcasting Cases](sound-and-music/podcasting/ai-generated-news-podcasting-cases.md)
 
 ## AI Hardware
 
