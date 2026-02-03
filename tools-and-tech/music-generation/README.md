@@ -10,7 +10,7 @@ description: AI & Music Generation
 
 
 
-### Popular Tools:
+### Music Gen Tools:
 
 {% tabs %}
 {% tab title="Suno" %}

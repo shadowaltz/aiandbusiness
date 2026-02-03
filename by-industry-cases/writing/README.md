@@ -30,8 +30,11 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 <summary>Expand Text</summary>
 
 * **Original Content**: "The rise of artificial intelligence has brought significant changes to various industries."
+* **Prompt**:&#x20;
 
-- **Prompt**: "Extend the following sentence: 'The rise of artificial intelligence has brought significant changes to various industries.'"
+```
+"Extend the following sentence: 'The rise of artificial intelligence has brought significant changes to various industries.'"
+```
 
 * **Result**: "The rise of artificial intelligence has brought significant changes to various industries, revolutionizing sectors like healthcare, finance, and education. In healthcare, AI systems enhance diagnostics and treatment accuracy, while in finance, they streamline risk assessment and fraud detection. Similarly, in education, AI-based tools are reshaping how students learn and interact with course materials."
 
@@ -44,13 +47,9 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 
 
 * **Original Content**: "The weather is sunny today, and it feels really nice outside."
-
-- **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in an academic style."
-
+* **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in an academic style."
 * **Result (Academic Style)**: "Today’s atmospheric conditions are characterized by clear skies and abundant sunlight, contributing to a pleasant outdoor experience conducive to various activities."
-
-- **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in a casual, conversational style."
-
+* **Prompt**: "Rewrite the sentence 'The weather is sunny today, and it feels really nice outside' in a casual, conversational style."
 * **Result (Casual Style)**: "Man, the weather is amazing today—sun’s out, and it’s the perfect day to chill outside!"
 
 </details>
@@ -60,9 +59,7 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 <summary>Substituting Words</summary>
 
 * **Original Content**: "The company is planning to expand its market presence."
-
-- **Prompt**: "Substitute words in the sentence 'The company is planning to expand its market presence' with more formal or alternative words."
-
+* **Prompt**: "Substitute words in the sentence 'The company is planning to expand its market presence' with more formal or alternative words."
 * **Result**: "The corporation intends to broaden its footprint in the market."
 
 </details>
@@ -72,9 +69,7 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 <summary>Completing Texts</summary>
 
 * **Original Content**: "Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…"
-
-- **Prompt**: "Complete the sentence: 'Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…'"
-
+* **Prompt**: "Complete the sentence: 'Quantum computing holds the promise to revolutionize fields such as cryptography, by enabling…'"
 * **Result**: "…the rapid decryption of complex codes, which would take traditional computers millions of years to crack. This advancement could not only disrupt cybersecurity but also offer breakthroughs in chemical modeling, drug discovery, and financial forecasting by performing calculations at speeds previously thought impossible."
 
 </details>
@@ -84,9 +79,7 @@ Regarding particular abilities, Large Language Models (LLMs) are capable of assi
 <summary>Refining Content</summary>
 
 * **Original Content**: "The product is good and helps people do things more efficiently."
-
-- **Prompt**: "Refine the sentence: 'The product is good and helps people do things more efficiently.'"
-
+* **Prompt**: "Refine the sentence: 'The product is good and helps people do things more efficiently.'"
 * **Result**: "The product significantly enhances productivity, enabling users to complete tasks with greater efficiency and precision."
 
 </details>
@@ -132,9 +125,7 @@ LLMs can rephrase a sentence or passage while maintaining the original meaning, 
 <summary>Correcting Grammar and Spelling</summary>
 
 * **Original**: "The impact of technology on businesses are enormous, as it helps improves efficency and productivity."
-
-- **Prompt**: "Correct any grammar or spelling mistakes in the sentence: 'The impact of technology on businesses are enormous, as it helps improves efficency and productivity.'"
-
+* **Prompt**: "Correct any grammar or spelling mistakes in the sentence: 'The impact of technology on businesses are enormous, as it helps improves efficency and productivity.'"
 * **Result**: "The impact of technology on businesses is enormous, as it helps improve efficiency and productivity."
 
 </details>
@@ -146,9 +137,7 @@ LLMs can rephrase a sentence or passage while maintaining the original meaning, 
 
 
 * **Original**: "The report was written by the committee."
-
-- **Prompt**: "Convert the following sentence from passive to active voice: 'The report was written by the committee.'"
-
+* **Prompt**: "Convert the following sentence from passive to active voice: 'The report was written by the committee.'"
 * **Result**: "The committee wrote the report."
 
 </details>

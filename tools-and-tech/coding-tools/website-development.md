@@ -52,10 +52,6 @@ AI website builder
 
 v0 by Vercel is a public beta AI-powered tool that helps developers generate UI, ask questions, debug, execute code, and perform various other tasks to assist in shipping software projects.
 {% endtab %}
-
-{% tab title="Teleporthq" %}
-[https://teleporthq.io/ai-website-builder](https://teleporthq.io/ai-website-builder)
-{% endtab %}
 {% endtabs %}
 
 

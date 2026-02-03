@@ -1,11 +1,11 @@
 ---
-description: AI & Software Development
+description: ToolsAI & Software Development
 cover: >-
   https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb2Rpbmd8ZW58MHx8fHwxNzE4NjAwNTU4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 💽 Coding
+# 💽 Coding Tools
 
 <details>
 
@@ -25,16 +25,6 @@ Spec Coding is the practice of "designing a flawless blueprint before building t
 Instead of jumping straight into writing software, developers first create a precise mathematical description (the Specification) of exactly how the program must behave. By defining every rule and edge case in advance, they can prove the logic is perfect before a single line of actual code is written. It is essentially extreme planning used to ensure that critical systems—like those in airplanes or banks—are bug-free and fail-safe.
 
 </details>
-
-***
-
-## <mark style="color:purple;">LLM for Coding</mark>
-
-{% hint style="info" %}
-* Claude
-* GPT
-* Gemini
-{% endhint %}
 
 ***
 
