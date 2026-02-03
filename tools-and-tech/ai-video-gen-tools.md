@@ -1,31 +1,14 @@
----
-description: AI & Film Making
----
-
-# 🎥 GenAI Film Making
-
-## Navigation:
-
-{% hint style="info" %}
-* AI Video Cases
-* Sora
-* Runway
-* Luma Dream Machine
-{% endhint %}
+# 🎥 AI Video Gen Tools
 
 ## Leaderboard:
 
-<mark style="color:orange;">**Text-to-Video Leaderboard**</mark>
+<mark style="color:orange;">**Text-to-Video Leaderboard/Image-to-Video Leaderboard**</mark>
 
 {% embed url="https://artificialanalysis.ai/embed/text-to-video-leaderboard?tab=leaderboard-text" %}
 
-<mark style="color:orange;">**Image-to-Video Leaderboard**</mark>
-
-{% embed url="https://artificialanalysis.ai/embed/text-to-video-leaderboard?tab=leaderboard-image" %}
 
 
-
-## Top-tier AI video generation application
+## AI video Generation Apps
 
 {% tabs %}
 {% tab title="Runway" %}
@@ -52,6 +35,10 @@ Kuaishou’s _Kling AI_ is a next‑generation generative AI creative studio and
 
 {% tab title="Hailuo" %}
 _Hailuo AI_ is an advanced AI‑powered video generation platform from Chinese AI company MiniMax that transforms text and image prompts into high‑quality, cinematic videos with intuitive controls and multi‑modal creativity tools, making professional‑level video creation accessible to creators and marketers alike.
+{% endtab %}
+
+{% tab title="LTX Studio" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -80,8 +67,6 @@ Chinese internet giant Tencent has launched HunyuanVideo, an open-source AI mode
 ***
 
 ### Platforms:
-
-
 
 * Artlist [https://artlist.io/](https://artlist.io/)
 * Openart [https://openart.ai/](https://openart.ai/)
