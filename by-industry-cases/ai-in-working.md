@@ -91,15 +91,15 @@ Seamlessly capture, transcribe, and organize your in-person and virtual meetings
 
 
 
-{% tabs %}
-{% tab title="First Tab" %}
-[https://workspace.google.com/studio/](https://workspace.google.com/studio/)
-{% endtab %}
+### Mindmap
 
-{% tab title="Second Tab" %}
+#### <mark style="color:orange;">Napkin</mark>
 
-{% endtab %}
-{% endtabs %}
+[https://www.napkin.ai](https://www.napkin.ai)
+
+Napkin.ai is an innovative AI-powered platform that transforms text into customizable visuals, diagrams, and illustrations, making it easy for anyone to create engaging visual content for presentations, reports, and other business communications.
+
+{% embed url="https://youtu.be/Eu7lpc4LVuo?si=AgVsM1MQkzE2VbcH" %}
 
 
 

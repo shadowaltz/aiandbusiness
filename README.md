@@ -19,7 +19,7 @@ Your complete AI × Business learning platform. Discover tools, master skills, a
 
 ### 🏆 The Premier AI Index
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Only the transformative. A curated directory of the world's most powerful AI engines driving the future of business.
 {% endhint %}
 

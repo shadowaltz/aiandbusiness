@@ -4,16 +4,6 @@ icon: adversal
 
 # Marketing
 
-## Navigation:
-
-{% hint style="info" %}
-* Social Media Marketing
-* Branding
-* Marketing Tools
-{% endhint %}
-
-
-
 {% hint style="info" %}
 Google prioritizes content quality over its origin: well-crafted AI content that meets user needs and undergoes human review can still rank high. However, sites that rely on low-value, spammy AI content to manipulate search results risk penalties or deindexing.
 {% endhint %}

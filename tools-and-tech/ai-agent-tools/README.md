@@ -1,8 +1,9 @@
 ---
 description: (2025 Edition)
+icon: user-hat-tie-magnifying-glass
 ---
 
-# 🪪 AI Agent Tools
+# AI Agent Tools
 
 ### 1. Top Developer Frameworks
 

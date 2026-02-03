@@ -1,17 +1,10 @@
-# AI Education Tools
+---
+icon: chalkboard-user
+---
 
-## Navigation:
-
-{% hint style="info" %}
-* AI STEAM Learning Tools
-* AI Language Learning Tools
-{% endhint %}
+# AI Education/Learning Tools
 
 
-
-***
-
-## <mark style="color:purple;">Tools</mark>
 
 {% tabs %}
 {% tab title="Microsoft Reading Coach" %}
@@ -104,10 +97,6 @@ VideoTutor has just launched the world’s first AI education agent that transfo
 Unlike static video libraries or text-based AI tutors, VideoTutor combines generative video, voice narration, and interactive visuals to deliver clear, real-time explanations tailored to each query. Built by a Stanford-led team, it aims to democratize access to high-quality tutoring with just a prompt and a click.&#x20;
 
 {% embed url="https://youtu.be/G2S86pzekHI?si=S5Lo1q4O1Pbp5ju9" %}
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 

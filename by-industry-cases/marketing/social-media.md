@@ -8,7 +8,7 @@ coverY: 0
 # 📱 Social Media
 
 {% hint style="info" %}
-* [Social Media Prompts](social-media-prompts.md)
+* [Social Media Prompts](/broken/pages/VMTYX1zAM4cudyDtrJgq)
 * Case: Meta Advantage+
 {% endhint %}
 
