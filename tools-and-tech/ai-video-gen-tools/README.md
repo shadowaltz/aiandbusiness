@@ -12,7 +12,7 @@ icon: camera-security
 
 
 
-## AI video Generation Apps
+## AI Video Generation Apps
 
 {% tabs %}
 {% tab title="Runway" %}
@@ -28,9 +28,9 @@ Google’s _Veo 3.1_ is the latest upgrade to its AI text‑to‑video generatio
 {% endtab %}
 
 {% tab title="Kling" %}
-Kuaishou’s _Kling AI_ is a next‑generation generative AI creative studio and text‑to‑video/video‑to‑video platform that uses powerful large models to turn text prompts or static images into high‑quality, cinematic 1080p videos and images with smooth motion and creative effects, enabling creators to rapidly produce professional‑looking visual content without traditional production barriers.&#x20;
+Kling introduces Kling 3.0, its latest-generation AI video model that delivers more cinematic motion, stronger physical realism, and finer prompt control, positioning it as one of the most advanced text-to-video systems on the market.
 
-
+{% embed url="https://youtu.be/XD_7FNPhZQY" %}
 {% endtab %}
 
 {% tab title="Sora 2" %}
@@ -45,6 +45,8 @@ _Hailuo AI_ is an advanced AI‑powered video generation platform from Chinese A
 
 {% endtab %}
 {% endtabs %}
+
+
 
 ### OpenSource Models:
 
