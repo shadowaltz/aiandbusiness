@@ -42,7 +42,9 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ### Kling 3.0
 
-Kling introduces Kling 3.0, its latest-generation AI video model that delivers more cinematic motion, stronger physical realism, and finer prompt control, positioning it as one of the most advanced text-to-video systems on the market.
+{% hint style="success" %}
+**TL;DR:** Kling introduces Kling 3.0, its latest-generation AI video model that delivers more cinematic motion, stronger physical realism, and finer prompt control, positioning it as one of the most advanced text-to-video systems on the market.
+{% endhint %}
 
 {% embed url="https://youtu.be/XD_7FNPhZQY?si=NG9wcp1YsJ1QzQ8I" %}
 

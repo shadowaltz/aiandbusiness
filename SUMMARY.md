@@ -95,10 +95,6 @@
   * [Podcast Summaries](by-industry-cases/podcasting/podcast-summaries.md)
   * [AI-Generated News Podcasting Cases](by-industry-cases/podcasting/ai-generated-news-podcasting-cases.md)
 
-## 🎯 By Role
-
-* [Page 1](by-role/page-1.md)
-
 ## AI Hardware
 
 * [🕶️ AI Glasses](ai-hardware/ai-glasses/README.md)
