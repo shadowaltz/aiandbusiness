@@ -40,6 +40,22 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Claude Opus 4.6
+
+{% hint style="success" %}
+**TL;DR:** Anthropic releases Claude Opus 4.6, an upgraded flagship model with stronger long-horizon reasoning, more reliable instruction-following, and improved performance on complex professional tasks, further raising the bar for enterprise-grade AI assistants.
+{% endhint %}
+
+{% embed url="https://youtu.be/dPn3GBI8lII?si=11beOEM4BT1T1E1k" %}
+
+### OpenAI Frontier
+
+{% hint style="success" %}
+**TL;DR:** OpenAI Frontier is here: a management OS for AI agents to handle real enterprise work. It’s more than a tool; it’s a digital workforce with its own identity and permissions. Is your business ready for AI coworkers?
+{% endhint %}
+
+{% embed url="https://openai.com/index/introducing-openai-frontier/" %}
+
 ### Kling 3.0
 
 {% hint style="success" %}
