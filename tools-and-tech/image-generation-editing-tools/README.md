@@ -18,8 +18,19 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 
 ### Top-tier Applications:
 
-* Nano Banana Pro&#x20;
-* Midjourney
+{% tabs %}
+{% tab title="Midjourney" %}
+
+{% endtab %}
+
+{% tab title="Nano Banana Pro " %}
+
+{% endtab %}
+
+{% tab title="Grok Image" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
