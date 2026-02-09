@@ -48,7 +48,15 @@ _Hailuo AI_ is an advanced AI‑powered video generation platform from Chinese A
 {% endtab %}
 
 {% tab title="LTX Studio" %}
+Lightricks launches LTX Studio, an end-to-end AI filmmaking platform that turns scripts into structured storyboards, shots, and scenes with consistent characters and cinematic control, redefining how long-form narrative video is created with AI.
 
+
+{% endtab %}
+
+{% tab title="Remotion" %}
+[https://www.remotion.dev/](https://www.remotion.dev/)
+
+Remotion provides a developer-first video generation platform that lets teams create fully programmable, dynamic videos using React and code instead of timelines, making video production scalable, automatable, and deeply customizable.
 {% endtab %}
 {% endtabs %}
 
