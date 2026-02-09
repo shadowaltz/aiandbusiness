@@ -15,6 +15,12 @@ icon: camera-security
 ## AI Video Generation Apps
 
 {% tabs %}
+{% tab title="Seedance" %}
+ByteDance unveils Seedance 2.0, a next-generation AI video model that significantly upgrades motion coherence, character consistency, and rhythm-aware choreography, making long-form, music-driven video generation more controllable and production-ready.
+
+
+{% endtab %}
+
 {% tab title="Runway" %}
 Runway is a leading AI creativity platform that empowers creators, filmmakers, and studios with advanced generative tools for text‑to‑video, image, and multimedia content creation and editing, offering high‑fidelity video generation models like Gen‑4.5, intuitive AI‑driven editing tools (e.g., Aleph), and workflows that dramatically streamline production from ideation to cinematic output.
 
@@ -51,12 +57,6 @@ _Hailuo AI_ is an advanced AI‑powered video generation platform from Chinese A
 ### OpenSource Models:
 
 {% tabs %}
-{% tab title="Seedance" %}
-ByteDance has launched _Seedance_, a cutting‑edge AI video generation model series that transforms text and images into smooth, cinematic 1080p (and below) multi‑shot videos with strong semantic understanding and prompt fidelity, making advanced storytelling and professional‑grade content creation accessible to creators and developers.
-
-{% embed url="https://seed.bytedance.com/en/seedance" %}
-{% endtab %}
-
 {% tab title="Wan" %}
 _Wan_ is Alibaba’s advanced AI video generation platform and model family (e.g., Wan 2.1, 2.2, 2.5, 2.6) that turns text and image inputs into high‑quality cinematic videos—with strong instruction following, reference character consistency, synchronized audio, and open‑source options—lowering the barrier for creators and developers to generate professional visuals without traditional production pipelines.
 {% endtab %}

@@ -40,6 +40,14 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Seedance 2.0
+
+{% hint style="success" %}
+**TL;DR:** ByteDance unveils Seedance 2.0, a next-generation AI video model that significantly upgrades motion coherence, character consistency, and rhythm-aware choreography, making long-form, music-driven video generation more controllable and production-ready.
+{% endhint %}
+
+
+
 ### Claude Opus 4.6
 
 {% hint style="success" %}
