@@ -23,6 +23,12 @@ A prompt is essential as it directs the AI model's output by offering detailed c
 ### Prompt generator
 
 {% tabs %}
+{% tab title="Prompts.chat" %}
+[https://prompts.chat/](https://prompts.chat/)
+
+
+{% endtab %}
+
 {% tab title="Prompt Perfect " %}
 [https://promptperfect.jina.ai/](https://promptperfect.jina.ai/)
 {% endtab %}
@@ -43,4 +49,8 @@ Anthropic Prompt generator
 * [https://promptbase.com/](https://promptbase.com/)
 * [https://promptrr.io/](https://promptrr.io/)
 * [https://prompts-market.com/](https://prompts-market.com/)
+
+
+
+
 
