@@ -16,7 +16,7 @@ icon: camera-security
 
 {% tabs %}
 {% tab title="Seedance" %}
-ByteDance’s Seedance 2.0 is the next‑generation multimodal AI video generation model that creates professional‑grade, narrative‑ready videos from text, images, audio, and video inputs, delivering cinematic motion, lip‑syncing, sound, and scene consistency far beyond typical AI video tools.&#x20;
+**ByteDance’s Seedance 2.0** is the next‑generation multimodal AI video generation model that creates professional‑grade, narrative‑ready videos from text, images, audio, and video inputs, delivering cinematic motion, lip‑syncing, sound, and scene consistency far beyond typical AI video tools.&#x20;
 
 **What makes it stand out**
 

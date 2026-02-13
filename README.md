@@ -46,7 +46,7 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 **TL;DR:** Seedance 2.0 is ByteDance’s cutting‑edge AI video model that pushes generative video toward professional storytelling — turning text, images, audio, and clips into coherent, cinematic videos with native sound and director‑level control. It’s powerful, more stable than earlier models, and poised to shift how creators and filmmakers produce content, though access and ecosystem maturity are still growing.
 {% endhint %}
 
-
+{% embed url="https://seed.bytedance.com/en/seedance2_0" %}
 
 ### Claude Opus 4.6
 
@@ -86,6 +86,8 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 **TL;DR:** OpenClaw is an open‑source, self‑hosted autonomous AI agent platform (originally released as _Clawdbot_ and later _Moltbot_) that runs on your own machine and connects to familiar messaging apps like WhatsApp, Telegram, Discord, Slack, Signal, and iMessage to act as a proactive digital assistant that not only chats but executes real‑world tasks (e.g., managing messages, calendars, emails, workflows, and scripts) based on your permissions and integrations.
 {% endhint %}
 
+{% embed url="https://www.molt.bot/" %}
+
 ### Figure Helix 02
 
 {% hint style="success" %}
@@ -93,14 +95,6 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 {% endhint %}
 
 {% embed url="https://youtu.be/lQsvTrRTBRs?si=C5LpIjOZ_3uMrL6O" %}
-
-### Moltbot(Clawdbot)
-
-{% hint style="success" %}
-**TL;DR:** Moltbot (formerly known as Clawdbot) is a viral open‑source personal AI agent that “actually does things” by running locally on your own hardware and autonomously managing tasks like clearing your inbox, sending emails, automating scripts, handling calendars, and interacting through messaging apps such as WhatsApp, Telegram, Discord, or iMessage — blending real task execution with persistent memory and user‑chosen AI models rather than just generating chat replies.
-{% endhint %}
-
-{% embed url="https://www.molt.bot/" %}
 
 ### Claude Cowork
 
