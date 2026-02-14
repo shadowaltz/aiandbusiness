@@ -46,6 +46,18 @@ Link: [https://www.copyright.gov/newsnet/2025/1060.html?utm\_source=chatgpt.com]
 
 </details>
 
+<details>
+
+<summary>Seedance 2.0: Legal &#x26; Industry Crisis</summary>
+
+* Massive IP Infringement: The Motion Picture Association (MPA) and SAG-AFTRA have condemned ByteDance, accusing Seedance 2.0 of "unauthorized use of copyrighted works on a massive scale" following viral AI deepfakes of Hollywood stars.
+* Privacy Backlash: ByteDance was forced to urgently suspend the "Real-Person Reference" feature after it was shown to replicate an individual's unique voice and likeness using just a single photo, sparking "identity theft" fears.
+* Regulatory & Studio Boycott: Major studios like Disney have reportedly issued cease-and-desist orders, while platforms are beginning to restrict Seedance-generated content due to a lack of meaningful copyright safeguards.
+
+
+
+</details>
+
 ## Resources:
 
 |                                                                             |                                                                                                                                                                                                                                                                                                          |
