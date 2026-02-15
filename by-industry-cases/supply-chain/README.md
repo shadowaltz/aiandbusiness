@@ -32,19 +32,17 @@ Predictive analytics powered by AI utilize historical sales data, market trends,
 
 ## <mark style="color:purple;">Logistics & Transportation & Distribution</mark>
 
+### Algorhythm
+
+Algorhythm’s SemiCab uses AI and predictive optimization to automate freight logistics, significantly reduce empty hauling, and scale freight volumes with fewer resources — positioning it as a next-generation logistics platform.
+
+{% embed url="https://algoholdings.com/" %}
+
 #### UPS To Enhance ORION With Continuous Delivery Route Optimization
 
 {% embed url="https://about.ups.com/us/en/newsroom/press-releases/innovation-driven/ups-to-enhance-orion-with-continuous-delivery-route-optimization.html" %}
 
 {% embed url="https://about.ups.com/content/dam/upsstories/images/newsroom/press-releases/1440x752_DIADwithNavScreen_A.jpg" %}
-
-
-
-
-
-
-
-
 
 
 
