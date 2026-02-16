@@ -34,12 +34,6 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 
 
 
-#### Opensource
-
-* Seeddream
-* Flux
-* Z-image
-
 
 
 ### AI Image Generation & Edit Platforms
