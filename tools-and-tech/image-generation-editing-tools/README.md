@@ -20,7 +20,27 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 
 {% tabs %}
 {% tab title="Midjourney" %}
+[https://www.midjourney.com/](https://www.midjourney.com/)
 
+Midjourney is an AI image generation platform that transforms text prompts into highly stylized, artist-grade visuals — standing out for its aesthetic quality and creative depth compared to most mainstream text-to-image models.
+
+#### Pros
+
+✔ Exceptional artistic style and visual coherence
+
+✔ Strong community ecosystem and prompt experimentation culture
+
+✔ Frequent model updates improving detail and composition
+
+✔ Excellent for concept art and creative ideation
+
+#### Cons
+
+✘ Less control over precise edits compared to some competitors
+
+✘ Discord-centric workflow may not suit enterprise users
+
+✘ Not optimized for photorealistic commercial product shots
 {% endtab %}
 
 {% tab title="Nano Banana Pro " %}
@@ -31,8 +51,6 @@ The training data for certain AIGC models, including Stable Diffusion, is curren
 
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
