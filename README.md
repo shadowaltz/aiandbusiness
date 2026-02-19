@@ -40,6 +40,14 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Google Lyria 3
+
+{% hint style="success" %}
+**TL;DR:** Google DeepMind’s Lyria 3 is its latest-generation AI music model, delivering higher-fidelity, longer-form, and more stylistically controllable music generation — positioning Google as a serious competitor in professional-grade generative audio.
+{% endhint %}
+
+{% embed url="https://youtu.be/Op8X8RmiE98?si=-RqasHNAgvUiFgL7" %}
+
 ### Seedance 2.0
 
 {% hint style="success" %}

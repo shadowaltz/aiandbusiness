@@ -33,6 +33,39 @@ ElevenLabs has just launched Eleven Music, a new AI music-generation platform th
 
 {% embed url="https://x.com/elevenlabsio/status/1952754097976721737" %}
 {% endtab %}
+
+{% tab title="Google Lyria 3" %}
+#### What’s New / Why It Matters
+
+* Improved audio quality & coherence across longer musical structures
+* Better style conditioning and genre control
+* Designed for integration into creative tools and music workflows
+* Built with a stronger emphasis on responsible AI music generation and artist alignment
+
+Compared to earlier experimental music models, Lyria 3 focuses more on production-ready output rather than just short demo clips, signaling a shift toward commercial viability.
+
+***
+
+#### Pros
+
+✔ Higher fidelity and longer musical continuity
+
+✔ More precise control over genre and vibe
+
+✔ Backed by Google’s large-scale research infrastructure
+
+✔ Strong positioning for creative tool integrations
+
+#### Cons
+
+✘ Limited public access (primarily showcased in controlled demos)
+
+✘ Competitive landscape includes strong rivals in generative music
+
+✘ Professional musicians may still prefer human-led composition workflows
+
+{% embed url="https://youtu.be/Op8X8RmiE98?si=-RqasHNAgvUiFgL7" %}
+{% endtab %}
 {% endtabs %}
 
 
