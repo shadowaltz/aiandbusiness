@@ -40,6 +40,10 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Gemini 3.1 Pro
+
+
+
 ### Google Lyria 3
 
 {% hint style="success" %}

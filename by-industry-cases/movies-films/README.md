@@ -10,7 +10,7 @@ icon: camera-movie
 
 
 
+AI MV
 
-
-
+{% embed url="https://youtu.be/SlsEDkavoso?si=yy8dJ_pgzYtGMHYP" %}
 
