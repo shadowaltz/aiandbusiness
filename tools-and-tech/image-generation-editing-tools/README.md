@@ -50,6 +50,10 @@ Midjourney is an AI image generation platform that transforms text prompts into 
 {% tab title="Grok Image" %}
 
 {% endtab %}
+
+{% tab title="Flux 2 Pro" %}
+
+{% endtab %}
 {% endtabs %}
 
 

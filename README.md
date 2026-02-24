@@ -42,7 +42,11 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ### Gemini 3.1 Pro
 
+{% hint style="info" icon="google" %}
+Google's new Gemini 3.1 Pro is a specialized reasoning powerhouse designed for tasks where "simple answers aren't enough." It features a massive 1M token context window, significantly reduced hallucination rates, and unique capabilities like generating website-ready animated SVGs directly from text.
+{% endhint %}
 
+{% embed url="https://deepmind.google/models/model-cards/gemini-3-1-pro/" %}
 
 ### Google Lyria 3
 
@@ -124,14 +128,6 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 {% embed url="https://openai.com/index/introducing-chatgpt-health/" %}
 
-### NVIDIA Rubin
-
-{% hint style="success" %}
-**TL;DR:** _NVIDIA Rubin_ is NVIDIA’s upcoming 2026 AI GPU architecture, succeeding Blackwell, and forms the core of the Vera Rubin platform—a next-gen AI computing system optimized for ultra‑high throughput, larger context windows, and efficient AI model training and inference with HBM4 memory, designed to power future data centers at scale.
-{% endhint %}
-
-{% embed url="https://youtu.be/e3PIvqig1MM?si=AWM0bNjZBWP2oaxE" %}
-
 ### NVIDIA DRIVE Alpamayo‑R1
 
 {% hint style="success" %}
@@ -147,15 +143,7 @@ Fully electric, capable of lifting **\~50 kg (110 lbs)**, with **56 degrees of f
 
 {% embed url="https://www.youtube.com/watch?v=rrUHZKlrxms" %}
 
-### Claude Skills
 
-{% hint style="success" %}
-**TL;DR:** _Claude Skills_ are a new modular feature in Anthropic’s Claude AI that lets Claude dynamically load folders of instructions, scripts, and resources to handle specialized tasks more consistently and efficiently—such as generating formatted documents, applying brand‑specific styles, analyzing data, or running custom workflows—by teaching the model how to perform these tasks in a repeatable way without needing long, repeated prompts.
-{% endhint %}
-
-{% embed url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fddd7e6e572ad0b6a943cacefe957248455f6d522-1650x929.jpg&w=3840&q=75" %}
-
-> A skill is a directory containing a SKILL.md file that contains organized folders of instructions, scripts, and resources that give agents additional capabilities.
 
 ### Agentic AI Foundation
 
