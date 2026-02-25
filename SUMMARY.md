@@ -24,7 +24,7 @@
   * [Midjourney Guide](tools-and-tech/image-generation-editing-tools/midjourney-guide/README.md)
     * [Midjourney Cases](tools-and-tech/image-generation-editing-tools/midjourney-guide/midjourney-cases.md)
 * [AI Video Gen Tools](tools-and-tech/ai-video-gen-tools/README.md)
-  * [Seedance 2.0](tools-and-tech/ai-video-gen-tools/seedance-2.0.md)
+  * [Seedance 2.0:  User Guide](tools-and-tech/ai-video-gen-tools/seedance-2.0-user-guide.md)
   * [Kling 3.0](tools-and-tech/ai-video-gen-tools/kling-3.0.md)
 * [Coding Tools](tools-and-tech/coding-tools/README.md)
   * [Website Development](tools-and-tech/coding-tools/website-development.md)
