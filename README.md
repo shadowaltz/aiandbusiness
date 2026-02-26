@@ -40,6 +40,12 @@ Only the transformative. A curated directory of the world's most powerful AI eng
 
 ## <mark style="color:blue;">What's New?</mark>
 
+### Google Nano Banana 2
+
+Google’s Nano Banana 2 is the second-generation Gemini image generation model, designed to deliver more realistic visuals, stronger text rendering, and improved editing control compared to its predecessor, positioning it as a more production-ready creative engine inside Google’s AI ecosystem.
+
+{% embed url="https://x.com/Google/status/2027051657163391104?s=20" %}
+
 ### Gemini 3.1 Pro
 
 {% hint style="info" icon="google" %}

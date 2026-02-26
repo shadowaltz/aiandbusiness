@@ -19,7 +19,7 @@
 ## 🛠️ Tools & Tech
 
 * [Image Generation/Editing Tools](tools-and-tech/image-generation-editing-tools/README.md)
-  * [Nano Banana](tools-and-tech/image-generation-editing-tools/nano-banana.md)
+  * [Nano Banana 2 / Pro](tools-and-tech/image-generation-editing-tools/nano-banana-2-pro.md)
   * [GPT-4o Image Collection](tools-and-tech/image-generation-editing-tools/gpt-4o-image-collection.md)
   * [Midjourney Guide](tools-and-tech/image-generation-editing-tools/midjourney-guide/README.md)
     * [Midjourney Cases](tools-and-tech/image-generation-editing-tools/midjourney-guide/midjourney-cases.md)
